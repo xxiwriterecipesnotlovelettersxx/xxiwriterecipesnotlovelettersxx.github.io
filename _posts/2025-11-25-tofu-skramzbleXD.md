@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tofu skrambleXD"
+title: "tofu skramble hahaha"
 date: 2025-11-25
 categories: recipe
 ---
