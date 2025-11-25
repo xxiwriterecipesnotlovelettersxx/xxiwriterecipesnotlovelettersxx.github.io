@@ -138,3 +138,8 @@ main ul li {
   line-height: 0.6; /* makes manual <br> smaller */
 }
 
+main.home h2,
+main.home h3,
+main.home h4 {
+  margin-bottom: 0.2em; /* adjust this to taste */
+}
