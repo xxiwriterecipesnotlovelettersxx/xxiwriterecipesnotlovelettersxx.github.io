@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "vegan cookies that i brought to spit"
