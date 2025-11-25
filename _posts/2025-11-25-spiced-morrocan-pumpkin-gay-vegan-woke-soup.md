@@ -35,4 +35,4 @@ the first recipe post on **xxiwriterecipesnotlovelettersxx**. you know it and yo
 
 > serve it forth <3
 
-![soup1](assets/images/IMG_3154.jpg)
+![soup1](/images/IMG_3154.jpg)
