@@ -48,7 +48,7 @@ body a {
 
 body a:hover {
   color: #00007D !important;
-  text-style: italic;
+  text-decoration: none;
 }
 
 
