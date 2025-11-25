@@ -8,5 +8,4 @@ my recipes below!
 
 ## recipes
 
-- [Spicy Skramz Tofu Stir-fry](/_posts/2025-11-25-spicy-skramz-tofu.html)
-- [Black Bean Skramz Bowl](/_posts/2025-11-26-black-bean-skreem.html)
+- [spiced morrocan pumpkin gay vegan woke soup](/_posts/2025-11-25-spicy-morrocan-pumpkin-gay-vegan-woke-soup.md)
