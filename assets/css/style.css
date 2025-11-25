@@ -13,6 +13,14 @@ body {
   text-transform: lowercase; /* force all text lowercase */
 }
 
+
+body {
+  background-color: #121212; /* your main background */
+  background-image: url('halftone-dot-texture-overlay-vector-21236514.avif');
+  background-repeat: repeat;
+  background-size: auto;
+}
+
 /* Headings */
 h1, h2, h3 {
   font-family: 'VT323', monospace;
