@@ -1,9 +1,7 @@
 title: xxiwriterecipesnotlovelettersxx
 description: vegan recipes for my emo friends
 author: darcy
-url: "https://xxiwriterecipesnotloveletters.github.io"
 theme: minima
-sass:
-  style: compressed
+url: "https://xxiwriterecipesnotlovelettersxx.github.io"
 include:
   - assets/css/style.css
