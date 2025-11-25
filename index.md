@@ -5,6 +5,6 @@ title: "xxiwriterecipesnotlovelettersxx"
 
 # Welcome to xxiwriterecipesnotlovelettersxx
 
-vegan recipes for my emo friends.  
+Vegan recipes with emo/skramz DIY vibes.  
 
-blah blah blah! xd rawr lolz
+rsaawr xxd loz etc..
