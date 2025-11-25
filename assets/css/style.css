@@ -84,8 +84,10 @@ h2 {
     font-size: 14px;
   }
 
-  .container {
-    width: 100%;
-    padding: 10px;
-  }
+.container {
+  max-width: 750px;  /* keeps desktop layout the same */
+  width: 100%;       /* lets small screens shrink */
+  margin: 0 auto;    /* centres it */
+  padding: 10px;     /* breathing room */
 }
+
