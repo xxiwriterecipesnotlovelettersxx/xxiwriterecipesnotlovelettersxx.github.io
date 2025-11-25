@@ -3,8 +3,8 @@ layout: home
 title: "xxiwriterecipesnotlovelettersxx"
 ---
 
-# Welcome to xxiwriterecipesnotlovelettersxx
+# hiiiiii guys welcome
 
-Vegan recipes with emo/skramz DIY vibes.  
+vegan recipes for my emo friends.
 
 rsaawr xxd loz etc..
