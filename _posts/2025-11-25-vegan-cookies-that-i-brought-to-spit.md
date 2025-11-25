@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "vegan cookies that i brought to spit"
 date: 2025-11-25
 categories: recipe
+title: "vegan cookies that i brought to spit"
 ---
 
 these struck a chord with the skramz youth at the foh/body shirt/cbs show...
