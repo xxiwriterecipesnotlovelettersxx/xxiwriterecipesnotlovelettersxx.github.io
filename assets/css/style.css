@@ -52,12 +52,14 @@ body a:hover {
 }
 
 
-/* Images */
 img {
-  filter: contrast(110%) grayscale(70%);
-  border: 2px solid #000;
-  margin: 1.5rem 0;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: fill; /* stretches instead of cropping */
+  border-radius: 10px;
+  margin: 20px 0;
 }
+
 
 /* Override Minima capitalization on posts header */
 h2 {
