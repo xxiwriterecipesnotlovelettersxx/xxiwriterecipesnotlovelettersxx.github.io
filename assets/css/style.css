@@ -1,5 +1,5 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Rock+Salt&display=swap');
 
 /* Body */
 body {
@@ -14,7 +14,7 @@ body {
 
 /* Headings */
 h1, h2, h3 {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Rock Salt', cursive;
   text-transform: lowercase;
   letter-spacing: 1px;
 }
@@ -39,3 +39,10 @@ img {
 h2 {
   text-transform: lowercase;
 }
+
+h1, h2, h3 {
+  font-family: 'Rock Salt', cursive; /* or your chosen heading font */
+  text-transform: lowercase;         /* force lowercase */
+  letter-spacing: 1px;
+}
+
