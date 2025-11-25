@@ -1,0 +1,36 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Permanent+Marker&display=swap');
+
+/* Body */
+body {
+  background: #fff;
+  color: #000;
+  font-family: 'Special Elite', monospace;
+  max-width: 750px;
+  margin: auto;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: 'Permanent Marker', cursive;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+}
+
+/* Links */
+a {
+  color: #C80000;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Images */
+img {
+  filter: contrast(110%) grayscale(70%);
+  border: 2px solid #000;
+  margin: 1.5rem 0;
+}
