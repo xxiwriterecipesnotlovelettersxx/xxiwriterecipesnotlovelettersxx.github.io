@@ -117,3 +117,24 @@ main ul li {
   line-height: 1.3;
 }
 
+/* reduce spacing on homepage only */
+.home h2 {
+  margin-top: 0.75rem;  /* was likely 2–3rem */
+  margin-bottom: 0.2rem;
+}
+
+.home p,
+.home em {
+  margin: 0.2rem 0;
+}
+
+.home a {
+  display: inline-block;
+  margin-top: 0.1rem;
+  margin-bottom: 0.75rem; /* controls spacing between sections */
+}
+
+.home br {
+  line-height: 0.6; /* makes manual <br> smaller */
+}
+
