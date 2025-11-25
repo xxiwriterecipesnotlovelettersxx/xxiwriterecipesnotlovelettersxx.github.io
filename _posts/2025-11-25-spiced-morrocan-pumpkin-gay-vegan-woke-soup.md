@@ -31,8 +31,10 @@ the first recipe post on **xxiwriterecipesnotlovelettersxx**. you know it and yo
 4. drain then add chickpeas, then tomato, ensuring the soup is stirred.
 5. cover, bring to a boil, and reduce to simmer for 45 minutes.
 6. blend roughly with a stick blender, making sure no whole pieces of pumpkin, sweet potato, and carrot remain.
-7. if you are feeling crazy top it with FRESH not dry mint leaves. this soup is soooooo good with seedy sourdough bread & vegan butter !
+7. if you are feeling crazy top it with FRESH not dry mint leaves. this soup is soooooo good with seedy sourdough toast & vegan butter !
 
 > serve it forth <3
 
+![soup1](/images/IMG_3196.jpg)
 ![soup1](/images/IMG_3154.jpg)
+![soup1](/images/IMG_3166.jpg)
