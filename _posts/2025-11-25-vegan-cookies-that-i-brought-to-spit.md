@@ -10,7 +10,7 @@ these struck a chord with the skramz youth at the foh/body shirt/cbs show...
 ### Ingredients
 - olive oil
 - 170g vegan butter (i used olive nuttelex but anything would work and probably be easier to measure)
-- 2tbsp ground flaxseed
+- 2tbsp ground flaxseed meal
 - 70ml warm water
 - ~170g dark chocolate (i used whittaker's dark ghana)
 - 2 cups plain flour
