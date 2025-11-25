@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "spicy moroccan pumpkin gay vegan woke soup"
+title: "spiced moroccan pumpkin gay vegan woke soup"
 date: 2025-11-25
 categories: recipe
 ---
