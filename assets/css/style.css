@@ -3,8 +3,8 @@
 
 /* Body */
 body {
-  background: #111c2b;
-  color: #f5f5f5;
+  background: #03334D;
+  color: #DEEBEC;
   font-family: 'Special Elite', monospace;
   max-width: 750px;
   margin: auto;
@@ -42,12 +42,12 @@ h3 {
 
 /* Links */
 body a {
-  color: #4c81c4 !important;
+  color: ##44BB91 !important;
   text-decoration: none;
 }
 
 body a:hover {
-  color: #538cd5  !important;
+  color: ##41C7D9  !important;
   text-decoration: none;
 }
 
