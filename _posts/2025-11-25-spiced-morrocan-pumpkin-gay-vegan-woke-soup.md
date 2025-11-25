@@ -34,3 +34,6 @@ the first recipe post on **xxiwriterecipesnotlovelettersxx**. you know it and yo
 7. if you are feeling crazy top it with FRESH not dry mint leaves. this soup is soooooo good with seedy sourdough bread & vegan butter !
 
 > serve it forth <3
+
+<img src="../images/3154.jpg" alt="soup photo">
+
