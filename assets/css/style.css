@@ -41,13 +41,16 @@ h3 {
 
 
 /* Links */
-a {
-  color: #0000C8;
+body a {
+  color: #0000C8 !important;
   text-decoration: none;
 }
-a:hover {
+
+body a:hover {
+  color: #00007D !important;
   text-decoration: underline;
 }
+
 
 /* Images */
 img {
