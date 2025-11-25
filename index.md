@@ -3,8 +3,7 @@ layout: default
 title: xxiwriterecipesnotlovelettersxx
 ---
 
-vegan recipes for my emo friends.  
-my recipes below!
+vegan recipes for my emo friends.
 
 ## recipes
 
