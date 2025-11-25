@@ -1,5 +1,5 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=VT323&display=swap');
 
 /* Body */
 body {
@@ -10,14 +10,35 @@ body {
   margin: auto;
   padding: 2rem;
   line-height: 1.6;
+  text-transform: lowercase; /* force all text lowercase */
 }
 
 /* Headings */
 h1, h2, h3 {
-  font-family: 'Rock Salt', cursive;
+  font-family: 'VT323', monospace;
   text-transform: lowercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
+  line-height: 1.1;
 }
+
+h1 {
+  font-size: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 2.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+  margin-top: 1rem;
+  margin-bottom: 0.8rem;
+}
+
 
 /* Links */
 a {
@@ -39,10 +60,3 @@ img {
 h2 {
   text-transform: lowercase;
 }
-
-h1, h2, h3 {
-  font-family: 'Rock Salt', cursive; /* or your chosen heading font */
-  text-transform: lowercase;         /* force lowercase */
-  letter-spacing: 1px;
-}
-
