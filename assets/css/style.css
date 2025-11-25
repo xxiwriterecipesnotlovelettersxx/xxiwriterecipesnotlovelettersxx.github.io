@@ -72,16 +72,18 @@ h2 {
     padding: 20px;
   }
 
-  h1 {
-    font-size: 2.4rem;
+  /* Shrink only the site title */
+  header h1 {
+    font-size: 1.8rem;  /* tweak smaller/larger as needed */
+    line-height: 1.2;
   }
 
   h2 {
-    font-size: 1.9rem;
+    font-size: 1.9rem; /* normal post headings */
   }
 
   h3 {
-    font-size: 1.5rem;
+    font-size: 1.5rem; /* normal subheadings */
   }
 
   img {
@@ -92,6 +94,7 @@ h2 {
     font-size: 14px;
   }
 }
+
 
 .container {
   max-width: 750px;  /* keeps desktop layout the same */
