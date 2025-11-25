@@ -34,3 +34,10 @@ img {
   border: 2px solid #000;
   margin: 1.5rem 0;
 }
+
+/* Images */
+img {
+  filter: contrast(110%) grayscale(70%);
+  border: 2px solid #000;
+  margin: 1.5rem 0;
+}
