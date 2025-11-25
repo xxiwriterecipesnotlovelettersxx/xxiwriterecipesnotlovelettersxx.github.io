@@ -5,26 +5,26 @@ title: home
 
 vegan recipes for my emo friends. rawr xd lolz
 
-<br><br>
+<br>
 
 ## recipes
-*everything in my brain that somehow counts as cooking*
+*cunny*
 
 [see all recipes →](/recipes)
 
 
-<br><br>
+<br>
 
 ## shows
-*flyers, photos, memories of sweaty basements*
+*ahhhhh*
 
-[see shows →](/shows)
+[see show posts →](/shows)
 
 
-<br><br>
+<br>
 
 ## bath poetry
-*things i write wet, emotional, and pruney*
+*ughhghfouuchghk*
 
 [read poetry →](/bath-poetry)
 
@@ -32,6 +32,6 @@ vegan recipes for my emo friends. rawr xd lolz
 <br><br>
 
 ## my life
-*diary entries, random pics, mundane chaos*
+*gulp*
 
-[enter my world →](/my-life)
+[view my life →](/my-life)
