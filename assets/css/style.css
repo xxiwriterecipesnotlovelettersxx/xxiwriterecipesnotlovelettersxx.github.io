@@ -63,3 +63,29 @@ img {
 h2 {
   text-transform: lowercase;
 }
+
+/* mobile adjustments */
+@media (max-width: 600px) {
+
+  body {
+    font-size: 14px;
+    padding: 20px;
+  }
+
+  h1, h2, h3 {
+    font-size: 90%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  nav {
+    font-size: 14px;
+  }
+
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+}
