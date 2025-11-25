@@ -1,8 +1,8 @@
 ---
-title: about me
-layout: page
+layout: default
+title: about
 ---
 
-i'm darcy.  
-i make vegan food.  
-sometimes intentionally.
+# about
+
+Hi!yesyeyysyeysyeyyses
