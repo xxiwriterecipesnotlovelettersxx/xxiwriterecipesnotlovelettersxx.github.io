@@ -7,19 +7,18 @@ vegan recipes for my emo friends. rawr xd lolz
 
 ---
 
-### recipes  
+## recipes
 *cunny*  
 [see all recipes →](/recipes)
 
-### shows  
+## shows
 *ahhhhh*  
 [see show posts →](/shows)
 
-### bath poetry  
+## bath poetry
 *ughhghfouuchghk*  
 [read poetry →](/bath-poetry)
 
-### my life  
+## my life
 *gulp*  
 [view my life →](/my-life)
-
