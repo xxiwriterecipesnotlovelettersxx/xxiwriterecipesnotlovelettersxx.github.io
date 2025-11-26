@@ -4,7 +4,7 @@ title: bath poetry
 ---
 
 <h1>bath poetry</h1>
-<p>uhhhhhm think of something to say here...</p>
+<p>these poems are mostly incoherent because that is what steam seems to do to me. if you find meaning in them that is exciting! enjoy xx</p>
 <br>
 <ul class="poetry-list">
 {% assign poetry_posts = site.posts | where:"categories","poetry" | sort:"date" | reverse %}
