@@ -8,17 +8,17 @@ vegan recipes for my emo friends. rawr xd lolz:3
 ---
 
 ### recipes
-*cunny*  
+*my reason for starting this blog... sharing my vegan cooking with you guys*  
 [see all recipes →](/recipes)
 
 ### shows
-*ahhhhh*  
+*photography, flyers, and anything related to shows i go to!*  
 [see show posts →](/shows)
 
 ### bath poetry
-*ughhghfouuchghk*  
+*poems i write submerged in near boiling water*  
 [read poetry →](/bath-poetry)
 
 ### my life
-*gulp*  
+*diary entries, pictures, & everything else i want to blog about*  
 [view my life →](/my-life)
