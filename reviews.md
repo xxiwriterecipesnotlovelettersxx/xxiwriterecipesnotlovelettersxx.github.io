@@ -13,4 +13,4 @@ title: reviews
   <li>"i lovveeee this this is so creative and beautiful of u" - <em>asher</em></li>
 </ul>
 <br>
-idk how to set this thing up properly so if you wish to leave a review send an email through the contact page!
+idk how to set this thing up properly so if you wish to leave a review send an email through the [contact page](/contact)!
