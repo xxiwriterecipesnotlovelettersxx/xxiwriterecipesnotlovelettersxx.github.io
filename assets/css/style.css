@@ -124,7 +124,7 @@ main ul li {
 
 /* reduce spacing on homepage only */
 .home h2 {
-  margin-top: 0.59rem;  /* space above section headings */
+  margin-top: 0.39rem;  /* space above section headings */
   margin-bottom: 0.2rem; /* tight space below heading */
 }
 
