@@ -199,3 +199,18 @@ main.home h4 {
 main.home hr {
   display: none;
 }
+
+/* Tighten the intro paragraph and force links to behave inline */
+.recipe-intro {
+  margin: 0 0 0.9rem 0;     /* spacing below the paragraph */
+  line-height: 1.45;        /* readable but tight */
+}
+
+/* Ensure inline behaviour for anchors inside that paragraph */
+.recipe-intro a {
+  display: inline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: inherit !important;
+  vertical-align: baseline !important;
+}
