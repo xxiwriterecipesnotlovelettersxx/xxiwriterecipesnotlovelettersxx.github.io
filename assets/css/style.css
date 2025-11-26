@@ -16,9 +16,9 @@ body {
   background-image: url('/images/yerrrpproject!donepfppink.png'), url('/images/yerrrpproject!donepfppink.png');
   background-repeat: repeat-y, repeat-y;
   background-position: left top, right top;
-  background-size: auto 140px; /* adjust height if needed */
-  padding-left: 240px; /* content spacing from border */
-  padding-right: 240px;
+  background-size: auto 279px; /* adjust height if needed */
+  padding-left: 120px; /* content spacing from border */
+  padding-right: 120px;
 }
 
 /* Hide borders on small screens */
