@@ -4,8 +4,7 @@ title: recipes
 ---
 
 <h1>recipes</h1>
-<p>uhhhhhm think of something to say Check out my latest recipe: [Vegan Cookies](/2025-11-25-vegan-cookies-that-i-brought-to-spit)
- here...</p>
+<p>uhhhhhm think of something to say Check out my late  [heyy](https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/spiced-morrocan-pumpkin-gay-vegan-woke-soup.html) here...</p>
 <br>
 <ul class="recipe-list">
 {% assign recipe_posts = site.posts | where:"categories","recipe" | sort:"date" | reverse %}
