@@ -22,3 +22,5 @@ in a small saucepan i roasted the tea and some sugar, until i could smell it car
 ![steeping](/images/brew.JPG)
 
 the caramelised tea looked very pretty and smelt nice but it was slightly underwhelming :( i think i will stick to normal brewing in the future because this tea itself is very nice. thanks sarina!
+<br><br>
+maybe i will perfect caramelised tea another day though...
