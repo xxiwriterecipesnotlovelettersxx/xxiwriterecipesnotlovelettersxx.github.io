@@ -48,7 +48,39 @@ body a {
 body a:hover {
   color: #B21653  !important;
   text-decoration: none;
-  font-weight: bold  !important;
+  font-weight: bold !important;
+}
+
+/* site-wide header title adjustments */
+header h1 {
+  margin-top: 0.5rem;    /* bring it closer to the top of the page */
+  margin-bottom: 0.5rem; /* space between title and tagline */
+  font-size: 2.8rem;     /* slightly smaller/larger if needed */
+}
+
+/* site title link styling */
+header h1 a {
+  color: #EB1B71;              
+  text-decoration: none;        
+  font-family: 'VT323', monospace;  
+}
+
+header h1 a:hover {
+  color: #B21653;             
+  text-decoration: underline; 
+  font-weight: bold;           
+}
+
+/* nav links styling */
+header nav a {
+  color: #EB1B71;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  color: #B21653;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 /* Images */
@@ -64,14 +96,6 @@ img {
 h2 {
   text-transform: lowercase;
 }
-
-/* site-wide header title adjustments */
-header h1 {
-  margin-top: 0.5rem;    /* bring it closer to the top of the page */
-  margin-bottom: 0.5rem; /* space between title and tagline */
-  font-size: 2.8rem;     /* optional: slightly smaller/larger */
-}
-
 
 /* mobile adjustments */
 @media (max-width: 600px) {
@@ -99,7 +123,7 @@ header h1 {
     max-width: 100%;
   }
 
-  nav {
+  header nav {
     font-size: 14px;
   }
 }
@@ -149,8 +173,6 @@ main.home h3,
 main.home h4 {
   margin-bottom: 0.2em; /* tight spacing below headings */
 }
-
-
 
 /* hide horizontal rules on homepage (remove the white line) */
 main.home hr {
