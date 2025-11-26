@@ -13,7 +13,7 @@ body {
   text-transform: lowercase;
 
   /*  SIDE IMAGE BORDERS ADDED  */
-  background-image: url('/assets/images/yerrrpproject!donepfppink.png'), url('/assets/images/yerrrpproject!donepfppink.png');
+  background-image: url('/images/yerrrpproject!donepfppink.png'), url('/images/yerrrpproject!donepfppink.png');
   background-repeat: repeat-y, repeat-y;
   background-position: left top, right top;
   background-size: auto 140px; /* adjust height if needed */
