@@ -19,6 +19,6 @@ i cut up 2 small oranges, so that there were no white parts intact (i heard that
 
 in a small saucepan i roasted the tea and some sugar, until i could smell it caramelising. then i added the oranges to the pan for maybe 30 seconds? and added boiling water. i don't think i let it steep for long enough? i'm not sure...
 
-![steeping](/images/steeping.JPG)
+![steeping](/images/brew.JPG)
 
 the caramelised tea looked very pretty and smelt nice but it was slightly underwhelming :( i think i will stick to normal brewing in the future because this tea itself is very nice. thanks sarina!
