@@ -5,12 +5,29 @@
 body {
   background: #080505;
   color: #FFFFFF;
-  font-family: 'Special Elite', monospace;
+  font-family: 'Special+Elite', monospace;
   max-width: 750px;
   margin: auto;
   padding: 2rem;
   line-height: 1.6;
-  text-transform: lowercase; /* force all text lowercase */
+  text-transform: lowercase;
+
+  /*  SIDE IMAGE BORDERS ADDED  */
+  background-image: url('/assets/images/yerrrpproject!donepfppink.png'), url('/assets/images/yerrrpproject!donepfppink.png');
+  background-repeat: repeat-y, repeat-y;
+  background-position: left top, right top;
+  background-size: auto 140px; /* adjust height if needed */
+  padding-left: 120px; /* content spacing from border */
+  padding-right: 120px;
+}
+
+/* Hide borders on small screens */
+@media (max-width: 900px) {
+  body {
+    background-image: none;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 /* Headings */
@@ -53,36 +70,36 @@ body a:hover {
 
 /* site-wide header adjustments */
 header {
-  color: #FFFFFF; /* makes all header text white */
+  color: #FFFFFF;
 }
 
 header h1 {
-  margin-top: 0.5rem;    /* bring it closer to the top of the page */
-  margin-bottom: 0.5rem; /* space between title and tagline */
-  font-size: 2.8rem;     /* slightly smaller/larger if needed */
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 2.8rem;
 }
 
 /* site title link styling */
 header h1 a {
-  color: #FFFFFF !important;   /* only the site title is white */
-  text-decoration: none;        
-  font-family: 'VT323', monospace;  
+  color: #FFFFFF !important;
+  text-decoration: none;
+  font-family: 'VT323', monospace;
 }
 
 header h1 a:hover {
-  color: #FFFFFF !important;             
-  text-decoration: underline; 
-  font-weight: bold;           
+  color: #FFFFFF !important;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
-/* nav links styling (keep them pink) */
+/* nav links styling (stay pink) */
 header nav a {
-  color: #EB1B71;          /* pink */
+  color: #EB1B71;
   text-decoration: none;
 }
 
 header nav a:hover {
-  color: #B21653;          /* slightly darker pink on hover */
+  color: #B21653;
   text-decoration: underline;
   font-weight: bold;
 }
@@ -91,12 +108,12 @@ header nav a:hover {
 img {
   width: 100%;
   aspect-ratio: 1 / 1;
-  object-fit: fill; /* stretches instead of cropping */
+  object-fit: fill;
   border-radius: 10px;
   margin: 20px 0;
 }
 
-/* Override Minima capitalization on posts header */
+/* Override Minima capitalization */
 h2 {
   text-transform: lowercase;
 }
@@ -109,18 +126,17 @@ h2 {
     padding: 20px;
   }
 
-  /* Shrink only the site title on mobile */
   header h1 {
-    font-size: 1.62em;  /* tweak smaller/larger as needed */
+    font-size: 1.62em;
     line-height: 1.2;
   }
 
   h2 {
-    font-size: 1.9rem; /* normal post headings */
+    font-size: 1.9rem;
   }
 
   h3 {
-    font-size: 1.5rem; /* normal subheadings */
+    font-size: 1.5rem;
   }
 
   img {
@@ -133,10 +149,10 @@ h2 {
 }
 
 .container {
-  max-width: 750px;  /* keeps desktop layout the same */
-  width: 100%;       /* lets small screens shrink */
-  margin: 0 auto;    /* centres it */
-  padding: 10px;     /* breathing room */
+  max-width: 750px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px;
 }
 
 /* no bullets, tight spacing */
@@ -151,10 +167,10 @@ main ul li {
   line-height: 1.3;
 }
 
-/* reduce spacing on homepage only */
+/* reduce spacing on homepage */
 .home h2 {
-  margin-top: 0.39rem;  /* space above section headings */
-  margin-bottom: 0.2rem; /* tight space below heading */
+  margin-top: 0.39rem;
+  margin-bottom: 0.2rem;
 }
 
 .home p,
@@ -165,20 +181,20 @@ main ul li {
 .home a {
   display: inline-block;
   margin-top: 0.1rem;
-  margin-bottom: 0.75rem; /* controls spacing between sections */
+  margin-bottom: 0.75rem;
 }
 
 .home br {
-  line-height: 0.6; /* makes manual <br> smaller */
+  line-height: 0.6;
 }
 
 main.home h2,
 main.home h3,
 main.home h4 {
-  margin-bottom: 0.2em; /* tight spacing below headings */
+  margin-bottom: 0.2em;
 }
 
-/* hide horizontal rules on homepage (remove the white line) */
+/* hide horizontal rules on homepage */
 main.home hr {
   display: none;
 }
