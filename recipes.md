@@ -4,10 +4,9 @@ title: recipes
 ---
 
 <h1>recipes</h1>
-<p class="recipe-intro">
-  i looove cooking and sharing the food that i make! here i document a lot of my favourite recipes and the foods that other people have told me they like. my two most famous recipes are my 
+<p/>i looove cooking and sharing the food that i make! here i document a lot of my favourite recipes and the foods that other people have told me they like. my two most famous recipes are my
 <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a> 
-and my 
+and my
 <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/spiced-morrocan-pumpkin-gay-vegan-woke-soup.html">soup</a>. 
 but whatever... there's other cool stuff here too <3
 </p>
