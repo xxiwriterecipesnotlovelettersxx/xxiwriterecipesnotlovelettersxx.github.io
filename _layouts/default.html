@@ -13,20 +13,19 @@
 
   <body>
     <header>
-      <h1>{{ site.title }}</h1>
+      <h1><a href="/index.html">{{ site.title }}</a></h1>
       <p>{{ site.description }}</p>
       <nav>
-  <a href="/index.html">home</a> |
-  <a href="/about.html">about</a> |
-  <a href="/reviews.html">reviews</a> |
-  <a href="/contact.html">contact</a>
+        <a href="/index.html">home</a> |
+        <a href="/about.html">about</a> |
+        <a href="/reviews.html">reviews</a> |
+        <a href="/contact.html">contact</a>
       </nav>
     </header>
 
-    <main>
-<main class="content home">
-  {{ content }}
-</main>
+    <main class="content home">
+      {{ content }}
     </main>
   </body>
 </html>
+
