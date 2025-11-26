@@ -15,7 +15,7 @@ body {
   /*  SIDE IMAGE BORDERS ADDED  */
   background-image: url('/images/borderf.png'), url('/images/borderf.png');
   background-repeat: repeat-y, repeat-y;
-  background-position: 40px 34px, calc(100% - 40px) 34px;
+  background-position: 40px 29px, calc(100% - 40px) 29px;
   background-size: auto 175px; /* adjust height if needed */
   padding-left: 120px; /* content spacing from border */
   padding-right: 120px;
