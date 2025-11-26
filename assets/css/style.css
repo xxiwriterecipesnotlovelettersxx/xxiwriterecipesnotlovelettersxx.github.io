@@ -64,7 +64,7 @@ header h1 {
 
 /* site title link styling */
 header h1 a {
-  color: #FFFFFF !important;   /* force white, overrides body a */
+  color: #FFFFFF !important;   /* only the site title is white */
   text-decoration: none;        
   font-family: 'VT323', monospace;  
 }
@@ -75,14 +75,14 @@ header h1 a:hover {
   font-weight: bold;           
 }
 
-/* nav links styling */
+/* nav links styling (keep them pink) */
 header nav a {
-  color: #FFFFFF !important;
+  color: #EB1B71;          /* pink */
   text-decoration: none;
 }
 
 header nav a:hover {
-  color: #FFFFFF !important;
+  color: #B21653;          /* slightly darker pink on hover */
   text-decoration: underline;
   font-weight: bold;
 }
