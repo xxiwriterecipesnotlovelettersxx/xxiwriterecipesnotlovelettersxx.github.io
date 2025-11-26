@@ -105,13 +105,6 @@ header nav a:hover {
   font-weight: bold;
 }
 
-br {
-  line-height: 0.6;
-  display: block;
-  margin: 0;
-  padding: 0;
-}
-
 /* Images */
 img {
   width: 100%;
