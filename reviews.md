@@ -10,5 +10,5 @@ title: reviews
   <li>"holy fucking awesome" - <em>asher</em></li>
   <li>"ur so talented and pretty" - <em>asher</em></li>
   <li>"thats so special and awesome" - <em>asher</em></li>
-  <li>"i lovveeee this this is so creative and beautiful of u" — <em>asher</em></li>
+  <li>"i lovveeee this this is so creative and beautiful of u" - <em>asher</em></li>
 </ul>
