@@ -6,7 +6,7 @@ body {
   background: #080505;
   color: #FFFFFF;
   font-family: 'Special Elite', monospace;
-  letter-spacing: 0.5px; /* increase spacing slightly */
+  letter-spacing: 0.67px; /* increase spacing slightly */
   max-width: 750px;
   margin: auto;
   padding: 2rem;
