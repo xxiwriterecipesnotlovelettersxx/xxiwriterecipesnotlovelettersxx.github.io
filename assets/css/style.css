@@ -105,6 +105,11 @@ header nav a:hover {
   font-weight: bold;
 }
 
+.recipe-intro {
+  margin-bottom: 0.3rem; /* or whatever you like */
+  line-height: 1.5;
+}
+
 /* Images */
 img {
   width: 100%;
