@@ -4,7 +4,8 @@ title: recipes
 ---
 
 <h1>recipes</h1>
-<p>i looove cooking and sharing the food that i make! these are a lot of my favourite recipes and foods my friends told me they liked. my two most famous recipes are my <a href="/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit">cookies</a> and my <a href="/recipe/2025/11/25/spiced-morrocan-pumpkin-gay-vegan-woke-soup">soup</a>. but whatever... there's other cool stuff here too <3</p>
+<p class="recipe-intro">i looove cooking and sharing the food that i make! these are a lot of my favourite recipes and foods my friends told me they liked. my two most famous recipes are my <a href="/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit">cookies</a> and my <a href="/recipe/2025/11/25/spiced-morrocan-pumpkin-gay-vegan-woke-soup">soup</a>. but whatever... there's other cool stuff here too &lt;3</p>
+
 <br>
 <ul class="recipe-list">
 {% assign recipe_posts = site.posts | where:"categories","recipe" | sort:"date" | reverse %}
