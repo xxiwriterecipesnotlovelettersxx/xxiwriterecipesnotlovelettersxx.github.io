@@ -64,25 +64,25 @@ header h1 {
 
 /* site title link styling */
 header h1 a {
-  color: #FFFFFF;              
+  color: #FFFFFF !important;   /* force white, overrides body a */
   text-decoration: none;        
   font-family: 'VT323', monospace;  
 }
 
 header h1 a:hover {
-  color: #FFFFFF;             
+  color: #FFFFFF !important;             
   text-decoration: underline; 
   font-weight: bold;           
 }
 
 /* nav links styling */
 header nav a {
-  color: #FFFFFF;
+  color: #FFFFFF !important;
   text-decoration: none;
 }
 
 header nav a:hover {
-  color: #FFFFFF;
+  color: #FFFFFF !important;
   text-decoration: underline;
   font-weight: bold;
 }
