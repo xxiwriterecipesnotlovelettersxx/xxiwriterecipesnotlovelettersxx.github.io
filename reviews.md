@@ -3,7 +3,7 @@ layout: default
 title: reviews
 ---
 
-<h1>reviews</h1>
+<h2>reviews</h2>
 <p><b>here are some kind words people have said about my blog:</b></p>
 
 <ul class="reviews-list">
