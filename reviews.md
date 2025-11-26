@@ -4,7 +4,7 @@ title: reviews
 ---
 
 <h1>reviews</h1>
-<p>here are some kind words people have said about my blog:</p>
+<p><b>here are some kind words people have said about my blog:<b></p>
 
 <ul class="reviews-list">
   <li>"holy fucking awesome" - <em>asher</em></li>
