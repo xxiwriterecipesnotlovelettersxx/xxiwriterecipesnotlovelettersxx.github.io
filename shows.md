@@ -4,10 +4,10 @@ title: shows
 ---
 
 <h1>shows</h1>
-<p class="recipe-intro">a page to document the shows i go to! a collection of photography, aaaaaaaaaaaaaaaa</p>
+<p class="recipe-intro">a page to document part of the scene through the shows i go to! a journalistic collection of photography, articles, and flyers</p>
 
 <br>
-<ul class="shows-list">
+<ul class="show-list">
 {% assign show_posts = site.posts | where:"categories","show" | sort:"date" | reverse %}
 {% for post in show_posts %}
   <li>
