@@ -14,7 +14,7 @@ i got home and lay down for a few minutes. shoes still on & in my school uniform
 <br>
 I feel soooooo not very nice right now
 <br><br>
-but! after the confusion and the exhaustion fades i think I will start to feel excited. because now it’s the summer holidays and I have so so much time on my hands. i’m really looking forward to things again?? especially band anything - writing, rehearsing, playing shows even? seeing all of my lovely friends who I feel like I haven't seen in a long while. i miss you guys! i hope hope hope I can make the most of my time these holidays.
+but! after the confusion and the exhaustion fades i think I will start to feel excited. because now it’s the summer holidays and I have so so much time on my hands. i’m really looking forward doing to things again?? especially band anything - writing, rehearsing, playing shows even? seeing all of my lovely friends who I feel like I haven't seen in a long while. i miss you guys! i hope hope hope I can make the most of my time these holidays.
 <br><br>
 so yes;! year 11 is over. i’m exhausted and disoriented, but also looking forward to what lies ahead :o
 <br><br>
