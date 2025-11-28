@@ -20,5 +20,5 @@ vegan recipes for my emo friends. rawr xd lolz:3
 [read poetry →](/bath-poetry)
 
 ### my life
-*diary entries, pictures, & everything else i want to blog about*  
+*diary entries, pictures, updates, & everything else i want to blog about*  
 [view my life →](/my-life)
