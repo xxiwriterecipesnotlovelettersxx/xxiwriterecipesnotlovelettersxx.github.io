@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "school's out"
-date: 2025-11-26
+date: 2025-11-28
 categories: life
 ---
 <br>
