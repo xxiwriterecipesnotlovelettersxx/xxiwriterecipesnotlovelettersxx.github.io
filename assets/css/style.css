@@ -112,13 +112,14 @@ img {
   margin: 20px 0;
 }
 
-/* gallery layout */
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 12px;
+  column-gap: 12px;  /* horizontal space */
+  row-gap: 4px;     /* vertical space (smaller) */
   margin: 1.5rem 0;
 }
+
 
 /* square containers */
 .gallery a {
