@@ -124,7 +124,7 @@ img {
 .gallery img {
   width: 100%;
   height: auto;
-  aspect-ratio: auto;   /* cancels square forcing */
+  aspect-ratio: 1 / 1;
   object-fit: contain;  /* keeps original proportions */
   border-radius: 6px;
   cursor: pointer;
