@@ -5,7 +5,7 @@ date: 2025-12-20
 categories: show
 ---
 <br>
-All That's Left Of You
+all That's Left Of You
 <br>
 Goblinviolence
 <br>
@@ -35,6 +35,10 @@ Goblinviolence took over the stage next, returning to Spit to deliver their uniq
 Regretfully, I missed the later section of their set escorting some friends to the station safely. I can only await Goblinviolence's return to play in Naarm again...
 
 ![goblinviolence](/images/1-03.jpg)
+
+Naarm/Melbourne band all that's left of you played the final set of the night, their last performance before they "hit da studio" (huge). Guitarist Valentine's tone was screamingly loud, bringing a passionate and energetic close to the show. Rumours of a gatecrash cover were confirmed later in their set, as they brought flood, the title track from our first release, back to life. This was an emotional moment for some, as they sung along.
+
+Their cover inspired some stage diving among the audience, and even saw Paddy from Wrench crowdsurfing shortly after.
 
 ### photos from the night (click to expand)
 photo credits:
