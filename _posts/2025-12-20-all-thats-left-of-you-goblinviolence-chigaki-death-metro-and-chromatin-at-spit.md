@@ -33,7 +33,7 @@ ok goodnight i am soooo tired i will write the second half/edit this when i wake
 ### photos from the night (click to expand)
 photo credits:
 <p class="show-intro">
-@lauradalezz1e on instagram <3 check out their blog <a href="https://https://lauradalezz1e.neocities.org">here!</a>
+@lauradalezz1e on instagram <3 check out their blog <a href="https://lauradalezz1e.neocities.org">here!</a>
 </p>
 
 <div class="gallery">
