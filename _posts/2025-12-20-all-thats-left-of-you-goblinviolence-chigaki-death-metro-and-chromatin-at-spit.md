@@ -19,6 +19,8 @@ After spending a rather late lunch at the beautiful (and very conveniently place
 
 Though Chromatin set the bar high with an incredible first performance at their Geelong house show back in October, they managed to raise it once more at Spit. Their blend of post hardcore and screamo was heavier than ever before, with ebbing and flowing guitar-driven melodies supporting vocalist Liam's raw, powerful screams.
 <br><br>
+As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could be stars their own, reimagining it as a sludgy and dark piece. During this tribute, the green alien toy from the August 3rd Underthealmonds house show made a reappearance, this time without finding any roofs to get stuck on.
+<br><br>
 yesterday's release [10 Songs](https://chigakideathmetro.bandcamp.com/album/10-songs), which were met with attentive reception.
 
 ![could be stars](/images/cbs1.JPG)
