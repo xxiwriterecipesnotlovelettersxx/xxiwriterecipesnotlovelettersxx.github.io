@@ -112,7 +112,7 @@ img {
   margin: 20px 0;
 }
 
-/* photo gallery for show posts */
+/* gallery layout */
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -120,20 +120,28 @@ img {
   margin: 1.5rem 0;
 }
 
-/* override global image rules INSIDE galleries */
+/* square thumbnails */
+.gallery a {
+  display: block;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+}
+
+/* STRETCHED thumbnails */
 .gallery img {
   width: 100%;
-  height: auto;
-  aspect-ratio: 1 / 1;
-  object-fit: contain;  /* keeps original proportions */
+  height: 100%;
+  object-fit: fill; /* ← this is the key change */
   border-radius: 6px;
   cursor: pointer;
 }
 
+/* hover feedback */
 .gallery img:hover {
-  transform: scale(1.02);
+  transform: scale(1.03);
   transition: transform 0.2s ease;
 }
+
 
 /* Override Minima capitalization — preserve typed case */
 h1, h2, h3 {
