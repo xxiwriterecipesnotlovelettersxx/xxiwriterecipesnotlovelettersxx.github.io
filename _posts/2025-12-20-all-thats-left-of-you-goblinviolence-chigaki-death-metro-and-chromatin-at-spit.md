@@ -26,7 +26,7 @@ As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could b
 After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 Songs</a>, coming out just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
 </p>
 <br>
-Late into their set, Chigaki Death Metro promised a cover of Orchid's 'New Jersey vs. Valhalla', with the vocalist adding, "I expect to see you moving". The crowd didn't disappoint, as the room descended into chaos.
+Late into their set, Chigaki Death Metro promised a cover of Orchid's 'New Jersey vs. Valhalla', with the vocalist adding, "I expect to see you moving". The crowd didn't disappoint as the room descended into chaos.
 
 ![chigaki](/images/1-25.jpg)
 
@@ -36,8 +36,8 @@ Regretfully, I missed the later section of their set escorting some friends to t
 
 ![goblinviolence](/images/1-03.jpg)
 
-Naarm/Melbourne band all that's left of you played the final set of the night, their last performance before they "hit da studio" (huge). Guitarist Valentine's tone was screamingly loud, bringing a passionate and energetic close to the show. Rumours of a gatecrash cover were confirmed later in their set, as they brought flood, the title track from our first release, back to life. This was an emotional moment for some, as they sung along.
-
+Naarm/Melbourne band all that's left of you played the final set of the night, their last performance before they "hit da studio" (huge). Guitarist Valentine's tone was screamingly loud, bringing a passionate and energetic close to the show. Rumours of a gatecrash cover were confirmed later in their set, as they brought flood, the title track from our first release, back to life. This was an emotional moment for some as they sung along.
+<br><br>
 Their raw and emotional screamo inspired some stage diving among the audience, and even saw Paddy from Wrench crowdsurfing shortly after.
 
 ### photos from the night (click to expand)
