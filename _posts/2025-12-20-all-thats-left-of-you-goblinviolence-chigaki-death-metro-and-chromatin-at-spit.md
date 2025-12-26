@@ -31,6 +31,8 @@ After a break between bands, it was time for Chigaki Death Metro, an emoviolence
 ok goodnight i am soooo tired i will write the second half/edit this when i wake up.
 
 ### photos from the afternoon (click to expand)
+photo credits:
+@lauradalezz1e on instagram! check out their blog at lauradalezz1e.neocities.org
 
 <div class="gallery">
   <a href="/images/1-04.jpg">
