@@ -36,38 +36,29 @@ The show wrapped up around 4pm, leaving plenty of daylight outside. It was an af
 ### photos from the afternoon (click to expand)
 
 <div class="gallery">
-  <a href="/images/cbs201.JPG">
-    <img src="/images/cbs201.JPG" alt="band playing">
+  <a href="/images/1-04.jpg">
+    <img src="/images/1-04.jpg" alt="band playing">
   </a>
-  <a href="/images/cbs202.JPG">
-  <img src="/images/cbs202.JPG" alt="sam">
+  <a href="/images/1-05.jpg">
+  <img src="/images/1-05.jpg" alt="sam">
   </a>
-  <a href="/images/cbs203.JPG">
-    <img src="/images/cbs203.JPG" alt="band playing">
+  <a href="/images/1-07.jpg">
+    <img src="/images/1-07.jpg" alt="band playing">
   </a>
-  <a href="/images/cbs204.JPG">
-  <img src="/images/cbs204.JPG" alt="zi">
+  <a href="/images/1-16.jpg">
+  <img src="/images/1-16.jpg" alt="zi">
   </a>
-  <a href="/images/cbs205.JPG">
-    <img src="/images/cbs205.JPG" alt="charli">
+  <a href="/images/1-24.jpg">
+    <img src="/images/1-24.jpg" alt="charli">
   </a>
-  <a href="/images/cbs206.JPG">
-  <img src="/images/cbs206.JPG" alt="asher">
+  <a href="/images/1-25.jpg">
+  <img src="/images/1-25.jpg" alt="asher">
   </a>
-  <a href="/images/cbs208.JPG">
-  <img src="/images/cbs208.JPG" alt="sam">
+  <a href="/images/1-27.jpg">
+  <img src="/images/1-27.jpg" alt="sam">
   </a>
-  <a href="/images/cbs209.JPG">
-    <img src="/images/cbs209.JPG" alt="sam">
-  </a>
-  <a href="/images/cbs2010.JPG">
-  <img src="/images/cbs2010.JPG" alt="band playing">
-  </a>
-  <a href="/images/byecould.JPG">
-    <img src="/images/byecould.JPG" alt="group photo outside">
-  </a>
-  <a href="/images/cbs2012.JPG">
-  <img src="/images/cbs2012.JPG" alt="parliament station escalators">
+  <a href="/images/1-33.jpg">
+    <img src="/images/1-33.jpg" alt="sam">
   </a>
 </div>
 
