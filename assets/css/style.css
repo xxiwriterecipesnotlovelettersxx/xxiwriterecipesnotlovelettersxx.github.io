@@ -251,3 +251,18 @@ main.home hr {
   line-height: inherit !important;
   vertical-align: baseline !important;
 }
+
+/* Fix weird spacing caused by inline links in show posts */
+.show-intro {
+  margin: 0 0 0.9rem 0;
+  line-height: 1.45;
+}
+
+/* Force links to behave like real inline text */
+.show-intro a {
+  display: inline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: inherit !important;
+  vertical-align: baseline !important;
+}
