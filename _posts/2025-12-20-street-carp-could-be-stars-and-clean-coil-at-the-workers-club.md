@@ -17,7 +17,7 @@ Opening the day were Clean Coil, an indie surf/folk trio from Euroa on Taungurun
 <br><br>
 Next up were four-piece band could be stars, from Geelong on Waddawurrung land, reliably performing their usual self-described “cool guitar music”. Their blend of indie, emo and alternative rock translated effortlessly live, with quaint verses accompanied by bursts of intensity. After playing some of theor familiar classics, they performed several new tracks from their recently released album 'And There Your Name Was', met with attentive reception.
 
-![sarinatea](/images/sarinatea.JPG)
+![sarinatea](/images/byecould.JPG)
 
 This show carried an extra significance for could be stars, marking their last performance for the foreseeable future, and guitarist Sam Walker’s final show with the band. That sense of finality came to a head at the end of the set when Asher charged into Sam while playing, knocking him backwards. Ending the show, the band dropped their instruments and walked offstage. It was chaotic, affectionate, and very clearly symbolic of the end of a long-lasting era. The end of could be stars' set was met with loud applause and a lingering bittersweet energy.
 <br><br>
