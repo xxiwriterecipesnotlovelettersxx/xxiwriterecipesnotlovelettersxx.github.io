@@ -32,8 +32,17 @@ The show wrapped up around 4pm, leaving plenty of daylight outside. It was an af
 ### photos from the night
 
 <div class="gallery">
-  <img src="/images/byecould.JPG" alt="crowd shot">
+  <a href="/images/byecould.JPG">
+    <img src="/images/byecould.JPG" alt="crowd shot">
+  </a>
+  <a href="/images/streetcarp.jpg">
   <img src="/images/streetcarp.jpg" alt="band playing">
-  <img src="/images/charli.JPG" alt="floor screaming">
-  <img src="/images/sarinatea.JPG" alt="floor screaming">
+  </a>
+  <a href="/images/charli1.JPG">
+    <img src="/images/charli1.JPG" alt="floor screaming">
+  </a>
+  <a href="/images/sarinatea.JPG">
+  <img src="/images/sarinatea.JPG" alt="band playing">
+  </a>
 </div>
+
