@@ -30,7 +30,7 @@ Late into their set, Chigaki Death Metro promised a cover of Orchid's 'New Jerse
 
 ![chigaki](/images/1-25.jpg)
 
-ok goodnight i am soooo tired i will write the second half/edit this when i wake up.
+Goblinviolence took over the stage next, returning to Spit to deliver their unique blend of sasscore and mathgrind once again. Living up to their name, their set could only be described as chaotic. Dissonant guitars and uncountable tempos, combined with high-pitched screams, encouraged perhaps the most unpredicatable and violent mosh of the night.
 
 ### photos from the night (click to expand)
 photo credits:
