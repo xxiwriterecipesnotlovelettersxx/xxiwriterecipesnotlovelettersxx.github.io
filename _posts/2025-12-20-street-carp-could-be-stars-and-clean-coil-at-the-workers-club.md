@@ -28,3 +28,12 @@ Closing the afternoon were Street Carp, a slacker/alternative band from north-ea
 The show wrapped up around 4pm, leaving plenty of daylight outside. It was an afternoon that celebrated regional bands, DIY spirit and genuine connection. In the case of Could Be Stars, it also offered a heartfelt send-off. In my case, it also offered adequate time to catch a train to Footscray and catch an evening gig at Spit.
 
 ![3/4 of could be stars](/images/byecould.JPG)
+
+### photos from the night
+
+<div class="gallery">
+  <img src="/images/byecould.JPG" alt="crowd shot">
+  <img src="/images/streetcarp.jpg" alt="band playing">
+  <img src="/images/charli.JPG" alt="floor screaming">
+  <img src="/images/sarinatea.JPG" alt="floor screaming">
+</div>
