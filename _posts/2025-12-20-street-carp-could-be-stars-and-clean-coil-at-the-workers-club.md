@@ -6,7 +6,9 @@ categories: show
 ---
 <br>
 Clean Coil
+<br>
 Could Be Stars
+<br>
 Street Carp
 <br><br>
 Saturday afternoon saw The Worker’s Club in Fitzroy draw a crowd for a 1pm start. The show brought together three bands from across regional Victoria, spanning indie, emo and slacker rock.
