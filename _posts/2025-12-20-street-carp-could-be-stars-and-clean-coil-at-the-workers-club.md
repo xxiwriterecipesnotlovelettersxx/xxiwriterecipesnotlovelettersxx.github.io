@@ -12,7 +12,9 @@ could be stars
 Street Carp
 <br><br>
 Saturday afternoon saw The Worker’s Club in Fitzroy draw a crowd for a 1pm start. The show brought together three bands from across regional Victoria, spanning indie, emo and slacker rock.
-<br><br>
+
+![poster](/images/streetcarp.JPG)
+
 Opening the day were Clean Coil, an indie surf/folk trio from Euroa on Taungurung land. Their set immediately charmed, relying on tight melodies and an uplifting, feel-good sound that suited the early afternoon perfectly. Not a minute in, a snapped guitar string halted the performance, but Asher from could be stars offered his guitar mid-set in an act of generosity. The band’s easy on-stage banter and clear chemistry kept spirits high, making this incident feel like part of the fun. Clean Coil’s set felt relaxed, genuine, and joyful, the perfect opener to settle everyone into the room.
 <br><br>
 Next up were four-piece band could be stars, from Geelong on Waddawurrung land, reliably performing their usual self-described “cool guitar music”. Their blend of indie, emo and alternative rock translated effortlessly live, with quaint verses accompanied by bursts of intensity. After playing some of their familiar classics, they performed several new tracks from their recently released album [And There Your Name Was](https://couldbestars.bandcamp.com/album/and-there-your-name-was), met with attentive reception.
