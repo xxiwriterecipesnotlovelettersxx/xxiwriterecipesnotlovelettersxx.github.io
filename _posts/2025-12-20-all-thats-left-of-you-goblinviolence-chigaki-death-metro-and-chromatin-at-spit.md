@@ -17,7 +17,7 @@ After spending a rather late lunch at the beautiful (and very conveniently place
 
 ![poster](/images/atloyposter.jpeg)
 
-Opening the day were Clean Coil, an indie surf/folk trio from Euroa on Taungurung land. Their set immediately charmed, relying on tight melodies and an uplifting, feel-good sound that suited the early afternoon perfectly. Not a minute in, a snapped guitar string halted the performance, but Asher from could be stars offered his guitar mid-set in an act of generosity. The band’s easy on-stage banter and clear chemistry kept spirits high, making this incident feel like part of the fun. Clean Coil’s set felt relaxed, genuine, and joyful, the perfect opener to settle everyone into the room.
+Though Chromatin set the bar high with an incredible first performance at their Geelong house show back in October, they managed to raise it once more at Spit. Their blend of post hardcore and screamo was heavier than ever before, with ebbing and flowing guitar-driven melodies supporting vocalist Liam's raw, powerful screams.
 <br><br>
 yesterday's release [10 Songs](https://chigakideathmetro.bandcamp.com/album/10-songs), which were met with attentive reception.
 
