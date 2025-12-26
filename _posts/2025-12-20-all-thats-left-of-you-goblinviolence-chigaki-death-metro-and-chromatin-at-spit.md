@@ -21,11 +21,11 @@ Though Chromatin set the bar high with an incredible first performance at their 
 <br><br>
 As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could be stars their own, reimagining it as a sludgy and dark piece. During this tribute, the green alien toy from the August 3rd Underthealmonds house show made a reappearance, this time without finding any roofs to get stuck on.
 
-![poster](/images/chrom1.jpeg)
+![chromatin](/images/chrom1.jpeg)
 
-After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much-anticipated thanks to their newest release, [10 Songs](https://chigakideathmetro.bandcamp.com/album/10-songs), coming out just the day before.
+After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, [10 Songs](https://chigakideathmetro.bandcamp.com/album/10-songs), coming out just the day before.
 
-![could be stars](/images/cbs1.JPG)
+![chigaki](/images/1-25.jpg)
 
 This show carried an extra significance for could be stars, marking their last performance for the foreseeable future, and guitarist Sam Walker’s final show with the band. That sense of finality came to a head at the end of the set when Asher charged into Sam while playing, knocking him backwards. Ending the show, the band dropped their instruments and walked offstage. It was chaotic, affectionate, and very clearly symbolic of the end of a long-lasting era. The end of could be stars' set was met with loud applause and a lingering bittersweet energy.
 <br><br>
