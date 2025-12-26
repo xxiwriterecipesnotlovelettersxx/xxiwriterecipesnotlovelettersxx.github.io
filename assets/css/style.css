@@ -130,6 +130,11 @@ img {
   cursor: pointer;
 }
 
+.gallery img:hover {
+  transform: scale(1.02);
+  transition: transform 0.2s ease;
+}
+
 /* Override Minima capitalization — preserve typed case */
 h1, h2, h3 {
   text-transform: none;
