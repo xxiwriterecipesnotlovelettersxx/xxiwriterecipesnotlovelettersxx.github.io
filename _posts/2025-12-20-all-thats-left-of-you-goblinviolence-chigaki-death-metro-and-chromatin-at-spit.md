@@ -20,7 +20,9 @@ After spending a rather late lunch at the beautiful (and very conveniently place
 Though Chromatin set the bar high with an incredible first performance at their Geelong house show back in October, they managed to raise it once more at Spit. Their blend of post hardcore and screamo was heavier than ever before, with ebbing and flowing guitar-driven melodies supporting vocalist Liam's raw, powerful screams.
 <br><br>
 As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could be stars their own, reimagining it as a sludgy and dark piece. During this tribute, the green alien toy from the August 3rd Underthealmonds house show made a reappearance, this time without finding any roofs to get stuck on.
-<br><br>
+
+![poster](/images/chrom1.jpeg)
+
 After a break between bands, it was time for Chikagi Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much-anticipated thanks to their newest release, [10 Songs](https://chigakideathmetro.bandcamp.com/album/10-songs), coming out just the day before.
 
 ![could be stars](/images/cbs1.JPG)
