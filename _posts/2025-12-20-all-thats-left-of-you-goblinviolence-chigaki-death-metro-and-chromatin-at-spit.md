@@ -32,7 +32,9 @@ ok goodnight i am soooo tired i will write the second half/edit this when i wake
 
 ### photos from the afternoon (click to expand)
 photo credits:
-@lauradalezz1e on instagram <3 check out their blog [here!](https://lauradalezz1e.neocities.org)
+<p class="show-intro">
+@lauradalezz1e on instagram <3 check out their blog <a href="https://https://lauradalezz1e.neocities.org">here!</a>
+</p>
 
 <div class="gallery">
   <a href="/images/1-04.jpg">
