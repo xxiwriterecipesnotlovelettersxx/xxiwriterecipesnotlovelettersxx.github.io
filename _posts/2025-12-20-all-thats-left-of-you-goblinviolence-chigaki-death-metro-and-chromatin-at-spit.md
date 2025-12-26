@@ -28,13 +28,7 @@ After a break between bands, it was time for Chigaki Death Metro, an emoviolence
 
 ![chigaki](/images/1-25.jpg)
 
-This show carried an extra significance for could be stars, marking their last performance for the foreseeable future, and guitarist Sam Walker’s final show with the band. That sense of finality came to a head at the end of the set when Asher charged into Sam while playing, knocking him backwards. Ending the show, the band dropped their instruments and walked offstage. It was chaotic, affectionate, and very clearly symbolic of the end of a long-lasting era. The end of could be stars' set was met with loud applause and a lingering bittersweet energy.
-<br><br>
-Closing the afternoon were Street Carp, a slacker/alternative band from north-east Victoria. With their usual vocalist missing, the guitarist stepped up to the role of frontman for this show, a change that gave their performance a rough-around-the-edges charm. The band's crowd interaction and plenty of stage banter kept things loose. A Silverchair cover sparked recognition and enthusiasm, and eventually a small mosh started close to the stage. Their show felt communal and unpretentious, thriving on Street Carp's energy and plenty of additional distortion.
-<br><br>
-The show wrapped up around 4pm, leaving plenty of daylight outside. It was an afternoon that celebrated regional bands, DIY spirit and genuine connection. In the case of Could Be Stars, it also offered a heartfelt send-off. In my case, it also offered adequate time to catch a train to Footscray and catch an evening gig at Spit.
-
-![3/4 of could be stars](/images/byecould.JPG)
+ok goodnight i am soooo tired i will write the second half/edit this when i wake up.
 
 ### photos from the afternoon (click to expand)
 
