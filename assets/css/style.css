@@ -120,21 +120,22 @@ img {
   margin: 1.5rem 0;
 }
 
-/* square thumbnails */
+/* square containers */
 .gallery a {
   display: block;
+  width: 100%;
   aspect-ratio: 1 / 1;
-  overflow: hidden;
 }
 
-/* STRETCHED thumbnails */
+/* true stretch — NO crop, NO zoom */
 .gallery img {
   width: 100%;
   height: 100%;
-  object-fit: fill; /* ← this is the key change */
+  object-fit: fill;        /* morphs image */
+  aspect-ratio: auto;     /* IMPORTANT: cancels your global rule */
   border-radius: 6px;
-  cursor: pointer;
 }
+
 
 /* hover feedback */
 .gallery img:hover {
