@@ -120,6 +120,12 @@ img {
   margin: 1.5rem 0;
 }
 
+/* remove vertical spacing inside galleries */
+.gallery img,
+.gallery a {
+  margin: 0 !important;
+  padding: 0 !important;
+}
 
 /* square containers */
 .gallery a {
