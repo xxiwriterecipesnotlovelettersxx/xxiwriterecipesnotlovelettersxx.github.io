@@ -59,8 +59,8 @@ The show wrapped up around 4pm, leaving plenty of daylight outside. It was an af
   <a href="/images/cbs2010.JPG">
   <img src="/images/cbs2010.JPG" alt="band playing">
   </a>
-  <a href="/images/cbs2011.JPG">
-    <img src="/images/cbs203.JPG" alt="group photo outside">
+  <a href="/images/byecould.JPG">
+    <img src="/images/byecould.JPG" alt="group photo outside">
   </a>
   <a href="/images/cbs2012.JPG">
   <img src="/images/cbs2012.JPG" alt="parliament station escalators">
