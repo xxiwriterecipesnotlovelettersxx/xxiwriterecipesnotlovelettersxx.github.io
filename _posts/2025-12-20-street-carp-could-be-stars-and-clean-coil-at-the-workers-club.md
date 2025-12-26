@@ -13,7 +13,7 @@ Street Carp
 <br><br>
 Saturday afternoon saw The Worker’s Club in Fitzroy draw a crowd for a 1pm start. The show brought together three bands from across regional Victoria, spanning indie, emo and slacker rock.
 
-![poster](/images/streetcarp.JPG)
+![poster](/images/streetcarp.jpg)
 
 Opening the day were Clean Coil, an indie surf/folk trio from Euroa on Taungurung land. Their set immediately charmed, relying on tight melodies and an uplifting, feel-good sound that suited the early afternoon perfectly. Not a minute in, a snapped guitar string halted the performance, but Asher from could be stars offered his guitar mid-set in an act of generosity. The band’s easy on-stage banter and clear chemistry kept spirits high, making this incident feel like part of the fun. Clean Coil’s set felt relaxed, genuine, and joyful, the perfect opener to settle everyone into the room.
 <br><br>
