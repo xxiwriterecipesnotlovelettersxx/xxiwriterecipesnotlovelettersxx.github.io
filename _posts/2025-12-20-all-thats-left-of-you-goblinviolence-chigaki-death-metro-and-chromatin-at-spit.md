@@ -23,7 +23,7 @@ As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could b
 
 ![chromatin](/images/chrom1.jpeg)
 
-After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, [10 Songs](https://chigakideathmetro.bandcamp.com/album/10-songs), coming out just the day before.
+After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, [10 Songs](https://chigakideathmetro.bandcamp.com/album/10-songs), coming out just the day before. Their live performance reflected the sassy and violent sound of the record, which a number of people who talked to me compared to the likes of The Great Redneck Hope.
 
 ![chigaki](/images/1-25.jpg)
 
