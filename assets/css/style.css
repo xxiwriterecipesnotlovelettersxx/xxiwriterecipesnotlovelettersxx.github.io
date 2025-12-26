@@ -112,6 +112,24 @@ img {
   margin: 20px 0;
 }
 
+/* photo gallery for show posts */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin: 1.5rem 0;
+}
+
+/* override global image rules INSIDE galleries */
+.gallery img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;   /* cancels square forcing */
+  object-fit: contain;  /* keeps original proportions */
+  border-radius: 6px;
+  cursor: pointer;
+}
+
 /* Override Minima capitalization — preserve typed case */
 h1, h2, h3 {
   text-transform: none;
