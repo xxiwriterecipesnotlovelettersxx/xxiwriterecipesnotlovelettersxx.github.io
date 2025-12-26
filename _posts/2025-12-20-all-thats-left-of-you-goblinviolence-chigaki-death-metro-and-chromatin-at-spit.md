@@ -22,8 +22,9 @@ Though Chromatin set the bar high with an incredible first performance at their 
 As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could be stars their own, reimagining it as a sludgy and dark piece. During this tribute, the green alien toy from the August 3rd Underthealmonds house show made a reappearance, this time without finding any roofs to get stuck on.
 
 ![chromatin](/images/chrom1.jpeg)
-
+<p class="show-intro">
 After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, [10 Songs](https://chigakideathmetro.bandcamp.com/album/10-songs), coming out just the day before. Their live performance reflected the sassy and violent sound of the record, which a number of people who talked to me compared to the likes of The Great Redneck Hope.
+</p>
 
 ![chigaki](/images/1-25.jpg)
 
