@@ -50,9 +50,6 @@ The show wrapped up around 4pm, leaving plenty of daylight outside. It was an af
   <a href="/images/cbs206.JPG">
   <img src="/images/cbs206.JPG" alt="asher">
   </a>
-  <a href="/images/cbs207.JPG">
-    <img src="/images/cbs207.JPG" alt="band playing">
-  </a>
   <a href="/images/cbs208.JPG">
   <img src="/images/cbs208.JPG" alt="sam">
   </a>
