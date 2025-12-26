@@ -29,7 +29,7 @@ The show wrapped up around 4pm, leaving plenty of daylight outside. It was an af
 
 ![3/4 of could be stars](/images/byecould.JPG)
 
-### photos from the night (click to expand)
+### photos from the afternoon (click to expand)
 
 <div class="gallery">
   <a href="/images/cbs201.JPG">
