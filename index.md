@@ -16,7 +16,7 @@ vegan recipes for my emo friends. rawr xd lolz:3
 [see show posts →](/shows)
 
 ### bath poetry
-*poems i write submerged in near boiling water*  
+*poems i write submerged in boiling water*  
 [read poetry →](/bath-poetry)
 
 ### my life
