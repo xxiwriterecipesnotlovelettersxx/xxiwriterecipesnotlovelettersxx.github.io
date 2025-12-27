@@ -48,9 +48,8 @@ photo credits:
 @lacedcovet on instagram
 <br>
 @z3nsdigi_ on instagram
-<p class="show-intro">
+<br>
 @lauradalezz1e on instagram <3 check out their blog <a href="https://lauradalezz1e.neocities.org">here!</a>
-</p>
 
 <div class="gallery">
    <a href="/images/spit1.jpg">
