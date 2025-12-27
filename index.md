@@ -12,7 +12,7 @@ vegan recipes for my emo friends. rawr xd lolz:3
 [see all recipes →](/recipes)
 
 ### shows
-*photography, flyers, & anything related to the shows i go to!*  
+*photography, posters, & anything related to the shows i go to!*  
 [see show posts →](/shows)
 
 ### bath poetry
