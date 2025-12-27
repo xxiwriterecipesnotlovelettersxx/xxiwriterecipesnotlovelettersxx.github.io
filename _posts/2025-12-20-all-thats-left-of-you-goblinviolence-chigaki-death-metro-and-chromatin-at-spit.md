@@ -52,6 +52,21 @@ photo credits:
    <a href="/images/spit1.jpg">
     <img src="/images/spit1.jpg" alt="spit">
   </a>
+   <a href="/images/chrom2.jpg">
+    <img src="/images/chrom2.jpg" alt="chromatin">
+  </a>
+  <a href="/images/chrom1jpg">
+    <img src="/images/1-04.jpg" alt="chromatin">
+  </a>
+  <a href="/images/chrom3.jpg">
+  <img src="/images/chrom3.jpg" alt="chromatin">
+  </a>
+  <a href="/images/chrom4.jpg">
+    <img src="/images/chrom4.jpg" alt="chromatin">
+  </a>
+  <a href="/images/chrom5.jpg">
+    <img src="/images/chrom5.jpg" alt="chromatin">
+  </a>
   <a href="/images/1-04.jpg">
     <img src="/images/1-04.jpg" alt="band playing">
   </a>
