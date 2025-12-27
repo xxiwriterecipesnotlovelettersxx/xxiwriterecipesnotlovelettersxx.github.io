@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-vegan recipes for my emo friends. rawr xd lolz:3
+vegan recipes for my emo friends. rawr XD lolz:3
 
 ---
 
