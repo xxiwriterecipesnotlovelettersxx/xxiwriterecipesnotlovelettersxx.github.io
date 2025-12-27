@@ -5,11 +5,11 @@ date: 2025-12-20
 categories: show
 ---
 <br>
-Clean Coil
+Street Carp
 <br>
 could be stars
 <br>
-Street Carp
+Clean Coil
 <br><br>
 Saturday afternoon saw The Worker’s Club in Fitzroy draw a crowd for a 1pm start. The show brought together three bands from across regional Victoria, spanning indie, emo and slacker rock.
 
