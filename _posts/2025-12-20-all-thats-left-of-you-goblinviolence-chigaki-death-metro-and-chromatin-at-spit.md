@@ -67,6 +67,9 @@ photo credits:
   <a href="/images/chrom5.jpg">
     <img src="/images/chrom5.jpg" alt="chromatin">
   </a>
+  <a href="/images/liam1.jpg">
+    <img src="/images/liam1.jpg" alt="chromatin">
+  </a>
   <a href="/images/1-04.jpg">
     <img src="/images/1-04.jpg" alt="band playing">
   </a>
