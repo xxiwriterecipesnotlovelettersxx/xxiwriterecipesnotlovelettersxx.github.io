@@ -40,7 +40,7 @@ Naarm/Melbourne band all that's left of you played the final set of the night, t
 <br><br>
 Their raw and emotional screamo inspired some stage diving among the audience, and even saw Paddy from Wrench crowdsurfing. It was the perfect end to a late show, and everyone left Spit elatedly. Goblinviolence, seemingly not ready to say goodbye to Footscray, were seen walking through the area three separate times over the next hour and a half following the show's end.
 
-![atloy](/paddy.jpg)
+![atloy](/images/paddy.jpg)
 
 ### photos from the night (click to expand)
 photo credits:
@@ -49,8 +49,8 @@ photo credits:
 </p>
 
 <div class="gallery">
-   <a href="/spit1.jpg">
-    <img src="/spit1.jpg" alt="spit">
+   <a href="/images/spit1.jpg">
+    <img src="/images/spit1.jpg" alt="spit">
   </a>
   <a href="/images/1-04.jpg">
     <img src="/images/1-04.jpg" alt="band playing">
