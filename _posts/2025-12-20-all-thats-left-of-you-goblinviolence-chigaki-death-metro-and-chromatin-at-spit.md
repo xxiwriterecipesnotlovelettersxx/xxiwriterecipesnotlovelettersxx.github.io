@@ -55,8 +55,8 @@ photo credits:
    <a href="/images/chrom2.jpg">
     <img src="/images/chrom2.jpg" alt="chromatin">
   </a>
-  <a href="/images/chrom1jpg">
-    <img src="/images/1-04.jpg" alt="chromatin">
+  <a href="/images/chrom1.jpg">
+    <img src="/images/chrom1.jpg" alt="chromatin">
   </a>
   <a href="/images/chrom3.jpg">
   <img src="/images/chrom3.jpg" alt="chromatin">
