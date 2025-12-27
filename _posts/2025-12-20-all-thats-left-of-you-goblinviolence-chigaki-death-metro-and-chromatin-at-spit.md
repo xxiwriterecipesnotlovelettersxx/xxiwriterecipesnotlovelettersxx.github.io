@@ -44,6 +44,10 @@ Their raw and emotional screamo inspired some stage diving among the audience, a
 
 ### photos from the night (click to expand)
 photo credits:
+<br>
+@lacedcovet on instagram
+<br>
+@z3nsdigi_ on instagram
 <p class="show-intro">
 @lauradalezz1e on instagram <3 check out their blog <a href="https://lauradalezz1e.neocities.org">here!</a>
 </p>
