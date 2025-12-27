@@ -74,31 +74,43 @@ photo credits:
     <img src="/images/liam1.jpg" alt="chromatin">
   </a>
   <a href="/images/1-04.jpg">
-    <img src="/images/1-04.jpg" alt="band playing">
+    <img src="/images/1-04.jpg" alt="04">
   </a>
   <a href="/images/1-05.jpg">
-  <img src="/images/1-05.jpg" alt="sam">
+  <img src="/images/1-05.jpg" alt="05">
   </a>
   <a href="/images/1-07.jpg">
-    <img src="/images/1-07.jpg" alt="band playing">
+    <img src="/images/1-07.jpg" alt="07">
   </a>
   <a href="/images/1-16.jpg">
-  <img src="/images/1-16.jpg" alt="zi">
+  <img src="/images/1-16.jpg" alt="16">
   </a>
   <a href="/images/1-24.jpg">
-    <img src="/images/1-24.jpg" alt="charli">
+    <img src="/images/1-24.jpg" alt="24">
   </a>
   <a href="/images/1-25.jpg">
-  <img src="/images/1-25.jpg" alt="asher">
+  <img src="/images/1-25.jpg" alt="25">
+  </a>
+  <a href="/images/1-26.jpg">
+  <img src="/images/1-26.jpg" alt="26">
   </a>
   <a href="/images/1-27.jpg">
-  <img src="/images/1-27.jpg" alt="sam">
+  <img src="/images/1-27.jpg" alt="27">
+  </a>
+  <a href="/images/1-30.jpg">
+  <img src="/images/1-30.jpg" alt="30">
   </a>
   <a href="/images/1-33.jpg">
     <img src="/images/1-33.jpg" alt="atloy">
   </a>
   <a href="/images/atloy.jpg">
     <img src="/images/atloy.jpg" alt="atloy">
+  </a>
+  <a href="/images/circle1.JPG">
+  <img src="/images/circle.JPG" alt="circle">
+  </a>
+  <a href="/images/tree1.JPG">
+  <img src="/images/tree1.JPG" alt="tree">
   </a>
 </div>
 
