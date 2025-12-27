@@ -4,7 +4,7 @@ title: shows
 ---
 
 <h1>shows</h1>
-<p class="recipe-intro">a page to document part of the scene through the shows i go to! a journalistic collection of photography, articles, flyers, etc.</p>
+<p class="recipe-intro">a page to document part of the scene through the shows i go to! a journalistic collection of photography, articles, posters, etc.</p>
 
 <br>
 <ul class="show-list">
