@@ -45,6 +45,4 @@ for the stuffing:
 
 > serve it forth <3
 
-![cookie1](/images/Screenshot_20251126-003128.png)
-![cookie2](/images/IMG_20251126_002725_017.jpg)
-![cookie3](/images/IMG_20251126_002652_011.jpg)
+![roast1](/images/roast.jpg)
