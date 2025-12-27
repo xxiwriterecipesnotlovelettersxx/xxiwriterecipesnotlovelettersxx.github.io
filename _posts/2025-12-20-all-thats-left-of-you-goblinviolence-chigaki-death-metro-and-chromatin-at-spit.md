@@ -107,7 +107,7 @@ photo credits:
     <img src="/images/atloy.jpg" alt="atloy">
   </a>
   <a href="/images/circle1.JPG">
-  <img src="/images/circle.JPG" alt="circle">
+  <img src="/images/circle1.JPG" alt="circle">
   </a>
   <a href="/images/tree1.JPG">
   <img src="/images/tree1.JPG" alt="tree">
