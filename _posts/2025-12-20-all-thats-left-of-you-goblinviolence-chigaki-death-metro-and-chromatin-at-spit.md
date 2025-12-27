@@ -95,7 +95,10 @@ photo credits:
   <img src="/images/1-27.jpg" alt="sam">
   </a>
   <a href="/images/1-33.jpg">
-    <img src="/images/1-33.jpg" alt="sam">
+    <img src="/images/1-33.jpg" alt="atloy">
+  </a>
+  <a href="/images/altoy.jpg">
+    <img src="/images/atloy.jpg" alt="atloy">
   </a>
 </div>
 
