@@ -60,7 +60,7 @@ body a {
 
 body a:hover {
   color: #B21653 !important;
-  text-decoration: none;
+  text-decoration: underline;
   font-weight: bold !important;
 }
 
