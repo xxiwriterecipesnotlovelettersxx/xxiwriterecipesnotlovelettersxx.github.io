@@ -27,7 +27,7 @@ This show carried an extra significance for could be stars, marking their last p
 <br><br>
 Closing the afternoon were Street Carp, a slacker/alternative band from north-east Victoria. With their usual vocalist missing, the guitarist stepped up to the role of frontman for this show, a change that gave their performance a rough-around-the-edges charm. The band's crowd interaction and plenty of stage banter kept things loose. A Silverchair cover sparked recognition and enthusiasm, and eventually a small mosh started close to the stage. Their show felt communal and unpretentious, thriving on Street Carp's energy and plenty of additional distortion.
 <br><br>
-The show wrapped up around 4pm, leaving plenty of daylight outside. It was an afternoon that celebrated regional bands, DIY spirit and genuine connection. In the case of Could Be Stars, it also offered a heartfelt send-off. In my case, it also offered adequate time to catch a train to Footscray and catch an evening gig at Spit.
+The show wrapped up around 4pm, leaving plenty of daylight outside. It was an afternoon to celebrate regional bands, DIY spirit, and genuine connections formed through live music. In the case of Could Be Stars, it also offered a heartfelt send-off. In my case, the afternoon finish gave me adequate time to catch a train to Footscray and catch an evening gig at Spit.
 
 ![3/4 of could be stars](/images/byecould.JPG)
 
