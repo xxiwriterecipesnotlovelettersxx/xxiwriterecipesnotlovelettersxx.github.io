@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gay family skramzmas dinner"
+title: "family skramzmas dinner"
 date: 2025-12-30
 categories: life
 ---
