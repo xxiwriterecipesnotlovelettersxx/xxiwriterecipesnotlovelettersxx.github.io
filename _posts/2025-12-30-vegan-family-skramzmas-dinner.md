@@ -27,8 +27,12 @@ for dessert, i tried hand at making a <a href="https://xxiwriterecipesnotlovelet
 
 ![tiramisu2](/images/tiramisu2.JPG)
 
-Goblinviolence took over the stage next, returning to Spit from Eora/Sydney to deliver their unique blend of sasscore and mathgrind once again. Living up to their name, their set could only be described as chaotic. Dissonant guitars and uncountable tempos, combined with high-pitched screams, encouraged perhaps the most unpredicatable and violent mosh of the night.
-<br><br>
+<p class="show-intro">
+and, to fulfill a promise made at the last spit show, i also brought everyone some of my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a>. these were much loved last time i made them, and this batch that i made for the skramzmas dinner might have been the best i have made so far??
+</p>
+
+![cookies1](/images/cookies1.JPG)
+
 Regretfully, I missed the later section of their set escorting some friends to the station safely. I can only await Goblinviolence's return to play in Naarm again...
 
 ![goblinviolence](/images/1-03.jpg)
