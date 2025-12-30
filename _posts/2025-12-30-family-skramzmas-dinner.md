@@ -82,7 +82,7 @@ after we finished our skramzmas dinner, we went into the kitchen to decorate gin
 </div>
 
 <p class="show-intro">
-once the sun had set, we spent more time listening to and playing music, swimming in the pool, or looking at wasp nests in jesse's board game collection. although the evening would eventually end up as early morning, our skramzmas dinner didn't ever feel rushed or overplanned. yay!
+once the sun had set, we spent more time playing music, swimming in the pool, and looking at wasp nests in jesse's board game collection. although the evening would eventually end up as early morning, our skramzmas dinner didn't ever feel rushed or overplanned. yay!
 </p>
 
 ![pumpkin3.JPG](/images/pumpkin3.JPG)
