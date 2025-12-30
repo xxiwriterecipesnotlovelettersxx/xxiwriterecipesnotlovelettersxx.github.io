@@ -247,3 +247,38 @@ main.home hr {
   line-height: inherit !important;
   vertical-align: baseline !important;
 }
+
+/* post list with thumbnails */
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+}
+
+.post-list li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+/* thumbnail image */
+.post-thumb {
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+}
+
+.post-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;     /* stretched, matches your site vibe */
+  aspect-ratio: auto;  /* overrides global square rule */
+  margin: 0 !important;
+  border-radius: 4px;
+}
+
+/* text link */
+.post-list a {
+  display: inline;
+}
