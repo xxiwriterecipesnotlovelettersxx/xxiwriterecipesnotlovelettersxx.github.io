@@ -40,7 +40,7 @@ in the afternoon we sat outside while the pumpkin cooked in the oven, making the
 ![decorating1](/images/decorating1.JPG)
 
 <p class="show-intro">
-we were busily lighting candles, setting the table, and ensuring all of the food was ready to serve. sienna arranged some vegan cheese & sriracha in the shape of some snowmen, with peppercorn eyes. we also made a last minute tropical punch, made of tropical juice, ginger beer, and sprite, filled with pieces of mango and one strawberry.
+we were busily lighting candles, setting the table, and ensuring all of the food was ready to serve. sienna arranged some vegan cheese & sriracha in the shape of some snowmen, with peppercorn eyes. we also made a last minute punch, made from tropical juice, ginger beer, and sprite, and filled with pieces of mango and a strawberry.
 </p>
 
 <div class="gallery">
@@ -65,7 +65,7 @@ to complete the room's ambience, we played some quiet music, closed the curtains
 ![christmas1](/images/christmas1.JPG)
 
 <p class="show-intro">
-after we finished our skramzmas dinner, we headed into the kitchen to decorate gingerbread that jasmine had baked and brought in, complete with a turmeric and mango frosting that asher happily contributed.
+after we finished our skramzmas dinner, we headed into the kitchen to decorate gingerbread that jasmine had baked and brought with her, complete with a turmeric and mango frosting that asher happily contributed.
 </p>
 
 <div class="gallery">
@@ -78,5 +78,7 @@ after we finished our skramzmas dinner, we headed into the kitchen to decorate g
 </div>
 
 <p class="show-intro">
-once the sun had truly set, we spent more time listening to and playing music, swimming in the pool, or inspecting wasp nests in jesse's board game collection. though the evening would eventually end up as early morning, our skramzmas dinner didn't feel rushed or overplanned at all.
+once the sun had truly set, we spent more time listening to and playing music, swimming in the pool, or inspecting wasp nests in jesse's board game collection. though the evening would eventually end up as early morning, our skramzmas dinner didn't feel rushed or overplanned at all. yay!
 </p>
+
+![pumpkin3.JPG](/images/pumpkin3.JPG)
