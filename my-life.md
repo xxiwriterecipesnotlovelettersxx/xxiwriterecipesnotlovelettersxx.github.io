@@ -4,7 +4,7 @@ title: my life
 ---
 
 <h1>my life</h1>
-<p>hi OMG welcome to my life... what have i been up to lately..?</p>
+<p>hi OMG welcome to my life... what have i been up to lately?</p>
 <br>
 <ul class="life-list">
 {% assign life_posts = site.posts | where:"categories","life" | sort:"date" | reverse %}
