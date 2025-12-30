@@ -33,7 +33,7 @@ these struck a chord with the skramz youth at the foh/body shirt/cbs show...
 9. once all of the dough is scooped into shape on the tray, generously sprinkle flaky sea salt over the top of each cookie. follow this with a light coat of sugar sprinkled in a similar fashion.
 10. refrigerate the pan for 24 hours (sorry), or up to 72 hours.
 11. when ready to bake, preheat your oven to 175ºC and arrange a rack in the center. add the cookie dough rounds, and space them out somewhat.
-12. bake for 15 to 17 minutes, until edges are golden brown. remove from the oven to cool in their tray/s for 5-10 minutes, then transfer to a cooling rack until chocolate has set.
+12. bake for 16 to 19 minutes, until edges are golden brown. remove from the oven to cool in their tray/s for 5-10 minutes, then transfer to a cooling rack until chocolate has set.
 
 
 > serve them forth <3
