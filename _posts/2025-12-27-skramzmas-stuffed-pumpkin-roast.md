@@ -5,7 +5,7 @@ categories: recipe
 title: "skramzmas stuffed pumpkin roast"
 ---
 
-i brought this to christmas lunch to impress my conservative family with a vegan dish. it looks better irl i PROMISE
+i brought this to christmas lunch to impress my conservative family with a vegan dish. also made an appearance at the skramzmas vegan dinner!
 
 ### Ingredients
 - 1 butternut pumpkin
@@ -44,4 +44,5 @@ i brought this to christmas lunch to impress my conservative family with a vegan
 
 > serve it forth <3
 
-![roast1](/images/roast.jpg)
+![pumpkin1](/images/pumpkin1.JPG)
+![pumpkin2](/images/pumpkin2.JPG)
