@@ -26,19 +26,19 @@ to cater for the night, i cooked a main course of <a href="https://xxiwriterecip
 ![pumpkin1](/images/pumpkin1.JPG)
 
 <p class="show-intro">
-for dessert, i tried my hand at making a <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/tiramisu.html">vegan tiramisu</a>. although i misjudged the size of container a little bit, i was surprised by how well this turned out! i will definitely make this again in the future.
+for dessert, i tried my hand at making a <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/tiramisu.html">vegan tiramisu</a>. although i misjudged the size of container a little bit, i was surprised by how well this turned out! i will definitely make this again soon.
 </p>
 
 ![tiramisu2](/images/tiramisu2.JPG)
 
 <p class="show-intro">
-and, to keep a promise i made at the last spit show, i also brought everyone some of my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a>. this batch that i made might have been the best i have baked so far...
+and, to keep a promise i made at the last spit show, i also brought everyone some of my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a>. this batch that i baked might have been my best so far...
 </p>
 
 ![cookies1](/images/cookies1.JPG)
 
 <p class="show-intro">
-in the afternoon we sat outside while the pumpkin cooked in the oven, making the most of the daylight before we ate. while everyone sat near or swam in jesse's pool, sienna, kal and i tasked ourselves with moving the christmas tree onto the dinner table (which was MUCH easier said than done). after a few minor setbacks, we took to finalising the decorations and adding some finishing touches to the space.
+in the afternoon we sat outside, making the most of the daylight before eating. while everyone else sat by or swam in jesse's pool, sienna, kal and i decided to move the christmas tree onto the dinner table (MUCH easier said than done). after a few minor setbacks, we started adding some final touches to the space.
 </p>
 
 ![decorating1](/images/decorating1.JPG)
