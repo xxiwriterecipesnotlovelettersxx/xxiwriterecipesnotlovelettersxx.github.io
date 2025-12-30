@@ -22,7 +22,7 @@ to cater for the night, i prepared a main course of <a href="https://xxiwriterec
 ![pumpkin1](/images/pumpkin1.JPG)
 
 <p class="show-intro">
-for dessert, i tried hand at making a <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/tiramisu.html">vegan tiramisu</a>. although i slightly misjudged the size of container i would need, it exceeded my expectations a lot! i will definitely make this again in the future.
+for dessert, i tried my hand at making a <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/tiramisu.html">vegan tiramisu</a>. although i slightly misjudged the size of container i would need, it exceeded my expectations a lot! i will definitely make this again in the future.
 </p>
 
 ![tiramisu2](/images/tiramisu2.JPG)
