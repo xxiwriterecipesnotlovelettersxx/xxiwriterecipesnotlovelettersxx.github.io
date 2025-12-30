@@ -3,6 +3,7 @@ layout: post
 title: "family skramzmas dinner"
 date: 2025-12-30
 categories: life
+thumbnail: /images/christmas2.JPG
 ---
 
 ![christmas2](/images/christmas2.JPG)
