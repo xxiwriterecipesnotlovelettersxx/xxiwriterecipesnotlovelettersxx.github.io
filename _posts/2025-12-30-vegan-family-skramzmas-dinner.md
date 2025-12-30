@@ -58,15 +58,21 @@ with all of our decorating completed, the results spoke for themselves:
 
 ![christmas4](/images/christmas4.JPG)
 
-Their raw and emotional screamo inspired some stage diving among the audience, and even saw Paddy from Wrench crowdsurfing. It was the perfect end to a late show, and everyone left Spit elatedly. Goblinviolence, seemingly not ready to say goodbye to Footscray, were seen walking through the area three separate times over the next hour and a half following the show's end.
+<p class="show-intro">
+to complete the room's ambience, we played some quiet music, closed the curtains and dimmed the lights, and finally invited everyone upstairs to eat. 
+</p>
 
-![atloy](/images/paddy.jpg)
+![christmas1](/images/christmas1.JPG)
 
-### photos from the night (click to expand)
-photo credits:
-<br>
-@lacedcovet on instagram
-<br>
-@z3nsdigi_ on instagram
-<br>
-@lauradalezz1e on instagram <3 check out their blog <a href="https://lauradalezz1e.neocities.org">here!</a>
+<p class="show-intro">
+after we finished our skramzmas dinner, we headed into the kitchen to decorate gingerbread that jasmine had baked and brought in, complete with a turmeric and mango frosting that asher gladly contributed.
+</p>
+
+<div class="gallery">
+   <a href="/images/asher1.JPG">
+    <img src="/images/asher1.JPG" alt="asher">
+  </a>
+   <a href="/images/gingerbread1.JPG">
+    <img src="/images/gingerbread1.JPG" alt="gingerbread">
+  </a>
+</div>
