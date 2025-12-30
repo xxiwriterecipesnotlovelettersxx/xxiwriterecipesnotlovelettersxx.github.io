@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vegan family skramzmas dinner"
+title: "gay family skramzmas dinner"
 date: 2025-12-30
 categories: lifexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ---
@@ -8,11 +8,11 @@ categories: lifexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![christmas2](/images/christmas2.JPG)
 
 <p class="show-intro">
-last night, 6 of my friends and i met at jesse's house to celebrate christmas together. 
+dude fuck my fucking chungus life how do i write this introduction.
 </p>
 <br>
 <p class="show-intro">
-After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 Songs</a>, coming out just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
+here is how YOU can host your very own skramzmas dinner!
 </p>
 <br>
 <p class="show-intro">
