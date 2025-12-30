@@ -69,7 +69,7 @@ to complete the room's ambience, we played some quiet music, closed the curtains
 ![christmas1](/images/christmas1.JPG)
 
 <p class="show-intro">
-after we finished our skramzmas dinner, we went into the kitchen to decorate gingerbread that jasmine had baked, complete with a turmeric and mango frosting that asher happily contributed.
+after we finished our skramzmas dinner, we went into the kitchen to decorate <a href="https://xxiwriterecipesnotlovelettersxx.github.io/life/2025/12/30/jasmines-vegan-gingerbread.html">gingerbread that jasmine had baked</a>, complete with a turmeric and mango frosting that asher happily contributed.
 </p>
 
 <div class="gallery">
