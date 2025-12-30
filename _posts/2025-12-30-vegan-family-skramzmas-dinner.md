@@ -53,7 +53,7 @@ we were busily lighting candles, setting the table, and ensuring all of the food
 </div>
 
 <p class="show-intro">
-with all of our decorating completed, the results spoke for themselves:
+with all of our decorating completed, the results spoke for themselves...
 </p>
 
 ![christmas4](/images/christmas4.JPG)
