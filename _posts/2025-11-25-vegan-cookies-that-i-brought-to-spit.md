@@ -38,7 +38,8 @@ these struck a chord with the skramz youth at the foh/body shirt/cbs show...
 
 > serve them forth <3
 
-![cookie1](/images/Screenshot_20251126-003128.png)
-![cookie2](/images/IMG_20251126_002725_017.jpg)
-![cookie3](/images/IMG_20251126_002652_011.jpg)
-image 2 & 3 credits @a.d.rome <3
+![cookie1](/images/cookies1.JPG)
+![cookie2](/images/Screenshot_20251126-003128.png)
+![cookie3](/images/IMG_20251126_002725_017.jpg)
+![cookie4](/images/IMG_20251126_002652_011.jpg)
+image 3 & 4 credits @a.d.rome <3
