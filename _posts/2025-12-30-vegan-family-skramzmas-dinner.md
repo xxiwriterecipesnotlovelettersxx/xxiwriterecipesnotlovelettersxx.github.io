@@ -5,24 +5,20 @@ date: 2025-12-30
 categories: life
 ---
 
-![poster](/images/atloyposter.jpeg)
+![christmas2](/images/christmas2.JPG)
 
-Though Chromatin set the bar high with an incredible first performance at their Geelong house show back in October, they managed to raise it once more at Spit. Their blend of post hardcore and screamo was heavier than ever before, with ebbing and flowing guitar-driven melodies supporting vocalist Liam's raw, powerful screams.
-<br><br>
-As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could be stars their own, reimagining it as a sludgy and dark piece. During this tribute, the green alien toy from the August 3rd Underthealmonds house show made a reappearance, this time without finding any roofs to get stuck on.
-
-![chromatin](/images/liam1.jpg)
 <p class="show-intro">
 After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 Songs</a>, coming out just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
 </p>
+<br>
 <p class="show-intro">
 After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 Songs</a>, coming out just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
 </p>
+<br>
 <p class="show-intro">
 After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 Songs</a>, coming out just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
 </p>
-
-
+<br>
 Goblinviolence took over the stage next, returning to Spit from Eora/Sydney to deliver their unique blend of sasscore and mathgrind once again. Living up to their name, their set could only be described as chaotic. Dissonant guitars and uncountable tempos, combined with high-pitched screams, encouraged perhaps the most unpredicatable and violent mosh of the night.
 <br><br>
 Regretfully, I missed the later section of their set escorting some friends to the station safely. I can only await Goblinviolence's return to play in Naarm again...
