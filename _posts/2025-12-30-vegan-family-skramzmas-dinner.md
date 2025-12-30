@@ -28,14 +28,16 @@ for dessert, i tried my hand at making a <a href="https://xxiwriterecipesnotlove
 ![tiramisu2](/images/tiramisu2.JPG)
 
 <p class="show-intro">
-and, to fulfill a promise made at the last spit show, i also brought everyone some of my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a>. these were much loved last time i made them, and this batch that i made for the skramzmas dinner might have been the best i have made so far??
+and, to fulfill a promise made at the last spit show, i also brought everyone some of my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a>. these were popular last time, and this batch that i made for the skramzmas dinner might have been the best i have baked so far?? if i do say so myself
 </p>
 
 ![cookies1](/images/cookies1.JPG)
 
-Regretfully, I missed the later section of their set escorting some friends to the station safely. I can only await Goblinviolence's return to play in Naarm again...
+<p class="show-intro">
+in the afternoon we sat outside while the pumpkin cooked in the oven, making the most of the sunlight before we ate. while everyone sat near or swam in jesse's pool, sienna, kal and i tasked ourselves with moving the christmas tree onto the dinner table (which was MUCH easier said than done). after a few minor setbacks, we took to finalising the decorations and adding some finishing touches to the space.
+</p>
 
-![goblinviolence](/images/1-03.jpg)
+![decorating1](/images/decorating1.JPG)
 
 Naarm/Melbourne band all that's left of you played the final set of the night, their last performance before they "hit da studio" (huge). Guitarist Valentine's amp was screamingly loud, bringing a passionate and energetic close to the show. Rumours of a gatecrash cover were confirmed later in their set, as they brought 'flood', the title track from our first release, back to life. This was an emotional moment for some as they sung along.
 <br><br>
