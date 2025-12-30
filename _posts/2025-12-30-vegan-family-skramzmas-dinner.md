@@ -8,7 +8,7 @@ categories: lifexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![christmas2](/images/christmas2.JPG)
 
 <p class="show-intro">
-last night, on the 29th, 6 of my friends and i met at jesse's house to celebrate skramzmas together 
+last night, 6 of my friends and i met at jesse's house to celebrate christmas together. 
 </p>
 <br>
 <p class="show-intro">
