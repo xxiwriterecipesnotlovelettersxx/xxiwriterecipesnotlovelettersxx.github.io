@@ -12,7 +12,7 @@ hi blog viewers!!
 </p>
 <br>
 <p class="show-intro">
-last night 6 of my friends (jesse, sienna, asher, laura, jasmine, kal) & i met at jesse's house for our lovely vegan family christmas dinner. it was so good to see everyone and spend time together before the end of the year, as well as share food and music
+last night 6 of my friends (jesse, sienna, asher, laura, jasmine, kal) & i met at jesse's house for our lovely vegan family christmas dinner. it was so nice to see everyone and spend time together before the end of the year, as well as to share food and music.
 </p>
 <br>
 <p class="show-intro">
@@ -38,13 +38,13 @@ and, to keep a promise i made at the last spit show, i also brought everyone som
 ![cookies1](/images/cookies1.JPG)
 
 <p class="show-intro">
-in the afternoon we sat outside, making the most of the daylight before eating. while everyone else sat by or swam in jesse's pool, sienna, kal and i decided to move the christmas tree onto the dinner table (MUCH easier said than done). after a few minor setbacks, we started adding some final touches to the space.
+in the afternoon we sat outside, making the most of the daylight before eating. while everyone else sat by or swam in jesse's pool, sienna, kal and i decided to move the christmas tree onto the dinner table (MUCH easier said than done). after a few minor setbacks, we started adding some final touches to the room.
 </p>
 
 ![decorating1](/images/decorating1.JPG)
 
 <p class="show-intro">
-we were busily lighting candles, setting the table, and ensuring all of the food was ready to serve. sienna arranged some vegan cheese & sriracha in the shape of some snowmen, with peppercorn eyes. we also made a last minute punch, made from tropical juice, ginger beer, and sprite, and filled with pieces of mango and a strawberry.
+we were lighting candles, setting the table, and getting all of the food ready to serve. sienna arranged some vegan cheese & sriracha to look like little snowmen, with peppercorn buttons & eyes. we also made up a last-minute punch, made from tropical juice, ginger beer, and sprite, with pieces of mango and a strawberry.
 </p>
 
 <div class="gallery">
@@ -69,7 +69,7 @@ to complete the room's ambience, we played some quiet music, closed the curtains
 ![christmas1](/images/christmas1.JPG)
 
 <p class="show-intro">
-after we finished our skramzmas dinner, we headed into the kitchen to decorate gingerbread that jasmine had baked and brought with her, complete with a turmeric and mango frosting that asher happily contributed.
+after we finished our skramzmas dinner, we went into the kitchen to decorate gingerbread that jasmine had baked, complete with a turmeric and mango frosting that asher happily contributed.
 </p>
 
 <div class="gallery">
@@ -82,7 +82,7 @@ after we finished our skramzmas dinner, we headed into the kitchen to decorate g
 </div>
 
 <p class="show-intro">
-once the sun had truly set, we spent more time listening to and playing music, swimming in the pool, or inspecting wasp nests in jesse's board game collection. though the evening would eventually end up as early morning, our skramzmas dinner didn't feel rushed or overplanned at all. yay!
+once the sun had set, we spent more time listening to and playing music, swimming in the pool, or looking at wasp nests in jesse's board game collection. although the evening would eventually end up as early morning, our skramzmas dinner didn't ever feel rushed or overplanned. yay!
 </p>
 
 ![pumpkin3.JPG](/images/pumpkin3.JPG)
