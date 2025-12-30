@@ -65,7 +65,7 @@ to complete the room's ambience, we played some quiet music, closed the curtains
 ![christmas1](/images/christmas1.JPG)
 
 <p class="show-intro">
-after we finished our skramzmas dinner, we headed into the kitchen to decorate gingerbread that jasmine had baked and brought in, complete with a turmeric and mango frosting that asher gladly contributed.
+after we finished our skramzmas dinner, we headed into the kitchen to decorate gingerbread that jasmine had baked and brought in, complete with a turmeric and mango frosting that asher happily contributed.
 </p>
 
 <div class="gallery">
@@ -76,3 +76,7 @@ after we finished our skramzmas dinner, we headed into the kitchen to decorate g
     <img src="/images/gingerbread1.JPG" alt="gingerbread">
   </a>
 </div>
+
+<p class="show-intro">
+once the sun had truly set, we spent more time listening to and playing music, swimming in the pool, or inspecting wasp nests in jesse's board game collection. though the evening would eventually end up as early morning, our skramzmas dinner didn't feel rushed or overplanned at all.
+</p>
