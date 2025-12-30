@@ -2,7 +2,7 @@
 layout: post
 title: "gay family skramzmas dinner"
 date: 2025-12-30
-categories: lifexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+categories: life
 ---
 
 ![christmas2](/images/christmas2.JPG)
