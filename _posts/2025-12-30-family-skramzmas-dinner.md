@@ -8,7 +8,7 @@ categories: life
 ![christmas2](/images/christmas2.JPG)
 
 <p class="show-intro">
-dude fuck my fucking chungus life how do i write this introduction.
+last night 6 of my friends (jesse, sienna, asher, laura, jasmine, kal) and i met at jesse's house to attend our gay vegan family christmas dinner.
 </p>
 <br>
 <p class="show-intro">
