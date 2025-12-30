@@ -39,8 +39,25 @@ in the afternoon we sat outside while the pumpkin cooked in the oven, making the
 
 ![decorating1](/images/decorating1.JPG)
 
-Naarm/Melbourne band all that's left of you played the final set of the night, their last performance before they "hit da studio" (huge). Guitarist Valentine's amp was screamingly loud, bringing a passionate and energetic close to the show. Rumours of a gatecrash cover were confirmed later in their set, as they brought 'flood', the title track from our first release, back to life. This was an emotional moment for some as they sung along.
-<br><br>
+<p class="show-intro">
+we were busily lighting candles, setting the table, and ensuring all of the food was ready to serve. sienna arranged some vegan cheese & sriracha in the shape of some snowmen, with peppercorn eyes. we also made a last minute tropical punch, made of tropical juice, ginger beer, and sprite, filled with pieces of mango and one strawberry.
+</p>
+
+<div class="gallery">
+   <a href="/images/snowmen1.JPG">
+    <img src="/images/snowmen1.JPG" alt="snowmen">
+  </a>
+   <a href="/images/punch1.JPG">
+    <img src="/images/punch1.JPG" alt="punch">
+  </a>
+</div>
+
+<p class="show-intro">
+with all of our decorating completed, the results spoke for themselves:
+</p>
+
+![christmas4](/images/christmas4.JPG)
+
 Their raw and emotional screamo inspired some stage diving among the audience, and even saw Paddy from Wrench crowdsurfing. It was the perfect end to a late show, and everyone left Spit elatedly. Goblinviolence, seemingly not ready to say goodbye to Footscray, were seen walking through the area three separate times over the next hour and a half following the show's end.
 
 ![atloy](/images/paddy.jpg)
