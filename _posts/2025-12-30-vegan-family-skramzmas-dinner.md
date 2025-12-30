@@ -16,7 +16,7 @@ here is how YOU can host your very own skramzmas dinner!
 </p>
 <br>
 <p class="show-intro">
-to cater for the night, i prepared a main course of <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/27/skramzmas-stuffed-pumpkin-roast.html">roasted butternut pumpkin</a>, which was filled with stuffing made from mushroom, lentils, cranberries, nutmeg, and more.
+to cater for the night, i prepared a main course of <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/27/skramzmas-stuffed-pumpkin-roast.html">roasted butternut pumpkin</a>, which was filled with stuffing made from mushrooms, lentils, cranberries, nutmeg, and more.
 </p>
 
 ![pumpkin1](/images/pumpkin1.JPG)
