@@ -34,7 +34,7 @@ and, to fulfill a promise made at the last spit show, i also brought everyone so
 ![cookies1](/images/cookies1.JPG)
 
 <p class="show-intro">
-in the afternoon we sat outside while the pumpkin cooked in the oven, making the most of the sunlight before we ate. while everyone sat near or swam in jesse's pool, sienna, kal and i tasked ourselves with moving the christmas tree onto the dinner table (which was MUCH easier said than done). after a few minor setbacks, we took to finalising the decorations and adding some finishing touches to the space.
+in the afternoon we sat outside while the pumpkin cooked in the oven, making the most of the daylight before we ate. while everyone sat near or swam in jesse's pool, sienna, kal and i tasked ourselves with moving the christmas tree onto the dinner table (which was MUCH easier said than done). after a few minor setbacks, we took to finalising the decorations and adding some finishing touches to the space.
 </p>
 
 ![decorating1](/images/decorating1.JPG)
