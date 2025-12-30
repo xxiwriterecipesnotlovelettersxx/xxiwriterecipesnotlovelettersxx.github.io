@@ -8,7 +8,7 @@ categories: life
 ![christmas2](/images/christmas2.JPG)
 
 <p class="show-intro">
-last night 6 of my friends (jesse, sienna, asher, laura, jasmine, kal) and i met at jesse's house to meet for our lovely vegan family christmas dinner. it was very nice to see everyone and spend time together before the end of the year, as well as share food and music.
+last night 6 of my friends (jesse, sienna, asher, laura, jasmine, kal) and i met at jesse's house for our lovely vegan family christmas dinner. it was very nice to see everyone and spend time together before the end of the year, as well as share food and music.
 </p>
 <br>
 <p class="show-intro">
