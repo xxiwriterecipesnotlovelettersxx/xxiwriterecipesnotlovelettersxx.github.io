@@ -16,14 +16,17 @@ here is how YOU can host your very own skramzmas dinner!
 </p>
 <br>
 <p class="show-intro">
-to cater for the night, i prepared a main course of <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/27/skramzmas-stuffed-pumpkin-roast.html">roasted butternut pumpkin</a>, which was filled with stuffing made from mushroom, lentils, crannberries, nutmeg, and more. yes
+to cater for the night, i prepared a main course of <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/27/skramzmas-stuffed-pumpkin-roast.html">roasted butternut pumpkin</a>, which was filled with stuffing made from mushroom, lentils, crannberries, nutmeg, and more.
 </p>
 
 ![pumpkin1](/images/pumpkin1.JPG)
 
 <p class="show-intro">
-to cater for the night, i prepared a main course of <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/27/skramzmas-stuffed-pumpkin-roast.html">roasted butternut pumpkin</a>, which was filled with stuffing made from mushroom, lentils, crannberries, nutmeg, and more. yes
+for dessert, i tried hand at making a <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/tiramisu.html">vegan tiramisu</a>. although i slightly misjudged the size of container i would need, it exceeded my expectations a lot! i will definitely make this again in the future.
 </p>
+
+![tiramisu2](/images/tiramisu2.JPG)
+
 Goblinviolence took over the stage next, returning to Spit from Eora/Sydney to deliver their unique blend of sasscore and mathgrind once again. Living up to their name, their set could only be described as chaotic. Dissonant guitars and uncountable tempos, combined with high-pitched screams, encouraged perhaps the most unpredicatable and violent mosh of the night.
 <br><br>
 Regretfully, I missed the later section of their set escorting some friends to the station safely. I can only await Goblinviolence's return to play in Naarm again...
