@@ -20,19 +20,19 @@ here is how YOU can host your very own skramzmas dinner!
 </p>
 <br>
 <p class="show-intro">
-to cater for the night, i prepared a main course of <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/27/skramzmas-stuffed-pumpkin-roast.html">roasted butternut pumpkin</a>, which was filled with stuffing made from mushrooms, lentils, cranberries, nutmeg, and more.
+to cater for the night, i cooked a main course of <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/27/skramzmas-stuffed-pumpkin-roast.html">roasted butternut pumpkin</a>, which was filled with stuffing made from mushrooms, lentils, cranberries, nutmeg, and more.
 </p>
 
 ![pumpkin1](/images/pumpkin1.JPG)
 
 <p class="show-intro">
-for dessert, i tried my hand at making a <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/tiramisu.html">vegan tiramisu</a>. although i slightly misjudged the size of container i would need, it exceeded my expectations a long way! i will definitely make this again in the future.
+for dessert, i tried my hand at making a <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/tiramisu.html">vegan tiramisu</a>. although i misjudged the size of container a little bit, i was surprised by how well this turned out! i will definitely make this again in the future.
 </p>
 
 ![tiramisu2](/images/tiramisu2.JPG)
 
 <p class="show-intro">
-and, to fulfill a promise made at the last spit show, i also brought everyone some of my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a>. these were popular last time, and this batch that i made for the skramzmas dinner might have been the best i have baked so far?? if i do say so myself
+and, to keep a promise i made at the last spit show, i also brought everyone some of my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a>. this batch that i made might have been the best i have baked so far...
 </p>
 
 ![cookies1](/images/cookies1.JPG)
