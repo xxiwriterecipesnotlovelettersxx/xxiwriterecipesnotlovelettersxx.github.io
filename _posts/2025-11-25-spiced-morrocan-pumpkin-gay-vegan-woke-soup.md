@@ -3,6 +3,7 @@ layout: post
 title: "spiced moroccan pumpkin gay vegan woke soup"
 date: 2025-11-25
 categories: recipe
+thumbnail: /images/IMG_3196.jpg
 ---
 
 the first recipe post on **xxiwriterecipesnotlovelettersxx**. you know it and you love it
