@@ -3,6 +3,7 @@ layout: post
 date: 2025-12-27
 categories: recipe
 title: "skramzmas stuffed pumpkin roast"
+thumbnail: /images/pumpkin1.JPG
 ---
 
 i brought this to christmas lunch to impress my conservative family with a vegan dish. also made an appearance at the skramzmas vegan dinner!
