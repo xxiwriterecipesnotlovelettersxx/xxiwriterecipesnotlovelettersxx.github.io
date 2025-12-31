@@ -252,8 +252,7 @@ main.home hr {
 
 /* link text — FIXED ALIGNMENT */
 .post-list a {
-  display: block;       /* key fix */
-  line-height: 1.25;    /* tighter, predictable */
-  position: relative;
-  top: 1px;             /* optical centring for VT323 */
+  display: flex;
+  align-items: center;   /* centres text vertically */
+  line-height: 1.25;
 }
