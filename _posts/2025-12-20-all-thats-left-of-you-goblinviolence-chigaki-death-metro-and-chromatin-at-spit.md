@@ -3,6 +3,7 @@ layout: post
 title: "all that's left of you, goblinviolence, chigaki death metro, and chromatin @ spit"
 date: 2025-12-20
 categories: show
+thumbnail: /images/chrom2.jpg
 ---
 <br>
 all that's left of you
