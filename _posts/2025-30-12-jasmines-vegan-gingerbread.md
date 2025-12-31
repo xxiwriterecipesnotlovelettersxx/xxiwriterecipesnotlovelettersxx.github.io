@@ -3,6 +3,7 @@ layout: post
 date: 2025-12-30
 categories: recipe
 title: "jasmine's vegan gingerbread"
+thumbnail: /images/gingerbread1.JPG
 ---
 
 jasmine brought these to the skramzmas dinner. they were so niceee omg
