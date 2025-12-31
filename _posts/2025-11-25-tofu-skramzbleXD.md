@@ -3,6 +3,7 @@ layout: post
 title: "tofu skramble hahaha"
 date: 2025-11-25
 categories: recipe
+thumbnail: /images/salmon.avif
 ---
 
 like skramz get it aha  
