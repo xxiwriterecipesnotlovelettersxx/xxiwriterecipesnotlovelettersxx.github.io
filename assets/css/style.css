@@ -274,7 +274,11 @@ main.home hr {
   box-sizing: border-box;
 }
 
-/* optional debug outlines (uncomment when troubleshooting)
-.post-thumb { outline: 2px solid lime; }
-.post-list a { outline: 2px dashed magenta; }
-*/
+
+.post-thumb {
+  outline: 2px solid lime;
+}
+
+.post-list a {
+  outline: 2px dashed magenta;
+}
