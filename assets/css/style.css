@@ -95,6 +95,7 @@ header nav a:hover {
   font-weight: bold;
 }
 
+/* global images (kept for gallery/other images) */
 img {
   width: 100%;
   aspect-ratio: 1 / 1;
@@ -235,7 +236,7 @@ main.home hr {
   margin-bottom: 5px;
 }
 
-/* ensure the thumbnail container is an explicit square */
+/* --- Thumbnail container: force a strict square and isolate the image link --- */
 .post-thumb {
   width: 60px;
   height: 60px;
@@ -243,26 +244,41 @@ main.home hr {
   display: block;
   box-sizing: border-box;
   overflow: hidden;
+  line-height: 0; /* avoid inline-image descender gaps */
 }
 
-/* very specific override for the thumbnail <img> so global img rules can't interfere */
-.post-list > li > .post-thumb img,
+/* make the anchor that wraps the thumbnail fill the square but DO NOT apply the
+   post-list > li > a styles to this anchor (we target it explicitly) */
+.post-thumb > a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* thumbnail image: explicit square, strong overrides against global img rules */
 .post-thumb img {
-  display: block !important;         /* remove inline-image descender gaps */
-  width: 100% !important;            /* fill the square container */
+  display: block !important;
+  width: 100% !important;
   height: 100% !important;
   max-width: none !important;
-  aspect-ratio: auto !important;     /* cancel the global 1/1 */
-  object-fit: fill !important;       /* keep the stretched behaviour you requested */
+  aspect-ratio: auto !important;   /* cancel global aspect-ratio */
+  object-fit: fill !important;     /* keep stretched behaviour */
   margin: 0 !important;
   border-radius: 4px;
 }
 
-/* post list: anchor fills remaining space, left-aligned horizontally,
-   but vertically centered with the thumbnail */
-.post-list a {
-  display: flex;            /* make anchor a flex container so its text can be centered */
-  flex: 1 1 auto;           /* take remaining horizontal space */
+/* ----- KEY CHANGE -----
+   Only target the text link (direct child anchor of li). Previously the
+   generic ".post-list a" also matched the thumbnail's inner <a>, which caused
+   that anchor to become a flex item and stretch the thumbnail. Using the
+   child selector avoids styling the thumbnail anchor.
+*/
+.post-list > li > a {
+  display: flex;            /* make anchor a flex container so its text can be centered vertically */
+  flex: 1 1 auto;           /* take remaining horizontal space (text area) */
   justify-content: flex-start; /* keep text left-aligned */
   align-items: center;      /* vertically center the text inside the anchor */
   align-self: center;       /* ensure the anchor box is centered within the LI */
@@ -274,11 +290,7 @@ main.home hr {
   box-sizing: border-box;
 }
 
-
-.post-thumb {
-  outline: 2px solid lime;
-}
-
-.post-list a {
-  outline: 2px dashed magenta;
-}
+/* optional debug outlines (uncomment when troubleshooting)
+.post-thumb { outline: 2px solid lime; }
+.post-list > li > a { outline: 2px dashed magenta; }
+*/
