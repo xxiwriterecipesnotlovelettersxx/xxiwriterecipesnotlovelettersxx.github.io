@@ -250,9 +250,10 @@ main.home hr {
   border-radius: 4px;
 }
 
-/* link text — FIXED ALIGNMENT */
 .post-list a {
   display: flex;
-  align-items: center;   /* centres text vertically */
+  align-items: center;
   line-height: 1.25;
+  padding-top: 1.5px;
 }
+
