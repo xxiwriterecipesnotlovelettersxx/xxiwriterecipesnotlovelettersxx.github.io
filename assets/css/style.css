@@ -1,238 +1,238 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=VT323&display=swap');
 
 body {
-background: #080505;
-color: #FFFFFF;
-font-family: 'Special Elite', monospace;
-letter-spacing: 0.67px;
-max-width: 750px;
-margin: auto;
-padding: 2rem;
-line-height: 1.6;
+  background: #080505;
+  color: #FFFFFF;
+  font-family: 'Special Elite', monospace;
+  letter-spacing: 0.67px;
+  max-width: 750px;
+  margin: auto;
+  padding: 2rem;
+  line-height: 1.6;
 
-background-image: url('/images/borderf.png'), url('/images/borderf.png');
-background-repeat: repeat-y, repeat-y;
-background-position: 40px 20px, calc(100% - 40px) 20px;
-background-size: auto 175px;
-padding-left: 120px;
-padding-right: 120px;
+  background-image: url('/images/borderf.png'), url('/images/borderf.png');
+  background-repeat: repeat-y, repeat-y;
+  background-position: 40px 20px, calc(100% - 40px) 20px;
+  background-size: auto 175px;
+  padding-left: 120px;
+  padding-right: 120px;
 }
 
 @media (max-width: 900px) {
-body {
-background-image: none;
-padding-left: 2rem;
-padding-right: 2rem;
-}
+  body {
+    background-image: none;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 h1, h2, h3 {
-font-family: 'VT323', monospace;
-letter-spacing: 2px;
-line-height: 1.1;
-text-transform: none;
+  font-family: 'VT323', monospace;
+  letter-spacing: 2px;
+  line-height: 1.1;
+  text-transform: none;
 }
 
 h1 {
-font-size: 3rem;
-margin-top: 2rem;
-margin-bottom: 1.5rem;
+  font-size: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 h2 {
-font-size: 2.2rem;
-margin-top: 1.5rem;
-margin-bottom: 1rem;
+  font-size: 2.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 h3 {
-font-size: 1.6rem;
-margin-top: 1rem;
-margin-bottom: 0.8rem;
+  font-size: 1.6rem;
+  margin-top: 1rem;
+  margin-bottom: 0.8rem;
 }
 
 body a {
-color: #EB1B71 !important;
-text-decoration: none;
+  color: #EB1B71 !important;
+  text-decoration: none;
 }
 
 body a:hover {
-color: #B21653 !important;
-text-decoration: underline;
-font-weight: bold !important;
+  color: #B21653 !important;
+  text-decoration: underline;
+  font-weight: bold !important;
 }
 
 header {
-color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 header h1 {
-margin-top: 0.5rem;
-margin-bottom: 0.5rem;
-font-size: 2.8rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 2.8rem;
 }
 
 header h1 a {
-color: #FFFFFF !important;
-text-decoration: none;
-font-family: 'VT323', monospace;
+  color: #FFFFFF !important;
+  text-decoration: none;
+  font-family: 'VT323', monospace;
 }
 
 header h1 a:hover {
-color: #FFFFFF !important;
-text-decoration: underline;
-font-weight: bold;
+  color: #FFFFFF !important;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 header nav a {
-color: #EB1B71;
-text-decoration: none;
+  color: #EB1B71;
+  text-decoration: none;
 }
 
 header nav a:hover {
-color: #B21653;
-text-decoration: underline;
-font-weight: bold;
+  color: #B21653;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 img {
-width: 100%;
-aspect-ratio: 1 / 1;
-object-fit: fill;
-border-radius: 10px;
-margin: 20px 0;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: fill;
+  border-radius: 10px;
+  margin: 20px 0;
 }
 
 /* gallery */
 .gallery {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-column-gap: 12px;
-row-gap: 4px;
-margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  column-gap: 12px;
+  row-gap: 4px;
+  margin: 1.5rem 0;
 }
 
 .gallery a {
-display: block;
-width: 100%;
-aspect-ratio: 1 / 1;
-margin: 0 !important;
-padding: 0 !important;
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .gallery img {
-width: 100%;
-height: 100%;
-object-fit: fill;
-border-radius: 6px;
-margin: 0 !important;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  border-radius: 6px;
+  margin: 0 !important;
 }
 
 .gallery img:hover {
-transform: scale(1.03);
-transition: transform 0.2s ease;
+  transform: scale(1.03);
+  transition: transform 0.2s ease;
 }
 
 @media (max-width: 600px) {
-body {
-font-size: 15px;
-padding: 20px;
-}
+  body {
+    font-size: 15px;
+    padding: 20px;
+  }
 
-header h1 {
-font-size: 1.62em;
-line-height: 1.2;
-}
+  header h1 {
+    font-size: 1.62em;
+    line-height: 1.2;
+  }
 
-h2 {
-font-size: 1.9rem;
-}
+  h2 {
+    font-size: 1.9rem;
+  }
 
-h3 {
-font-size: 1.5rem;
-}
+  h3 {
+    font-size: 1.5rem;
+  }
 
-img {
-max-width: 100%;
-}
+  img {
+    max-width: 100%;
+  }
 
-header nav {
-font-size: 14px;
-}
+  header nav {
+    font-size: 14px;
+  }
 }
 
 .container {
-max-width: 750px;
-width: 100%;
-margin: 0 auto;
-padding: 10px;
+  max-width: 750px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px;
 }
 
 main ul {
-list-style: none;
-margin: 0;
-padding: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 main ul li {
-margin: 0;
-line-height: 1.3;
+  margin: 0;
+  line-height: 1.3;
 }
 
 .home h2 {
-margin-top: 0.39rem;
-margin-bottom: 0.2rem;
+  margin-top: 0.39rem;
+  margin-bottom: 0.2rem;
 }
 
 .home p,
 .home em {
-margin: 0.2rem 0;
+  margin: 0.2rem 0;
 }
 
 .home a {
-display: inline-block;
-margin-top: 0.1rem;
-margin-bottom: 0.75rem;
+  display: inline-block;
+  margin-top: 0.1rem;
+  margin-bottom: 0.75rem;
 }
 
 .home br {
-line-height: 0.6;
+  line-height: 0.6;
 }
 
 main.home h2,
 main.home h3,
 main.home h4 {
-margin-bottom: 0.2em;
+  margin-bottom: 0.2em;
 }
 
 main.home hr {
-display: none;
+  display: none;
 }
 
 .recipe-intro,
 .show-intro {
-margin: 0 0 0.9rem 0;
-line-height: 1.45;
+  margin: 0 0 0.9rem 0;
+  line-height: 1.45;
 }
 
 .recipe-intro a,
 .show-intro a {
-display: inline !important;
-line-height: inherit !important;
+  display: inline !important;
+  line-height: inherit !important;
 }
 
 /* post list with thumbnails */
 .post-list {
-list-style: none;
-padding: 0;
-margin: 1rem 0;
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
 }
 
 .post-list li {
-display: flex;
-align-items: center; /* centres thumbnail + text block */
-gap: 12px;
-margin-bottom: 5px;
+  display: flex;
+  align-items: center; /* centres thumbnail + text block */
+  gap: 12px;
+  margin-bottom: 5px;
 }
 
 /* ensure the thumbnail container is an explicit square */
@@ -242,15 +242,18 @@ margin-bottom: 5px;
   flex: 0 0 60px;  /* fixed box in the flex row */
   display: block;
   box-sizing: border-box;
+  overflow: hidden;
 }
 
-/* override global img rules for thumbnails so they stretch to fill the square */
+/* very specific override for the thumbnail <img> so global img rules can't interfere */
+.post-list > li > .post-thumb img,
 .post-thumb img {
-  display: block;         /* remove inline-image descender gaps */
-  width: 100% !important; /* fill the square container */
+  display: block !important;         /* remove inline-image descender gaps */
+  width: 100% !important;            /* fill the square container */
   height: 100% !important;
-  aspect-ratio: auto !important; /* cancel the global 1/1 */
-  object-fit: fill;       /* keep the stretched behaviour you requested */
+  max-width: none !important;
+  aspect-ratio: auto !important;     /* cancel the global 1/1 */
+  object-fit: fill !important;       /* keep the stretched behaviour you requested */
   margin: 0 !important;
   border-radius: 4px;
 }
@@ -270,3 +273,8 @@ margin-bottom: 5px;
   text-align: left;
   box-sizing: border-box;
 }
+
+/* optional debug outlines (uncomment when troubleshooting)
+.post-thumb { outline: 2px solid lime; }
+.post-list a { outline: 2px dashed magenta; }
+*/
