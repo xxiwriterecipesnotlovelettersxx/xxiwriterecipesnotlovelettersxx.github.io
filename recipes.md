@@ -20,11 +20,9 @@ but whatever... there's other cool stuff here too &lt;3
 {% for post in recipe_posts %}
   <li>
     {% if post.thumbnail %}
-      <span class="post-thumb">
-        <a href="{{ post.url }}">
-          <img src="{{ post.thumbnail }}" alt="">
-        </a>
-      </span>
+      <div class="post-thumb">
+        <img src="{{ post.thumbnail }}" alt="">
+      </div>
     {% endif %}
 
     <a href="{{ post.url }}">
