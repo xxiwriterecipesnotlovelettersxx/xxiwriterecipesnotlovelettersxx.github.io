@@ -13,11 +13,9 @@ and my
 but whatever... there's other cool stuff here too &lt;3
 </p>
 
-<br>
-
 <ul class="post-list">
 {% assign recipe_posts = site.posts | where:"categories","recipe" | sort:"date" | reverse %}
-{% for post in life_posts %}
+{% for post in recipe_posts %}
   <li>
     {% if post.thumbnail %}
       <span class="post-thumb">
@@ -26,3 +24,10 @@ but whatever... there's other cool stuff here too &lt;3
         </a>
       </span>
     {% endif %}
+
+    <a href="{{ post.url }}">
+      {{ post.title }} - {{ post.date | date: "%b %-d, %y" }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
