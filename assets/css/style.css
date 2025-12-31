@@ -223,25 +223,32 @@ main.home hr {
 
 .post-list li {
   display: flex;
-  align-items: center; /* vertically centre the text next to the thumbnail */
-  gap: 12px;           /* space between thumbnail and text */
+  align-items: center; /* vertical centring */
+  gap: 12px;
   margin-bottom: 1rem;
 }
 
 .post-thumb {
-  width: 60px;   /* square width */
-  height: 60px;  /* square height */
+  width: 60px;
+  height: 60px;
   flex-shrink: 0;
 }
 
 .post-thumb img {
   width: 100%;
   height: 100%;
-  object-fit: fill; /* squishes/stretch to fill the square */
+  object-fit: fill; /* squish to fill square */
   border-radius: 4px;
 }
 
+.post-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* vertical centring for multi-line text */
+}
+
 .post-list a {
-  display: inline-block; /* allows text to wrap naturally */
-  line-height: 1.2;
+  line-height: 1.2; /* adjust spacing inside link */
+  text-decoration: none;
+  color: inherit;
 }
