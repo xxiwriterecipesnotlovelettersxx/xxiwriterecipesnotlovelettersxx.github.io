@@ -250,13 +250,14 @@ margin: 0 !important;
 border-radius: 4px;
 }
 
-/* make the link fill the remaining space and center its contents */
+/* anchor fills remaining space, left-aligns text, but vertically centers it */
 .post-list a {
-  display: flex;
-  flex: 1 1 auto;        /* allow the anchor to expand to the remaining width */
-  justify-content: center; /* horizontally center the link text in that space */
-  align-items: center;     /* vertically center the link text relative to the thumbnail */
-  min-height: 60px;
+  display: flex;          /* make the anchor a flex container */
+  flex: 1 1 auto;         /* allow it to expand to the remaining width */
+  justify-content: flex-start; /* keep text left-aligned */
+  align-items: center;    /* vertically center the text relative to the thumbnail */
+  min-height: 60px;       /* match thumbnail height so centering is consistent */
   line-height: 1.25;
-  text-align: center;      /* fallback centering for wrapped text */
+  text-align: left;
+  padding: 0;             /* optional: remove unexpected anchor padding */
 }
