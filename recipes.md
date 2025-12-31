@@ -25,7 +25,7 @@ but whatever... there's other cool stuff here too &lt;3
       </div>
     {% endif %}
 
-    <a href="{{ post.url }}" class="post-link">
+    <a href="{{ post.url }}">
       {{ post.title }} - {{ post.date | date: "%B %-d, %Y" }}
     </a>
   </li>
