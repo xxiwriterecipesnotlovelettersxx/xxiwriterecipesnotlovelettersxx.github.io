@@ -3,6 +3,7 @@ layout: post
 title: "street carp, could be stars, and clean coil @ the worker's club"
 date: 2025-12-20
 categories: show
+thumbnail: /images/cbs201.JPG
 ---
 <br>
 Street Carp
