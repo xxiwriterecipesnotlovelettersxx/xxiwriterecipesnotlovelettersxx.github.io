@@ -43,4 +43,5 @@ these struck a chord with the skramz youth at the foh/body shirt/cbs show...
 ![cookie2](/images/Screenshot_20251126-003128.png)
 ![cookie3](/images/IMG_20251126_002725_017.jpg)
 ![cookie4](/images/IMG_20251126_002652_011.jpg)
+![cookie5](/images/cookies2.jpg)
 image 3 & 4 credits @a.d.rome <3
