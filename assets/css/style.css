@@ -254,6 +254,6 @@ main.home hr {
   display: flex;
   align-items: center;
   line-height: 1.25;
-  padding-top: 15px;
+  padding-top: -8px;
 }
 
