@@ -19,15 +19,17 @@ but whatever... there's other cool stuff here too &lt;3
 {% assign recipe_posts = site.posts | where:"categories","recipe" | sort:"date" | reverse %}
 {% for post in recipe_posts %}
   <li>
-    {% if post.thumbnail %}
-      <div class="post-thumb">
-        <img src="{{ post.thumbnail }}" alt="">
-      </div>
-    {% endif %}
+  {% if post.thumbnail %}
+    <div class="post-thumb">
+      <img src="{{ post.thumbnail }}" alt="">
+    </div>
+  {% endif %}
 
+  <div class="post-text">
     <a href="{{ post.url }}">
       {{ post.title }} - {{ post.date | date: "%B %-d, %Y" }}
     </a>
-  </li>
+  </div>
+</li>
 {% endfor %}
 </ul>
