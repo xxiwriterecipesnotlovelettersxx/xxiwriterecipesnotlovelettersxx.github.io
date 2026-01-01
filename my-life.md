@@ -1,6 +1,6 @@
 ---
 layout: default
-title: my life
+title: my life etc.
 ---
 
 <h1>my life</h1>
