@@ -11,7 +11,7 @@ title: reviews
   <li>"ur so talented and pretty" - <em>asher</em></li>
   <li>"thats so special and awesome" - <em>asher</em></li>
   <li>"i lovveeee this this is so creative and beautiful of u" - <em>asher</em></li>
-  <li>"Im gonna blog all over you aha aha x" - <em>asher</em></li>
+  <li>"im gonna blog all over you aha x" - <em>asher</em></li>
 </ul>
 <br>
 <p>idk how to set this thing up properly so if you wish to leave a review send an email through the <a href="/contact">contact page</a>!</p>
