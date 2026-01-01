@@ -3,7 +3,7 @@ layout: default
 title: my life etc.
 ---
 
-<h1>my life</h1>
+<h1>my life etc.</h1>
 <p>hi OMG welcome to my life... what have i been up to lately?</p>
 
 <ul class="post-list">
