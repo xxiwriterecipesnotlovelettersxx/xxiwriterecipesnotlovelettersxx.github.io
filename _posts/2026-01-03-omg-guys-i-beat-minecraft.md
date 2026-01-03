@@ -44,7 +44,7 @@ then the end portals
 end crystals
 </p>
 
-![endcrystal](/images/encrystal.png)
+![endcrystal](/images/endcrystal.png)
 
 <p class="show-intro">
 dragon fight
@@ -56,7 +56,7 @@ dragon fight
 yeah killed the dragon
 </p>
 
-![dragonexplode](/images/dragonexplode.jpg)
+![dragonexplode](/images/dragonexplode.png)
 
 <p class="show-intro">
 to complete the room's ambience, we played some quiet music, closed the curtains and dimmed the lights, and finally invited everyone upstairs to eat. 
