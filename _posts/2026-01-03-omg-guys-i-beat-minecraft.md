@@ -9,22 +9,14 @@ thumbnail: /images/dragonexplode.png
 ![myhouse](/images/houseminecraft.png)
 
 <p class="show-intro">
-i've been mining AND crafting as of late...
+i've been mining AND crafting as of late... bbbbbbbbbbbbbbbbbbbbbbbbbbbb
 </p>
 <br>
 <p class="show-intro">
-last night 6 of my friends (jesse, sienna, asher, laura, jasmine, kal) & i met at jesse's house for our lovely vegan family christmas dinner. it was so nice to see everyone and spend time together before the end of the year, as well as to share food and music.
-</p>
-<br>
-<p class="show-intro">
-here is how YOU can host your very own skramzmas dinner!
-</p>
-<br>
-<p class="show-intro">
-to cater for the night, i cooked a main course of <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/27/skramzmas-stuffed-pumpkin-roast.html">roasted butternut pumpkin</a>, which was filled with stuffing made from mushrooms, lentils, cranberries, nutmeg, and more.
+after searching forever i FINALLY found a nether fortess. this has taken me wayy too long and was definitely the biggest thing slowing down my progress (but i'm so scared of dying far from home in the nether).
 </p>
 
-![pumpkin1](/images/pumpkin1.JPG)
+![blaze](/images/blaze.png)
 
 <p class="show-intro">
 for dessert, i tried my hand at making a <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/tiramisu.html">vegan tiramisu</a>. although i misjudged the size of container a little bit, i was surprised by how well this turned out! i will definitely make this again soon.
