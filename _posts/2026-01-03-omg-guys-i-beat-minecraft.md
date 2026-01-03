@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OMG GUYS I BEAT MINECRAFT"
-date: 2025-12-30
+date: 2026-01-03
 categories: life
 thumbnail: /images/dragonexplode.png
 ---
