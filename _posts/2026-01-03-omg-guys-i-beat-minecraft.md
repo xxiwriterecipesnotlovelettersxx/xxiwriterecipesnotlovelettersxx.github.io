@@ -41,7 +41,7 @@ i made sure i was ready, then activated the portal and jumped in..eek!
 ![endportal](/images/endportal2.png)
 
 <p class="show-intro">
-my fight with the dragon was wayy easier than i remember last time being. this time i remembered to make slow falling potions which saved me a few times.
+my fight with the dragon was wayy easier than i remembered last time being. this time i didn't forget to make slow falling potions which saved me a few times! highly recommend doing this<3
 </p>
 
 <div class="gallery">
@@ -54,19 +54,19 @@ my fight with the dragon was wayy easier than i remember last time being. this t
 </div>
 
 <p class="show-intro">
-yeah killed the dragon
+i killed the dragon while it was perching, without struggling very much?? i wonder if it is more difficult on java (which i was playing last time). instead of going home through the portal, i used an end gateway to set off in search for end cities.
 </p>
 
 ![dragonexplode](/images/dragonexplode.png)
 
 <p class="show-intro">
-found 3 end cities right next to each other! all with a ship
+within a few hundred blocks after coming out the other side of the gateway, i found 3 end cities next to each other, ALL with ships! i lost track of where i had and hadn't already cleared, so i don't think i killed 100% of the shulkers? but anyways
 </p>
 
 ![endcities](/images/endcities.png)
 
 <p class="show-intro">
-got 3 pairs of elytra then flew HOME. wow it was good to be back.
+i got THREE pairs of elytra, then flew all the way back to the portal to the overworld, and back from the stronghold (where i set my spawn) to my house. it was nice to be home:) 
 </p>
 
 ![backhome](/images/backhome.png)
