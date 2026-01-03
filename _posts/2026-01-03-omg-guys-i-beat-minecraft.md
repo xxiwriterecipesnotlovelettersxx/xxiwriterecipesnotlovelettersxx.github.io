@@ -16,16 +16,23 @@ i've been mining AND crafting as of late... bbbbbbbbbbbbbbbbbbbbbbbbbbbb
 after searching forever i FINALLY found a nether fortess. this had taken me wayy too long and was definitely the biggest thing slowing down my progress (but i'm so scared of dying far from home in the nether).
 </p>
 <p class="show-intro">
-after getting killed by some wither skeletons, i set myself up at a blaze spawner and stayed there for a while. i fought enough blazes to end up with around 30 blaze rods, so i could make sure i wouldn't need to come back here for a long time:3
+after almost getting killed by some wither skeletons, i set myself up at a blaze spawner and stayed there for a while. i fought enough blazes to end up with around 30 blaze rods, so i could make sure i wouldn't need to come back here for a long time:3
 </p>
 
 ![blaze](/images/blaze.png)
 
 <p class="show-intro">
-for dessert, i tried my hand at making a <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/tiramisu.html">vegan tiramisu</a>. although i misjudged the size of container a little bit, i was surprised by how well this turned out! i will definitely make this again soon.
+journey to portal
 </p>
 
-![tiramisu2](/images/tiramisu2.JPG)
+<div class="gallery">
+   <a href="/images/travel1.png">
+    <img src="/images/travel1.png" alt="travel">
+  </a>
+   <a href="/images/farfromhome.png">
+    <img src="/images/farfromhome.png" alt="farfromhome">
+  </a>
+</div>
 
 <p class="show-intro">
 and, to keep a promise i made at the last spit show, i also brought everyone some of my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a>. this batch that i baked might have been my best so far...
