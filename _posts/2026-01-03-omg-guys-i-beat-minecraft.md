@@ -38,14 +38,7 @@ journey to portal
 then the end portals
 </p>
 
-<div class="gallery">
-   <a href="/images/endportal1.png">
-    <img src="/images/endportal1.png" alt="endportal1">
-  </a>
-   <a href="/images/endportal2.png">
-    <img src="/images/endportal2.png" alt="endportal">
-  </a>
-</div>
+![endportal](/images/endportal2.png)
 
 <p class="show-intro">
 end crystals
