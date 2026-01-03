@@ -35,10 +35,17 @@ journey to portal
 </div>
 
 <p class="show-intro">
-and, to keep a promise i made at the last spit show, i also brought everyone some of my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/11/25/vegan-cookies-that-i-brought-to-spit.html">cookies</a>. this batch that i baked might have been my best so far...
+then the end portals
 </p>
 
-![cookies1](/images/cookies1.JPG)
+<div class="gallery">
+   <a href="/images/endportal1.png">
+    <img src="/images/endportal1.png" alt="endportal1">
+  </a>
+   <a href="/images/endportal2.png">
+    <img src="/images/endportal2.png" alt="endportal">
+  </a>
+</div>
 
 <p class="show-intro">
 in the afternoon we sat outside, making the most of the daylight before eating. while everyone else sat by or swam in jesse's pool, sienna, kal and i decided to move the christmas tree onto the dinner table (MUCH easier said than done). after a few minor setbacks, we started adding some final touches to the room.
