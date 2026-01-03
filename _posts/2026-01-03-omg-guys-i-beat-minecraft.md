@@ -41,16 +41,17 @@ i made sure i was ready, then activated the portal and jumped in..eek!
 ![endportal](/images/endportal2.png)
 
 <p class="show-intro">
-end crystals
+my fight with the dragon was wayy easier than i remember last time being. this time i remembered to make slow falling potions which saved me a few times.
 </p>
 
-![endcrystal](/images/endcrystal.png)
-
-<p class="show-intro">
-dragon fight
-</p>
-
-![dragonfight](/images/dragonfight.png)
+<div class="gallery">
+   <a href="/images/endcrystal.png">
+    <img src="/images/endcrystal.png" alt="endcrystal">
+  </a>
+   <a href="/images/dragonfight.png">
+    <img src="/images/dragonfight.png" alt="dragonfight">
+  </a>
+</div>
 
 <p class="show-intro">
 yeah killed the dragon
