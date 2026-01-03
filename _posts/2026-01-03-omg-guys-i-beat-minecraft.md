@@ -13,7 +13,11 @@ i've been mining AND crafting as of late... bbbbbbbbbbbbbbbbbbbbbbbbbbbb
 </p>
 <br>
 <p class="show-intro">
-after searching forever i FINALLY found a nether fortess. this has taken me wayy too long and was definitely the biggest thing slowing down my progress (but i'm so scared of dying far from home in the nether). after getting killed by some wither skeletons, i set myself up at a blaze spawner and stayed there for a while. i fought enough blazes to end up with around 30 blaze rods, so i could make sure i wouldn't need to come back here for a long time:3
+after searching forever i FINALLY found a nether fortess. this had taken me wayy too long and was definitely the biggest thing slowing down my progress (but i'm so scared of dying far from home in the nether).
+</p>
+<br>
+<p class="show-intro">
+after getting killed by some wither skeletons, i set myself up at a blaze spawner and stayed there for a while. i fought enough blazes to end up with around 30 blaze rods, so i could make sure i wouldn't need to come back here for a long time:3
 </p>
 
 ![blaze](/images/blaze.png)
