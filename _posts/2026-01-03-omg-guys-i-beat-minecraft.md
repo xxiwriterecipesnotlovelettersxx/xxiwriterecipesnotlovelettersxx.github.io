@@ -48,29 +48,22 @@ then the end portals
 </div>
 
 <p class="show-intro">
-in the afternoon we sat outside, making the most of the daylight before eating. while everyone else sat by or swam in jesse's pool, sienna, kal and i decided to move the christmas tree onto the dinner table (MUCH easier said than done). after a few minor setbacks, we started adding some final touches to the room.
+end crystals
 </p>
 
-![decorating1](/images/decorating1.JPG)
+![endcrystal](/images/encrystal.png)
 
 <p class="show-intro">
-we were lighting candles, setting the table, and getting all of the food ready to serve. sienna arranged some vegan cheese & sriracha to look like little snowmen, with peppercorn buttons & eyes. we also made up a last-minute punch, made from tropical juice, ginger beer, and sprite, with pieces of mango and a strawberry.
+dragon fight
 </p>
 
-<div class="gallery">
-   <a href="/images/snowmen1.JPG">
-    <img src="/images/snowmen1.JPG" alt="snowmen">
-  </a>
-   <a href="/images/punch1.JPG">
-    <img src="/images/punch1.JPG" alt="punch">
-  </a>
-</div>
+![dragonfight](/images/dragonfight.png)
 
 <p class="show-intro">
-with all of our decorating completed, the results spoke for themselves...
+yeah killed the dragon
 </p>
 
-![christmas4](/images/christmas4.JPG)
+![dragonexplode](/images/dragonexplode.jpg)
 
 <p class="show-intro">
 to complete the room's ambience, we played some quiet music, closed the curtains and dimmed the lights, and finally invited everyone upstairs to eat. 
