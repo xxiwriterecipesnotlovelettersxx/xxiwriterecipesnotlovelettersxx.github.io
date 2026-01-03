@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OMG GUYS I BEAT MINECRAFT"
+title: "OMG I BEAT MINECRAFT"
 date: 2026-01-03
 categories: life
 thumbnail: /images/dragonexplode.png
@@ -67,6 +67,10 @@ within a few hundred blocks after coming out the other side of the gateway, i fo
 
 <p class="show-intro">
 i got THREE pairs of elytra, then flew all the way back to the portal to the overworld, and back from the stronghold (where i set my spawn) to my house. it was nice to be home:) 
+</p>
+<br>
+<p class="show-intro">
+who knows what lies ahead for my minecraft world... i am hoping i get inspired and do not lose interest now? if you have any ideas pleaseee let me know thanks everyonee<3
 </p>
 
 ![backhome](/images/backhome.png)
