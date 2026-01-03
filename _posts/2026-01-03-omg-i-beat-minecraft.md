@@ -13,10 +13,7 @@ hi guys. i've been getting back into minecraft lately.. we will se how long this
 </p>
 <br>
 <p class="show-intro">
-after searching forever i FINALLY found a nether fortess. this took me wayy too long to do and was definitely slowing down my progress (but i'm so scared of dying far from home in the nether).
-</p>
-<p class="show-intro">
-after almost getting killed by some wither skeletons, i set myself up at a blaze spawner and stayed there for a while. i fought enough blazes to end up with around 30 blaze rods, so i could make sure i wouldn't need to come back here for a long time:3
+after searching forever i FINALLY found a nether fortess. this took me wayy too long to do and was definitely slowing down my progress (but i'm so scared of dying far from home in the nether). inside the fortress, i set myself up at a blaze spawner and stayed there for a while. i fought enough blazes to end up with around 30 blaze rods, so i could make sure i wouldn't need to come back here for a long time:3
 </p>
 
 ![blaze](/images/blaze.png)
