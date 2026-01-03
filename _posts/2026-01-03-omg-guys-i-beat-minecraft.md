@@ -22,7 +22,7 @@ after almost getting killed by some wither skeletons, i set myself up at a blaze
 ![blaze](/images/blaze.png)
 
 <p class="show-intro">
-once i left the fortress, i returned home and crafted my eyes of ender. following them the first time took me to a stronghold with no portal room (which i think happens often on education edition?), so i built a nether portal and travelled far away. this time i was able to find an end portal!
+once i left the fortress, i returned home and crafted my eyes of ender. following them the first time took me to a stronghold with no portal room (which i think happens often on education edition?), so i built a nether portal and travelled a long way. this time i was able to find an end portal!
 </p>
 
 <div class="gallery">
@@ -35,7 +35,7 @@ once i left the fortress, i returned home and crafted my eyes of ender. followin
 </div>
 
 <p class="show-intro">
-then the end portals
+i made sure i was ready, then activated the portal and jumped in..eek! 
 </p>
 
 ![endportal](/images/endportal2.png)
