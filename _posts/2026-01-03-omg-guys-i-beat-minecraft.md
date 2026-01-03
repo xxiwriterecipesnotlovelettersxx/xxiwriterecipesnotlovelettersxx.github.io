@@ -9,11 +9,11 @@ thumbnail: /images/dragonexplode.png
 ![myhouse](/images/houseminecraft.png)
 
 <p class="show-intro">
-i've been mining AND crafting as of late... bbbbbbbbbbbbbbbbbbbbbbbbbbbb
+hi guys. i've been getting back into minecraft lately.. we will se how long this lasts. here is what i've done recently!
 </p>
 <br>
 <p class="show-intro">
-after searching forever i FINALLY found a nether fortess. this had taken me wayy too long and was definitely the biggest thing slowing down my progress (but i'm so scared of dying far from home in the nether).
+after searching forever i FINALLY found a nether fortess. this took me wayy too long to do and was definitely slowing down my progress (but i'm so scared of dying far from home in the nether).
 </p>
 <p class="show-intro">
 after almost getting killed by some wither skeletons, i set myself up at a blaze spawner and stayed there for a while. i fought enough blazes to end up with around 30 blaze rods, so i could make sure i wouldn't need to come back here for a long time:3
@@ -22,7 +22,7 @@ after almost getting killed by some wither skeletons, i set myself up at a blaze
 ![blaze](/images/blaze.png)
 
 <p class="show-intro">
-journey to portal
+once i left the fortress, i returned home and crafted my eyes of ender. following them the first time took me to a stronghold with no portal room (which i think happens often on education edition?), so i built a nether portal and travelled far away. this time i was able to find an end portal!
 </p>
 
 <div class="gallery">
