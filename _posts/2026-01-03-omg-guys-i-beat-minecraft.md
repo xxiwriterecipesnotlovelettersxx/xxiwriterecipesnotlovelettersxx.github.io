@@ -59,26 +59,13 @@ yeah killed the dragon
 ![dragonexplode](/images/dragonexplode.png)
 
 <p class="show-intro">
-to complete the room's ambience, we played some quiet music, closed the curtains and dimmed the lights, and finally invited everyone upstairs to eat. 
+found 3 end cities right next to each other! all with a ship
 </p>
 
-![christmas1](/images/christmas1.JPG)
+![endcities](/images/endcities.png)
 
 <p class="show-intro">
-after we finished our skramzmas dinner, we went into the kitchen to decorate <a href="https://xxiwriterecipesnotlovelettersxx.github.io/recipe/2025/12/30/jasmines-vegan-gingerbread.html">gingerbread that jasmine had baked</a>, complete with a turmeric and mango frosting that asher happily contributed.
+got 3 pairs of elytra then flew HOME. wow it was good to be back.
 </p>
 
-<div class="gallery">
-   <a href="/images/asher1.JPG">
-    <img src="/images/asher1.JPG" alt="asher">
-  </a>
-   <a href="/images/gingerbread1.JPG">
-    <img src="/images/gingerbread1.JPG" alt="gingerbread">
-  </a>
-</div>
-
-<p class="show-intro">
-once the sun had set, we spent more time playing music, swimming in the pool, and looking at wasp nests in jesse's board game collection. although the evening would eventually end up as early morning, our skramzmas dinner didn't ever feel rushed or overplanned. yay!
-</p>
-
-![pumpkin3.JPG](/images/pumpkin3.JPG)
+![backhome](/images/backhome.png)
