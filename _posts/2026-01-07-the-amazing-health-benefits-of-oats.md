@@ -3,7 +3,7 @@ layout: post
 title: "the amazing health benefits of oats"
 date: 2026-01-07
 categories: life
-thumbnail: /images/mycriesfallondeafears.jpg
+thumbnail: /images/oats.jpg
 ---
 
 <br>
@@ -46,3 +46,5 @@ oats provide a source of non-heme iron, the form of iron found in plant foods. t
 <p class="show-intro">
 pairing oats with orange juice can significantly improve iron absorption. orange juice is rich in vitamin c, which increases the bioavailability of non-heme iron when consumed at the same time. PLEASE try this, as it also tastes really nice. this combination of oats and juice changed my life, maybe it will change yours too? pleaseee??
 </p>
+
+![oats](/images/oats.jpg)
