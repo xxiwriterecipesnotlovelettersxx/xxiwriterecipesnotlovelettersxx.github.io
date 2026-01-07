@@ -20,7 +20,7 @@ due to this structure, oats have a well-balanced nutritional composition. they s
 </p>
 <br>
 <p class="show-intro">
-for a grain, oats are also a good source of plant-based protein. this makes them particularly beneficial to vegans (me!!) or vegetarians, while still being useful for anyone seeking a balanced diet.
+for a grain, oats are also a good source of plant-based protein. this makes them particularly beneficial to vegans (me!!) or vegetarians.
 </p>
 <br>
 <p class="show-intro">
