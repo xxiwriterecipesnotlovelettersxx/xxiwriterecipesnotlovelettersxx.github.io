@@ -13,6 +13,7 @@ oats, or 'avena sativa', are one of the most nourishing and beneficial foods you
 <br>
 <p class="show-intro">
 unrefined oats (which make up the majority of commercially available oats) are a whole grain. this means they retain all three parts of the grain kernel: the bran, germ, and endosperm. each part of the grain contributes essential elements. the bran layer is rich in fibre and b vitamins, which support digestion and energy metabolism. the germ contains healthy oils and important nutrients, and the starchy endosperm provides sustained energy along with b vitamins, iron, and fibre.
+</p>
 <br>
 <p class="show-intro">
 due to this structure, oats have a well-balanced nutritional composition. they supply complex carbohydrates that fuel the body steadily, as opposed to leading to drastic energy spikes and crashes.
