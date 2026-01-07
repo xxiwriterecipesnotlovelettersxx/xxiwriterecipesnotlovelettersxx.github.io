@@ -1,0 +1,138 @@
+---
+layout: post
+title: "the amazing health benefits of oats"
+date: 2026-01-07
+categories: life
+thumbnail: /images/mycriesfallondeafears.jpg
+---
+
+<br>
+<p class="show-intro">
+oats, or 'avena sativa', are one of the most nourishing and beneficial foods you can incorporate into your diet.
+</p>
+<br>
+<p class="show-intro">
+unrefined oats (which make up the majority of commercially available oats) are a whole grain. this means they retain all three parts of the grain kernel: the bran, germ, and endosperm. each part of the grain contributes essential elements. the bran layer is rich in fibre and b vitamins, which support digestion and energy metabolism. the germ contains healthy oils and important nutrients, and the starchy endosperm provides sustained energy along with b vitamins, iron, and fibre.
+<br>
+<p class="show-intro">
+due to this structure, oats have a well-balanced nutritional composition. they supply complex carbohydrates that fuel the body steadily, as opposed to leading to drastic energy spikes and crashes.
+</p>
+<br>
+<p class="show-intro">
+for a grain, oats are also a good source of plant-based protein. this makes them particularly beneficial to vegans (me!!) or vegetarians, while still being useful for anyone seeking a balanced diet.
+</p>
+<br>
+<p class="show-intro">
+oats also contain large amounts of essential vitamins, minerals, and antioxidant compounds. this dense concentration of nutrients has led to them being often-described as one of the most nutrient-dense foods on the planet.
+</p>
+<br>
+
+
+
+
+
+
+
+
+
+### 'Everything I Love' - could be stars, 01/02/25
+
+![everythingilove](/images/everythingilove.jpg)
+
+<p class="show-intro">
+djilang alternative/indie rock/emo band could be stars' <a href="https://couldbestars.bandcamp.com/album/everything-i-love">everything i love</a> is a very well-written album. i may be biased considering the fact that i have since joined the band's lineup (shoutout in her palms) but! big fan of this one regardless. thankyou friends <3 very well done... the lo-fi mixing makes for a calming, well-paced record.
+</p>
+<br>
+
+### 'Hands In The Air!' - Told Not To Worry, 12/02/25
+
+![handsintheair](/images/handsintheair.jpg)
+
+<p class="show-intro">
+ohhhhhhhh my god. <a href="https://toldnottoworry.bandcamp.com/album/hands-in-the-air">hands in the air</a> comes from rhode island band told not to worry, one of my favourite bands ever. this album was my introduction to sasscore, and i wouldn't have it any other way. the instrumentals, vocals, and mixing on this album are all flawless - queer emoviolence has never sounded better than this. even the album cover is one of my favourites. i can't fault this release in any way. yes i know exactly how i sound.
+</p>
+<br>
+
+### 'stitching' ep - stitching, 21/03/25
+
+![stitching](/images/stitching.jpg)
+
+<p class="show-intro">
+arizona band stitching's <a href="https://stitchingband.bandcamp.com/album/stitching">self-titled ep</a> really stood out to me because of its natural blend of indie emo and screamo with a very diy sound. i love the way the screaming and clean vocals are layered together, and how dynamic the jumps from dissonant, basement-skramz sections into softer, lo-fi, and melodic parts feel.
+</p>
+<br>
+
+### 'Split' - doris & es muss sein, 28/03/25
+
+![split](/images/dorisesmusssein.jpg)
+
+<p class="show-intro">
+this <a href="https://open.spotify.com/album/2xKTyQyvfq41BxYnmaNALn?si=N8gvUFIPQn-H8FTXpjXY2A">split</a> made by doris (eora/sydney) and es muss sein (melbourne/naarm) was notable as es muss sein's debut release, as well as doris' last. i really like this split for its varying sound, with smooth transitions between slower, relaxed sections and heavier, louder parts. both of my favourite songs from each band can be found on this record - 'every bird' by doris and 'parting shot' by es muss sein.
+</p>
+<br>
+
+### 'a temporary stay' ep - flowersforpersephone, 23/04/25
+
+![atemporarystay](/images/atemporarystay.jpg)
+
+<p class="show-intro">
+self-described as 'pink belt', <a href="https://flowersforpersephone.bandcamp.com/album/a-temporary-stay">a temporary stay</a> reminds me a lot of told not to worry (and we know how i feel about told not to worry). flowersforpesephone, an ohio band, span so many different genres across this ep. overall a sasscore/queer emoviolence release, there are also elements of emogrind and deathcore-style breakdowns. the band ties this all together to create a cohesive (but very chaotic) sound. more female-fronted sass & screamo pls!!
+</p>
+<br>
+
+### 'Forward' - First Day Back, 01/06/25
+
+![forward](/images/forward.jpg)
+
+<p class="show-intro">
+<a href="https://firstdayback.bandcamp.com/album/forward">forward</a> by californian emo band first day back has such a charming, classic, and warm emo sound. it makes for easy listening, and its nostalgic undertones and structure show clear 90s/2000s emo influence. they perfectly capture the sound of emo 20 years ago - the fact that this album is their debut is crazy to me... first day back will only grow from here, already having opened for algernon cadwallader for part of their 2025 tour. very excited for whatever they release next!
+</p>
+<br>
+
+### 'mycriesfallondeafears' - mycriesfallondeafears, 18/07/25
+
+![mycriesfallondeafears](/images/mycriesfallondeafears.jpg)
+
+<p class="show-intro">
+ever since seeing this eora/sydney band play at d'shut in 2024, i waited impatiently for a them to release a full album. when i first heard their self-titled <a href="https://mycriesfallondeafears.bandcamp.com/album/mycriesfallondeafears">mycriesfallondeafears</a> record, all of my expectations were surpassed. this has been one of my most-played albums in 2025, and kick his teeth thru might just be my song of the year. mycriesfallondeafears pleaseeee come back to play more naarm shows...
+</p>
+<br>
+
+### 'Fear of Horses' - Fear of Horses, 27/07/25
+
+![fearofhorses](/images/fearofhorses.jpg)
+
+<p class="show-intro">
+<a href="https://fearofhorses1.bandcamp.com/album/fear-of-horses-2">fear of horses</a>, the new south wales band's self-titled album, has been described as a skramz "masterpiece", and i completely agree. the band's songwriting is great, and the recording is close to perfection. great dynamics on here - a masterclass in screamo/emoviolence, with just a slight shoegaze influence.
+</p>
+<br>
+
+### 'body shirt / life' - body shirt & life, 02/11/25
+
+![bodyshirtlife](/images/bodyshirtlife.jpg)
+
+<p class="show-intro">
+new south wales skramz group body shirt's releases were of a consistently high quality in 2025. <a href="https://life9.bandcamp.com/album/body-shirt-life">body shirt / life</a>, a split with baltimore emocore band life, was only further proof of this. body shirt's part of this split is some very emotional and often heavy screamo (and has my favourite song of theirs on there, knives to my waist). life's side features a despairing, powerful sound which takes almost rhapsodic form, characterised by long, clean, and dream-like introductions.
+</p>
+<br>
+
+### 'Told Not To BLOUSE' - Told Not To Worry & BLOUSE, 04/11/25
+
+![toldnottoblouse](/images/toldnottoblouse.jpg)
+
+<p class="show-intro">
+yes i'm talking about told not to worry again... <a href="https://toldnottoworry.bandcamp.com/album/told-not-to-blouse">told not to blouse</a>, their split with new york hardcore punk/screamo band blouse, is a big step forward from hands in the air in terms of sass and chaos. there is so much going on in these recordings, in the best way possible. jane-ramona's vocals fit the band's sound on this split perfectly. i will be forever envious of tntw's songwriting.
+</p>
+<br>
+
+### '10 Songs' - Chigaki Death Metro & With One Exception, 19/12/25
+
+![10songs](/images/10songs.jpg)
+
+<p class="show-intro">
+a split between kaurna/adelaide bands chigaki death metro and with one exception, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 songs</a> continues the tradition set by i hate myself with their record of the same name, in that both of these releases' tracklists do not feature 10 songs. i was lucky enough to see chigaki death metro the day after this split released, when they played with all that's left of you. their side of the split is violent and very sassy, bordering on mathcore at times. with one exception have a very fresh, energetic screamo sound, with no shortage of blastbeats.
+</p>
+<br>
+<p class="show-intro">
+2025 was such a great year for emo music, especially in australia! if you like these releases make sure to support the bands behind them by purchasing their music on <a href="https://bandcamp.com">bandcamp</a> - this is one of the best ways you can directly contribute to artists (and the scene as a whole), own the music you buy, and have the added benefit of higher audio quality if that's your thing. i can only hope that 2026 is as prosperous a year for music as 2025!
+</p>
