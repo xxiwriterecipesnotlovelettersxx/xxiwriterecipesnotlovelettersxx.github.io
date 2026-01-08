@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the amazing health benefits of oats"
+title: "10 amazing health benefits of oats"
 date: 2026-01-07
 categories: life
 thumbnail: /images/oats.jpg
@@ -17,8 +17,11 @@ oats, or 'avena sativa', are one of the most nourishing and beneficial foods you
 unrefined oats (which make up the majority of commercially available oats) are a whole grain. this means they retain all three parts of the grain kernel: the bran, germ, and endosperm. each part of the grain contributes essential elements, providing fiber, vitamins, minerals, antioxidants, and proteins. 
 </p>
 <br>
+
+### 2. they provide sustained energy
+
 <p class="show-intro">
-due to this structure, oats have a well-balanced nutritional composition. they supply complex carbohydrates that fuel the body steadily, as opposed to leading to drastic energy spikes and crashes.
+oats have a well-balanced composition. they supply complex carbohydrates that fuel the body steadily, as opposed to leading to drastic energy spikes and crashes. their high fibre content also slow the absorption of glucose into the bloodstream, supporting stable levels of blood sugar (which leads to fewer fluctuations in energy levels).
 </p>
 <br>
 <p class="show-intro">
