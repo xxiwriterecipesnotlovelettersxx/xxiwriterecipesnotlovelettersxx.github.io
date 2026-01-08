@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OMG I BEAT MINECRAFT"
+title: "I BEAT MINECRAFT"
 date: 2026-01-03
 categories: life
 thumbnail: /images/dragonexplode.png
