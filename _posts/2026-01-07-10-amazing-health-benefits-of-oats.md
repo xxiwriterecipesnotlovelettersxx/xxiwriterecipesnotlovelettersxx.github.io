@@ -2,7 +2,7 @@
 layout: post
 title: "10 amazing health benefits of oats"
 date: 2026-01-07
-categories: life
+categories: lifex
 thumbnail: /images/oats.jpg
 ---
 
