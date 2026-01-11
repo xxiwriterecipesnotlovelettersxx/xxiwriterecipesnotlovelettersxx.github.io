@@ -6,6 +6,7 @@ categories: show
 thumbnail: /images/spitoutside.JPG
 ---
 <br>
+<p class="show-intro">
 <a href="http://gutlessmelbourne.bandcamp.com/">Gutless</a>
 <br>
 <a href="http://vileapparition.bandcamp.com">Vile Apparition</a>
@@ -13,7 +14,7 @@ thumbnail: /images/spitoutside.JPG
 <a href="http://katorga2.bandcamp.com/">Katorga</a>
 <br>
 <a href="http://tumour.bandcamp.com/">Tumour</a>
-<br>
+</p>
 <br>
 Early Saturday evening, a crowd began to gather outside Spit in Footscray for an extreme metal DIY show, played by four local Naarm bands. Leaving the nearby Sharetea (with a strawberry fruit tea with lychee and strawberry pearls), I headed to the door to buy my ticket. Being more familiar with the local emo scene, the poster's promise of "death metal" definitely caught my attention.
 
