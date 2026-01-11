@@ -35,7 +35,14 @@ vile
 <br><br>
 apparition
 
-![vileapparition](/images/vileapparition1.JPG)
+<div class="gallery">
+   <a href="/images/vileapparition1.JPG">
+    <img src="/images/vileapparition1.JPG" alt="vileapparition">
+  </a>
+   <a href="/images/00.JPG">
+    <img src="/images/00.JPG" alt="crowd">
+  </a>
+</div>
 
 Naarm/Melbourne band all that's left of you played the final set of the night, their last performance before they "hit da studio" (huge). Guitarist Valentine's amp was screamingly loud, bringing a passionate and energetic close to the show. Rumours of a gatecrash cover were confirmed later in their set, as they brought 'flood', the title track from our first release, back to life. This was an emotional moment for some as they sung along.
 <br><br>
