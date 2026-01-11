@@ -14,11 +14,11 @@ Katorga
 <br>
 Tumour
 <br><br>
-Late Saturday afternoon, a crowd started to gather outside Spit in Footscray for an extreme metal DIY show, played by four local Naarm bands. After leaving Sharetea with a strawberry fruit tea with lychee and strawberry pearls (thanks for the recommendation Holly<3), I headed to the door to buy my ticket. Being more familiar with the local skramz scene, the poster's promise of 'death metal' definitely caught my attention.
+Early Saturday evening, a crowd started to gather outside Spit in Footscray for an extreme metal DIY show, played by four local Naarm bands. After leaving Sharetea with a strawberry fruit tea with lychee and strawberry pearls (thanks for the recommendation Holly<3), I headed to the door to buy my ticket. Being more familiar with the local skramz scene, the poster's promise of 'death metal' definitely caught my attention.
 
 ![poster](/images/gutlessposter1.jpg)
 
-Though Chromatin set the bar high with an incredible first performance at their Geelong house show back in October, they managed to raise it once more at Spit. Their blend of post hardcore and screamo was heavier than ever before, with ebbing and flowing guitar-driven melodies supporting vocalist Liam's raw, powerful screams.
+With doors at this show opening 7:00, the venue quickly reached its capacity of around 100 people very quickly. 
 <br><br>
 As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could be stars their own, reimagining it as a sludgy and dark piece. During this tribute, the green alien toy from the August 3rd Underthealmonds house show made a reappearance, this time without finding any roofs to get stuck on.
 
