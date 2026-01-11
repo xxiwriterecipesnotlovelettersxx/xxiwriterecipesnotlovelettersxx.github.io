@@ -15,11 +15,11 @@ thumbnail: /images/spitoutside.JPG
 <a href="http://tumour.bandcamp.com/">Tumour</a>
 <br>
 <br>
-Early Saturday evening, a crowd began to gather outside Spit in Footscray for an extreme metal DIY show, played by four local Naarm bands. After leaving Sharetea with a strawberry fruit tea with lychee and strawberry pearls (thanks for the recommendation, Holly), I headed to the door to buy my ticket. Being more familiar with the local emo scene, the poster's promise of "death metal" definitely caught my attention.
+Early Saturday evening, a crowd began to gather outside Spit in Footscray for an extreme metal DIY show, played by four local Naarm bands. Leaving the nearby Sharetea (with a strawberry fruit tea with lychee and strawberry pearls), I headed to the door to buy my ticket. Being more familiar with the local emo scene, the poster's promise of "death metal" definitely caught my attention.
 
 ![poster](/images/gutlessposter1.jpg)
 
-With doors opening at 7:00, the venue quickly reached its capacity of around 100 people. The night opened with Tumour, who plunged the audience into the deep end immediately with their extreme death metal sound. They kept the energy high as a mosh pit broke out early into their set. 
+With doors opening at 7:00, the venue quickly reached its capacity of around 100 people. The night opened with Tumour, who plunged the audience into the deep end immediately with their extreme death metal sound. They kept the energy high as a mosh pit formed early into their set. 
 <br><br>
 Slowing things down as they approached the end, they promised the audience two more songs. The first of these was droning, slow-tempoed, and heavy, with clear doom influence, that let the crowd momentarily catch their breath. However, their brief respite didn’t last long as they closed with a final song that was faster and far more violent, ending their set on a brutal peak.
 
