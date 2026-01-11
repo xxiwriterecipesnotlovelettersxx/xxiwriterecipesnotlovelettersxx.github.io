@@ -22,7 +22,7 @@ Early Saturday evening, a crowd began to gather outside Spit in Footscray for an
 
 With doors opening at 7:00, the venue quickly reached its capacity of around 100 people. The night opened with Tumour, who plunged the audience into the deep end immediately with their extreme death metal sound. They kept the energy high as a mosh pit formed early into their set. 
 <br><br>
-Slowing things down as they approached the end, they promised the audience two more songs. The first of these was droning, slow-tempoed, and heavy, with clear doom influence, that let the crowd momentarily catch their breath. However, their brief respite didn’t last long as they closed with a final song that was faster and far more violent, ending their set on a brutal peak.
+Slowing things down as they approached the end, they promised the audience two more songs. The first was droning, slow-tempoed, and heavy, with clear doom influence, letting the crowd momentarily catch their breath. However, their brief respite didn’t last long as they closed with a final song that was faster and far more violent, ending their set on a brutal peak.
 
 ![tumour](/images/tumour1.JPG)
 
@@ -33,7 +33,7 @@ Their guitars were downtuned, with low and muddy tones resulting in music that f
 
 ![katorga](/images/katorga1.JPG)
 
-Death metal band Vile Apparition were the third of the night, pushing their crushing sound to the extreme with elements of grindcore. Their heaviness was unrelenting, largely due to their bassist's massive six-string bass. Blast beats drove the intensity of their performance even further, interrupted only by suffocating breakdowns. However, it was their technical guitar work that really set Vial Apparition apart, with intricate and precise soloing woven through the brutal performance.
+Death metal band Vile Apparition were the third of the night, pushing their crushing sound to the extreme with elements of grindcore. Their heaviness was unrelenting, largely due to their bassist's massive six-string bass. Blast beats drove the intensity of their performance even further, interrupted only by suffocating breakdowns. However, it was their technical guitar work that really set Vile Apparition apart, with intricate and precise soloing woven through the brutal performance.
 <br><br>
 During their set I finally worked up the courage to put my camera down and enter the mosh... terrifying experience.
 
@@ -46,11 +46,11 @@ During their set I finally worked up the courage to put my camera down and enter
   </a>
 </div>
 
-In the time between Vile Apparition and Gutless' set, a heated debate started between Asher and Elijah, arguing whether The Beatles (Asher's choice) or Sematary (Elijah's) were more influential. As tensions rose, Gutless were preparing to play, leading to the perfect opportunity to settle their disagreements in the pit.
+Outside etween sets, a heated argument began over whether The Beatles or Sematary were more influential. As Gutless prepared to play, the pit offered a far more effective way to settle it.
 
 ![semataryvsbeatles](/images/semataryvsbeatles.JPG)
 
-Gutless closed the show with force as their vocalist commanded the room: "now fucking kill each other". The crowd responded with chaos, as the death metal band performed their unceasingly heavy set driven by tight drums and guitars, anchored by guttural, low-end vocals. From that point on, everything blurred together as I joined the mosh. There were so many people in there, one of the most tightly packed I have ever been in.
+Gutless closed the show with force as their vocalist commanded the room: "now fucking kill each other". The crowd responded with chaos, as the death metal band performed their unceasingly heavy set driven by tight drums and guitars, anchored by guttural, low-end vocals. Their sound sat low in the room, and I could feel the vibrations from the speakers through my whole body. From that point on, everything blurred together as I joined the mosh. There were so many people in there, one of the most tightly packed I have ever been in.
 <br>
 <br>
 Trying to catch a coach back to Geelong in time with my friends, I just managed to escape with my camera before their set ended, as their last song was starting. Walking out of Spit I realised that my leg was injured, but all things considered I got away relatively unharmed.
