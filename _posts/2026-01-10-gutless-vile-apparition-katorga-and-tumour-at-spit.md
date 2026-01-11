@@ -24,10 +24,10 @@ Slowing things down as they approached the end, they promised the audience two m
 
 ![tumour](/images/tumour1.JPG)
 
-katorga katorga
+Katorga followed with a relentlessly fast and high-energy set of crust punk/thrash, leaving little space to breathe between songs. The quiet, brief moments of clapping and cheering from the crowd felt strangely out-of-place following Katorga's sustained intensity.
 <br>
 <br>
-katorga band crust
+Their guitars were downtuned, with low and muddy tones resulting in music that felt like being crushed against a wall - a sensation I became all too familiar with during their set as the crowd threw themselves around violently. Their dirty, abrasive sound made for an overwhelmingly heavy performance.
 
 ![katorga](/images/katorga1.JPG)
 
