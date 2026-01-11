@@ -14,7 +14,7 @@ Katorga
 <br>
 Tumour
 <br><br>
-After spending a rather late lunch at the beautiful (and very conveniently placed) Huong Viet Vegan restaurant in Footscray, my friends and I made our way over to Spit just as the doors were starting to fill out. South-east Melbourne (Bunurong Country) band Chromatin filled the venue and surrounding street with a taste of what was to come as they completed the soundcheck for their second show.
+Late on Saturday afternoon, a crowd began to gather outside Spit in Footscray for an extreme metal DIY show, played by four local Naarm bands. After leaving Sharetea for a strawberry fruit tea with lychee and strawberry pearls (thanks for the recommendation Holly <3), I headed to the door to buy my ticket. As I am more familiar with the local DIY emo scene, the poster's promise of 'death metal' definitely caught my attention.
 
 ![poster](/images/gutlessposter1.jpg)
 
