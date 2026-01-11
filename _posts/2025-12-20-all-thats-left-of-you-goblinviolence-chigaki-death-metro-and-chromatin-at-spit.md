@@ -17,16 +17,6 @@ thumbnail: /images/spit1.jpg
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
 </p>
 <br>
-
-<br>
-all that's left of you
-<br>
-Goblinviolence
-<br>
-Chigaki Death Metro
-<br>
-Chromatin
-<br><br>
 After spending a rather late lunch at the beautiful (and very conveniently placed) Huong Viet Vegan restaurant in Footscray, my friends and I made our way over to Spit just as the doors were starting to fill out. South-east Melbourne (Bunurong Country) band Chromatin filled the venue and surrounding street with a taste of what was to come as they completed the soundcheck for their second show. 
 
 ![poster](/images/atloyposter.jpeg)
