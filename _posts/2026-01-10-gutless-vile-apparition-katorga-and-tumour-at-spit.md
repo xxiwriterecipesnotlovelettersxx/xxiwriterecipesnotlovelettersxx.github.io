@@ -37,8 +37,8 @@ Death metal band Vile Apparition were the third of the night, pushing their crus
 During their set I finally worked up the courage to put my camera down and enter the mosh... terrifying experience.
 
 <div class="gallery">
-   <a href="/images/vileapparition1.JPG">
-    <img src="/images/vileapparition1.JPG" alt="vileapparition">
+   <a href="/images/vileapparition3.JPG">
+    <img src="/images/vileapparition3.JPG" alt="vileapparition">
   </a>
    <a href="/images/00.JPG">
     <img src="/images/00.JPG" alt="crowd">
