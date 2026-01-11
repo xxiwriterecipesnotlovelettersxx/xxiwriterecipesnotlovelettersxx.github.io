@@ -24,10 +24,10 @@ Slowing things down as they approached the end, they promised the audience two m
 
 ![tumour](/images/tumour1.JPG)
 
-After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest  just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
+katorga katorga
 <br>
 <br>
-Late into their set, Chigaki Death Metro promised a cover of Orchid's 'New Jersey vs. Valhalla', with the vocalist adding, "I expect to see you moving". The crowd didn't disappoint as the room descended into chaos.
+katorga band crust
 
 ![katorga](/images/katorga1.JPG)
 
