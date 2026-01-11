@@ -44,7 +44,7 @@ During their set I finally worked up the courage to put my camera down and enter
   </a>
 </div>
 
-there was then a heated DEBATE.. to be settled in the gutless whatver
+In the time between Vile Apparition and Gutless' set, a heated debate started between Asher and Elijah, arguing whether The Beatles (Asher's choice) or Sematary (Elijah's) were more influential. As tensions rose, Gutless were preparing to play, leading to the perfect opportunity to settle their disagreements in the pit.
 
 ![semataryvsbeatles](/images/semataryvsbeatles.JPG)
 
