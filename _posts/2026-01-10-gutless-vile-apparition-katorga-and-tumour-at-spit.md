@@ -151,7 +151,7 @@ Approaching 12:00, an empty coach finally arrived and took us home, bringing us 
    <a href="/images/gutless4.JPG">
     <img src="/images/gutless4.JPG" alt="gutless">
   </a>
-   <a href="/images/outsidespit.JPG">
-    <img src="/images/outsidespit.JPG" alt="spit">
+   <a href="/images/spitoutside.JPG">
+    <img src="/images/spitoutside.JPG" alt="spit">
   </a>
 </div>
