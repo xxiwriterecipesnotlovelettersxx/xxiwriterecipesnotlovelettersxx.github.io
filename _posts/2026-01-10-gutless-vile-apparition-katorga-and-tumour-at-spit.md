@@ -8,7 +8,7 @@ thumbnail: /images/spitoutside.JPG
 <br>
 <a href="http://gutlessmelbourne.bandcamp.com/">Gutless</a>
 <br>
-<a href="vileapparition.bandcamp.com">Vile Apparition</a>
+<a href="http://vileapparition.bandcamp.com">Vile Apparition</a>
 <br>
 <a href="http://katorga2.bandcamp.com/">Katorga</a>
 <br>
