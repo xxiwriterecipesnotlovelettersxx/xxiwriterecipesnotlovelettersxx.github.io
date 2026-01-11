@@ -20,9 +20,9 @@ Early Saturday evening, a crowd started to gather outside Spit in Footscray for 
 
 With doors at this show opening 7:00, the venue quickly reached its capacity of around 100 people very quickly. 
 <br><br>
-As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could be stars their own, reimagining it as a sludgy and dark piece. During this tribute, the green alien toy from the August 3rd Underthealmonds house show made a reappearance, this time without finding any roofs to get stuck on.
+The first band opening the night were Tumour, plunging the audience into the deep end immediately with their extreme death metal sound. They kept the energy high as a mosh pit broke out early into their set. Slowing things down as they approached the end, they promised two more songs. The first of these was a droning, slow-tempoed, and heavy song, with some elements of doom in the instrumentals. This piece allowed the crowd to catch their breath, before closing with their final song, in comparison much quicker and more violent.
 
-![chromatin](/images/liam1.jpg)
+![tumour](/images/tumour1.JPG)
 <p class="show-intro">
 After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 Songs</a>, coming out just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
 </p>
