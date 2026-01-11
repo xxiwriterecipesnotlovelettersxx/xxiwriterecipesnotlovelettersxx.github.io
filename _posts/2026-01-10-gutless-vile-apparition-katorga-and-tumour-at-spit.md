@@ -79,7 +79,28 @@ Approaching 12:00, an empty coach finally arrived and took us home, bringing us 
    <a href="/images/spitinside1.JPG">
     <img src="/images/spitinside1.JPG" alt="spit">
   </a>
-   <a href="/images/tumou1.JPG">
+   <a href="/images/tumour1.JPG">
     <img src="/images/tumour1.JPG" alt="tumour">
+  </a>
+   <a href="/images/katorga1.JPG">
+    <img src="/images/katorga1.JPG" alt="katorga">
+  </a>
+   <a href="/images/katorga2.JPG">
+    <img src="/images/katorga2.JPG" alt="katorga">
+  </a>
+   <a href="/images/katorga3.JPG">
+    <img src="/images/katorga3.JPG" alt="katorga">
+  </a>
+   <a href="/images/tumour2.JPG">
+    <img src="/images/tumour2.JPG" alt="katorga">
+  </a>
+   <a href="/images/spitinside1.JPG">
+    <img src="/images/spitinside1.JPG" alt="katorga">
+  </a>
+   <a href="/images/katorga4.JPG">
+    <img src="/images/katorga4.JPG" alt="katorga">
+  </a>
+   <a href="/images/katorga5.JPG">
+    <img src="/images/katorga5.JPG" alt="katorga">
   </a>
 </div>
