@@ -20,7 +20,7 @@ Early Saturday evening, a crowd started to gather outside Spit in Footscray for 
 
 With doors at this show opening 7:00, the venue quickly reached its capacity of around 100 people very quickly. 
 <br><br>
-The first band opening the night were Tumour, plunging the audience into the deep end immediately with their extreme death metal sound. They kept the energy high as a mosh pit broke out early into their set. Slowing things down as they approached the end, they promised two more songs. The first of these was a droning, slow-tempoed, and heavy song, with some elements of doom in the instrumentals. This piece allowed the crowd to catch their breath, before closing with their final song, in comparison much quicker and more violent.
+The night opened with Tumour, who plunged the audience into the deep end immediately with their extreme death metal sound. They kept the energy high as a mosh pit broke out early into their set. Slowing things down as they approached the end, they promised two more songs. The first of these was a droning, slow-tempoed, and heavy song, with clear doom influence, that let the crowd momentarily catch their breath. However, their brief respite didn’t last long as they closed with a final song that was faster and far more violent, ending their set on a brutal peak.
 
 ![tumour](/images/tumour1.JPG)
 <p class="show-intro">
