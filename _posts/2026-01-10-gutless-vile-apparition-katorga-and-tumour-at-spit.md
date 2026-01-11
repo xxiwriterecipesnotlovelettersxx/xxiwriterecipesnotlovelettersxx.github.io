@@ -125,10 +125,10 @@ Approaching 12:00, an empty coach finally arrived and took us home, bringing us 
     <img src="/images/vileapparition7.JPG" alt="vileapparition">
   </a>
    <a href="/images/death1.JPG">
-    <img src="/images/death1.JPG" alt="vileapparition">
+    <img src="/images/death1.JPG" alt="friends">
   </a>
    <a href="/images/death2.JPG">
-    <img src="/images/death2.JPG" alt="vileapparition">
+    <img src="/images/death2.JPG" alt="friends">
   </a>
    <a href="/images/death3.JPG">
     <img src="/images/death3.JPG" alt="semataryvsbeatles">
