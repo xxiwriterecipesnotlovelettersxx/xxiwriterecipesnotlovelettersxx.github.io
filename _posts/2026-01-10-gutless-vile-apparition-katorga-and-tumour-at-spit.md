@@ -2,7 +2,7 @@
 layout: post
 title: "gutless, vile apparition, katorga, and tumour @ spit"
 date: 2026-01-10
-categories: showx
+categories: show
 thumbnail: /images/gutless2.JPG
 ---
 <br>
