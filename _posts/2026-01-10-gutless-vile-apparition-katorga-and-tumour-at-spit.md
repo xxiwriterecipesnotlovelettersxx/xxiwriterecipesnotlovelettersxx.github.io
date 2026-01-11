@@ -14,9 +14,9 @@ Katorga
 <br>
 Tumour
 <br><br>
-After spending a rather late lunch at the beautiful (and very conveniently placed) Huong Viet Vegan restaurant in Footscray, my friends and I made our way over to Spit just as the doors were starting to fill out. South-east Melbourne (Bunurong Country) band Chromatin filled the venue and surrounding street with a taste of what was to come as they completed the soundcheck for their second show. 
+After spending a rather late lunch at the beautiful (and very conveniently placed) Huong Viet Vegan restaurant in Footscray, my friends and I made our way over to Spit just as the doors were starting to fill out. South-east Melbourne (Bunurong Country) band Chromatin filled the venue and surrounding street with a taste of what was to come as they completed the soundcheck for their second show.
 
-![poster](/images/atloyposter.jpeg)
+![poster](/images/gutlessposter1.jpg)
 
 Though Chromatin set the bar high with an incredible first performance at their Geelong house show back in October, they managed to raise it once more at Spit. Their blend of post hardcore and screamo was heavier than ever before, with ebbing and flowing guitar-driven melodies supporting vocalist Liam's raw, powerful screams.
 <br><br>
