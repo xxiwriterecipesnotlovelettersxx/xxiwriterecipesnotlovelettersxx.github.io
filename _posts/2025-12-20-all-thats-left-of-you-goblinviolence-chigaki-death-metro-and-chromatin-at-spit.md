@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5475c5c0-cc8d-4ec1-97d5-24cb48d8733e" />---
+---
 layout: post
 title: "all that's left of you, goblinviolence, chigaki death metro, and chromatin @ spit"
 date: 2025-12-20
