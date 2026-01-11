@@ -23,13 +23,13 @@ With doors at this show opening 7:00, the venue reached its capacity of around 1
 Slowing things down as they approached the end, they promised the audience two more songs. The first of these was droning, slow-tempoed, and heavy, with clear doom influence, that let the crowd momentarily catch their breath. However, their brief respite didn’t last long as they closed with a final song that was faster and far more violent, ending their set on a brutal peak.
 
 ![tumour](/images/tumour1.JPG)
-<p class="show-intro">
-After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 Songs</a>, coming out just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
-</p>
+
+After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest  just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
+<br>
 <br>
 Late into their set, Chigaki Death Metro promised a cover of Orchid's 'New Jersey vs. Valhalla', with the vocalist adding, "I expect to see you moving". The crowd didn't disappoint as the room descended into chaos.
 
-![chigaki](/images/1-25.jpg)
+![katorga](/images/katorga1.JPG)
 
 Goblinviolence took over the stage next, returning to Spit from Eora/Sydney to deliver their unique blend of sasscore and mathgrind once again. Living up to their name, their set could only be described as chaotic. Dissonant guitars and uncountable tempos, combined with high-pitched screams, encouraged perhaps the most unpredicatable and violent mosh of the night.
 <br><br>
