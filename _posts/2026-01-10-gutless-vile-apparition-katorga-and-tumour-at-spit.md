@@ -48,10 +48,10 @@ In the time between Vile Apparition and Gutless' set, a heated debate started be
 
 ![semataryvsbeatles](/images/semataryvsbeatles.JPG)
 
-Gutless closed the show with force as their vocalist commanded the room: "now fucking kill each other". The crowd followed with chaos, as the death metal band performed their unceasingly heavy set driven by tight drums & guitars and guttural, low-end vocals.
+Gutless closed the show with force as their vocalist commanded the room: "now fucking kill each other". The crowd followed up with chaos, as the death metal band performed their unceasingly heavy set driven by tight drums and guitars, anchored by guttural, low-end vocals. From that point on, things blurred together quickly as I joined the mosh. There were so many people in there, one of the most tightly packed I have ever been in.
 <br>
 <br>
-gutless
+Trying to catch a coach back to Geelong in time with my friends, I just managed to escape with my camera before their set ended, as their last song was starting. Walking out of Spit I realised that my leg was injured, but all things considered I got away fairly unharmed.
 
 ![gutless](/images/gutless1.JPG)
 
