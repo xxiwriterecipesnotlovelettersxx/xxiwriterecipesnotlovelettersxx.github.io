@@ -73,6 +73,9 @@ Approaching 12:00, an empty coach finally arrived and took us home, bringing us 
 ### photos from the night (click to expand)
 
 <div class="gallery">
+   <a href="/images/gutlessposter2.jpg">
+    <img src="/images/gutlessposter2.jpg" alt="poster">
+  </a>
    <a href="/images/tumour2.JPG">
     <img src="/images/tumour2.JPG" alt="tumour">
   </a>
@@ -102,5 +105,8 @@ Approaching 12:00, an empty coach finally arrived and took us home, bringing us 
   </a>
    <a href="/images/katorga5.JPG">
     <img src="/images/katorga5.JPG" alt="katorga">
+  </a>
+   <a href="/images/00.JPG">
+    <img src="/images/00.JPG" alt="crowd">
   </a>
 </div>
