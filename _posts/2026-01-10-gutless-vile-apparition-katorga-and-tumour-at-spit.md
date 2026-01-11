@@ -48,6 +48,13 @@ there was then a heated DEBATE.. to be settled in the gutless whatver
 
 ![semataryvsbeatles](/images/semataryvsbeatles.JPG)
 
+gutless plaed
+<br>
+<br>
+gutless
+
+![gutless](/images/gutless1.JPG)
+
 ### photos from the night (click to expand)
 photo credits:
 <br>
