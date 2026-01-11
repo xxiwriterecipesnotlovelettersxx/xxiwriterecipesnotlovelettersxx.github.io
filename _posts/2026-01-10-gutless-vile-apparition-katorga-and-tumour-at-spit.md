@@ -59,14 +59,14 @@ Trying to catch a coach back to Geelong in time with my friends, I just managed 
 Over the road from Spit, the 10:30 coach that my friends and I were trying to catch did not arrive at 10:30, or 11:00... A comforting voice over a loudspeaker told everyone waiting for a coach to "stand by and see what happens", later telling us that a replacement coach would come shortly after, "fingers crossed". Very reassuring.
 <br>
 <br>
-Approaching 12:00, an empty coach finally arrived and took us home, back before 3:00!
+Approaching 12:00, an empty coach finally arrived and took us home, bringing us back by 2:00 <333
 
 <div class="gallery">
-   <a href="/images/vileapparition1.JPG">
-    <img src="/images/vileapparition1.JPG" alt="vileapparition">
+   <a href="/images/spitoutside.JPG">
+    <img src="/images/spitoutside.JPG" alt="spit">
   </a>
-   <a href="/images/00.JPG">
-    <img src="/images/00.JPG" alt="crowd">
+   <a href="/images/coach1.JPG">
+    <img src="/images/coach1.JPG" alt="coach">
   </a>
 </div>
 
