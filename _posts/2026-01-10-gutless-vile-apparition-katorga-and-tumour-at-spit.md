@@ -6,14 +6,11 @@ categories: show
 thumbnail: /images/spitoutside.JPG
 ---
 <br>
-Gutless
+<a href="http://gutlessmelbourne.bandcamp.com/">Gutless</a>
+<a href="vileapparition.bandcamp.com">Vile Apparition</a>
+<a href="http://katorga2.bandcamp.com/">Katorga</a>
+<a href="http://tumour.bandcamp.com/">Tumour</a>
 <br>
-Vile Apparition
-<br>
-Katorga
-<br>
-Tumour
-<br><br>
 Early Saturday evening, a crowd started to gather outside Spit in Footscray for an extreme metal DIY show, played by four local Naarm bands. After leaving Sharetea with a strawberry fruit tea with lychee and strawberry pearls (thanks for the recommendation Holly<3), I headed to the door to buy my ticket. Being more familiar with the local skramz scene, the poster's promise of 'death metal' definitely caught my attention.
 
 ![poster](/images/gutlessposter1.jpg)
