@@ -5,6 +5,19 @@ date: 2025-12-20
 categories: show
 thumbnail: /images/spit1.jpg
 ---
+
+<br>
+<br>
+<a href="https://linktr.ee/allthatsleftofyou?utm_source=linktree_profile_share&ltsid=55520a02-14c3-489c-81cd-4c324b3f2962">all that's eft of you</a>
+<br>
+<a href="https://www.instagram.com/goblinviolencediebythesword?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Goblinviolence</a>
+<br>
+<a href="https://chigakideathmetro.bandcamp.com/">Chigaki Death Metro</a>
+<br>
+<a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
+<br>
+<br>
+
 <br>
 all that's left of you
 <br>
