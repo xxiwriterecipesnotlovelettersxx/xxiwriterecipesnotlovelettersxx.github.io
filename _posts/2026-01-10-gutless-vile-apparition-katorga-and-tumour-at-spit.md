@@ -31,9 +31,9 @@ Their guitars were downtuned, with low and muddy tones resulting in music that f
 
 ![katorga](/images/katorga1.JPG)
 
-vile
+Death metal band Vile Apparition were the third of the night, pushing their crushing sound to the extreme with elements of grindcore. Their heaviness was unrelenting, largely due to their bassist's massive 6 string bass. Blast beats drove the intensity of their performance even further, interrupted only by suffocating breakdowns. However it was their technical guitar work that really set Vial Apparition apart, with intricate and precise soloing woven through the brutal performance.
 <br><br>
-apparition
+During their set I finally worked up the courage to put my camera down and enter the mosh... terrifying experience.
 
 <div class="gallery">
    <a href="/images/vileapparition1.JPG">
