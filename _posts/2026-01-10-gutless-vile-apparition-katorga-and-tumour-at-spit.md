@@ -2,7 +2,7 @@
 layout: post
 title: "gutless, vile apparition, katorga, and tumour @ spit"
 date: 2026-01-10
-categories: show
+categories: showx
 thumbnail: /images/gutless2.JPG
 ---
 <br>
@@ -48,7 +48,7 @@ In the time between Vile Apparition and Gutless' set, a heated debate started be
 
 ![semataryvsbeatles](/images/semataryvsbeatles.JPG)
 
-gutless plaed
+Gutless closed the show with force as their vocalist commanded the room: "now fucking kill each other". The crowd followed with chaos, as the death metal band performed their unceasingly heavy set driven by tight drums & guitars and guttural, low-end vocals.
 <br>
 <br>
 gutless
