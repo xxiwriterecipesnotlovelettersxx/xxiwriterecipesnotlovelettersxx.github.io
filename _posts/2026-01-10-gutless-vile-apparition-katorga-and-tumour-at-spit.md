@@ -94,9 +94,6 @@ Approaching 12:00, an empty coach finally arrived and took us home, bringing us 
    <a href="/images/katorga3.JPG">
     <img src="/images/katorga3.JPG" alt="katorga">
   </a>
-   <a href="/images/katorga4.JPG">
-    <img src="/images/katorga4.JPG" alt="katorga">
-  </a>
    <a href="/images/katorga5.JPG">
     <img src="/images/katorga5.JPG" alt="katorga">
   </a>
