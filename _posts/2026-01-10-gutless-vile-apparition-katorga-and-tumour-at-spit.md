@@ -15,11 +15,11 @@ thumbnail: /images/spitoutside.JPG
 <a href="http://tumour.bandcamp.com/">Tumour</a>
 <br>
 <br>
-Early Saturday evening, a crowd started to gather outside Spit in Footscray for an extreme metal DIY show, played by four local Naarm bands. After leaving Sharetea with a strawberry fruit tea with lychee and strawberry pearls (thanks for the recommendation Holly), I headed to the door to buy my ticket. Being more familiar with the local emo scene, the poster's promise of 'death metal' definitely caught my attention.
+Early Saturday evening, a crowd began to gather outside Spit in Footscray for an extreme metal DIY show, played by four local Naarm bands. After leaving Sharetea with a strawberry fruit tea with lychee and strawberry pearls (thanks for the recommendation, Holly), I headed to the door to buy my ticket. Being more familiar with the local emo scene, the poster's promise of 'death metal' definitely caught my attention.
 
 ![poster](/images/gutlessposter1.jpg)
 
-With doors at this show opening 7:00, the venue reached its capacity of around 100 people very quickly. The night opened with Tumour, who plunged the audience into the deep end immediately with their extreme death metal sound. They kept the energy high as a mosh pit broke out early into their set. 
+With doors opening at 7:00, the venue quickly reached its capacity of around 100 people. The night opened with Tumour, who plunged the audience into the deep end immediately with their extreme death metal sound. They kept the energy high as a mosh pit broke out early into their set. 
 <br><br>
 Slowing things down as they approached the end, they promised the audience two more songs. The first of these was droning, slow-tempoed, and heavy, with clear doom influence, that let the crowd momentarily catch their breath. However, their brief respite didn’t last long as they closed with a final song that was faster and far more violent, ending their set on a brutal peak.
 
@@ -32,7 +32,7 @@ Their guitars were downtuned, with low and muddy tones resulting in music that f
 
 ![katorga](/images/katorga1.JPG)
 
-Death metal band Vile Apparition were the third of the night, pushing their crushing sound to the extreme with elements of grindcore. Their heaviness was unrelenting, largely due to their bassist's massive 6 string bass. Blast beats drove the intensity of their performance even further, interrupted only by suffocating breakdowns. However, it was their technical guitar work that really set Vial Apparition apart, with intricate and precise soloing woven through the brutal performance.
+Death metal band Vile Apparition were the third of the night, pushing their crushing sound to the extreme with elements of grindcore. Their heaviness was unrelenting, largely due to their bassist's massive six-string bass. Blast beats drove the intensity of their performance even further, interrupted only by suffocating breakdowns. However, it was their technical guitar work that really set Vial Apparition apart, with intricate and precise soloing woven through the brutal performance.
 <br><br>
 During their set I finally worked up the courage to put my camera down and enter the mosh... terrifying experience.
 
@@ -49,14 +49,14 @@ In the time between Vile Apparition and Gutless' set, a heated debate started be
 
 ![semataryvsbeatles](/images/semataryvsbeatles.JPG)
 
-Gutless closed the show with force as their vocalist commanded the room: "now fucking kill each other". The crowd followed up with chaos, as the death metal band performed their unceasingly heavy set driven by tight drums and guitars, anchored by guttural, low-end vocals. From that point on, everything blurred together as I joined the mosh. There were so many people in there, one of the most tightly packed I have ever been in.
+Gutless closed the show with force as their vocalist commanded the room: "now fucking kill each other". The crowd responded with chaos, as the death metal band performed their unceasingly heavy set driven by tight drums and guitars, anchored by guttural, low-end vocals. From that point on, everything blurred together as I joined the mosh. There were so many people in there, one of the most tightly packed I have ever been in.
 <br>
 <br>
 Trying to catch a coach back to Geelong in time with my friends, I just managed to escape with my camera before their set ended, as their last song was starting. Walking out of Spit I realised that my leg was injured, but all things considered I got away relatively unharmed.
 
 ![gutless](/images/gutless1.JPG)
 
-Over the road from Spit, the 10:30 coach thatmy friends and I were trying to catch did not arrive at  10:30, or 11:00... A comforting voice over a loudspeaker told everyone waiting for a coach to "stand by and see what happens", later telling us that a replacement coach would come shortly after, "fingers crossed". Very reassuring.
+Over the road from Spit, the 10:30 coach that my friends and I were trying to catch did not arrive at  10:30, or 11:00... A comforting voice over a loudspeaker told everyone waiting for a coach to "stand by and see what happens", later telling us that a replacement coach would come shortly after, "fingers crossed". Very reassuring.
 <br>
 <br>
 Approaching 12:00, an empty coach finally arrived and took us home, bringing us back by 2:00 <333
