@@ -136,4 +136,22 @@ Approaching 12:00, an empty coach finally arrived and took us home, bringing us 
    <a href="/images/semataryvsbeatles.JPG">
     <img src="/images/semataryvsbeatles.JPG" alt="semataryvsbeatles">
   </a>
+   <a href="/images/gutless0.JPG">
+    <img src="/images/gutless0.JPG" alt="gutless">
+  </a>
+   <a href="/images/gutless1.JPG">
+    <img src="/images/gutless1.JPG" alt="gutless">
+  </a>
+   <a href="/images/gutless2.JPG">
+    <img src="/images/gutless2.JPG" alt="gutless">
+  </a>
+   <a href="/images/gutless3.JPG">
+    <img src="/images/gutless3.JPG" alt="gutless">
+  </a>
+   <a href="/images/gutless4.JPG">
+    <img src="/images/gutless4.JPG" alt="gutless">
+  </a>
+   <a href="/images/outsidespit.JPG">
+    <img src="/images/outsidespit.JPG" alt="spit">
+  </a>
 </div>
