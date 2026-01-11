@@ -56,6 +56,20 @@ Trying to catch a coach back to Geelong in time with my friends, I just managed 
 
 ![gutless](/images/gutless1.JPG)
 
+Over the road from Spit, the 10:30 coach that my friends and I were trying to catch did not arrive at 10:30, or 11:00... A comforting voice over a loudspeaker told everyone waiting for a coach to "stand by and see what happens", later telling us that a replacement coach would come shortly after, "fingers crossed". Very reassuring.
+<br>
+<br>
+Approaching 12:00, an empty coach finally arrived and took us home, back before 3:00!
+
+<div class="gallery">
+   <a href="/images/vileapparition1.JPG">
+    <img src="/images/vileapparition1.JPG" alt="vileapparition">
+  </a>
+   <a href="/images/00.JPG">
+    <img src="/images/00.JPG" alt="crowd">
+  </a>
+</div>
+
 ### photos from the night (click to expand)
 photo credits:
 <br>
