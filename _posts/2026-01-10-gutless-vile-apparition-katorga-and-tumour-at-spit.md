@@ -31,11 +31,11 @@ katorga band crust
 
 ![katorga](/images/katorga1.JPG)
 
-Goblinviolence took over the stage next, returning to Spit from Eora/Sydney to deliver their unique blend of sasscore and mathgrind once again. Living up to their name, their set could only be described as chaotic. Dissonant guitars and uncountable tempos, combined with high-pitched screams, encouraged perhaps the most unpredicatable and violent mosh of the night.
+vile
 <br><br>
-Regretfully, I missed the later section of their set escorting some friends to the station safely. I can only await Goblinviolence's return to play in Naarm again...
+apparition
 
-![goblinviolence](/images/1-03.jpg)
+![vileapparition](/images/vileapparition1.JPG)
 
 Naarm/Melbourne band all that's left of you played the final set of the night, their last performance before they "hit da studio" (huge). Guitarist Valentine's amp was screamingly loud, bringing a passionate and energetic close to the show. Rumours of a gatecrash cover were confirmed later in their set, as they brought 'flood', the title track from our first release, back to life. This was an emotional moment for some as they sung along.
 <br><br>
