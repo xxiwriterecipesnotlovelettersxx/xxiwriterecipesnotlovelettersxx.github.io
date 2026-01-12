@@ -71,6 +71,11 @@ Approaching 12:00, an empty coach finally arrived and took us home, bringing us 
   </a>
 </div>
 
+<p class="show-intro">
+also: ONCE again thankyou to @lauradalezz1e on instagram who recorded an AWESOME bootleg of the whole show! you can listen to it <a href="https://drive.google.com/drive/folders/1-hBbUPImxckr0VnktSDyM5aBggn-CIPa">here</a>.
+</p>
+<br>
+
 ### photos from the night (click to expand)
 
 <div class="gallery">
