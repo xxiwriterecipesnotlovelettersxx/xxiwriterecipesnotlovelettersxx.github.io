@@ -29,7 +29,7 @@ From the closing few songs that I did see, however, Wrench proved their consiste
 Following at 9:15 were Naarm shoegaze revival band Ethereal Gone Kids. Their modern incorporation of post-punk elements contributed to the dreamy, flowing soundscape of their set. Drenched in delay and reverse reverb, EGK's guitars ranged from bright, shimmery, and swirling, to deep, coarse, and muddy. Their songwriting was a love letter to classic shoegaze, a surreal and hypnotic 'wall of sound' led by clean and occasionally layered vocals.
 <br>
 <br>
-EGK showed variety in their performance, ranging from introspective & nostalgic to angsty at times. Approaching the end of their set, they continued a recent trend of Silverchair covers in up & coming alternative rock band's live sets.
+EGK showed variety in their performance, ranging from introspective & nostalgic to angsty at times. Approaching the end of their set, they continued a recent trend of Silverchair covers in up-and-coming alternative rock band's live sets.
 
 ![katorga](/images/katorga1.JPG)
 
