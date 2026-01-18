@@ -20,7 +20,7 @@ INtroduction about the nighthawks show.
 
 ![poster](/images/posternighthawksjan26.jpg)
 
-Without much time free between our soundcheck and doors (8:30), I went with Charli, Holly, and Zi & her mum to eat something before the show. We found a Vietnamese restaurant on Smith street and ate dinner there, but we missed some of Wrench's set in doing so :(
+Without much time free between our soundcheck and doors (8:30), I went with Charli, Holly, and Zi & her mum to eat something before the show. We found a Vietnamese restaurant on Smith Street and ate dinner there, but we missed some of Wrench's set in doing so :(
 <br><br>
 From the closing few songs that I did see, however, Wrench proved their consistency. With the same force they brought to Paddy's house show last October, their coarse, gritty riffs and emotional vocals were met with high energy from the crowd. Their on-stage performance was entertaining, and filled with moments of unexpected heaviness. Wrench have a violent and despairing sound, and I really recommend seeing them live (there is this cool thing that Paddy does with his pedals - don't even know how to describe it).
 
@@ -33,9 +33,9 @@ EGK showed variety in their performance, ranging from introspective & nostalgic 
 
 ![katorga](/images/katorga1.JPG)
 
-Death metal band Vile Apparition were the third of the night, pushing their crushing sound to the extreme with elements of grindcore. Their heaviness was unrelenting, largely due to their bassist's massive six-string bass. Blast beats drove the intensity of their performance even further, interrupted only by suffocating breakdowns. However, it was their technical guitar work that really set Vile Apparition apart, with intricate and precise soloing woven through the brutal performance.
+Chromatin here
 <br><br>
-During their set I finally worked up the courage to put my camera down and enter the mosh... terrifying experience.
+Chromatin here
 
 <div class="gallery">
    <a href="/images/vileapparition3.JPG">
@@ -46,16 +46,19 @@ During their set I finally worked up the courage to put my camera down and enter
   </a>
 </div>
 
-Outside etween sets, a heated argument began over whether The Beatles or Sematary were more influential. As Gutless prepared to play, the pit offered a far more effective way to settle it.
-
-![semataryvsbeatles](/images/semataryvsbeatles.JPG)
-
-Gutless closed the show with force as their vocalist commanded the room: "now fucking kill each other". The crowd responded with chaos, as the death metal band performed their unceasingly heavy set driven by tight drums and guitars, anchored by guttural, low-end vocals. Their sound sat low in the room, and I could feel the vibrations from the speakers through my whole body. From that point on, everything blurred together as I joined the mosh. There were so many people in there, one of the most tightly packed I have ever been in.
+We know speak of could be stars
 <br>
 <br>
-Trying to catch a coach back to Geelong in time with my friends, I just managed to escape with my camera before their set ended, as their last song was starting. Walking out of Spit I realised that my leg was injured, but all things considered I got away relatively unharmed.
+abd continue this discussion in here
 
-![gutless](/images/gutless1.JPG)
+<div class="gallery">
+   <a href="/images/cbsnighthawks1.jpg">
+    <img src="/images/cbsnighthawks1.jpg" alt="cbs">
+  </a>
+   <a href="/images/cbsnighthawks2.jpg">
+    <img src="/images/cbsnighthawks2.jpg" alt="crowdsurf">
+  </a>
+</div>
 
 Over the road from Spit, the 10:30 coach that my friends and I were trying to catch did not arrive at  10:30, or 11:00... A comforting voice over a loudspeaker told everyone waiting for a coach to "stand by and see what happens", later telling us that a replacement coach would come shortly after, "fingers crossed". Very reassuring.
 <br>
