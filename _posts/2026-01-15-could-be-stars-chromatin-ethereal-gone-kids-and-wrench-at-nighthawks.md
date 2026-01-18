@@ -24,7 +24,7 @@ Without much time free between our soundcheck and doors (8:30), I went with Char
 <br><br>
 From the closing few songs that I did see, however, Wrench proved their consistency. With the same force they brought to Paddy's house show last October, their coarse, gritty riffs and emotional vocals were met with high energy from the crowd. Their on-stage performance was entertaining, and filled with moments of unexpected heaviness.
 
-![tumour](/images/tumour1.JPG)
+![wrench](/images/wrench1.png)
 
 Katorga followed with a relentlessly fast and high-energy set of crust punk/thrash, leaving little space to breathe between songs. The quiet, brief moments of clapping and cheering from the crowd felt strangely out-of-place following Katorga's sustained intensity.
 <br>
