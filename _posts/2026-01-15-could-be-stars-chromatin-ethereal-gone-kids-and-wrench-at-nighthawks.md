@@ -2,7 +2,7 @@
 layout: post
 title: "could be stars, chromatin, ethereal gone kids, and wrench @ nighthawks"
 date: 2026-01-15
-categories: showx
+categories: show
 thumbnail: /images/spitoutside.JPG
 ---
 <br>
@@ -26,10 +26,10 @@ From the closing few songs that I did see, however, Wrench proved their consiste
 
 ![wrench](/images/wrench1.png)
 
-Katorga followed with a relentlessly fast and high-energy set of crust punk/thrash, leaving little space to breathe between songs. The quiet, brief moments of clapping and cheering from the crowd felt strangely out-of-place following Katorga's sustained intensity.
+Following at 9:15 were Naarm shoegaze revival band Ethereal Gone Kids. Their modern incorporation of post-punk elements contributed to the dreamy, flowing soundscape of their set. Drenched in delay and reverse reverb, EGK's guitars ranged from bright, shimmery, and swirling, to deep, coarse, and muddy. Their songwriting was a love letter to the classic sound of shoegaze, a surreal and hypnotic 'wall of sound' with clean and occasionally layered vocals.
 <br>
 <br>
-Their guitars were downtuned, with low and muddy tones resulting in music that felt like being crushed against a wall - a sensation I became all too familiar with during their set as the crowd threw themselves around violently. Their dirty, abrasive sound made for an overwhelmingly heavy performance.
+EGK showed variety in their performance, and continued a recent trend of Silverchair covers in up & coming alternative rock band's live sets. This g
 
 ![katorga](/images/katorga1.JPG)
 
