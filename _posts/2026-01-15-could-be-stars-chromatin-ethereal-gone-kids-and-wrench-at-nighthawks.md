@@ -46,7 +46,7 @@ Chromatin here
   </a>
 </div>
 
-Headlining the show, it was then time for me to play my first ever show as a member of Could be Stars. I was nervous to be on stage but settled in quickly. Not only was this my first show playing in the band, it was also our last major show for a while, until Starfest next March. We played some songs from the usual setlist, but added covers of two Gatecrash songs (flood & nothing to show) as well. While playing flood, I looked up from the stage and saw Liam from Chromatin at eye-level with me, crowdsurfing. Paddy from Wrench was quick to follow suit.
+Headlining the night, it was time for me to play my first ever show as a member of Could be Stars. I was nervous to be on stage but settled in quickly. We played some songs from the usual setlist, but added covers of two Gatecrash songs (flood & nothing to show) as well. While playing flood, I looked out into the audience and saw Liam from Chromatin at eye-level with me, crowdsurfing. Paddy from Wrench was quick to follow suit.
 <br>
 <br>
 We also made the last-minute decision to debut Floodlight, a song from our new project In Her Palms. This was fun to play (but clearly not well rehearsed yet). For Could be Stars' mostly calm sound, the crowd were very energetic - rivalling Chromatin's set at times with the amount of moshing. As we played our final song, Snow, I saw Liam go upside down in the crowd, before crashing down on my power supply and cutting my guitar signal.
