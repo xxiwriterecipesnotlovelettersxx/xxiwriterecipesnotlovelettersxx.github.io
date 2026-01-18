@@ -22,7 +22,7 @@ INtroduction about the nighthawks show.
 
 Without much time free between our soundcheck and doors (8:30), I went with Charli, Holly, and Zi & her mum to eat something before the show. We found a Vietnamese restaurant on Smith street and ate dinner there, but we missed some of Wrench's set in doing so :(
 <br><br>
-From the closing few songs that I did see, however, Wrench proved their consistency. With the same force they brought to Paddy's house show last October, their coarse, gritty riffs and emotional vocals were met with high energy from the crowd. Their on-stage performance was entertaining, and filled with moments of unexpected heaviness. Wrench live have a violent and despairing sound, I can't recommend seeing them enough (there is this cool thing that Paddy does with his pedals - don't even know how to describe it).
+From the closing few songs that I did see, however, Wrench proved their consistency. With the same force they brought to Paddy's house show last October, their coarse, gritty riffs and emotional vocals were met with high energy from the crowd. Their on-stage performance was entertaining, and filled with moments of unexpected heaviness. Wrench have a violent and despairing sound, and I really recommend seeing them live (there is this cool thing that Paddy does with his pedals - don't even know how to describe it).
 
 ![wrench](/images/wrench1.png)
 
