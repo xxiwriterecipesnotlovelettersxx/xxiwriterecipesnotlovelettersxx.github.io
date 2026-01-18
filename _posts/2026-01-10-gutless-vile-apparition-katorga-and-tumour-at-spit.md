@@ -46,7 +46,7 @@ During their set I finally worked up the courage to put my camera down and enter
   </a>
 </div>
 
-Outside etween sets, a heated argument began over whether The Beatles or Sematary were more influential. As Gutless prepared to play, the pit offered a far more effective way to settle it.
+Outside between sets, a heated argument began over whether The Beatles or Sematary were more influential. As Gutless prepared to play, the pit offered a far more effective way to settle it.
 
 ![semataryvsbeatles](/images/semataryvsbeatles.JPG)
 
