@@ -52,11 +52,11 @@ We know speak of could be stars
 abd continue this discussion in here
 
 <div class="gallery">
-   <a href="/images/cbsnighthawks1.jpg">
-    <img src="/images/cbsnighthawks1.jpg" alt="cbs">
+   <a href="/images/cbsnighthawks1.jpeg">
+    <img src="/images/cbsnighthawks1.jpeg" alt="cbs">
   </a>
-   <a href="/images/cbsnighthawks2.jpg">
-    <img src="/images/cbsnighthawks2.jpg" alt="crowdsurf">
+   <a href="/images/cbsnighthawks2.jpeg">
+    <img src="/images/cbsnighthawks2.jpeg" alt="crowdsurf">
   </a>
 </div>
 
