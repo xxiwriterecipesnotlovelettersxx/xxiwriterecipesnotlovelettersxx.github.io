@@ -2,7 +2,7 @@
 layout: post
 title: "could be stars, chromatin, ethereal gone kids, and wrench @ nighthawks"
 date: 2026-01-15
-categories: show
+categories: showx
 thumbnail: /images/spitoutside.JPG
 ---
 <br>
