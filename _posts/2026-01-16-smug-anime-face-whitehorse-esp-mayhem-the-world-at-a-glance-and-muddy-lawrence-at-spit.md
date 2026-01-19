@@ -22,7 +22,9 @@ introduction pargarph
 
 ![poster](/images/posterspit16jan26.jpg)
 
-brief muddy lawrence paragraph
+The first act of the night was Muddy Lawrence, a harsh noise/experimental performance artist. I was under the impression that this was just one person's project?? (the drummer from death metal band Tumour) but there were two people on stage... I am not an expert here. The music pushed the experimental genre to its limit, with distored and pulsating noise permeating echoing fragments of sampled dialogue.
+<br><br>
+The abrasive noise eventually engulfed all other sound, leaving only hissing static and feesback at times.
 
 ![wrench](/images/wrench1.png)
 
