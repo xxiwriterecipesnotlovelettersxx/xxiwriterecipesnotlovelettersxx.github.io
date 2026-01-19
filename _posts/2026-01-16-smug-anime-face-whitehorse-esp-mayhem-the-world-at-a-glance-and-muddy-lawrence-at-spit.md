@@ -22,22 +22,20 @@ introduction pargarph
 
 ![poster](/images/posterspit16jan26.jpg)
 
-Without much time free between our soundcheck and doors (8:30), I went with Charli, Holly, and Zi & her mum to eat something before the show. We found a Vietnamese restaurant on Smith Street and ate dinner there, but we missed some of Wrench's set in doing so :(
-<br><br>
-From the closing few songs that I did see, however, Wrench proved their consistency. With the same force they brought to Paddy's house show last October, their coarse, gritty riffs and emotional vocals were met with high energy from the crowd. Their on-stage performance was entertaining, and filled with moments of unexpected heaviness. Wrench have a violent and despairing sound, and I really recommend seeing them live (there is this cool thing that Paddy does with his pedals - don't even know how to describe it).
+brief muddy lawrence paragraph
 
 ![wrench](/images/wrench1.png)
 
-Following at 9:15 were Naarm shoegaze revival band Ethereal Gone Kids. Their modern incorporation of post-punk elements contributed to the dreamy, flowing soundscape of their set. Drenched in delay and reverse reverb, EGK's guitars ranged from bright, shimmery, and swirling, to deep, thick, and muddy. Their songwriting was a love letter to classic shoegaze, a surreal and hypnotic 'wall of sound' led by clean and occasionally layered vocals.
+twaag parahprap
 <br>
 <br>
-EGK showed variety in their performance, ranging from introspective & nostalgic to angsty at times. Approaching the end of their set, they continued a recent trend of Silverchair covers in up-and-coming alternative rock band's live sets.
+twaag pargagaoah
 
 ![katorga](/images/katorga1.JPG)
 
-Chromatin took over to play their set next as the second to last band of the night. Their act comprised of powerful and violent emotional hardcore with intense and anguished screams. Chromatin's heavy, dark sound even bordered on blackgaze in some segments. Almost immediately, a frenzied mosh pit was fuelled by the chaos of the band's performance - although this was not entirely exclusive to the crowd, as vocalist Liam put his signature act of joining the crowd while screaming into practice. 
+ESP mayhem para
 <br><br>
-As a reflection of the intensity of their set, Liam was rarely seen without his coconut water between songs. Chromatin also upheld their consistent tradition by playing a heavy, aggressive cover of 'Snow' by Could be Stars. Their set eventually finished, letting the high energy in the room slowly dissipate.
+graph
 
 <div class="gallery">
    <a href="/images/vileapparition3.JPG">
@@ -48,10 +46,10 @@ As a reflection of the intensity of their set, Liam was rarely seen without his 
   </a>
 </div>
 
-Headlining the night, it was time to play my first ever show as a member of Could be Stars. I was nervous to be on stage but settled in quickly. We played some songs from the usual setlist, but also added covers of two songs (flood & nothing to show) from Asher's and my old screamo band, gatecrash. While playing flood, I looked out into the audience and saw Liam from Chromatin at eye-level with me, crowdsurfing. Paddy from Wrench was quick to follow suit.
+Whitehorse were next, opening their set with a dark, ambient, and droning song that stretched to an unforgiving 24 minutes. Rooted in atmospheric sludge metal, doom, and noise, the performance moved at an extremely slow pace, its creeping structure forming into something hypnotic, industrial, and oppressive.
 <br>
 <br>
-We also made the last-minute decision to debut Floodlight, a song from our new project In Her Palms. This was fun to play (but clearly not well rehearsed yet). For Could be Stars' mostly calm sound, the crowd were very energetic - almost rivalling Chromatin's set with the amount of moshing at times. As we played our final song, Snow, I saw Liam go upside down in the crowd, before crashing down on my power supply and cutting my guitar signal.
+Their second (and final) track was no less crushing, continuing the suffocating sound. Harsh, decayed vocals accompanied the viscerally heavy instrumentals, tied together with eruptions of feedback and abrasive static. Whitehorse showcased doom and drone metal pushed to their extreme limits with both of these pieces.
 
 <div class="gallery">
    <a href="/images/cbsnighthawks1.jpeg">
