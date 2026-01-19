@@ -60,17 +60,6 @@ We also made the last-minute decision to debut Floodlight, a song from our new p
   </a>
 </div>
 
-This show was so much fun!! Thankyou to all of the wonderful bands that I played with, and to my lovely Could be Stars bandmates for helping me make it this far <3
-
-<div class="gallery">
-   <a href="/images/spitoutside.JPG">
-    <img src="/images/spitoutside.JPG" alt="spit">
-  </a>
-   <a href="/images/coach1.JPG">
-    <img src="/images/coach1.JPG" alt="coach">
-  </a>
-</div>
-
 <p class="show-intro">
 This show was so much fun!! Thankyou to all of the wonderful bands that I played with, and to my lovely Could be Stars bandmates for helping me make it this far <3
 <br>   
