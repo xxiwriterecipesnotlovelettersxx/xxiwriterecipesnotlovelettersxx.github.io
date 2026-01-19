@@ -62,7 +62,8 @@ We also made the last-minute decision to debut Floodlight, a song from our new p
 
 <p class="show-intro">
 This show was so much fun!! Thankyou to all of the wonderful bands that I played with, and to my lovely Could be Stars bandmates for helping me make it this far <3
-<br>   
+<br>
+<br>
 Also a huge thankyou to @cohen.salnitro on Instagram, a videographer who put together a montage of both Chromatin's and Could be Stars' sets. Watch Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a>.
 </p>
 <br>
