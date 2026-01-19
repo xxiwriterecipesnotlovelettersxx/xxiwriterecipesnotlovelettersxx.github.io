@@ -28,16 +28,16 @@ The abrasive distortion eventually engulfed all other sound, at times leaving on
 
 ![wrench](/images/wrench1.png)
 
-Following this first act, Naarm band The World At A Glance delivered a set rooted in post hardcore, with an underlying quality of gothic melancholy. The electric violin introduced a weeping and swaying feel, imbued with a faint sense of despair and sorrow. Scott's vocals were a standout of this show, a combination of deep, well-annunciated clean lines and harsh screaming to suit the songs' tension.
+Following Muddy Lawrence, Naarm band The World At A Glance delivered a set rooted in post hardcore, with an underlying quality of gothic melancholy. The electric violin introduced a weeping and swaying feel, imbued with a faint sense of despair and sorrow. Scott's vocals were a standout of this act, a combination of deep, well-annunciated clean lines and harsh screaming to suit the songs' tension.
 <br>
 <br>
 Scott's animated performance led to their cap flying backwards off their head early into the set. SOmething heereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 ![katorga](/images/katorga1.JPG)
 
-Naarm 5-piece ESP Mayhem played a set unlike anything I had ever seen before. Their self-described 3-synth-no-guitar-future-shock-grind was as deranged as it sounds. Without guitars, the three synths instead drove a cybergrind, electronic sound that kept up with grindcore’s usual hyper-velocity. Able to achieve sounds impossible when using guitars, the synths something something hard-hitting and impactful  
+Naarm 5-piece ESP Mayhem played a set unlike anything I had ever seen before. Their self-described 3-synth-no-guitar-future-shock-grind was as deranged as it sounds. Without guitars, the three synths instead drove a cybergrind, electronic sound that kept up with grindcore’s usual hyper-velocity. Able to achieve sounds impossible when using guitars, the band's hard-hitting, aggressive, and stabbing bass punched through the mix to emphasise the violence and force of their songs.
 <br><br>
-Between songs, swirling and light ambience paired with the vocalist's musings, which covered a range of topics from teen pregnancy, self-help advice, and Marxism.
+Between songs, dreamy and swirling ambience that contrasted with the band's aggressive music paired with the vocalist's musings, which covered a range of topics from teen pregnancy, self-help advice, and Marxism. These quiet refrains would not last long, however, as the chaotic synthgrind would take over once again. Personally, I thought ESP Mayhem were one of the highlights of the night, managing to command an intense and turbulent mosh and shock with their 3-synth act without once making it feel like it was a gimmick.
 
 <div class="gallery">
    <a href="/images/espmayhem1.jpg">
