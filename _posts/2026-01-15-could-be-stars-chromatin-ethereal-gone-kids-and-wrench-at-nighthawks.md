@@ -16,7 +16,7 @@ thumbnail: /images/spitoutside.JPG
 <a href="https://www.instagram.com/wrench_band/">Wrench</a>
 </p>
 <br>
-INtroduction about the nighthawks show.
+I arrived at Nighthawks bar, Collingwood in the late afternoon of Janurary 15th for a show that promised to join together "the forces of skramz and shoegaze". For me, this was particularly exciting as my first time playing as a member of Could be Stars. A huge gig, showcasing promising new talent from Djilang and Naarm, was in store.
 
 ![poster](/images/posternighthawksjan26.jpg)
 
