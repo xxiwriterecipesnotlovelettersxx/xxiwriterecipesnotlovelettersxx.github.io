@@ -2,7 +2,7 @@
 layout: post
 title: "smug anime face, whitehorse, esp mayhem, the world at a glance, and muddy lawrence @ spit"
 date: 2026-01-16
-categories: show
+categories: showx
 thumbnail: /images/spitoutside.JPG
 ---
 <br>
