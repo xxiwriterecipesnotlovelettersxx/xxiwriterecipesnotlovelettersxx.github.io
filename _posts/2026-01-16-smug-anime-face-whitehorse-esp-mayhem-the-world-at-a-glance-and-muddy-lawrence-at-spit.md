@@ -20,7 +20,7 @@ thumbnail: /images/spitoutside.JPG
 <br>
 introduction pargarph
 
-![poster](/images/posternighthawksjan26.jpg)
+![poster](/images/posterspit16jan26.jpg)
 
 Without much time free between our soundcheck and doors (8:30), I went with Charli, Holly, and Zi & her mum to eat something before the show. We found a Vietnamese restaurant on Smith Street and ate dinner there, but we missed some of Wrench's set in doing so :(
 <br><br>
