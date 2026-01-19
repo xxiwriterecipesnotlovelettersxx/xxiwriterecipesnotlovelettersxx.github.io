@@ -60,10 +60,7 @@ We also made the last-minute decision to debut Floodlight, a song from our new p
   </a>
 </div>
 
-Over the road from Spit, the 10:30 coach that my friends and I were trying to catch did not arrive at  10:30, or 11:00... A comforting voice over a loudspeaker told everyone waiting for a coach to "stand by and see what happens", later telling us that a replacement coach would come shortly after, "fingers crossed". Very reassuring.
-<br>
-<br>
-Approaching 12:00, an empty coach finally arrived and took us home, bringing us back by 2:00 <333
+This show was so much fun!! Thankyou to all of the wonderful bands that I played with, and to my lovely Could be Stars bandmates for helping me make it this far <3
 
 <div class="gallery">
    <a href="/images/spitoutside.JPG">
@@ -75,7 +72,9 @@ Approaching 12:00, an empty coach finally arrived and took us home, bringing us 
 </div>
 
 <p class="show-intro">
-also: ONCE again thankyou to @lauradalezz1e on instagram who recorded an AWESOME bootleg of the whole show! you can listen to it <a href="https://drive.google.com/drive/folders/1-hBbUPImxckr0VnktSDyM5aBggn-CIPa">here</a>.
+This show was so much fun!! Thankyou to all of the wonderful bands that I played with, and to my lovely Could be Stars bandmates for helping me make it this far <3
+<br>   
+Also a huge thankyou to @cohen.salnitro on Instagram, a videographer who put together a montage of both Chromatin's and Could be Stars' sets. Watch Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a>.
 </p>
 <br>
 
