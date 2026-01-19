@@ -26,14 +26,14 @@ From the closing few songs that I did see, however, Wrench proved their consiste
 
 ![wrench](/images/wrench1.png)
 
-Following at 9:15 were Naarm shoegaze revival band Ethereal Gone Kids. Their modern incorporation of post-punk elements contributed to the dreamy, flowing soundscape of their set. Drenched in delay and reverse reverb, EGK's guitars ranged from bright, shimmery, and swirling, to deep, coarse, and muddy. Their songwriting was a love letter to classic shoegaze, a surreal and hypnotic 'wall of sound' led by clean and occasionally layered vocals.
+Following at 9:15 were Naarm shoegaze revival band Ethereal Gone Kids. Their modern incorporation of post-punk elements contributed to the dreamy, flowing soundscape of their set. Drenched in delay and reverse reverb, EGK's guitars ranged from bright, shimmery, and swirling, to deep, thick, and muddy. Their songwriting was a love letter to classic shoegaze, a surreal and hypnotic 'wall of sound' led by clean and occasionally layered vocals.
 <br>
 <br>
 EGK showed variety in their performance, ranging from introspective & nostalgic to angsty at times. Approaching the end of their set, they continued a recent trend of Silverchair covers in up-and-coming alternative rock band's live sets.
 
 ![katorga](/images/katorga1.JPG)
 
-Chromatin here
+Chromatin took over to play their set next as the second to last band of the night. Their act comprised of powerful and violent emotional hardore with intense and anguished screams. Chromatin's heavy, dark sound evenn bordered on blackgaze during certain segments. Almost immediately, a frenzied mosh pit was fuelled by the chaos of the band's performance - although this was not entirely exclusive to the crowd, as vocalist Liam continued his signature 
 <br><br>
 Chromatin here
 
