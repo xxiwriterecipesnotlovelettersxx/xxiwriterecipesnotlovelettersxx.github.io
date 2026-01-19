@@ -7,16 +7,18 @@ thumbnail: /images/spitoutside.JPG
 ---
 <br>
 <p class="show-intro">
-<a href="https://couldbestars.bandcamp.com/">Could be Stars</a>
+<a href="https://smuganimeface.bandcamp.com/">Smug Anime Face</a>
 <br>
-<a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
+<a href="https://whitehorsedestroys.bandcamp.com/">Whitehorse</a>
 <br>
-<a href="https://www.instagram.com/etherealgonekidsband/">Ethereal Gone Kids</a>
+<a href="https://espmayhem.bandcamp.com/">ESP Mayhem</a>
 <br>
-<a href="https://www.instagram.com/wrench_band/">Wrench</a>
+<a href="https://worldataglance.bandcamp.com/">The World At A Glance</a>
+<br>
+<a href="https://muddylawrence.bandcamp.com/">Muddy Lawrence</a>
 </p>
 <br>
-I arrived at Nighthawks bar, Collingwood in the late afternoon of January 15th for a show that promised to join together "the forces of skramz and shoegaze". For me, this was particularly exciting as my first time playing as a member of Could be Stars. A huge gig, showcasing promising new talent from Djilang and Naarm, was in store.
+introduction pargarph
 
 ![poster](/images/posternighthawksjan26.jpg)
 
