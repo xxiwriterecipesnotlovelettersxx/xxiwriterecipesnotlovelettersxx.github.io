@@ -2,7 +2,7 @@
 layout: post
 title: "smug anime face, whitehorse, esp mayhem, the world at a glance, and muddy lawrence @ spit"
 date: 2026-01-16
-categories: show
+categories: showx
 thumbnail: /images/whitehorse1.jpg
 ---
 <br>
@@ -35,7 +35,7 @@ Scott's animated performance led to their cap flying backwards off their head ea
 
 ![katorga](/images/katorga1.JPG)
 
-ESP mayhem para
+Naarm 5-piece ESP Mayhem played a set unlike anything I had ever seen before. Their self-described 3-synth-no-guitar-future-shock-grind was as deranged as it sounds. A lack of any guitars, instead relying on 3 different synths, achieved a cybergrind, electronic sound that had all the hyper-velocity that grindcore usually displays.
 <br><br>
 graph
 
