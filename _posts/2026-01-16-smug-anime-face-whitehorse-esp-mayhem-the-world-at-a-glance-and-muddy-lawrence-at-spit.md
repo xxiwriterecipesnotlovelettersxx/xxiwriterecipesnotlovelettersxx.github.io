@@ -54,8 +54,8 @@ Whitehorse were next, opening their set with a dark, ambient, and droning song t
 Their second (and final) track was no less crushing, continuing the suffocating sound. Harsh, decayed vocals accompanied the viscerally heavy instrumentals, tied together with eruptions of feedback and abrasive static. Whitehorse showcased doom and drone metal pushed to their extreme limits with both of these pieces.
 
 <div class="gallery">
-   <a href="/images/cbsnighthawks1.jpeg">
-    <img src="/images/cbsnighthawks1.jpeg" alt="cbs">
+   <a href="/images/whitehorse1.jpg">
+    <img src="/images/whitehorse1.jpg" alt="whitehorse">
   </a>
    <a href="/images/cbsnighthawks2.jpeg">
     <img src="/images/cbsnighthawks2.jpeg" alt="crowdsurf">
