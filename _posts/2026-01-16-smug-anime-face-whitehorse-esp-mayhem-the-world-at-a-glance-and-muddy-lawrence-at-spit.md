@@ -35,9 +35,9 @@ Scott's animated performance led to their cap flying backwards off their head ea
 
 ![katorga](/images/katorga1.JPG)
 
-Naarm 5-piece ESP Mayhem played a set unlike anything I had ever seen before. Their self-described 3-synth-no-guitar-future-shock-grind was as deranged as it sounds. A lack of any guitars, instead relying on 3 different synths, achieved a cybergrind, electronic sound that had all the hyper-velocity that grindcore usually displays.
+Naarm 5-piece ESP Mayhem played a set unlike anything I had ever seen before. Their self-described 3-synth-no-guitar-future-shock-grind was as deranged as it sounds. Without guitars, the three synths instead drove a cybergrind, electronic sound that kept up with grindcore’s usual hyper-velocity. Able to achieve sounds impossible when using guitars, the synths something something hard-hitting and impactful  
 <br><br>
-graph
+Between songs, swirling and light ambience paired with the vocalist's musings, which covered a range of topics from teen pregnancy, self-help advice, and Marxism.
 
 <div class="gallery">
    <a href="/images/espmayhem1.jpg">
