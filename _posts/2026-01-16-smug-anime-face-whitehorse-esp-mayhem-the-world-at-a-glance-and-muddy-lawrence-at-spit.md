@@ -28,10 +28,10 @@ The abrasive distortion eventually engulfed all other sound, at times leaving on
 
 ![wrench](/images/wrench1.png)
 
-twaag parahprap
+Following this first act, Naarm band The World At A Glance delivered a set rooted in post hardcore, with an underlying quality of gothic melancholy. The electric violin introduced a weeping and swaying feel, imbued with a faint sense of despair and sorrow. Scott's vocals were a standout of this show, a combination of deep, well-annunciated clean lines and harsh screaming to suit the songs' tension.
 <br>
 <br>
-twaag pargagaoah
+Scott's animated performance led to their cap flying backwards off their head early into the set. SOmething heereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 ![katorga](/images/katorga1.JPG)
 
