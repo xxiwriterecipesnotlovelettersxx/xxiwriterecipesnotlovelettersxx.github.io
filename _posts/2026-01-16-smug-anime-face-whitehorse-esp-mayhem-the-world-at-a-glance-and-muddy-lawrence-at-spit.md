@@ -62,11 +62,18 @@ Their second (and final) track was no less crushing, continuing the suffocating 
   </a>
 </div>
 
+Headlining the show, Smug Anime Face were the last group to play. The Hobart band's sample-ridden chaotic grindcore was a drastic change of pace to Whitehorse's snail-paced previous set,
+<br>
+<br>
+Scott's animated performance led to their cap flying backwards off their head early into the set, a reflection of the band's high-energy stage presence. TWAAG have never let me down with a live gig - one of the most consistent local bands I've ever seen.
+
+![katorga](/images/katorga1.JPG)
+
 <p class="show-intro">
-This show was so much fun!! Thank you to all of the wonderful bands that I played with, and to my lovely Could be Stars bandmates for helping me make it this far <3
+thanks fun show whathave yoy
 <br>
 <br>
-Also a huge shoutout to @cohen.salnitro on Instagram, a videographer who put together a montage of both Chromatin's and Could be Stars' sets. Watch Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a>.
+laura recording Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a>.
 </p>
 <br>
 
