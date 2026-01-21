@@ -73,7 +73,7 @@ Unfortunately I had to leave the venue around halfway through their set. I didn'
 This show delivered intense performances from some great bands, local or (in Smug Anime Face's case) otherwise. It was such a great reminder of how diverse the Naarm music scene is. If you get the opportunity to see any of these wonderful people play somewhere please please pleaseeee do it!
 <br>
 <br>
-Thank you soooo much to @lauradalezz1e - they work so hard documenting parts of our scene. To listen to a bootleg from the night, you can access Laura's <a href="https://drive.google.com/drive/folders/1UQ7dxi60ZP_u3YFnnzDn9C_CMNR4wf28">audio recordings</a>!
+Thank you soooo much to @lauradalezz1e for their hard work documenting different parts of our scene. To listen to a bootleg from the night, you can access Laura's <a href="https://drive.google.com/drive/folders/1UQ7dxi60ZP_u3YFnnzDn9C_CMNR4wf28">audio recordings</a>!
 </p>
 <br>
 
