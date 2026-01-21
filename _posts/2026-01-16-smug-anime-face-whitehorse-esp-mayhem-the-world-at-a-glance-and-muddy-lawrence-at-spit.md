@@ -78,6 +78,9 @@ laura recording Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gX
 <br>
 
 ### photos from the night (click to expand)
+photo credits:
+<br>
+@applegangdafotoman on instagram
 
 <div class="gallery">
    <a href="/images/gutlessposter2.jpg">
