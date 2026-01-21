@@ -107,6 +107,24 @@ photo credits:
    <a href="/images/twaag3.JPG">
     <img src="/images/twaag3.JPG" alt="twaag">
   </a>
+   <a href="/images/espmayhem.jpg">
+    <img src="/images/espmayhem.jpg" alt="espmayhem">
+  </a>
+   <a href="/images/espmayhem00.JPG">
+    <img src="/images/espmayhem00.JPG" alt="espmayhem">
+  </a>
+   <a href="/images/espmayhem1.jpg">
+    <img src="/images/espmayhem1.jpg" alt="espmayhem">
+  </a>
+   <a href="/images/espmayhem2.jpg">
+    <img src="/images/espmayhem2.jpg" alt="espmayhem">
+  </a>
+   <a href="/images/espmayhem5.jpg">
+    <img src="/images/espmayhem5.jpg" alt="espmayhem">
+  </a>
+   <a href="/images/espmayhem9000.jpg">
+    <img src="/images/espmayhem9000.jpg" alt="espmayhem">
+  </a>
    <a href="/images/charli.JPG">
     <img src="/images/charli.JPG" alt="charli">
   </a>
@@ -124,24 +142,6 @@ photo credits:
   </a>
    <a href="/images/whitehorse4.JPG">
     <img src="/images/whitehorse4.JPG" alt="whitehorse">
-  </a>
-   <a href="/images/vileapparition5.JPG">
-    <img src="/images/vileapparition5.JPG" alt="vileapparition">
-  </a>
-   <a href="/images/vileapparition6.JPG">
-    <img src="/images/vileapparition6.JPG" alt="vileapparition">
-  </a>
-   <a href="/images/vileapparition7.JPG">
-    <img src="/images/vileapparition7.JPG" alt="vileapparition">
-  </a>
-   <a href="/images/death1.JPG">
-    <img src="/images/death1.JPG" alt="friends">
-  </a>
-   <a href="/images/death2.JPG">
-    <img src="/images/death2.JPG" alt="friends">
-  </a>
-   <a href="/images/death3.JPG">
-    <img src="/images/death3.JPG" alt="semataryvsbeatles">
   </a>
    <a href="/images/semataryvsbeatles.JPG">
     <img src="/images/semataryvsbeatles.JPG" alt="semataryvsbeatles">
