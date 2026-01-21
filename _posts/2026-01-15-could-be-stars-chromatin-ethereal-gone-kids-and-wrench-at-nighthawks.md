@@ -31,18 +31,18 @@ Following at 9:15 were Naarm shoegaze revival band Ethereal Gone Kids. Their mod
 <br>
 EGK showed variety in their performance, ranging from introspective & nostalgic to angsty at times. Approaching the end of their set, they continued a recent trend of Silverchair covers in up-and-coming alternative rock band's live sets.
 
-![katorga](/images/katorga1.JPG)
+![egk](/images/egk.JPG)
 
 Chromatin took over to play their set next as the second to last band of the night. Their act comprised of powerful and violent emotional hardcore with intense and anguished screams. Chromatin's heavy, dark sound even bordered on blackgaze in some segments. Almost immediately, a frenzied mosh pit was fuelled by the chaos of the band's performance - although this was not entirely exclusive to the crowd, as vocalist Liam put his signature act of joining the crowd while screaming into practice. 
 <br><br>
 As a reflection of the intensity of their set, Liam was rarely seen without his coconut water between songs. Chromatin also upheld their consistent tradition by playing a heavy, aggressive cover of 'Snow' by Could be Stars. Their set eventually finished, letting the high energy in the room slowly dissipate.
 
 <div class="gallery">
-   <a href="/images/vileapparition3.JPG">
-    <img src="/images/vileapparition3.JPG" alt="vileapparition">
+   <a href="/images/chrom151.JPG">
+    <img src="/images/chrom151.JPG" alt="chromatin">
   </a>
-   <a href="/images/00.JPG">
-    <img src="/images/00.JPG" alt="crowd">
+   <a href="/images/chrom152.JPG">
+    <img src="/images/chrom152.JPG" alt="chromatin">
   </a>
 </div>
 
