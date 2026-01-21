@@ -119,34 +119,28 @@ Also a huge shoutout to @cohen.salnitro on Instagram, a videographer who put tog
    <a href="/images/liamwater2.JPG">
     <img src="/images/liamwater2.JPG" alt="liamwater">
   </a>
-   <a href="/images/death1.JPG">
-    <img src="/images/death1.JPG" alt="friends">
+   <a href="/images/cbsnighthawks0.JPG">
+    <img src="/images/cbsnighthawks0.JPG" alt="cbs">
   </a>
-   <a href="/images/death2.JPG">
-    <img src="/images/death2.JPG" alt="friends">
+   <a href="/images/cbsnighthawks1.jpeg">
+    <img src="/images/cbsnighthawks1.jpeg" alt="cbs">
   </a>
-   <a href="/images/death3.JPG">
-    <img src="/images/death3.JPG" alt="semataryvsbeatles">
+   <a href="/images/cbsnighthawks2.jpeg">
+    <img src="/images/cbsnighthawks2.jpeg" alt="cbs">
   </a>
-   <a href="/images/semataryvsbeatles.JPG">
-    <img src="/images/semataryvsbeatles.JPG" alt="semataryvsbeatles">
+   <a href="/images/cbsnighthawks3.jpeg">
+    <img src="/images/cbsnighthawks3.jpeg" alt="cbs">
   </a>
-   <a href="/images/gutless0.JPG">
-    <img src="/images/gutless0.JPG" alt="gutless">
+   <a href="/images/cbsnighthawks4.jpeg">
+    <img src="/images/cbsnighthawks4.jpeg" alt="cbs">
   </a>
-   <a href="/images/gutless1.JPG">
-    <img src="/images/gutless1.JPG" alt="gutless">
+   <a href="/images/cbsnighthawks5.jpeg">
+    <img src="/images/cbsnighthawks5.jpeg" alt="cbs">
   </a>
-   <a href="/images/gutless2.JPG">
-    <img src="/images/gutless2.JPG" alt="gutless">
+   <a href="/images/cbsnighthawks6.JPG">
+    <img src="/images/cbsnighthawks6.JPG" alt="cbs">
   </a>
-   <a href="/images/gutless3.JPG">
-    <img src="/images/gutless3.JPG" alt="gutless">
-  </a>
-   <a href="/images/gutless4.JPG">
-    <img src="/images/gutless4.JPG" alt="gutless">
-  </a>
-   <a href="/images/spitoutside.JPG">
-    <img src="/images/spitoutside.JPG" alt="spit">
+   <a href="/images/thingontable.jpeg">
+    <img src="/images/thingontable.jpeg" alt="tbalething">
   </a>
 </div>
