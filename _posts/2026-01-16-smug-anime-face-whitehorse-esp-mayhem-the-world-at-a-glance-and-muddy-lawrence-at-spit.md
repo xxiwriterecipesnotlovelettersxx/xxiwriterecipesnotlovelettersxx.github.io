@@ -70,10 +70,10 @@ Unfortunately I had to leave the venue around halfway through their set. I didn'
 ![smuganimeface](/images/smug7.jpg)
 
 <p class="show-intro">
-thanks fun show whathave yoy
+This show delivered intense performances from some great bands, local or (in Smug Anime Face's case) otherwise. It was such a great reminder of how diverse the Naarm music scene is. If you get the opportunity to see any of these wonderful people play somewhere please please pleaseeee do it!
 <br>
 <br>
-laura recording Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a>.
+To listen to a bootleg from the night, you can access Laura's <a href="https://drive.google.com/drive/folders/1UQ7dxi60ZP_u3YFnnzDn9C_CMNR4wf28">audio recordings</a>! Thank you soooo much for this @lauradalezz1e - they work so hard documenting parts of our scene through their photography and bootlegs <3
 </p>
 <br>
 
