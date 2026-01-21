@@ -18,7 +18,7 @@ thumbnail: /images/whitehorse1.jpg
 <a href="https://muddylawrence.bandcamp.com/">Muddy Lawrence</a>
 </p>
 <br>
-introduction pargarph
+Friday evening on the 16th of Janurary, a night of sonic experimentation and extremity took place at Spit, in Footscray. Local doom, cybergrind, and noise bands joined Hobart's Smug Anime Face for a chaotic lineup, each act pushing genres to their limits. 
 
 ![poster](/images/posterspit16jan26.jpg)
 
