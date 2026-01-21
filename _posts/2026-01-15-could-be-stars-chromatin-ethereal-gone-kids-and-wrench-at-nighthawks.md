@@ -71,47 +71,47 @@ Also a huge shoutout to @cohen.salnitro on Instagram, a videographer who put tog
 ### photos from the night (click to expand)
 
 <div class="gallery">
-   <a href="/images/gutlessposter2.jpg">
-    <img src="/images/gutlessposter2.jpg" alt="poster">
+   <a href="/images/wrench1.png">
+    <img src="/images/wrench1.png" alt="wrench">
   </a>
-   <a href="/images/tumour2.JPG">
-    <img src="/images/tumour2.JPG" alt="tumour">
+   <a href="/images/egk0.JPG">
+    <img src="/images/egk0.JPG" alt="egk">
   </a>
-   <a href="/images/spitinside1.JPG">
-    <img src="/images/spitinside1.JPG" alt="spit">
+   <a href="/images/egk1.JPG">
+    <img src="/images/egk1.JPG" alt="egk">
   </a>
-   <a href="/images/tumour1.JPG">
-    <img src="/images/tumour1.JPG" alt="tumour">
+   <a href="/images/egk2.JPG">
+    <img src="/images/egk2.JPG" alt="egk">
   </a>
-   <a href="/images/katorga1.JPG">
-    <img src="/images/katorga1.JPG" alt="katorga">
+   <a href="/images/setlist1.JPG">
+    <img src="/images/setlist1.JPG" alt="setlist">
   </a>
-   <a href="/images/katorga2.JPG">
-    <img src="/images/katorga2.JPG" alt="katorga">
+   <a href="/images/bestfriendsforever.JPG">
+    <img src="/images/bestfriendsforever.JPG" alt="bestfriendsforever">
   </a>
-   <a href="/images/katorga3.JPG">
-    <img src="/images/katorga3.JPG" alt="katorga">
+   <a href="/images/chrom150.JPG">
+    <img src="/images/chrom150.JPG" alt="chromatin">
   </a>
-   <a href="/images/katorga5.JPG">
-    <img src="/images/katorga5.JPG" alt="katorga">
+   <a href="/images/chrom151.JPG">
+    <img src="/images/chrom151.JPG" alt="chromatin">
   </a>
-   <a href="/images/00.JPG">
-    <img src="/images/00.JPG" alt="crowd">
+   <a href="/images/chrom152.JPG">
+    <img src="/images/chrom152.JPG" alt="chromatin">
   </a>
-   <a href="/images/vileapparition1.JPG">
-    <img src="/images/vileapparition1.JPG" alt="vileapparition">
+   <a href="/images/chrom153.JPG">
+    <img src="/images/chrom153.JPG" alt="chromatin">
   </a>
-   <a href="/images/vileapparition2.JPG">
-    <img src="/images/vileapparition2.JPG" alt="vileapparition">
+   <a href="/images/chrom154.JPG">
+    <img src="/images/chrom154.JPG" alt="chromatin">
   </a>
-   <a href="/images/vileapparition3.JPG">
-    <img src="/images/vileapparition3.JPG" alt="vileapparition">
+   <a href="/images/chrom155.JPG">
+    <img src="/images/chrom155.JPG" alt="chromatin">
   </a>
-   <a href="/images/vileapparition4.JPG">
-    <img src="/images/vileapparition4.JPG" alt="vileapparition">
+   <a href="/images/chrom156.JPG">
+    <img src="/images/chrom156.JPG" alt="chromatin">
   </a>
-   <a href="/images/vileapparition5.JPG">
-    <img src="/images/vileapparition5.JPG" alt="vileapparition">
+   <a href="/images/chrom157.JPG">
+    <img src="/images/chrom157.JPG" alt="chromatin">
   </a>
    <a href="/images/vileapparition6.JPG">
     <img src="/images/vileapparition6.JPG" alt="vileapparition">
