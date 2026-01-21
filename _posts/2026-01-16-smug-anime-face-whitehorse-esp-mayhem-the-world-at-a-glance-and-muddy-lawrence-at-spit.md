@@ -143,8 +143,8 @@ photo credits:
    <a href="/images/whitehorse4.JPG">
     <img src="/images/whitehorse4.JPG" alt="whitehorse">
   </a>
-   <a href="/images/semataryvsbeatles.JPG">
-    <img src="/images/semataryvsbeatles.JPG" alt="semataryvsbeatles">
+   <a href="/images/charl1.JPG">
+    <img src="/images/charl1.JPG" alt="charli">
   </a>
    <a href="/images/gutless0.JPG">
     <img src="/images/gutless0.JPG" alt="gutless">
