@@ -146,14 +146,14 @@ photo credits:
    <a href="/images/charl1.JPG">
     <img src="/images/charl1.JPG" alt="charli">
   </a>
-   <a href="/images/gutless0.JPG">
-    <img src="/images/gutless0.JPG" alt="gutless">
+   <a href="/images/perch.JPG">
+    <img src="/images/perch.JPG" alt="perch">
   </a>
-   <a href="/images/gutless1.JPG">
-    <img src="/images/gutless1.JPG" alt="gutless">
+   <a href="/images/door1.JPG">
+    <img src="/images/door1.JPG" alt="door">
   </a>
-   <a href="/images/gutless2.JPG">
-    <img src="/images/gutless2.JPG" alt="gutless">
+   <a href="/images/door2.JPG">
+    <img src="/images/door2.JPG" alt="door">
   </a>
    <a href="/images/gutless3.JPG">
     <img src="/images/gutless3.JPG" alt="gutless">
