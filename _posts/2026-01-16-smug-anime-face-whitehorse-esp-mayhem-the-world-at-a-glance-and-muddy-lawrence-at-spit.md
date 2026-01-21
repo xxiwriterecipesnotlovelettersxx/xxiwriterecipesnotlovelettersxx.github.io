@@ -62,10 +62,10 @@ Their second (and final) track was no less crushing, continuing the suffocating 
   </a>
 </div>
 
-Headlining the show, Smug Anime Face were the last group to play. The Hobart band's sample-ridden chaotic grindcore was a drastic change of pace to Whitehorse's snail-paced previous set,
+Headlining the show, Smug Anime Face were the last to play. The Hobart band's sample-ridden chaotic grindcore was a drastic change of pace to Whitehorse's crawling previous set, leading to a wild and unrestrained mosh. Smug Anime Face's genre is hard to put in a box, with elements of grind, skramz, electronic, and noise. Cutting through the speed and volume, the samples seemed to originate from anything the band could get their hands on, including (multiple times) a Centrelink phone hold message.
 <br>
 <br>
-Scott's animated performance led to their cap flying backwards off their head early into the set, a reflection of the band's high-energy stage presence. TWAAG have never let me down with a live gig - one of the most consistent local bands I've ever seen.
+Unfortunately I had to leave the venue around halfway through their set. I didn't want to miss their last few songs, but I will admit I was slightly relieved to be out of that pit (especially due to the aount of stray elbows I caught).
 
 ![katorga](/images/katorga1.JPG)
 
