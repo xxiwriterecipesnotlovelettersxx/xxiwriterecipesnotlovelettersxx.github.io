@@ -155,11 +155,11 @@ photo credits:
    <a href="/images/door2.JPG">
     <img src="/images/door2.JPG" alt="door">
   </a>
-   <a href="/images/gutless3.JPG">
-    <img src="/images/gutless3.JPG" alt="gutless">
+   <a href="/images/smug6.jpg">
+    <img src="/images/smug6.jpg" alt="smuganimeface">
   </a>
-   <a href="/images/gutless4.JPG">
-    <img src="/images/gutless4.JPG" alt="gutless">
+   <a href="/images/smug7.jpg">
+    <img src="/images/smug7.jpg" alt="smuganimeface">
   </a>
    <a href="/images/spitoutside.JPG">
     <img src="/images/spitoutside.JPG" alt="spit">
