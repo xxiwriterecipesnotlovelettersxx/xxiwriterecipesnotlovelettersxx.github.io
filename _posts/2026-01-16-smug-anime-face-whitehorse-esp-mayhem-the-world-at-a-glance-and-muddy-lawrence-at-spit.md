@@ -18,7 +18,7 @@ thumbnail: /images/whitehorse2.JPG
 <a href="https://muddylawrence.bandcamp.com/">Muddy Lawrence</a>
 </p>
 <br>
-Friday evening on the 16th of Janurary, a night of sonic experimentation and extremity took place at Spit, in Footscray. Local doom, cybergrind, and noise bands joined Hobart's Smug Anime Face for a chaotic lineup, each act pushing genres to their limits. 
+Friday evening on the 16th of January, a night of sonic experimentation and extremity took place at Spit, in Footscray. Local doom, cybergrind, and noise bands joined Hobart's Smug Anime Face for a chaotic lineup, each act pushing genres to their limits. 
 
 ![poster](/images/posterspit16jan26.jpg)
 
@@ -28,7 +28,7 @@ The abrasive distortion eventually engulfed all other sound, at times leaving on
 
 ![muddylawrence](/images/muddylawrence1.jpg)
 
-Following Muddy Lawrence, Naarm band The World At A Glance delivered a set rooted in post hardcore, with an underlying quality of gothic melancholy. The electric violin introduced a weeping and swaying feel, imbued with a faint sense of despair and sorrow. Scott's vocals were a standout of this act, a combination of deep, well-annunciated clean lines and harsh screaming to suit the songs' tension.
+Following Muddy Lawrence, Naarm band The World At A Glance delivered a set rooted in post-hardcore, with an underlying quality of gothic melancholy. The electric violin introduced a weeping and swaying feel, imbued with a faint sense of despair and sorrow. Scott's vocals were a standout of this act, a combination of deep, well-annunciated clean lines and harsh screaming to suit the songs' tension.
 <br>
 <br>
 Scott's animated performance led to their cap flying backwards off their head early into the set, a reflection of the band's high-energy stage presence. TWAAG have never let me down with a live gig - one of the most consistent local bands I've ever seen.
@@ -65,7 +65,7 @@ Their second (and final) track was no less crushing, continuing the suffocating 
 Headlining the show, Smug Anime Face were the last to play. The Hobart band's sample-ridden chaotic grindcore was a drastic change of pace to Whitehorse's crawling previous set, leading to a wild and unrestrained mosh. Smug Anime Face's genre is hard to put in a box, with elements of grind, skramz, electronic, and noise. Cutting through the speed and volume, the samples seemed to originate from anything the band could get their hands on, including (multiple times) a Centrelink phone hold message.
 <br>
 <br>
-Unfortunately I had to leave the venue around halfway through their set. I didn't want to miss their last few songs, but I will admit I was slightly relieved to be out of that pit (especially due to the aount of stray elbows I caught).
+Unfortunately I had to leave the venue around halfway through their set. I didn't want to miss their last few songs, but I will admit I was slightly relieved to be out of that pit (especially due to the amount of stray elbows I was getting hit by).
 
 ![smuganimeface](/images/smug7.jpg)
 
