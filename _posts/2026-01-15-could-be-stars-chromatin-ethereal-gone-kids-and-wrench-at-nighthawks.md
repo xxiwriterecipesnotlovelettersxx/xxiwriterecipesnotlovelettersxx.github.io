@@ -3,7 +3,7 @@ layout: post
 title: "could be stars, chromatin, ethereal gone kids, and wrench @ nighthawks"
 date: 2026-01-15
 categories: show
-thumbnail: /images/chrom152.JPG
+thumbnail: /images/chrom154.JPG
 ---
 <br>
 <p class="show-intro">
