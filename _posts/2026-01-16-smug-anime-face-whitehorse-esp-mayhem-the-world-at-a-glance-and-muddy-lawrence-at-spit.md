@@ -173,4 +173,10 @@ photo credits:
    <a href="/images/smuganimeface1.JPG">
     <img src="/images/smuganimeface1.JPG" alt="smuganimeface">
   </a>
+   <a href="/images/spitoutside90.JPG">
+    <img src="/images/spitoutside90.JPG" alt="spitoutside">
+  </a>
+   <a href="/images/spotswood1.JPG">
+    <img src="/images/spotswood1.JPG" alt="spotswood">
+  </a>
 </div>
