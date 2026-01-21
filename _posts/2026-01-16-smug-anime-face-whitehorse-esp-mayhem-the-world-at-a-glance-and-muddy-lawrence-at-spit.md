@@ -67,7 +67,7 @@ Headlining the show, Smug Anime Face were the last to play. The Hobart band's sa
 <br>
 Unfortunately I had to leave the venue around halfway through their set. I didn't want to miss their last few songs, but I will admit I was slightly relieved to be out of that pit (especially due to the aount of stray elbows I caught).
 
-![smuganimeface](/images/katorga1.JPG)
+![smuganimeface](/images/smug7.jpg)
 
 <p class="show-intro">
 thanks fun show whathave yoy
