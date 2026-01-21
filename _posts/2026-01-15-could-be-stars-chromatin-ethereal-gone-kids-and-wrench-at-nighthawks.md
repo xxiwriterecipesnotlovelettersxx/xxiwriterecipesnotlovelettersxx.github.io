@@ -113,11 +113,11 @@ Also a huge shoutout to @cohen.salnitro on Instagram, a videographer who put tog
    <a href="/images/chrom157.JPG">
     <img src="/images/chrom157.JPG" alt="chromatin">
   </a>
-   <a href="/images/vileapparition6.JPG">
-    <img src="/images/vileapparition6.JPG" alt="vileapparition">
+   <a href="/images/liamwater.JPG">
+    <img src="/images/liamwater.JPG" alt="liamwater">
   </a>
-   <a href="/images/vileapparition7.JPG">
-    <img src="/images/vileapparition7.JPG" alt="vileapparition">
+   <a href="/images/liamwater2.JPG">
+    <img src="/images/liamwater2.JPG" alt="liamwater">
   </a>
    <a href="/images/death1.JPG">
     <img src="/images/death1.JPG" alt="friends">
