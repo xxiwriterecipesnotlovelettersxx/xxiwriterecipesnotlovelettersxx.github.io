@@ -26,14 +26,14 @@ The first act of the night was Muddy Lawrence, a harsh noise/experimental perfor
 <br><br>
 The abrasive distortion eventually engulfed all other sound, at times leaving only hissing static and feedback.
 
-![wrench](/images/muddylawrence1.jpg)
+![muddylawrence](/images/muddylawrence1.jpg)
 
 Following Muddy Lawrence, Naarm band The World At A Glance delivered a set rooted in post hardcore, with an underlying quality of gothic melancholy. The electric violin introduced a weeping and swaying feel, imbued with a faint sense of despair and sorrow. Scott's vocals were a standout of this act, a combination of deep, well-annunciated clean lines and harsh screaming to suit the songs' tension.
 <br>
 <br>
 Scott's animated performance led to their cap flying backwards off their head early into the set, a reflection of the band's high-energy stage presence. TWAAG have never let me down with a live gig - one of the most consistent local bands I've ever seen.
 
-![katorga](/images/katorga1.JPG)
+![twaag](/images/twaag1.JPG)
 
 Naarm 5-piece ESP Mayhem played a set unlike anything I had ever seen before. Their self-described 3-synth-no-guitar-future-shock-grind was as deranged as it sounds. Without guitars, the three synths instead drove an electronic, cybergrind sound that kept up with grindcore’s usual hyper-velocity. Able to achieve sounds impossible when using guitars, the band's hard-hitting, aggressive, and stabbing bass punched through the mix to emphasise the violence and force of their performance.
 <br><br>
@@ -57,8 +57,8 @@ Their second (and final) track was no less crushing, continuing the suffocating 
    <a href="/images/whitehorse1.jpg">
     <img src="/images/whitehorse1.jpg" alt="whitehorse">
   </a>
-   <a href="/images/cbsnighthawks2.jpeg">
-    <img src="/images/cbsnighthawks2.jpeg" alt="crowdsurf">
+   <a href="/images/whitehorse2.JPG">
+    <img src="/images/whitehorse2.JPG" alt="whitehorse">
   </a>
 </div>
 
@@ -67,7 +67,7 @@ Headlining the show, Smug Anime Face were the last to play. The Hobart band's sa
 <br>
 Unfortunately I had to leave the venue around halfway through their set. I didn't want to miss their last few songs, but I will admit I was slightly relieved to be out of that pit (especially due to the aount of stray elbows I caught).
 
-![katorga](/images/katorga1.JPG)
+![smuganimeface](/images/katorga1.JPG)
 
 <p class="show-intro">
 thanks fun show whathave yoy
