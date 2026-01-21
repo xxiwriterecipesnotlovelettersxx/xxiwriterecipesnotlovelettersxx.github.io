@@ -119,6 +119,9 @@ photo credits:
    <a href="/images/whitehorse3.JPG">
     <img src="/images/whitehorse3.JPG" alt="whitehorse">
   </a>
+   <a href="/images/whitehorse7.jpg">
+    <img src="/images/whitehorse7.jpg" alt="whitehorse">
+  </a>
    <a href="/images/whitehorse4.JPG">
     <img src="/images/whitehorse4.JPG" alt="whitehorse">
   </a>
