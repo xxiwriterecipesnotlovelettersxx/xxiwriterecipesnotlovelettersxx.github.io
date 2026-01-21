@@ -161,7 +161,16 @@ photo credits:
    <a href="/images/smug7.jpg">
     <img src="/images/smug7.jpg" alt="smuganimeface">
   </a>
-   <a href="/images/spitoutside.JPG">
-    <img src="/images/spitoutside.JPG" alt="spit">
+   <a href="/images/smugaf1.JPG">
+    <img src="/images/smugaf1.JPG" alt="smuganimeface">
+  </a>
+   <a href="/images/smug3.jpg">
+    <img src="/images/smug3.jpg" alt="smuganimeface">
+  </a>
+   <a href="/images/smugaf2.JPG">
+    <img src="/images/smugaf2.JPG" alt="smuganimeface">
+  </a>
+   <a href="/images/smuganimeface1.JPG">
+    <img src="/images/smuganimeface1.JPG" alt="smuganimeface">
   </a>
 </div>
