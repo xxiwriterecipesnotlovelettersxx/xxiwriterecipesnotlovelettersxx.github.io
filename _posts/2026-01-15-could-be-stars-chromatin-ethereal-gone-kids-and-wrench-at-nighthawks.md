@@ -69,6 +69,11 @@ Also a huge shoutout to @cohen.salnitro on Instagram, a videographer who put tog
 <br>
 
 ### photos from the night (click to expand)
+photo credits:
+<br>
+@rrray.monddd on instagram
+<br>
+@luvdonnie_ on instagram
 
 <div class="gallery">
    <a href="/images/wrench1.png">
