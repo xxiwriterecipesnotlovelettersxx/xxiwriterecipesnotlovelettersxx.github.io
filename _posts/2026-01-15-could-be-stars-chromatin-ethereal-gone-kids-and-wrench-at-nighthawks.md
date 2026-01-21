@@ -33,7 +33,7 @@ EGK showed variety in their performance, ranging from introspective & nostalgic 
 
 ![egk](/images/egk1.JPG)
 
-Chromatin took over to play their set next as the second to last band of the night. Their act comprised of powerful and violent emotional hardcore with intense and anguished screams. Chromatin's heavy, dark sound even bordered on blackgaze in some segments. Almost immediately, a frenzied mosh pit was fuelled by the chaos of the band's performance - although this was not entirely exclusive to the crowd, as vocalist Liam put his signature act of joining the crowd while screaming into practice. 
+Chromatin took over to play their set next as the second to last band of the night. Their act comprised of powerful and violent emotional hardcore with intense and anguished screams. Chromatin's heavy, dark sound even bordered on blackgaze in some segments. Almost immediately, a frenzied mosh pit was fuelled by the chaos of the band's performance - although this was not entirely exclusive to the audience, as vocalist Liam put his signature act of joining the crowd while screaming into practice. 
 <br><br>
 As a reflection of the intensity of their set, Liam was rarely seen without his coconut water between songs. Chromatin also upheld their consistent tradition by playing a heavy, aggressive cover of 'Snow' by Could be Stars. Their set eventually finished, letting the high energy in the room slowly dissipate.
 
