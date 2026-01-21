@@ -98,8 +98,8 @@ Also a huge shoutout to @cohen.salnitro on Instagram, a videographer who put tog
    <a href="/images/chrom152.JPG">
     <img src="/images/chrom152.JPG" alt="chromatin">
   </a>
-   <a href="/images/chrom153.JPG">
-    <img src="/images/chrom153.JPG" alt="chromatin">
+   <a href="/images/dchrom2.JPG">
+    <img src="/images/dchrom2.JPG" alt="chromatin">
   </a>
    <a href="/images/chrom154.JPG">
     <img src="/images/chrom154.JPG" alt="chromatin">
