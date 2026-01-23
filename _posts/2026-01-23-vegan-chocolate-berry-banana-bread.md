@@ -6,7 +6,7 @@ title: "vegan chocolate & berry banana bread"
 thumbnail: /images/bananabread1.JPG
 ---
 
-i cooked this with the oven too hot so it should have cooked slightly longer in the middle.... still very nice. i have adjusted the oven temperature in this recipe accordingly!
+i cooked this with the oven too hot so it needed to cook slightly longer in the middle.... still very nice. i have adjusted the oven temperature in this recipe accordingly!
 
 ### Ingredients
 - 3 large overripe bananas
