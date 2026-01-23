@@ -6,7 +6,7 @@ title: "vegan chocolate & berry banana bread"
 thumbnail: /images/bananabread2.JPG
 ---
 
-jasmine brought these to the skramzmas dinner. they were so niceee omg
+i cooked this with the oven too hot so it should have cooked slightly longer in the middle.... still very nice. i have adjusted the oven temperature in this recipe accordingly!
 
 ### Ingredients
 - 3 large overripe bananas
