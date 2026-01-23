@@ -10,8 +10,9 @@ i cooked this with the oven too hot so it needed to cook slightly longer in the 
 
 ### Ingredients
 - 3 large overripe bananas
-- 1/2 cup + 2tbsp caster sugar
 - 2tsp vanilla extract
+- 1/2 cup + 2tbsp caster sugar
+- 1 heaped tsp cinnamon
 - 200ml plant milk of some kind
 - 2 cups + 1tbsp plain flour
 - 1tsp baking powder
