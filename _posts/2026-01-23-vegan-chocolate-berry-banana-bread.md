@@ -3,7 +3,7 @@ layout: post
 date: 2026-01-23
 categories: recipe
 title: "vegan chocolate & berry banana bread"
-thumbnail: /images/bananabread2.JPG
+thumbnail: /images/bananabread1.JPG
 ---
 
 i cooked this with the oven too hot so it should have cooked slightly longer in the middle.... still very nice. i have adjusted the oven temperature in this recipe accordingly!
