@@ -3,7 +3,7 @@ layout: post
 date: 2026-01-23
 categories: recipe
 title: "vegan chocolate & berry banana bread"
-thumbnail: /images/bananabread1.JPG
+thumbnail: /images/bananabread2.JPG
 ---
 
 jasmine brought these to the skramzmas dinner. they were so niceee omg
