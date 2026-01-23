@@ -6,7 +6,7 @@ categories: recipe
 thumbnail: /images/IMG_3196.jpg
 ---
 
-the first recipe post on **xxiwriterecipesnotlovelettersxx**. you know it and you love it
+the best recipe post on **xxiwriterecipesnotlovelettersxx**. my favourite food this will never be changed
 
 ### Ingredients
 - olive oil
