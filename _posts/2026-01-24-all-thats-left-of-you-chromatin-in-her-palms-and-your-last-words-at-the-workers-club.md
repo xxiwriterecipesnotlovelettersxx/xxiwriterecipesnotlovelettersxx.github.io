@@ -22,14 +22,14 @@ In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy he
 
 Playing their first live show, your last words were the first band of the afternoon. Their songwriting had a distinctive sound that blended slow, bright clean sections with hard-hitting and emotional screamo (remiscent of doris in their instrumentation). Despite a few difficulties with the kick pedal, their perseverance led to a solid performance that established a clear sound for their band going forward.
 <br><br>
-During their set, they covered I Hate Myself's classic 'To A Husband at War', a staple which saw members of the audience swaying and singing along. I am excited to see what these guys do next!
+During their set, they covered I Hate Myself's classic 'To A Husband at War', a staple which saw members of the audience swaying and singing along. Very excited to see what these guys do next!
 
 ![yr last words](/images/ylw1.JPG)
 
-Following at 9:15 were Naarm shoegaze revival band Ethereal Gone Kids. Their modern incorporation of post-punk elements contributed to the dreamy, flowing soundscape of their set. Drenched in delay and reverse reverb, EGK's guitars ranged from bright, shimmery, and swirling, to deep, thick, and muddy. Their songwriting was a love letter to classic shoegaze, a surreal and hypnotic 'wall of sound' led by clean and occasionally layered vocals.
+After a short break, In Her Palms played next. Sharing the same lineup as Could be Stars, we performed our first show with a mix of newly-written songs as well as some gatecrash and Could be Stars songs.
 <br>
 <br>
-EGK showed variety in their performance, ranging from introspective & nostalgic to angsty at times. Approaching the end of their set, they continued a recent trend of Silverchair covers in up-and-coming alternative rock band's live sets.
+I think it went well! I was so nervous to play at first but felt much better by the end of our set.
 
 ![egk](/images/egk1.JPG)
 
