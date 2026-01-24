@@ -7,16 +7,16 @@ thumbnail: /images/chrom2401266.JPG
 ---
 <br>
 <p class="show-intro">
-<a href="https://couldbestars.bandcamp.com/">Could be Stars</a>
+<a href="https://linktr.ee/allthatsleftofyou?utm_source=linktree_profile_share&ltsid=be22f44a-4b15-46bb-8ec2-e164c50eaf23">all that's left of you</a>
 <br>
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
 <br>
-<a href="https://www.instagram.com/etherealgonekidsband/">Ethereal Gone Kids</a>
+<a href="https://linktr.ee/inherpalms?utm_source=linktree_profile_share&ltsid=bd421b82-f823-46a1-ba79-99e2701ac796">In Her Palms</a>
 <br>
-<a href="https://www.instagram.com/wrench_band/">Wrench</a>
+<a href="https://www.instagram.com/yourlastwords_band/">your last words</a>
 </p>
 <br>
-In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting
+In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting two new bands from the Naarm emo scene, In Her Palms (which I am in!!) & your last words, playing alongside Chromatin and all that's left of you, two bands who have quickly become fixtures of the Australian skramz scene.
 
 ![poster](/images/posternighthawksjan26.jpg)
 
