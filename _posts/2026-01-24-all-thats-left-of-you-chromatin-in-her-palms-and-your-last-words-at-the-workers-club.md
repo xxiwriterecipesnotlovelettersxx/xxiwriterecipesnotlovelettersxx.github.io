@@ -2,7 +2,7 @@
 layout: post
 title: "all that's left of you, chromatin, in her palms, and your last words @ the workers club"
 date: 2026-01-24
-categories: show
+categories: showx
 thumbnail: /images/chrom2401266.JPG
 ---
 <br>
@@ -16,7 +16,7 @@ thumbnail: /images/chrom2401266.JPG
 <a href="https://www.instagram.com/wrench_band/">Wrench</a>
 </p>
 <br>
-I arrived at Nighthawks bar, Collingwood in the late afternoon of January 15th for a show that promised to join together "the forces of skramz and shoegaze". For me, this was particularly exciting as my first time playing as a member of Could be Stars. A huge gig, showcasing promising new talent from Djilang and Naarm, was in store.
+In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting
 
 ![poster](/images/posternighthawksjan26.jpg)
 
