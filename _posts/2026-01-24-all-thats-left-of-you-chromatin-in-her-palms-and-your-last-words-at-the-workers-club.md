@@ -95,14 +95,17 @@ photo credits:
    <a href="/images/ihop2401262.png">
     <img src="/images/ihop2401262.png" alt="inherpalms">
   </a>
-   <a href="/images/ihop2401263.png">
-    <img src="/images/ihop2401263.png" alt="inherpalms">
+   <a href="/images/ihop2401263.jpg">
+    <img src="/images/ihop2401263.jpg" alt="inherpalms">
   </a>
-   <a href="/images/ihop2401264.png">
-    <img src="/images/ihop2401264.png" alt="inherpalms">
+   <a href="/images/ihop2401264.jpg">
+    <img src="/images/ihop2401264.jpg" alt="inherpalms">
   </a>
-   <a href="/images/ihop2401265.png">
-    <img src="/images/ihop2401265.png" alt="inherpalms">
+   <a href="/images/ihop2401265.jpg">
+    <img src="/images/ihop2401265.jpg" alt="inherpalms">
+  </a>
+   <a href="/images/chrom2401261.JPG">
+    <img src="/images/chrom2401261.JPG" alt="chromatin">
   </a>
    <a href="/images/chrom2401262.JPG">
     <img src="/images/chrom2401262.JPG" alt="chromatin">
