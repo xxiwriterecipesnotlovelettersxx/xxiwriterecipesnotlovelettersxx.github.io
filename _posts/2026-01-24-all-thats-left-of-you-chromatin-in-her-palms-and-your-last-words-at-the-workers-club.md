@@ -29,7 +29,7 @@ During their set, they covered I Hate Myself's classic 'To A Husband at War', a 
 After a short break, In Her Palms played next. Sharing the same lineup as Could Be Stars, our first live show featured a mix of newly-written songs and material carried over from Gatecrash and Could Be Stars.
 <br>
 <br>
-I was nervous at the start of the set, but as we kept playing the tension eased and the performance found its footing. After we played, we all agreed we were happy with our band's live debut!
+I was nervous at the start of the set, but as we kept playing the tension eased and our performance found its footing.
 
 ![ihop](/images/ihop2401261.png)
 
