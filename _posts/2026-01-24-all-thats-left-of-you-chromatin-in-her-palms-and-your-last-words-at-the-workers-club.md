@@ -31,7 +31,7 @@ After a short break, In Her Palms played next. Sharing the same lineup as Could 
 <br>
 I was nervous at the start of the set, but as we kept playing the tension eased and the performance found its footing. After we played, we all agreed we were happy with our band's live debut!
 
-![egk](/images/egk1.JPG)
+![ihop](/images/ihop2401261.png)
 
 Chromatin took over to play their set next as the second to last band of the night. Their act comprised of powerful and violent emotional hardcore with intense and anguished screams. Chromatin's heavy, dark sound even bordered on blackgaze in some segments. Almost immediately, a frenzied mosh pit was fuelled by the chaos of the band's performance - although this was not entirely exclusive to the audience, as vocalist Liam put his signature act of joining the crowd while screaming into practice. 
 <br><br>
