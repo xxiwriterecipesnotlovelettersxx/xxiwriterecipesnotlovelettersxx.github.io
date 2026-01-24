@@ -22,14 +22,14 @@ In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy he
 
 Playing their first live show, your last words were the first band of the afternoon. Their songwriting had a distinctive sound that blended slow, bright clean sections with hard-hitting and emotional screamo (remiscent of doris in their instrumentation). Despite a few difficulties with the kick pedal, their perseverance led to a solid performance that established a clear sound for their band going forward.
 <br><br>
-During their set, they covered I Hate Myself's classic 'To A Husband at War', a staple which saw members of the audience swaying and singing along. Very excited to see what these guys do next!
+During their set, they covered I Hate Myself's 'To A Husband at War', a staple which saw members of the audience swaying and singing along. Very excited to see what these guys do next!
 
 ![yr last words](/images/ylw1.JPG)
 
-After a short break, In Her Palms played next. Sharing the same lineup as Could Be Stars, our first live show featured a mix of newly-written songs and material carried over from Gatecrash and Could Be Stars.
+After a short break, I got on stage to play our first In Her Palms show. Sharing the same lineup as Could Be Stars, our set featured a mix of newly-written songs and material carried over from Gatecrash and Could Be Stars.
 <br>
 <br>
-I was nervous at the start of the set, but as we kept playing the tension eased and our performance found its footing.
+I was nervous at the start, but as we kept playing the tension eased and our performance found its footing. yay!
 
 <div class="gallery">
    <a href="/images/ihop2401261.png">
