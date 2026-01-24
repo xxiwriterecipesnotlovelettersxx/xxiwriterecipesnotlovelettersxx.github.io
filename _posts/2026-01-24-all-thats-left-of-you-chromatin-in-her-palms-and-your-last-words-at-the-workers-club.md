@@ -45,11 +45,11 @@ Chromatin took over to play their set next as the second to last band of the nig
 As a reflection of the intensity of their set, Liam was rarely seen without his coconut water between songs. Chromatin also upheld their consistent tradition by playing a heavy, aggressive cover of 'Snow' by Could be Stars. Their set eventually finished, letting the high energy in the room slowly dissipate.
 
 <div class="gallery">
-   <a href="/images/chrom151.JPG">
-    <img src="/images/chrom151.JPG" alt="chromatin">
+   <a href="/images/chrom2401261.JPG">
+    <img src="/images/chrom2401261.JPG" alt="chromatin">
   </a>
-   <a href="/images/chrom152.JPG">
-    <img src="/images/chrom152.JPG" alt="chromatin">
+   <a href="/images/chrom2401262.JPG">
+    <img src="/images/chrom2401262.JPG" alt="chromatin">
   </a>
 </div>
 
@@ -91,6 +91,18 @@ photo credits:
   </a>
    <a href="/images/ihop2401261.png">
     <img src="/images/ihop2401261.png" alt="inherpalms">
+  </a>
+   <a href="/images/ihop2401262.png">
+    <img src="/images/ihop2401262.png" alt="inherpalms">
+  </a>
+   <a href="/images/ihop2401263.png">
+    <img src="/images/ihop2401263.png" alt="inherpalms">
+  </a>
+   <a href="/images/ihop2401264.png">
+    <img src="/images/ihop2401264.png" alt="inherpalms">
+  </a>
+   <a href="/images/ihop2401265.png">
+    <img src="/images/ihop2401265.png" alt="inherpalms">
   </a>
    <a href="/images/chrom2401262.JPG">
     <img src="/images/chrom2401262.JPG" alt="chromatin">
