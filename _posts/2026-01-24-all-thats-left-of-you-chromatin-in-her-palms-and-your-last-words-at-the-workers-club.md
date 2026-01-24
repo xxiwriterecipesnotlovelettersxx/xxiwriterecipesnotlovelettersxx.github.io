@@ -76,29 +76,29 @@ photo credits:
 @luvdonnie_ on instagram
 
 <div class="gallery">
-   <a href="/images/wrench1.png">
-    <img src="/images/wrench1.png" alt="wrench">
+   <a href="/images/ylw1.JPG">
+    <img src="/images/ylw1.JPG" alt="yrlastwords">
   </a>
-   <a href="/images/egk0.JPG">
-    <img src="/images/egk0.JPG" alt="egk">
+   <a href="/images/ylw2.JPG">
+    <img src="/images/ylw2.JPG" alt="yrlastwords">
   </a>
-   <a href="/images/egk1.JPG">
-    <img src="/images/egk1.JPG" alt="egk">
+   <a href="/images/ihop2401261.png">
+    <img src="/images/ihop2401261.png" alt="inherpalms">
   </a>
-   <a href="/images/egk2.JPG">
-    <img src="/images/egk2.JPG" alt="egk">
+   <a href="/images/chrom2401262.JPG">
+    <img src="/images/chrom2401262.JPG" alt="chromatin">
   </a>
-   <a href="/images/setlist1.JPG">
-    <img src="/images/setlist1.JPG" alt="setlist">
+   <a href="/images/chrom2401263.JPG">
+    <img src="/images/chrom2401263.JPG" alt="chromatin">
   </a>
-   <a href="/images/bestfriendsforever.JPG">
-    <img src="/images/bestfriendsforever.JPG" alt="bestfriendsforever">
+   <a href="/images/chrom2401264.JPG">
+    <img src="/images/chrom2401264.JPG" alt="chromatin">
   </a>
-   <a href="/images/chrom150.JPG">
-    <img src="/images/chrom150.JPG" alt="chromatin">
+   <a href="/images/chrom2401265.JPG">
+    <img src="/images/chrom2401265.JPG" alt="chromatin">
   </a>
-   <a href="/images/chrom151.JPG">
-    <img src="/images/chrom151.JPG" alt="chromatin">
+   <a href="/images/chrom2401266.JPG">
+    <img src="/images/chrom2401266.JPG" alt="chromatin">
   </a>
    <a href="/images/chrom152.JPG">
     <img src="/images/chrom152.JPG" alt="chromatin">
