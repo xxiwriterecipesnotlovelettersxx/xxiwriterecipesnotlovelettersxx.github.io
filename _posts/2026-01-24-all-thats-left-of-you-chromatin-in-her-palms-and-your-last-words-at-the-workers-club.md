@@ -122,52 +122,19 @@ photo credits:
    <a href="/images/chrom2401266.JPG">
     <img src="/images/chrom2401266.JPG" alt="chromatin">
   </a>
-   <a href="/images/chrom152.JPG">
-    <img src="/images/chrom152.JPG" alt="chromatin">
+   <a href="/images/atloy2401261.JPG">
+    <img src="/images/atloy2401261.JPG" alt="atloy">
   </a>
-   <a href="/images/dchrom2.JPG">
-    <img src="/images/dchrom2.JPG" alt="chromatin">
+   <a href="/images/atloy2401262.JPG">
+    <img src="/images/atloy2401262.JPG" alt="atloy">
   </a>
-   <a href="/images/chrom154.JPG">
-    <img src="/images/chrom154.JPG" alt="chromatin">
+   <a href="/images/atloy2401263.JPG">
+    <img src="/images/atloy2401263.JPG" alt="atloy">
   </a>
-   <a href="/images/dchrom1.JPG">
-    <img src="/images/dchrom1.JPG" alt="chromatin">
+   <a href="/images/atloy2401264.JPG">
+    <img src="/images/atloy2401264.JPG" alt="atloy">
   </a>
-   <a href="/images/chrom156.JPG">
-    <img src="/images/chrom156.JPG" alt="chromatin">
-  </a>
-   <a href="/images/chrom157.JPG">
-    <img src="/images/chrom157.JPG" alt="chromatin">
-  </a>
-   <a href="/images/liamwater.JPG">
-    <img src="/images/liamwater.JPG" alt="liamwater">
-  </a>
-   <a href="/images/liamwater2.JPG">
-    <img src="/images/liamwater2.JPG" alt="liamwater">
-  </a>
-   <a href="/images/cbsnighthawks0.JPG">
-    <img src="/images/cbsnighthawks0.JPG" alt="cbs">
-  </a>
-   <a href="/images/cbsnighthawks1.jpeg">
-    <img src="/images/cbsnighthawks1.jpeg" alt="cbs">
-  </a>
-   <a href="/images/cbsnighthawks2.jpeg">
-    <img src="/images/cbsnighthawks2.jpeg" alt="cbs">
-  </a>
-   <a href="/images/cbsnighthawks3.jpeg">
-    <img src="/images/cbsnighthawks3.jpeg" alt="cbs">
-  </a>
-   <a href="/images/cbsnighthawks4.jpeg">
-    <img src="/images/cbsnighthawks4.jpeg" alt="cbs">
-  </a>
-   <a href="/images/cbsnighthawks5.jpeg">
-    <img src="/images/cbsnighthawks5.jpeg" alt="cbs">
-  </a>
-   <a href="/images/cbsnighthawks6.JPG">
-    <img src="/images/cbsnighthawks6.JPG" alt="cbs">
-  </a>
-   <a href="/images/thingontable.jpeg">
-    <img src="/images/thingontable.jpeg" alt="tbalething">
+   <a href="/images/atloy2401265.JPG">
+    <img src="/images/atloy2401265.JPG" alt="atloy">
   </a>
 </div>
