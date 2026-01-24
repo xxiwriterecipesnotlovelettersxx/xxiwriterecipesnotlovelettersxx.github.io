@@ -18,7 +18,7 @@ thumbnail: /images/chrom2401266.JPG
 <br>
 In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting two new bands from the Naarm emo scene, In Her Palms (which I am in!!) & your last words, playing alongside Chromatin and all that's left of you, two bands who have quickly become fixtures of the Australian skramz scene.
 
-![poster](/images/posternighthawksjan26.jpg)
+![poster](/images/240126poster.jpg)
 
 Without much time free between our soundcheck and doors (8:30), I went with Charli, Holly, and Zi & her mum to eat something before the show. We found a Vietnamese restaurant on Smith Street and ate dinner there, but we missed some of Wrench's set in doing so :(
 <br><br>
