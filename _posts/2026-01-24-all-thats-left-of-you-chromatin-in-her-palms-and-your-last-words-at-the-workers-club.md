@@ -16,15 +16,15 @@ thumbnail: /images/chrom2401266.JPG
 <a href="https://www.instagram.com/yourlastwords_band/">your last words</a>
 </p>
 <br>
-In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting two new bands from the Naarm emo scene, In Her Palms (which I am in!!) & your last words, playing alongside Chromatin and all that's left of you, two bands who have quickly become fixtures of the Australian skramz scene.
+In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting two new bands from the Naarm emo scene, In Her Palms (which I am in!!) & your last words, playing alongside Chromatin and all that's left of you, two bands who have quickly become fixtures of the Australian skramz scene. This day was HOT (41 degrees) so it was very nice to have access to the air conditioned venue.
 
 ![poster](/images/240126poster.jpg)
 
-Without much time free between our soundcheck and doors (8:30), I went with Charli, Holly, and Zi & her mum to eat something before the show. We found a Vietnamese restaurant on Smith Street and ate dinner there, but we missed some of Wrench's set in doing so :(
+Playing their first live show, your last words were the first band of the afternoon. Their songwriting had a distinctive sound that blended slow, bright clean sections with hard-hitting and emotional screamo (remiscent of doris in their instrumentation). Despite a few difficulties with the kick pedal, their perseverance led to a solid performance that established a clear sound for their band going forward.
 <br><br>
-From the closing few songs that I did see, however, Wrench proved their consistency. With the same force they brought to Paddy's house show last October, their coarse, gritty riffs and emotional vocals were met with high energy from the crowd. Their on-stage performance was entertaining, and filled with moments of unexpected heaviness. Wrench have a violent and despairing sound, and I really recommend seeing them live (there is this cool thing that Paddy does with his pedals - don't even know how to describe it).
+During their set, they covered I Hate Myself's classic 'To A Husband at War', a staple which saw members of the audience swaying and singing along. I am excited to see what these guys do next!
 
-![wrench](/images/wrench1.png)
+![yr last words](/images/ylw1.JPG)
 
 Following at 9:15 were Naarm shoegaze revival band Ethereal Gone Kids. Their modern incorporation of post-punk elements contributed to the dreamy, flowing soundscape of their set. Drenched in delay and reverse reverb, EGK's guitars ranged from bright, shimmery, and swirling, to deep, thick, and muddy. Their songwriting was a love letter to classic shoegaze, a surreal and hypnotic 'wall of sound' led by clean and occasionally layered vocals.
 <br>
