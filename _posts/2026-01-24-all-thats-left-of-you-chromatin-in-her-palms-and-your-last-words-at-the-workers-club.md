@@ -59,11 +59,11 @@ Headlining the night, it was time to play my first ever show as a member of Coul
 We also made the last-minute decision to debut Floodlight, a song from our new project In Her Palms. This was fun to play (but clearly not well rehearsed yet). For Could be Stars' mostly calm sound, the crowd were very energetic - almost rivalling Chromatin's set with the amount of moshing at times. As we played our final song, Snow, I saw Liam go upside down in the crowd, before crashing down on my power supply and cutting my guitar signal.
 
 <div class="gallery">
-   <a href="/images/cbsnighthawks1.jpeg">
-    <img src="/images/cbsnighthawks1.jpeg" alt="cbs">
+   <a href="/images/atloy2401261.JPG">
+    <img src="/images/atloy2401261.JPG" alt="atloy">
   </a>
-   <a href="/images/cbsnighthawks2.jpeg">
-    <img src="/images/cbsnighthawks2.jpeg" alt="crowdsurf">
+   <a href="/images/atloy2401263.JPG">
+    <img src="/images/atloy2401263.JPG" alt="atloy">
   </a>
 </div>
 
