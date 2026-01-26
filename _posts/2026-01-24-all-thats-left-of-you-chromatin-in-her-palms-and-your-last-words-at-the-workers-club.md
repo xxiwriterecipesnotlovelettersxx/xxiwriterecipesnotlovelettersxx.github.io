@@ -20,13 +20,13 @@ In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy he
 
 ![poster](/images/240126poster.jpg)
 
-Playing their first live show, your last words were the first band of the afternoon. Their songwriting had a distinctive sound that blended slow, bright clean sections with hard-hitting and emotional screamo (remiscent of doris in their instrumentation). Despite a few difficulties with the kick pedal, their perseverance led to a solid performance that established a clear sound for their band going forward.
+Playing their first-ever live show, your last words were the first band of the afternoon to play. Their songwriting had a distinctive sound that blended slow, bright clean sections with hard-hitting and emotional screamo (remiscent of doris in their instrumentation). Despite a few difficulties with the kick pedal, their perseverance led to a solid performance that established a clear sound for their band going forward.
 <br><br>
 During their set, they covered I Hate Myself's 'To A Husband at War', a staple which saw members of the audience swaying and singing along.
 
 ![yr last words](/images/ylw1.JPG)
 
-After a short break, my friends and I got on stage to play our first show as In Her Palms, a band sharing the same lineup as Could Be Stars. Our set featured a mix of newly-written songs and material carried over from gatecrash and Could Be Stars.
+After a short break, my friends and I got on stage to play our debut show as In Her Palms, a band sharing the same lineup as Could Be Stars. Our set featured a mix of newly-written songs and material carried over from gatecrash and Could Be Stars.
 <br>
 <br>
 I was nervous at the start, but as we kept playing the tension eased and I found my footing. yay!
@@ -40,7 +40,7 @@ I was nervous at the start, but as we kept playing the tension eased and I found
   </a>
 </div>
 
-Following our set were Chromatin, delivering their same emotionally-charged and violent screamo.
+After In Her Palms, Chromatin set up to play their heavy, fast paced and
 <br><br>
 As a reflection of the intensity of their set, Liam was rarely seen without his coconut water between songs. Chromatin also upheld their consistent tradition by playing a heavy, aggressive cover of 'Snow' by Could be Stars. Their set eventually finished, letting the high energy in the room slowly dissipate.
 
