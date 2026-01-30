@@ -56,7 +56,7 @@ During an instrumental, Liam encouraged the crowd to "dance, please" along with 
 The afternoon came to a close with all that's left of you, a three-piece Naarm screamo band. Their music drew inspiration across an apparently large range of emo, with twinkly & light, nostalgic & warm, and dissonant and aggressive sections interwoven across their songs. Slowly becoming familiar with songs in their set, I am so excited for the day all that's left of you release recordings.
 <br>
 <br>
-Just like last time, Valentine's guitar was crushingly loud, and contributed to a memorable performance as they screamed into the pickups. The intense emotion behind their wailing screams lent itself to building the vividness of the band's sound. Ending their set with a climactic 
+Just like last time, Valentine's guitar was crushingly loud, and contributed to a memorable performance as they screamed into the pickups. The intense emotion behind their wailing screams lent itself to building the vividness of the band's sound. They ended their set with a drawn-out ending that slowly fell apart into chaos, leaving only droning and distorted bass ringing out.
 <div class="gallery">
    <a href="/images/atloy2401261.JPG">
     <img src="/images/atloy2401261.JPG" alt="atloy">
