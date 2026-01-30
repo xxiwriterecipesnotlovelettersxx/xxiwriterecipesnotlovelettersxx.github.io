@@ -16,7 +16,7 @@ thumbnail: /images/chrom2401266.JPG
 <a href="https://www.instagram.com/yourlastwords_band/">your last words</a>
 </p>
 <br>
-In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting two new bands from the Naarm emo scene, In Her Palms (which I am in!!) & your last words, playing alongside Chromatin and all that's left of you, two bands who have quickly become fixtures of the Australian skramz scene. This day was HOT (41 degrees) so it was very nice to have access to the air conditioned venue.
+In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting two new bands from the Naarm emo scene, In Her Palms (which I am in!!) & your last words, playing alongside Chromatin and all that's left of you, two bands who have quickly become fixtures of Australian skramz. This day was HOT (41 degrees) so it was very nice to have access to the air conditioned venue.
 
 ![poster](/images/240126poster.jpg)
 
@@ -40,9 +40,9 @@ I was nervous at the start, but as we kept playing the tension eased and I found
   </a>
 </div>
 
-After In Her Palms, Chromatin set up to play their heavy, fast paced and
+After In Her Palms, Naarm band Chromatin delivered a set of intense, emotional skramz. As the band's vocalist, Liam took full advantage of The Workers Club's large floor space, roaming in front of the stage and amongst the crowd to scream. Chromatin proved their sound as consistent and well-established, a balanced combination of melancholic despair with raw, violent energy. Lily's drumming accompanied slower-paced sections with appropriate space, while blast beats threatened to enter black metal territory at other times.
 <br><br>
-As a reflection of the intensity of their set, Liam was rarely seen without his coconut water between songs. Chromatin also upheld their consistent tradition by playing a heavy, aggressive cover of 'Snow' by Could be Stars. Their set eventually finished, letting the high energy in the room slowly dissipate.
+During an instrumental, Liam encouraged the crowd to "dance, please" along with him. For the closing moments of the set, their bassist Bailey also got down from the stage to join him, the two clashing forcefully in the middle of the room.
 
 <div class="gallery">
    <a href="/images/chrom2401261.JPG">
@@ -53,11 +53,10 @@ As a reflection of the intensity of their set, Liam was rarely seen without his 
   </a>
 </div>
 
-Headlining the night, it was time to play my first ever show as a member of Could be Stars. I was nervous to be on stage but settled in quickly. We played some songs from the usual setlist, but also added covers of two songs (flood & nothing to show) from Asher's and my old screamo band, gatecrash. While playing flood, I looked out into the audience and saw Liam from Chromatin at eye-level with me, crowdsurfing. Paddy from Wrench was quick to follow suit.
+The afternoon came to a close with all that's left of you, a three-piece Naarm screamo band. Their music drew inspiration across an apparently large range of emo, with twinkly & light, nostalgic & warm, and dissonant and aggressive sections interwoven across their songs. Slowly becoming familiar with songs in their set, I am so excited for the day all that's left of you release recordings.
 <br>
 <br>
-We also made the last-minute decision to debut Floodlight, a song from our new project In Her Palms. This was fun to play (but clearly not well rehearsed yet). For Could be Stars' mostly calm sound, the crowd were very energetic - almost rivalling Chromatin's set with the amount of moshing at times. As we played our final song, Snow, I saw Liam go upside down in the crowd, before crashing down on my power supply and cutting my guitar signal.
-
+Just like last time, Valentine's guitar was crushingly loud, and contributed to a memorable performance as they screamed into the pickups. The intense emotion behind their wailing screams lent itself to building the vividness of the band's sound. Ending their set with a climactic 
 <div class="gallery">
    <a href="/images/atloy2401261.JPG">
     <img src="/images/atloy2401261.JPG" alt="atloy">
