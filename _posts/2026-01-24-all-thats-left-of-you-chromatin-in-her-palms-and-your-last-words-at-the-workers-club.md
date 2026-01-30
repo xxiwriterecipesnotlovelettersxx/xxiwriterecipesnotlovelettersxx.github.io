@@ -20,7 +20,7 @@ In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy he
 
 ![poster](/images/240126poster.jpg)
 
-Playing their first-ever live show, your last words were the first band of the afternoon to play. Their songwriting had a distinctive sound that blended slow, bright clean sections with hard-hitting and emotional screamo (remiscent of doris in their instrumentation). Despite a few difficulties with the kick pedal, their perseverance led to a solid performance that established a clear sound for their band going forward.
+With their first-ever live show, your last words were the first band of the afternoon to play. Their songwriting had a distinctive sound that blended slow, bright clean sections with hard-hitting and emotional screamo (remiscent of doris in their instrumentation). Despite a few difficulties with the kick pedal, their perseverance led to a solid performance that established a clear sound for their band going forward.
 <br><br>
 During their set, they covered I Hate Myself's 'To A Husband at War', a staple which saw members of the audience swaying and singing along.
 
