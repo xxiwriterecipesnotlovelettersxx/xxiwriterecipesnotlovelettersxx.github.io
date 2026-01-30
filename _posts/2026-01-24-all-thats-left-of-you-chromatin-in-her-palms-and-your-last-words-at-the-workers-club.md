@@ -103,6 +103,12 @@ photo credits:
    <a href="/images/ihop2401265.jpg">
     <img src="/images/ihop2401265.jpg" alt="inherpalms">
   </a>
+   <a href="/images/ihop2401266.png">
+    <img src="/images/ihop2401266.png" alt="inherpalms">
+  </a>
+   <a href="/images/ihop2401267.png">
+    <img src="/images/ihop2401267.png" alt="inherpalms">
+  </a>
    <a href="/images/chrom2401261.JPG">
     <img src="/images/chrom2401261.JPG" alt="chromatin">
   </a>
