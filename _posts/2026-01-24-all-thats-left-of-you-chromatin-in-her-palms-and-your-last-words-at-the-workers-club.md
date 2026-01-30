@@ -70,16 +70,20 @@ Just like last time, Valentine's guitar was crushingly loud, and contributed to 
 This show was so much fun!! Thank you to all of the wonderful bands that I played with, and to my lovely Could be Stars bandmates for helping me make it this far <3
 <br>
 <br>
-Also a huge shoutout to @cohen.salnitro on Instagram, a videographer who put together a montage of Wrench's, Chromatin's and Could be Stars' sets. Watch Wrench's video <a href="https://www.instagram.com/p/DTuwFyXgapa/">here</a>, Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a>.
+Once again my friend Laura (@lauradalezz1e on Instagram) recorded an awesome bootleg of this show which you can listen to <a href="https://drive.google.com/drive/folders/1IvEh61GZwQpPrzqDs5w6cC8SwKwE5aWj">here</a>. They also did sound for this show (and did a great job!!) <3
 </p>
 <br>
 
 ### photos from the night (click to expand)
 photo credits:
 <br>
-@rrray.monddd on instagram
+@mustwegospellitout on instagram
 <br>
-@luvdonnie_ on instagram
+@z3nsdigi_ on instagram
+<br>
+@j0rdan.668 on instagram
+<br>
+@eryns.photo.diary on instagram
 
 <div class="gallery">
    <a href="/images/ylw1.JPG">
