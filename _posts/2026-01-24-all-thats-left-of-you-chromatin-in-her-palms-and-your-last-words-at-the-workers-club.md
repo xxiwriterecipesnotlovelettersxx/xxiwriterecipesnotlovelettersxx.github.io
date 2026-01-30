@@ -16,7 +16,7 @@ thumbnail: /images/chrom2401266.JPG
 <a href="https://www.instagram.com/yourlastwords_band/">your last words</a>
 </p>
 <br>
-In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting two new bands from the Naarm emo scene, In Her Palms (which I am in!!) & your last words, playing alongside Chromatin and all that's left of you, two bands who have quickly become fixtures of Australian skramz. This day was HOT (41 degrees) so it was very nice to have access to the air conditioned venue.
+In the early afternoon of Saturday, January 24th, The Workers Club in Fitzroy held a show debuting two new bands from the Naarm emo scene. In Her Palms (which I am in!!) & your last words played alongside Chromatin and all that's left of you, two bands who have quickly become fixtures of Australian skramz. This day was HOT (41 degrees) so it was very nice to have access to the air conditioned venue.
 
 ![poster](/images/240126poster.jpg)
 
