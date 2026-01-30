@@ -70,7 +70,7 @@ Just like last time, Valentine's guitar was crushingly loud, and contributed to 
 This was such a great debut for In Her Palms! Thank you to everyone involved, and everyone who came to support these other three amazing bands.. and congratulations to your last words in particular for a killer first show.
 <br>
 <br>
-Once again my friend Laura (@lauradalezz1e on Instagram) recorded an awesome bootleg of this show which you can listen to <a href="https://drive.google.com/drive/folders/1IvEh61GZwQpPrzqDs5w6cC8SwKwE5aWj">here</a>. They also did sound for this show (and did a great job!!) <3
+Once again my friend Laura (@lauradalezz1e on Instagram) recorded a bootleg of this show which you can listen to <a href="https://drive.google.com/drive/folders/1IvEh61GZwQpPrzqDs5w6cC8SwKwE5aWj">here</a>. They also did sound for this show (and did a great job!!) <3
 </p>
 <br>
 
