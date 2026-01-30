@@ -2,7 +2,7 @@
 layout: post
 title: "all that's left of you, chromatin, in her palms, and your last words @ the workers club"
 date: 2026-01-24
-categories: showx
+categories: show
 thumbnail: /images/chrom2401266.JPG
 ---
 <br>
