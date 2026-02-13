@@ -5,6 +5,7 @@ date: 2026-03-28
 categories: show
 thumbnail: /images/starfestposter1.jpg
 ---
+
 <br>
 <p class="show-intro">
 <a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a>
