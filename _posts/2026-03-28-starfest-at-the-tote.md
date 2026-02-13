@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "starfest @ the tote"
