@@ -5,7 +5,6 @@ date: 2026-02-14
 categories: show
 thumbnail: /images/starfestposter1.jpg
 ---
-
 <p class="show-intro">
 <a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a><br>
 <a href="https://mycriesfallondeafears.bandcamp.com/">mycriesfallondeafears</a><br>
