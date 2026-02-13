@@ -28,7 +28,7 @@ thumbnail: /images/starfestposter1.jpg
 <a href="https://linktr.ee/inherpalms?utm_source=linktree_profile_share&ltsid=b84feeb0-03ed-4384-a12c-01856b2a855e">In Her Palms</a>
 </p>
 <br>
-Naarm & Eora's coolest bands will unite for the biggest show in emo/skramz history.
+Naarm & Eora's coolest bands will unite for the biggest show in emo/skramz history. Tickets <a href="https://tickets.oztix.com.au/outlet/event/66ac6eb0-1ec0-4842-b3d3-ca582000273a">here</a>.
 
 ![poster](/images/starfestposter1.jpg)
 
