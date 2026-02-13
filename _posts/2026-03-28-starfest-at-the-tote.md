@@ -7,25 +7,25 @@ thumbnail: /images/starfestposter1.jpg
 ---
 <br>
 <p class="show-intro">
-<a href="https://linktr.ee/allthatsleftofyou?utm_source=linktree_profile_share&ltsid=be22f44a-4b15-46bb-8ec2-e164c50eaf23">Juno Eclipse</a>
+<a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a>
 <br>
-<a href="https://www.instagram.com/chromatin_band/">mycriesfallondeafears</a>
+<a href="https://mycriesfallondeafears.bandcamp.com/">mycriesfallondeafears</a>
 <br>
-<a href="https://linktr.ee/inherpalms?utm_source=linktree_profile_share&ltsid=bd421b82-f823-46a1-ba79-99e2701ac796">Fear of Horses</a>
+<a href="https://fearofhorses1.bandcamp.com/">Fear of Horses</a>
 <br>
-<a href="https://www.instagram.com/yourlastwords_band/">Could be Stars</a>
+<a href="https://linktr.ee/couldbestars">Could be Stars</a>
 <br>
-<a href="https://www.instagram.com/chromatin_band/">Our Mutual Friend</a>
+<a href="https://www.instagram.com/ourmutualfriendband/">Our Mutual Friend</a>
 <br>
-<a href="https://linktr.ee/inherpalms?utm_source=linktree_profile_share&ltsid=bd421b82-f823-46a1-ba79-99e2701ac796">goblinviolence</a>
+<a href="https://www.instagram.com/goblinviolencediebythesword/">goblinviolence</a>
 <br>
-<a href="https://www.instagram.com/yourlastwords_band/">The World At A Glance</a>
+<a href="https://worldataglance.bandcamp.com/">The World At A Glance</a>
 <br>
-<a href="https://www.instagram.com/chromatin_band/">half request</a>
+<a href="https://halfrequest.bandcamp.com/">half request</a>
 <br>
-<a href="https://linktr.ee/inherpalms?utm_source=linktree_profile_share&ltsid=bd421b82-f823-46a1-ba79-99e2701ac796">chromatin</a>
+<a href="https://www.instagram.com/chromatin_band/">chromatin</a>
 <br>
-<a href="https://www.instagram.com/yourlastwords_band/">In Her Palms</a>
+<a href="https://linktr.ee/inherpalms?utm_source=linktree_profile_share&ltsid=b84feeb0-03ed-4384-a12c-01856b2a855e">In Her Palms</a>
 </p>
 <br>
 Naarm & Eora's coolest bands will unite for the biggest show in emo/skramz history.
