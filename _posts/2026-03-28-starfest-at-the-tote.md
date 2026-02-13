@@ -31,6 +31,3 @@ thumbnail: /images/starfestposter1.jpg
 Naarm & Eora's coolest bands will unite for the biggest show in emo/skramz history. Tickets <a href="https://tickets.oztix.com.au/outlet/event/66ac6eb0-1ec0-4842-b3d3-ca582000273a">here</a>.
 
 ![poster](/images/starfestposter1.jpg)
-
-  </a>
-</div>
