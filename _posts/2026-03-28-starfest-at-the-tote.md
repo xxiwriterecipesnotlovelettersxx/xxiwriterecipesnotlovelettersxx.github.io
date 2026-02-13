@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "starfest @ the tote"
-date: 2026-03-28
+date: 2026-02-14
 categories: show
 thumbnail: /images/starfestposter1.jpg
 ---
