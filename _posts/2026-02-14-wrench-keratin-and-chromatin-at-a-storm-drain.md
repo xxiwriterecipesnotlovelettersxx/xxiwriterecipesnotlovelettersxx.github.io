@@ -15,7 +15,10 @@ thumbnail: /images/drainfloor.JPG
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
 </p>
 <br>
-A DIY show inside a south-east Melbourne storm drain is the new best way to spend Valentine's Day with someone you love. Despite many delays, and all the difficulty you can expect setting up live music in this environment would bring, this amazing show organised by @m0shparty.diy turned out to be a great afternoon full of socialising and skramz music.
+A DIY show inside a south-east Melbourne storm drain is the new best way to spend Valentine's Day with someone you love. Despite many delays, and all the difficulty you can imagine setting up live music in this environment would bring, this amazing show organised by @m0shparty.diy turned out to be a great afternoon full of socialising and skramz music.
+<br>
+<br>
+To be completely honest I got wayyyy too high at this show, and my recollection of events is not wonderful... I also had to leave the show halfway through in order to make it home on time:(
 
 ![poster](/images/moshpartyposter1.jpg)
 
