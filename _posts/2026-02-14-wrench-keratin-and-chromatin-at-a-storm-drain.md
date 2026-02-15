@@ -3,7 +3,7 @@ layout: post
 title: "wrench, keratin, and chromatin @ diy storm drain"
 date: 2026-02-14
 categories: show
-thumbnail: /images/drainmirrorball.JPG
+thumbnail: /images/drainfloor.JPG
 ---
 
 <br>
