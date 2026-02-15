@@ -8,11 +8,9 @@ thumbnail: /images/drainmirrorball.JPG
 
 <br>
 <p class="show-intro">
-<a href="https://linktr.ee/allthatsleftofyou?utm_source=linktree_profile_share&ltsid=55520a02-14c3-489c-81cd-4c324b3f2962">all that's left of you</a>
+<a href="https://www.instagram.com/wrench_band/">Wrench</a>
 <br>
-<a href="https://www.instagram.com/goblinviolencediebythesword?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Goblinviolence</a>
-<br>
-<a href="https://chigakideathmetro.bandcamp.com/">Chigaki Death Metro</a>
+<a href="https://keratin.bandcamp.com/">Keratin</a>
 <br>
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
 </p>
