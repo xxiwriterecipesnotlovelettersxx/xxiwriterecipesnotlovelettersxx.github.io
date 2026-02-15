@@ -43,13 +43,13 @@ Generator struggles, i get high:(
 <br><br>
 drum and vocal covers
 
-![goblinviolence](/images/1-03.jpg)
+![draintime](/images/draintime.JPG)
 
 Generator solved, chromatin plays
 <br><br>
 they play, i experience this weirdly
 
-![atloy](/images/paddy.jpg)
+![chromatin](/images/drainchromatin1.JPG)
 
 as keratin are beginning to play, i leave aww!
 <br><br>
