@@ -22,18 +22,22 @@ To be completely honest I got wayyyy too high at this show, and my recollection 
 
 ![poster](/images/moshpartyposter1.jpg)
 
-Though Chromatin set the bar high with an incredible first performance at their Geelong house show back in October, they managed to raise it once more at Spit. Their blend of post hardcore and screamo was heavier than ever before, with ebbing and flowing guitar-driven melodies supporting vocalist Liam's raw, powerful screams.
+Here I speak of arriving
 <br><br>
-As an unexpected, genre-bending cover, Chromatin made the song 'Snow' by could be stars their own, reimagining it as a sludgy and dark piece. During this tribute, the green alien toy from the August 3rd Underthealmonds house show made a reappearance, this time without finding any roofs to get stuck on.
+I might discuss the drain's conditions etc
 
-![chromatin](/images/liam1.jpg)
-<p class="show-intro">
-After a break between bands, it was time for Chigaki Death Metro, an emoviolence band from Adelaide/Kaurna, to play. Their set was much anticipated thanks to their newest release, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 Songs</a>, coming out just the day before. Their live performance reflected the record's sassy and violent sound, which many compared to The Great Redneck Hope.
-</p>
-<br>
-Late into their set, Chigaki Death Metro promised a cover of Orchid's 'New Jersey vs. Valhalla', with the vocalist adding, "I expect to see you moving". The crowd didn't disappoint as the room descended into chaos.
+<div class="gallery">
+   <a href="/images/draindrums.JPG">
+    <img src="/images/draindrums.JPG" alt="drums">
+  </a>
+   <a href="/images/drainfloor.JPG">
+    <img src="/images/drainfloor.JPG" alt="floor">
+  </a>
+</div>
 
-![chigaki](/images/1-25.jpg)
+probably be talkibbg about the yabby here,... insanity
+
+![yabby](/images/yabby.JPG)
 
 Goblinviolence took over the stage next, returning to Spit from Eora/Sydney to deliver their unique blend of sasscore and mathgrind once again. Living up to their name, their set could only be described as chaotic. Dissonant guitars and uncountable tempos, combined with high-pitched screams, encouraged perhaps the most unpredicatable and violent mosh of the night.
 <br><br>
