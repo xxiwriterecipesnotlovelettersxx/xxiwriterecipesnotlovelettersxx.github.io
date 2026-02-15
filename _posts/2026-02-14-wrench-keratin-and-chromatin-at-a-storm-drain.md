@@ -15,7 +15,7 @@ thumbnail: /images/drainmirrorball.JPG
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
 </p>
 <br>
-After spending a rather late lunch at the beautiful (and very conveniently placed) Huong Viet Vegan restaurant in Footscray, my friends and I made our way over to Spit just as the doors were starting to fill out. South-east Melbourne (Bunurong Country) band Chromatin filled the venue and surrounding street with a taste of what was to come as they completed the soundcheck for their second show. 
+DIY shows taking place deep inside a south-east Melbourne storm drain are the new perfect way to spend Valentine's Day with someone you love.
 
 ![poster](/images/moshpartyposter1.jpg)
 
