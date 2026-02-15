@@ -41,7 +41,7 @@ probably be talkibbg about the yabby here,... insanity
 
 Generator struggles, i get high:(
 <br><br>
-drum and vocal covers
+drum and vocal covers flood, shed, mycries, weekend at thefrie crowd?
 
 ![draintime](/images/drainshopping.JPG)
 
