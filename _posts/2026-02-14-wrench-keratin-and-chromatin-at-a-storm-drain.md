@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "wrench, keratin, and chromatin @ a storm drain"
+title: "wrench, keratin, and chromatin @ diy storm drain - valentine's day show"
 date: 2026-02-14
-categories: showx
-thumbnail: /images/spit1.jpg
+categories: show
+thumbnail: /images/moshpartyposter1.jpg
 ---
 
 <br>
