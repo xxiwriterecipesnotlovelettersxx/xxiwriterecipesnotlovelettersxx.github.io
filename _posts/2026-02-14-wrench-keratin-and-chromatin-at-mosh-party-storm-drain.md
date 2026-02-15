@@ -43,7 +43,7 @@ Generator struggles, i get high:(
 <br><br>
 drum and vocal covers
 
-![draintime](/images/draintime.JPG)
+![draintime](/images/drainshopping.JPG)
 
 Generator solved, chromatin plays
 <br><br>
