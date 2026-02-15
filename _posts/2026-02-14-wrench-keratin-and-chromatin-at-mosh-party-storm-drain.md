@@ -39,17 +39,31 @@ probably be talkibbg about the yabby here,... insanity
 
 ![yabby](/images/yabby.JPG)
 
-Goblinviolence took over the stage next, returning to Spit from Eora/Sydney to deliver their unique blend of sasscore and mathgrind once again. Living up to their name, their set could only be described as chaotic. Dissonant guitars and uncountable tempos, combined with high-pitched screams, encouraged perhaps the most unpredicatable and violent mosh of the night.
+Generator struggles, i get high:(
 <br><br>
-Regretfully, I missed the later section of their set escorting some friends to the station safely. I can only await Goblinviolence's return to play in Naarm again...
+drum and vocal covers
 
 ![goblinviolence](/images/1-03.jpg)
 
-Naarm/Melbourne band all that's left of you played the final set of the night, their last performance before they "hit da studio" (huge). Guitarist Valentine's amp was screamingly loud, bringing a passionate and energetic close to the show. Rumours of a gatecrash cover were confirmed later in their set, as they brought 'flood', the title track from our first release, back to life. This was an emotional moment for some as they sung along.
+Generator solved, chromatin plays
 <br><br>
-Their raw and emotional screamo inspired some stage diving among the audience, and even saw Paddy from Wrench crowdsurfing. It was the perfect end to a late show, and everyone left Spit elatedly. Goblinviolence, seemingly not ready to say goodbye to Footscray, were seen walking through the area three separate times over the next hour and a half following the show's end.
+they play, i experience this weirdly
 
 ![atloy](/images/paddy.jpg)
+
+as keratin are beginning to play, i leave aww!
+<br><br>
+hear their music echoing through the drain tunnel as i walked out to the light,
+
+![atloy](/images/paddy.jpg)
+
+wrench i missed it:(
+<br><br>
+gatecrash cpver too!
+
+![atloy](/images/paddy.jpg)
+
+thankyu laura, thayou friends for helping me survive public transport home
 
 ### photos from the night (click to expand)
 photo credits:
