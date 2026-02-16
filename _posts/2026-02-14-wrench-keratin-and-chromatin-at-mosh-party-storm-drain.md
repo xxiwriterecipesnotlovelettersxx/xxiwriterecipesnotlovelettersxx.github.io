@@ -43,7 +43,7 @@ Generator struggles, i get high:(
 <br><br>
 drum and vocal covers flood, shed, mycries, weekend at thefrie crowd?
 
-![draintime](/images/drainshopping.JPG)
+![draintime](/images/drainshow.jpg)
 
 Generator solved, chromatin plays
 <br><br>
