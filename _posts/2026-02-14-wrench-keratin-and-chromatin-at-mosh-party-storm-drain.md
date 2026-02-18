@@ -27,11 +27,11 @@ Here I speak of arriving
 I might discuss the drain's conditions etc
 
 <div class="gallery">
-   <a href="/images/drain1.jpg">
-    <img src="/images/drain1.jpg" alt="drain">
-  </a>
    <a href="/images/drainfloor.JPG">
     <img src="/images/drainfloor.JPG" alt="floor">
+  </a>
+   <a href="/images/drain1.jpg">
+    <img src="/images/drain1.jpg" alt="drain">
   </a>
 </div>
 
