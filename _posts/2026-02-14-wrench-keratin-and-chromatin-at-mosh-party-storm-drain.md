@@ -35,7 +35,7 @@ I might discuss the drain's conditions etc
   </a>
 </div>
 
-probably be talkibbg about the yabby here,... insanity
+There was also this AWESOME yabby that we saw crawling upstream, out of the drain.
 
 ![yabby](/images/yabby.JPG)
 
