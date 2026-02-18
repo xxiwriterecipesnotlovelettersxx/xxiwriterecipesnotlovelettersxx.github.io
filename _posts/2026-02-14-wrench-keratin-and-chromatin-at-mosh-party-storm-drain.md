@@ -51,7 +51,7 @@ they play, i experience this weirdly
 
 ![chromatin](/images/drainchromatin1.JPG)
 
-Just as Keratin began setting their equipment up, my friends told me it was time for us to leave. While I was guided down the tunnel, I could hear Keratin's post-hardcore/skramz music echoing off the drain walls. Walking at the front, I felt like Orpheus, permitted to lead my lover out of the Underworld but unable to turn around and make sure that she was following.
+Just as Keratin began setting up their equipment, my friends told me it was time for us to leave. While I was guided down the tunnel, I could hear their post-hardcore screamo echoing off the drain walls. Walking at the front, I felt like Orpheus, permitted to lead my lover out of the Underworld but forbidden to turn around and make sure she was following.
 <br><br>
 hear their music echoing through the drain tunnel as i walked out to the light,
 
