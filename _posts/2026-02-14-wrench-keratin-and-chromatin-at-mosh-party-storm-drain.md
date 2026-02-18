@@ -55,7 +55,14 @@ Just as Keratin began setting up their equipment, my friends told me it was time
 <br><br>
 hear their music echoing through the drain tunnel as i walked out to the light,
 
-![atloy](/images/paddy.jpg)
+<div class="gallery">
+   <a href="/images/keratin0.JPG">
+    <img src="/images/keratin0.JPG" alt="keratin">
+  </a>
+   <a href="/images/keratin1.jpg">
+    <img src="/images/keratin1.jpg" alt="keratin">
+  </a>
+</div>
 
 wrench i missed it:(
 <br><br>
