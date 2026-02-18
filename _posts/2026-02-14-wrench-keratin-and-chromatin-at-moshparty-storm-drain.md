@@ -70,7 +70,7 @@ gatecrash cpver too!
 
 ![wrench](/images/drainwrench1.jpg)
 
-thankyu laura, thayou friends for helping me survive public transport home
+I want to say a huge thank you to Laura for organising and running this show, and persevering through problems with the generator. This was such a fun afternoon/evening and we all owe it to them. Thanks to everyone who came to show their support or donated to the show fund (I will link it here if I find it!), and to my friends for their patience with me while getting me home. ESPECIALLY guiding me through public transport. yikes
 
 ### photos from the night (click to expand)
 photo credits:
