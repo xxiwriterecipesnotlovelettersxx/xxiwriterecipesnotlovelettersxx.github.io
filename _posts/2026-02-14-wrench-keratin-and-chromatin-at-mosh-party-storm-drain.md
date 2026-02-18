@@ -47,7 +47,7 @@ drum and vocal covers flood, shed, mycries, weekend at thefrie crowd?
 
 Generator solved, chromatin plays
 <br><br>
-I experienced Chromatin's set very differently to any way that I had before. Looking back, I think I was misinterpreting the reverberation and acoustics of loud music inside the storm drain, but at the time, their songs sounded like overproduced metal (with choir and obnoxious synths) to me. I tried my best to hear them for how they really played, and when I took out my earplugs I briefly heard their actual sound - aggressive, rhythmic, and full.
+I experienced Chromatin's set very differently to any way that I had before. Looking back, I think I was misinterpreting the reverberation and acoustics of loud music inside the storm drain, but at the time, their songs sounded like overproduced metal (with choir and obnoxious synths) to me. I tried my best to hear them for how they really played, and when I took out my earplugs I was able to experience their actual aggressive, rhythmic, and full sound.
 
 ![chromatin](/images/drainchromatin1.JPG)
 
