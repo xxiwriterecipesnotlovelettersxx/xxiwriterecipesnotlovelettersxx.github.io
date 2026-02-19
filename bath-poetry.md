@@ -10,7 +10,7 @@ title: bath poetry
 {% assign poetry_posts = site.posts | where:"categories","poetry" | sort:"date" | reverse %}
 {% for post in poetry_posts %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%B %-d, %Y" }}</a>
+    <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%y" }}</a>
   </li>
 {% endfor %}
 </ul>
