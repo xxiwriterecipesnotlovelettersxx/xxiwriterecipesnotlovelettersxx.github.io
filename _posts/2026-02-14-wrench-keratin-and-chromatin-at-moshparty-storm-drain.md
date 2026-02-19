@@ -53,7 +53,7 @@ I experienced Chromatin's set very differently to any way that I had before. Loo
 
 Just as Keratin began setting up their equipment, my friends told me it was time for us to leave. While I was guided down the tunnel, I could hear their post-hardcore screamo echoing off the drain walls. Walking at the front, I felt like Orpheus, permitted to lead my lover out of the Underworld but forbidden to turn around and make sure she was following.
 <br><br>
-hear their music echoing through the drain tunnel as i walked out to the light,
+Although I missed their set, videos taken after we left showed a great performance, 
 
 <div class="gallery">
    <a href="/images/keratin0.JPG">
