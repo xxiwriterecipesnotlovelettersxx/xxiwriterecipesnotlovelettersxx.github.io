@@ -20,7 +20,7 @@ A DIY show inside a south-east Melbourne storm drain is the new best way to spen
 <br>
 To be completely honest I got too high at this show, and my recollection of events is not wonderful... I also had to leave halfway through in order to make it home on time :( I will do the best I can to show everything I missed!
 
-![poster](/images/moshpartyposter1.jpg)
+![poster](/images/itybhtposter.jpg)
 
 I arrived at the location around around 3:00, 
 <br><br>
