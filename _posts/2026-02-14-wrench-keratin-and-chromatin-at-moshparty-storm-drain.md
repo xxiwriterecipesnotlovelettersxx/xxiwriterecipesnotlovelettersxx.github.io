@@ -64,7 +64,7 @@ Although I missed their set, videos taken after we left showed a great skramz pe
   </a>
 </div>
 
-wrench i missed it:(
+Wrench 
 <br><br>
 gatecrash cpver too!
 
