@@ -20,7 +20,7 @@ title: shows
     {% endif %}
 
     <a href="{{ post.url }}">
-      {{ post.title }} - {{ post.date | date: "%b %-d, %y" }}
+      {{ post.title }} - {{ post.date | date: "%d/%m/%y" }}
     </a>
   </li>
 {% endfor %}
