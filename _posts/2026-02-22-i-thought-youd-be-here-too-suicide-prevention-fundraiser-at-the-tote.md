@@ -2,7 +2,7 @@
 layout: post
 title: "i thought you'd be here too - suicide prevention fundraiser @ the tote"
 date: 2026-02-14
-categories: showx
+categories: show
 thumbnail: /images/drain1.jpg
 ---
 
