@@ -22,7 +22,7 @@ To be completely honest I got too high at this show, and my recollection of even
 
 ![poster](/images/moshpartyposter1.jpg)
 
-Here I speak of arriving
+I arrived at the location around around 3:00, 
 <br><br>
 I might discuss the drain's conditions etc
 
