@@ -91,11 +91,11 @@ photo credits:
   <a href="/images/drainwall1.jpg">
     <img src="/images/drainwall1.jpg" alt="drainwall">
   </a>
-  <a href="/images/chrom3.jpg">
-  <img src="/images/chrom3.jpg" alt="chromatin">
+  <a href="/images/drainshow.jpg">
+  <img src="/images/drainshow.jpg" alt="drainshow">
   </a>
-  <a href="/images/chrom4.jpg">
-    <img src="/images/chrom4.jpg" alt="chromatin">
+  <a href="/images/yabby.JPG">
+    <img src="/images/yabby.JPG" alt="yabby">
   </a>
   <a href="/images/chrom5.jpg">
     <img src="/images/chrom5.jpg" alt="chromatin">
