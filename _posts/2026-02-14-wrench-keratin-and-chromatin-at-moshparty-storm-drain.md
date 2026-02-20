@@ -24,7 +24,7 @@ To be completely honest I got too high at this show, and my recollection of even
 
 I arrived at the show's location around at around 3:00 with some of my friends. Not entirely knowing what to expect, we were welcomed into the drain with the sound of voices echoing further inside.
 <br><br>
-The conditions inside were much more pleasant than I had expected. The dark environment was a welcome refrain from the harsh sun outside, and the cool air served a similar purpose. The gentle flow of water provided a soothing background to the reverberation, with each noise amplified and reflected back off the walls. It was so nice to see everyone there too!
+The conditions inside were much more pleasant than I had expected. The dark environment was a welcome refrain from the harsh sun outside, and the cool air served a similar purpose. The gentle flow of water provided a soothing background to the reverberation, with each noise amplified and reflected back off the walls. There was also a disco ball :o It was so nice to see everyone there too!
 
 <div class="gallery">
    <a href="/images/drainfloor.JPG">
@@ -75,11 +75,11 @@ I want to say a huge thank you to Laura for organising and running this show, an
 ### photos from the night (click to expand)
 photo credits:
 <br>
-@lacedcovet on instagram
+@ljs_pinboard on instagram
 <br>
-@z3nsdigi_ on instagram
+@conjerr3 on instagram
 <br>
-@lauradalezz1e on instagram <3 check out their blog <a href="https://lauradalezz1e.neocities.org">here!</a>
+@gyefild on instagram
 
 <div class="gallery">
    <a href="/images/spit1.jpg">
