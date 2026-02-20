@@ -8,23 +8,23 @@ thumbnail: /images/drain1.jpg
 
 <br>
 <p class="show-intro">
+<a href="https://indented.bandcamp.com/">Indented</a>
+<br>
+<a href="https://linktr.ee/balmoral.band">Balmoral</a>
+<br>
+<a href="https://www.instagram.com/murderblackbird/">blackbird</a>
+<br>
+<a href="https://linktr.ee/inherpalms">In Her Palms</a>
+<br>
+<a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
+<br>
+<a href="https://www.instagram.com/waxmanband/">WXMN</a>
+<br>
 <a href="https://www.instagram.com/wrench_band/">Wrench</a>
 <br>
-<a href="https://keratin.bandcamp.com/">Keratin</a>
+<a href="https://www.abc.net.au/triplejunearthed/artist/street-carp/">Street Carp</a>
 <br>
-<a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
-<br>
-<a href="https://keratin.bandcamp.com/">Keratin</a>
-<br>
-<a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
-<br>
-<a href="https://keratin.bandcamp.com/">Keratin</a>
-<br>
-<a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
-<br>
-<a href="https://keratin.bandcamp.com/">Keratin</a>
-<br>
-<a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
+<a href="https://www.instagram.com/zara_alice_/">Zara Alice</a>
 </p>
 <br>
 Show happened, genres bands blah blah blah for a good cause:
