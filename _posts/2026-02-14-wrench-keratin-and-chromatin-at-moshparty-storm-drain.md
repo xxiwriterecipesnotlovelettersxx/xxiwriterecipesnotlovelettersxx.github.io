@@ -154,4 +154,13 @@ photo credits:
   <a href="/images/drainwrench3.jpg">
   <img src="/images/drainwrench3.jpg" alt="wrench">
   </a>
+  <a href="/images/asherray1.JPG">
+  <img src="/images/asherray1.JPG" alt="asherray">
+  </a>
+  <a href="/images/asherray2.JPG">
+  <img src="/images/asherray2.JPG" alt="asherray">
+  </a>
+  <a href="/images/valentinesday.jpg">
+  <img src="/images/valentinesday.jpg" alt="valentinesday">
+  </a>
 </div>
