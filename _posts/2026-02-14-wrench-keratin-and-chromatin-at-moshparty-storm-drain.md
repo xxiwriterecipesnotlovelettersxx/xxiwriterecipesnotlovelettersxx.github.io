@@ -39,9 +39,9 @@ There was also this AWESOME and rather large freshwater yabby that we saw crawli
 
 ![yabby](/images/yabby.JPG)
 
-Generator struggles, i get high:(
+For a few hours, the show was paused as the generator refused to start, and the organisers kept troubleshooting with commendable patience. The rest of us socialised in the half-dark, lit by a few torches and an overhead drain opening. A couple of times, I went outside to remember what being in the light felt like, and my eyes would try their best to adjust to the overwhelming brightness of the world outside. On one of these breaks outside, I made the mistake of getting way too high, which would come back to haunt me when the bands were playing (and on the way home).
 <br><br>
-drum and vocal covers flood, shed, mycries, weekend at thefrie crowd?
+Back inside the drain, acoustic drum and vocal covers of 'Weekend at the Fire Academy', 'flood', and 'Shed' gave the audience something to listen to, or join in with, while we waited.
 
 ![draintime](/images/drainshow.jpg)
 
