@@ -118,14 +118,14 @@ photo credits:
   <a href="/images/drainmirrorball.JPG">
     <img src="/images/drainmirrorball.JPG" alt="mirrorball">
   </a>
-  <a href="/images/1-25.jpg">
-  <img src="/images/1-25.jpg" alt="25">
+  <a href="/images/chromzen1.jpg">
+  <img src="/images/chromzen1.jpg" alt="chromatin">
   </a>
-  <a href="/images/1-26.jpg">
-  <img src="/images/1-26.jpg" alt="26">
+  <a href="/images/chromzen2.jpg">
+  <img src="/images/chromzen2.jpg" alt="chromatin">
   </a>
-  <a href="/images/1-27.jpg">
-  <img src="/images/1-27.jpg" alt="27">
+  <a href="/images/drainchromatin1.JPG">
+  <img src="/images/drainchromatin1.JPG" alt="chromatin">
   </a>
   <a href="/images/1-30.jpg">
   <img src="/images/1-30.jpg" alt="30">
