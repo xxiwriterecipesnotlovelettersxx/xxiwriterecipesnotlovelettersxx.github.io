@@ -22,7 +22,7 @@ To be completely honest I got too high at this show, and my recollection of even
 
 ![poster](/images/moshpartyposter1.jpg)
 
-I arrived at the show's location around at around 3:00 with some of my friends. Not entirely knowing what to expect, we were welcomed into the drain with the sound of voices echoing further inside.
+I arrived at the show's location at around 3:00 with some of my friends. Not entirely knowing what to expect, we were welcomed into the tunnel with the sound of voices echoing further inside.
 <br><br>
 The conditions inside were much more pleasant than I had expected. The dark environment was a welcome refrain from the harsh sun outside, and the cool air served a similar purpose. The gentle flow of water provided a soothing background to the reverberation, with each noise amplified and reflected back off the walls. There was also a disco ball :o It was so nice to see everyone there too!
 
@@ -39,19 +39,19 @@ There was also this AWESOME and rather large freshwater yabby that we saw crawli
 
 ![yabby](/images/yabby.JPG)
 
-For a few hours, the show was paused as the generator refused to start, and the organisers kept troubleshooting with commendable patience. The rest of us socialised in the half-dark, lit by a few torches and an overhead drain opening. A couple of times, I went outside to remember what being in the light felt like, and my eyes would try their best to adjust to the overwhelming brightness of the world outside. On one of these breaks outside, I made the mistake of getting way too high, which would come back to haunt me when the bands were playing (and on the way home).
+For a few hours, the show was paused as the generator refused to start, and the organisers kept troubleshooting with commendable patience. The rest of us socialised in the half-dark, lit by a few torches and a small overhead drain opening. A couple of times, I went outside to remember what being in the light felt like, and my eyes would try their best to adjust to the overwhelming brightness of the world outside. On one of these breaks outside, I made the mistake of getting way too high, which would come back to haunt me when the bands were playing (and on the way home).
 <br><br>
-Back inside the drain, acoustic drum and vocal covers of 'Weekend at the Fire Academy', 'flood', and 'Shed' gave the audience something to listen to, or join in with, while we waited.
+Back inside, acoustic drum and vocal covers of 'Weekend at the Fire Academy', 'flood', and 'Shed' gave the audience something to listen to, or join in with, while we waited.
 
 ![draintime](/images/drainshow.jpg)
 
-At around 6:30, the generator was finally up and running (I think someone brought a new one in??). Quickly, the drain flooded with light and the sound of guitars, bass, and drums as Chromatin did a quick line check. As some people from the crowd came back inside, or returned back from deeper in the drain, the band started to play.
+At around 6:30, the generator was finally up and running (I think someone brought a new one in??). Quickly, the drain flooded with light and the sound of guitars, bass, and drums as Chromatin did a quick line check. As some people from the crowd came back inside, or returned from deeper in the tunnels, the band started to play.
 <br><br>
 I experienced Chromatin's set very differently to any way that I had before. Looking back, I think I was misinterpreting the reverberation and acoustics of loud music inside the storm drain, but at the time, their songs sounded like overproduced metal (with choir and obnoxious synths) to me. I tried my best to hear them for how they really played, and when I took out my earplugs I was able to experience their true aggressive, rhythmic, and full sound.
 
 ![chromatin](/images/drainchromatin1.JPG)
 
-Just as Keratin began setting up their equipment, my friends told me it was time for us to leave. While I was guided down the tunnel, I could hear their post-hardcore screamo echoing off the drain walls. Walking at the front, I felt like Orpheus, permitted to lead my lover out of the Underworld but forbidden to turn around and make sure she was following.
+Just as Keratin began setting up their equipment, my friends told me it was time for us to leave. While I was guided down the tunnel, I could hear their post-hardcore screamo echoing off the tunnel walls. Walking at the front, I felt like Orpheus, permitted to lead my lover out of the Underworld but forbidden to turn around and make sure she was following.
 <br><br>
 Although I missed their set, videos taken after we left showed a great skramz performance, high in emotion and energy.
 
@@ -64,9 +64,9 @@ Although I missed their set, videos taken after we left showed a great skramz pe
   </a>
 </div>
 
-I am really sad I had to leave early, especially because it meant I missed Wrench's closing set. Looking at the available footage online, this show looked like a great instance of their abrasive, intense, and violent performance.
+I am really sad I had to leave early, especially because it meant I missed Wrench's closing set. Looking at the footage online, this show looked like a great instance of their abrasive, intense, and violent performance.
 <br><br>
-In the lead-up to this Valentine's day show, I had promised Paddy that I would join him and the band to play a rendition of 'flood' by my old band gatecrash, but I was not able to follow through on this one :( perhaps another day... In the end, they still played a really cool cover of the song, joined by Liam from Chromatin who provided vocals.
+In the lead-up to this Valentine's Day show, I had promised Paddy that I would join him and the band to play a rendition of 'flood' by my old band gatecrash, but I was not able to follow through on this one :( perhaps another day... In the end, they still played a really cool cover of the song, joined by Liam from Chromatin who provided vocals.
 
 ![wrench](/images/drainwrench1.jpg)
 
