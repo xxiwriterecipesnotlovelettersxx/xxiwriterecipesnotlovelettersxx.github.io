@@ -109,14 +109,14 @@ photo credits:
   <a href="/images/climbdrain.JPG">
   <img src="/images/climbdrain.JPG" alt="climb">
   </a>
-  <a href="/images/1-07.jpg">
-    <img src="/images/1-07.jpg" alt="07">
+  <a href="/images/drainfloor.JPG">
+    <img src="/images/drainfloor.JPG" alt="floor">
   </a>
-  <a href="/images/1-16.jpg">
-  <img src="/images/1-16.jpg" alt="16">
+  <a href="/images/draindrums.JPG">
+  <img src="/images/draindrums.JPG" alt="drums">
   </a>
-  <a href="/images/1-24.jpg">
-    <img src="/images/1-24.jpg" alt="24">
+  <a href="/images/drainmirrorball.JPG">
+    <img src="/images/drainmirrorball.JPG" alt="mirrorball">
   </a>
   <a href="/images/1-25.jpg">
   <img src="/images/1-25.jpg" alt="25">
