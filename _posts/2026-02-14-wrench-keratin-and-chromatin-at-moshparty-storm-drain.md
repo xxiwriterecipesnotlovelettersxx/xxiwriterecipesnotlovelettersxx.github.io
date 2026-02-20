@@ -133,13 +133,13 @@ photo credits:
   <a href="/images/draindance.jpg">
     <img src="/images/draindance.jpg" alt="chromatin">
   </a>
-  <a href="/images/atloy.jpg">
-    <img src="/images/atloy.jpg" alt="atloy">
+  <a href="/images/keratin0.JPG">
+    <img src="/images/keratin0.JPG" alt="keratin">
   </a>
-  <a href="/images/circle1.JPG">
-  <img src="/images/circle1.JPG" alt="circle">
+  <a href="/images/keratin1.jpg">
+  <img src="/images/keratin1.jpg" alt="keratin">
   </a>
-  <a href="/images/tree1.JPG">
-  <img src="/images/tree1.JPG" alt="tree">
+  <a href="/images/keratin2.jpg">
+  <img src="/images/keratin2.jpg" alt="keratin">
   </a>
 </div>
