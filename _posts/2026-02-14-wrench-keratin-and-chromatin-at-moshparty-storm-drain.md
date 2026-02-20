@@ -112,8 +112,8 @@ photo credits:
   <a href="/images/drainfloor.JPG">
     <img src="/images/drainfloor.JPG" alt="floor">
   </a>
-  <a href="/images/draindrums.JPG">
-  <img src="/images/draindrums.JPG" alt="drums">
+  <a href="/images/tylerangeldrums.JPG">
+    <img src="/images/tylerangeldrums.JPG" alt="tylerangel">
   </a>
   <a href="/images/drainmirrorball.JPG">
     <img src="/images/drainmirrorball.JPG" alt="mirrorball">
