@@ -2,7 +2,7 @@
 layout: post
 title: "wrench, keratin, and chromatin @ moshparty storm drain"
 date: 2026-02-14
-categories: show
+categories: showx
 thumbnail: /images/drain1.jpg
 ---
 
