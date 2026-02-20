@@ -45,9 +45,9 @@ drum and vocal covers flood, shed, mycries, weekend at thefrie crowd?
 
 ![draintime](/images/drainshow.jpg)
 
-Generator solved, chromatin plays
+At around 6:30, the generator was finally up and running (I think someone brought a new one in??). Quickly, the drain was flooded with light and the sound of guitars, bass, and drums as Chromatin did a quick line check. As some people came back inside, or ventured back out from deeper into the drain, they began to play.
 <br><br>
-I experienced Chromatin's set very differently to any way that I had before. Looking back, I think I was misinterpreting the reverberation and acoustics of loud music inside the storm drain, but at the time, their songs sounded like overproduced metal (with choir and obnoxious synths) to me. I tried my best to hear them for how they really played, and when I took out my earplugs I was able to experience their actual aggressive, rhythmic, and full sound.
+I experienced Chromatin's set very differently to any way that I had before. Looking back, I think I was misinterpreting the reverberation and acoustics of loud music inside the storm drain, but at the time, their songs sounded like overproduced metal (with choir and obnoxious synths) to me. I tried my best to hear them for how they really played, and when I took out my earplugs I was able to experience their true aggressive, rhythmic, and full sound.
 
 ![chromatin](/images/drainchromatin1.JPG)
 
@@ -64,9 +64,9 @@ Although I missed their set, videos taken after we left showed a great skramz pe
   </a>
 </div>
 
-Wrench 
+I am really sad I had to leave early, especially because it meant I missed Wrench's closing set. Looking at the available footage online, this show looked like a great instance of their abrasive, intense, and violent performance.
 <br><br>
-gatecrash cpver too!
+In the lead-up to this Valentine's day show, I had promised Paddy that I would join him and the band to play a rendition of 'flood' by my old band gatecrash, but I was not able to follow through on this one :( perhaps another day... In the end, they still played a really cool cover of the song, joined by Liam from Chromatin who provided vocals.
 
 ![wrench](/images/drainwrench1.jpg)
 
