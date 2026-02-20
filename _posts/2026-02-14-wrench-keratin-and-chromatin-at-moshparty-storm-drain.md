@@ -127,11 +127,11 @@ photo credits:
   <a href="/images/drainchromatin1.JPG">
   <img src="/images/drainchromatin1.JPG" alt="chromatin">
   </a>
-  <a href="/images/1-30.jpg">
-  <img src="/images/1-30.jpg" alt="30">
+  <a href="/images/chromatin2.jpg">
+  <img src="/images/chromatin2.jpg" alt="chromatin">
   </a>
-  <a href="/images/1-33.jpg">
-    <img src="/images/1-33.jpg" alt="atloy">
+  <a href="/images/draindance.jpg">
+    <img src="/images/draindance.jpg" alt="chromatin">
   </a>
   <a href="/images/atloy.jpg">
     <img src="/images/atloy.jpg" alt="atloy">
