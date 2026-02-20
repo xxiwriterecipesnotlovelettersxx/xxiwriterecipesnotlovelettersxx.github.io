@@ -39,7 +39,7 @@ There was also this AWESOME and rather large freshwater yabby that we saw crawli
 
 ![yabby](/images/yabby.JPG)
 
-For a few hours, the show was paused as the generator refused to start, and the organisers kept troubleshooting with commendable patience. The rest of us socialised in the half-dark, lit by a few torches and a small overhead drain opening. A couple of times, I went outside to remember what being in the light felt like, and my eyes would try their best to adjust to the overwhelming brightness of the world outside. On one of these breaks outside, I made the mistake of getting way too high, which would come back to haunt me when the bands were playing (and on the way home).
+For a few hours, the show was paused as the generator refused to start, and the organisers kept troubleshooting with commendable patience. The rest of us socialised in the half-dark, lit by a few torches and a small overhead drain opening. A couple of times, I left the dark chamber to remember what being in the light felt like, and my eyes would try their best to adjust to the overwhelming brightness of the world outside. On one of these breaks, I made the mistake of getting way too high, which would come back to haunt me when the bands were playing (and on the way home).
 <br><br>
 Back inside, acoustic drum and vocal covers of 'Weekend at the Fire Academy', 'flood', and 'Shed' gave the audience something to listen to, or join in with, while we waited.
 
