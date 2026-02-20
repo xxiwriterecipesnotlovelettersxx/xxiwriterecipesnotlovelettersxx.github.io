@@ -82,14 +82,14 @@ photo credits:
 @gyefild on instagram
 
 <div class="gallery">
-   <a href="/images/spit1.jpg">
-    <img src="/images/spit1.jpg" alt="spit">
+   <a href="/images/thumbnail.JPG">
+    <img src="/images/thumbnail.JPG" alt="mirrorball">
   </a>
-   <a href="/images/chrom2.jpg">
-    <img src="/images/chrom2.jpg" alt="chromatin">
+   <a href="/images/drainshopping.JPG">
+    <img src="/images/drainshopping.JPG" alt="drainshopping">
   </a>
-  <a href="/images/chrom1.jpg">
-    <img src="/images/chrom1.jpg" alt="chromatin">
+  <a href="/images/drainwall1.jpg">
+    <img src="/images/drainwall1.jpg" alt="drainwall">
   </a>
   <a href="/images/chrom3.jpg">
   <img src="/images/chrom3.jpg" alt="chromatin">
