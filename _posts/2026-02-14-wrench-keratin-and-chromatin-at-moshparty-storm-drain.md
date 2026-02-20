@@ -22,9 +22,9 @@ To be completely honest I got too high at this show, and my recollection of even
 
 ![poster](/images/moshpartyposter1.jpg)
 
-I arrived at the location around around 3:00, 
+I arrived at the show's location around at around 3:00 with some of my friends. Not entirely knowing what to expect, we were welcomed into the drain with the sound of voices echoing further inside.
 <br><br>
-I might discuss the drain's conditions etc
+The conditions inside were much more pleasant than I had expected. The dark environment was a welcome refrain from the harsh sun outside, and the cool air served a similar purpose. The gentle flow of water provided a soothing background to the reverberation, with each noise amplified and reflected back off the walls. It was so nice to see everyone there too!
 
 <div class="gallery">
    <a href="/images/drainfloor.JPG">
