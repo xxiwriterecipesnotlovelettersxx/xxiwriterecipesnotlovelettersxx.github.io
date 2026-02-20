@@ -97,14 +97,14 @@ photo credits:
   <a href="/images/yabby.JPG">
     <img src="/images/yabby.JPG" alt="yabby">
   </a>
-  <a href="/images/chrom5.jpg">
-    <img src="/images/chrom5.jpg" alt="chromatin">
+  <a href="/images/drain1.jpg">
+    <img src="/images/drain1.jpg" alt="drain">
   </a>
-  <a href="/images/liam1.jpg">
-    <img src="/images/liam1.jpg" alt="chromatin">
+  <a href="/images/drain2.jpg">
+    <img src="/images/drain2.jpg" alt="drain">
   </a>
-  <a href="/images/1-04.jpg">
-    <img src="/images/1-04.jpg" alt="04">
+  <a href="/images/drain3.jpg">
+    <img src="/images/drain3.jpg" alt="drain">
   </a>
   <a href="/images/1-05.jpg">
   <img src="/images/1-05.jpg" alt="05">
