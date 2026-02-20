@@ -106,8 +106,8 @@ photo credits:
   <a href="/images/drain3.jpg">
     <img src="/images/drain3.jpg" alt="drain">
   </a>
-  <a href="/images/1-05.jpg">
-  <img src="/images/1-05.jpg" alt="05">
+  <a href="/images/climbdrain.JPG">
+  <img src="/images/climbdrain.JPG" alt="climb">
   </a>
   <a href="/images/1-07.jpg">
     <img src="/images/1-07.jpg" alt="07">
