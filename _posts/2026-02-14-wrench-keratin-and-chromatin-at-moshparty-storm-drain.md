@@ -145,4 +145,13 @@ photo credits:
   <a href="/images/keratin2.jpg">
   <img src="/images/keratin2.jpg" alt="keratin">
   </a>
+  <a href="/images/drainwrench1.jpg">
+    <img src="/images/drainwrench1.jpg" alt="wrench">
+  </a>
+  <a href="/images/drainwrench2.jpg">
+  <img src="/images/drainwrench2.jpg" alt="wrench">
+  </a>
+  <a href="/images/drainwrench3.jpg">
+  <img src="/images/drainwrench3.jpg" alt="wrench">
+  </a>
 </div>
