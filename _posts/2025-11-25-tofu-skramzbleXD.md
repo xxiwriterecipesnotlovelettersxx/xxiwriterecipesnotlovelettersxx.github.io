@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tofu skramble hahaha"
+title: "tofu skramzble XD"
 date: 2025-11-25
 categories: recipe
 thumbnail: /images/IMG_3882.JPG
@@ -30,3 +30,5 @@ my cast iron pan hates to see this coming
 6. this is really nice atop TOASTED BREAD and sometimes with sriracha. add extra pepper on top after finished cooking. 
 
 > serve it forth <3
+
+![scramble](/images/IMG_3882.JPG)
