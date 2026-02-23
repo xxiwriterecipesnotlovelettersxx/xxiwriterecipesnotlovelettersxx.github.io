@@ -2,7 +2,7 @@
 layout: post
 title: "i thought you'd be here too (suicide prevention fundraiser) @ the tote"
 date: 2026-02-22
-categories: showx
+categories: show
 thumbnail: /images/drain1.jpg
 ---
 
@@ -29,9 +29,9 @@ thumbnail: /images/drain1.jpg
 <br>
 Sunday afternoon to evening, The Tote hosted a sold-out festival of acts ranging from singer/songwriter to post-hardcore & metalcore, all playing to raise funds for an important cause.
 <br>
-<br>
-Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards Jesuit Social Services, talk about what they do n stuff.
-
+<p class="show-intro">
+Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>s, talk about what they do n stuff.
+</p>
 ![poster](/images/itybhtposter.jpg)
 
 I arrived at the location around around 3:00, 
