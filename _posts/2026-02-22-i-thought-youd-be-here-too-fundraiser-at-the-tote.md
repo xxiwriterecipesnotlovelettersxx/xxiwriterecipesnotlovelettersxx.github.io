@@ -44,11 +44,11 @@ wrencgh cuz
 yup
 
 <div class="gallery">
-   <a href="/images/keratin0.JPG">
-    <img src="/images/keratin0.JPG" alt="keratin">
+   <a href="/images/wrenchitybht1.JPG">
+    <img src="/images/wrenchitybht1.JPG" alt="wrench">
   </a>
-   <a href="/images/keratin1.jpg">
-    <img src="/images/keratin1.jpg" alt="keratin">
+   <a href="/images/patrickblood.JPG">
+    <img src="/images/patrickblood.JPG" alt="wrench">
   </a>
 </div>
 
