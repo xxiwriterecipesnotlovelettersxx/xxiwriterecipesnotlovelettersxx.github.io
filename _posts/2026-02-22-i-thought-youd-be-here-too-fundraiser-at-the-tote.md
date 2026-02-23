@@ -31,12 +31,12 @@ Sunday afternoon to evening, The Tote hosted a sold-out festival of acts ranging
 <br>
 <br>
 <p class="show-intro">
-Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, talk about what they do n stuff.
+Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, an Australian not-for-profit organisation who provide support to people and families impacted by suicide. Their counselling and community programs focus on 
 </p>
 
 ![poster](/images/itybhtposter.jpg)
 
-I arrived at the location around around 3:00, 
+Singer/songwriter Zara Alice was the first act of this festival
 <br><br>
 I might discuss the drain's conditions etc
 
