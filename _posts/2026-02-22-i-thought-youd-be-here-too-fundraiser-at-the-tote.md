@@ -81,11 +81,11 @@ I want to say a huge thank you to Laura for organising and running this show, an
 ### photos from the night (click to expand)
 photo credits:
 <br>
-@lacedcovet on instagram
+@eryns.photo.diary on instagram
 <br>
-@z3nsdigi_ on instagram
+blank
 <br>
-@lauradalezz1e on instagram <3 check out their blog <a href="https://lauradalezz1e.neocities.org">here!</a>
+blank
 
 <div class="gallery">
    <a href="/images/spit1.jpg">
