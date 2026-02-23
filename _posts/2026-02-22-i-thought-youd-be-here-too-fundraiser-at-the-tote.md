@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "i thought you'd be here too (fundraiser) @ the tote"
+title: "i thought you'd be here too - suicide prevention fundraiser @ the tote"
 date: 2026-02-22
 categories: show
 thumbnail: /images/bloodclose.JPG
