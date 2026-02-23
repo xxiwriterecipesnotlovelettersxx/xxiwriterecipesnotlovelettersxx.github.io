@@ -27,7 +27,6 @@ thumbnail: /images/jordanguitarclose1.JPG
 <a href="https://linktr.ee/zaraalice?utm_source=linktree_profile_share&ltsid=b83ae58a-e291-444c-9635-872c29d80cc3">Zara Alice</a>
 </p>
 <br>
-<br>
 <p class="show-intro">
 Sunday afternoon to evening, The Tote hosted a sold-out festival of acts ranging from singer/songwriter to post-hardcore & metalcore, all playing to raise funds for an important cause. Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, an Australian not-for-profit organisation who provide support to people and families impacted by suicide. Through counselling, peer support groups, and community programs, their work focuses not only on prevention but also caring for those navigating grief and trauma in its aftermath.
 </p>
