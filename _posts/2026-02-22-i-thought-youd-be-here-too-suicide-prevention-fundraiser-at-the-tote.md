@@ -29,6 +29,7 @@ thumbnail: /images/drain1.jpg
 <br>
 Sunday afternoon to evening, The Tote hosted a sold-out festival of acts ranging from singer/songwriter to post-hardcore & metalcore, all playing to raise funds for an important cause.
 <br>
+<br>
 <p class="show-intro">
 Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, talk about what they do n stuff.
 </p>
