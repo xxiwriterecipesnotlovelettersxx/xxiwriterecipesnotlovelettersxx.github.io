@@ -28,7 +28,7 @@ thumbnail: /images/jordanguitarclose1.JPG
 </p>
 <br>
 <p class="show-intro">
-On Sunday, The Tote hosted a sold-out festival that ran from afternoon into evening, bringing together acts spanning a number of genres, all supporting an important cause. Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, an Australian not-for-profit organisation who (among other things) provide support to people and families impacted by suicide. Through counselling, peer support groups, and community programs, their work focuses not only on prevention but also caring for those navigating grief and trauma in its aftermath.
+On Sunday, The Tote hosted a sold-out festival that ran from afternoon into evening, uniting acts spanning a number of genres to support an important cause. Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, an Australian not-for-profit organisation who (among other things) provide support to people and families impacted by suicide. Through counselling, peer support groups, and community programs, their work focuses not only on prevention but also caring for those navigating grief and trauma in its aftermath.
 </p>
 <br>
 Suicide, and mental health more broadly, remains an issue that we can't afford to ignore. Most people have been affected by suicide in some way throughout their lives, whether directly or through someone they love. Thank you to everyone who donated, played, organised, or simply came along to support this show. Always remember that your actions carry meaning, and could be the difference that saves a life.
