@@ -30,7 +30,7 @@ thumbnail: /images/drain1.jpg
 Sunday afternoon to evening, The Tote hosted a sold-out festival of acts ranging from singer/songwriter to post-hardcore & metalcore, all playing to raise funds for an important cause.
 <br>
 <br>
-Organised by Declan of @capital.noise and my friend Lotti show fundraiser towards charity. talk about what they do n stuff.
+Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards Jesuit Social Services, talk about what they do n stuff.
 
 ![poster](/images/itybhtposter.jpg)
 
