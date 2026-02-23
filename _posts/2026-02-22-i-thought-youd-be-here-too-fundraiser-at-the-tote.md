@@ -31,8 +31,11 @@ Sunday afternoon to evening, The Tote hosted a sold-out festival of acts ranging
 <br>
 <br>
 <p class="show-intro">
-Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, an Australian not-for-profit organisation who provide support to people and families impacted by suicide. Their counselling and community programs focus on 
+Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, an Australian not-for-profit organisation who provide support to people and families impacted by suicide. Through counselling, peer support groups, and community programs, their work focuses not only on prevention but also caring for those navigating grief and trauma in its aftermath.
 </p>
+<br>
+<br>
+Suicide, and mental health more broadly, remains an issue that we can't afford to ignore. Most people have been affected by suicide in some way throughout their lives, whether directly or through someone they love. Thank you to everyone who donated, played, organised, or simply came along to support this show. Always remember that your actions carry meaning, and could be the difference that saves a life.
 
 ![poster](/images/itybhtposter.jpg)
 
