@@ -35,18 +35,9 @@ Suicide, and mental health more broadly, remains an issue that we can't afford t
 
 ![poster](/images/itybhtposter.jpg)
 
-Singer/songwriter Zara Alice was the first act of this festival
-<br><br>
-I might discuss the drain's conditions etc
+Singer/songwriter Zara Alice was the first act of this festival dreamy enchantuing, emotional acoustic 
 
-<div class="gallery">
-   <a href="/images/drainfloor.JPG">
-    <img src="/images/drainfloor.JPG" alt="floor">
-  </a>
-   <a href="/images/drain1.jpg">
-    <img src="/images/drain1.jpg" alt="drain">
-  </a>
-</div>
+![poster](/images/itybhtposter.jpg)
 
 There was also this AWESOME and rather large freshwater yabby that we saw crawling upstream, out of the drain.
 
