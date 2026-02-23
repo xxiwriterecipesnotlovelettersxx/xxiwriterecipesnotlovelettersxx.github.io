@@ -1,3 +1,4 @@
+---
 layout: post
 title: "is it going to hurt when i die?"
 date: 2026-02-24
