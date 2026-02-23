@@ -32,6 +32,7 @@ Sunday afternoon to evening, The Tote hosted a sold-out festival of acts ranging
 <p class="show-intro">
 Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>s, talk about what they do n stuff.
 </p>
+
 ![poster](/images/itybhtposter.jpg)
 
 I arrived at the location around around 3:00, 
