@@ -37,11 +37,20 @@ Suicide, and mental health more broadly, remains an issue that we can't afford t
 
 Singer/songwriter Zara Alice was the first act of this festival dreamy enchantuing, emotional acoustic 
 
-![poster](/images/itybhtposter.jpg)
+![poster](/images/zaraalice.jpg)
 
-There was also this AWESOME and rather large freshwater yabby that we saw crawling upstream, out of the drain.
+wrencgh cuz
+<br><br>
+yup
 
-![yabby](/images/yabby.JPG)
+<div class="gallery">
+   <a href="/images/keratin0.JPG">
+    <img src="/images/keratin0.JPG" alt="keratin">
+  </a>
+   <a href="/images/keratin1.jpg">
+    <img src="/images/keratin1.jpg" alt="keratin">
+  </a>
+</div>
 
 Generator struggles, i get high:(
 <br><br>
