@@ -27,10 +27,10 @@ thumbnail: /images/drain1.jpg
 <a href="https://www.instagram.com/zara_alice_/">Zara Alice</a>
 </p>
 <br>
-Show happened, genres bands blah blah blah for a good cause:
+Sunday afternoon to evening, The Tote hosted a sold-out festival of acts ranging from singer/songwriter to post-hardcore & metalcore, all playing to raise funds for an important cause.
 <br>
 <br>
-organised by declan (lotti? also), show fundraiser towards charity. talk about what they do n stuff.
+Organised by Declan of @capital.noise and my friend Lotti show fundraiser towards charity. talk about what they do n stuff.
 
 ![poster](/images/itybhtposter.jpg)
 
