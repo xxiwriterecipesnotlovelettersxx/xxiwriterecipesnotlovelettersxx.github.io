@@ -24,7 +24,7 @@ thumbnail: /images/jordanguitarclose1.JPG
 <br>
 <a href="https://www.abc.net.au/triplejunearthed/artist/street-carp/">Street Carp</a>
 <br>
-<a href="https://www.instagram.com/zara_alice_/">Zara Alice</a>
+<a href="https://linktr.ee/zaraalice?utm_source=linktree_profile_share&ltsid=b83ae58a-e291-444c-9635-872c29d80cc3">Zara Alice</a>
 </p>
 <br>
 Sunday afternoon to evening, The Tote hosted a sold-out festival of acts ranging from singer/songwriter to post-hardcore & metalcore, all playing to raise funds for an important cause.
