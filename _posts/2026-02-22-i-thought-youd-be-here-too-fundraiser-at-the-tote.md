@@ -94,7 +94,9 @@ gatecrash cpver too!
 
 ![wrench](/images/drainwrench1.jpg)
 
-I want to say a huge thank you to Laura for organising and running this show, and persevering through problems with the generator. This was such a fun afternoon/evening, and we owe it to them. Thanks to everyone who came to show their support or donated to the show fund (I will link it here if I find it!), and to my friends for their patience helping me make it home. ESPECIALLY guiding me through public transport. yikes
+<p class="show-intro">
+Thanks so much to everyone who was involved in organising, hosting, playing, and coming to support this show and the cause that it represented. bhshhshhaghshsghsghsghghghgds @cohen.salnitro on Instagram, a videographer who put together a montage of Wrench's, Chromatin's and Could be Stars' sets. Watch Wrench's video <a href="https://www.instagram.com/p/DTuwFyXgapa/">here</a>, Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a>.
+</p>
 
 ![lotti](/images/lottigreen.jpg)
 
