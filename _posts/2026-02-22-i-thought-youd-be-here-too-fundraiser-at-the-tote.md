@@ -64,7 +64,14 @@ Generator solved, chromatin plays
 <br><br>
 I experienced Chromatin's set very differently to any way that I had before. Looking back, I think I was misinterpreting the reverberation and acoustics of loud music inside the storm drain, but at the time, their songs sounded like overproduced metal (with choir and obnoxious synths) to me. I tried my best to hear them for how they really played, and when I took out my earplugs I was able to experience their actual aggressive, rhythmic, and full sound.
 
-![chromatin](/images/chromatin220226.JPG)
+<div class="gallery">
+   <a href="/images/images/chromatin220226.JPG">
+    <img src="/images/images/chromatin220226.JPG" alt="chromatin">
+  </a>
+   <a href="/images/chromatin2202262.JPG">
+    <img src="/images/chromatin2202262.JPG" alt="chromatin">
+  </a>
+</div>
 
 Just as Keratin began setting up their equipment, my friends told me it was time for us to leave. While I was guided down the tunnel, I could hear their post-hardcore screamo echoing off the drain walls. Walking at the front, I felt like Orpheus, permitted to lead my lover out of the Underworld but forbidden to turn around and make sure she was following.
 <br><br>
