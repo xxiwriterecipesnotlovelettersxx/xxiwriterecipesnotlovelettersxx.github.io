@@ -39,13 +39,13 @@ Singer/songwriter Zara Alice was the first act of this festival dreamy enchantui
 
 ![zaraalice](/images/zaraalice.jpg)
 
-Following Zara Alice's opening performance were Street Carp, a band from regional Victoria who played an energetic and up
+Following Zara Alice's opening performance were Street Carp, a band from regional Victoria who played an energetic and upbeat .......the chats cover, technical guitar playing, drums
 
 ![streetcarp](/images/streetcarp1.JPG)
 
-wrencgh cuz
+wrench , noise, pedals oscillating feedback, gatecrash. crowd surfing and hanging off the roof?
 <br><br>
-yup
+paddy's hands bleed! crazy ! and really insane lows
 
 <div class="gallery">
    <a href="/images/wrenchitybht1.JPG">
@@ -56,11 +56,11 @@ yup
   </a>
 </div>
 
-Waxman
+Waxman started playing wuth no guiatrist. 3 piece. their guitaist the came and they played all together. thick and sounded a little bit like CONVERGE
 
 ![waxman](/images/waxman1.JPG)
 
-Chromatin
+Chromatin aha x
 <br><br>
 Chromatin
 <div class="gallery">
@@ -72,8 +72,6 @@ Chromatin
   </a>
 </div>
 
-In Her Palms
-<br><br>
 In Her Palms
 
 ![ihop](/images/ihop2202262.jpg)
@@ -87,9 +85,9 @@ In Her Palms
   </a>
 </div>
 
-Wrench 
+Had to leave after playing, but apparently BLACKBIRD were super aweosme.
 <br><br>
-gatecrash cpver too!
+rip balmoral and indented wish ib could have seeen this also. shoutout the day that it broke
 
 ![wrench](/images/drainwrench1.jpg)
 
@@ -104,7 +102,7 @@ photo credits:
 <br>
 @eryns.photo.diary on instagram
 <br>
-blank
+@ lotti whateevrerthis amybbeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 <br>
 blank
 
