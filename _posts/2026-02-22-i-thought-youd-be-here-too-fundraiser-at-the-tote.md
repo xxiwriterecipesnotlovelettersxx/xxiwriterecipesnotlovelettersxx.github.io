@@ -96,6 +96,8 @@ gatecrash cpver too!
 
 I want to say a huge thank you to Laura for organising and running this show, and persevering through problems with the generator. This was such a fun afternoon/evening, and we owe it to them. Thanks to everyone who came to show their support or donated to the show fund (I will link it here if I find it!), and to my friends for their patience helping me make it home. ESPECIALLY guiding me through public transport. yikes
 
+![lotti](/images/lottigreen.jpg)
+
 ### photos from the night (click to expand)
 photo credits:
 <br>
