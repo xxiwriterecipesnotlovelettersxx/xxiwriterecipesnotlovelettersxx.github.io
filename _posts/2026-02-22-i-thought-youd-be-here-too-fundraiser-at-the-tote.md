@@ -95,7 +95,7 @@ gatecrash cpver too!
 ![wrench](/images/drainwrench1.jpg)
 
 <p class="show-intro">
-Thanks so much to everyone who was involved in organising, hosting, playing, and coming to support this show and the cause that it represented. bhshhshhaghshsghsghsghghghgds @cohen.salnitro on Instagram, a videographer who put together a montage of Wrench's, Chromatin's and Could be Stars' sets. Watch Wrench's video <a href="https://www.instagram.com/p/DTuwFyXgapa/">here</a>, Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a>.
+Thanks so much to everyone who was involved in organising, hosting, playing, and coming to support this show and the cause that it represented. Music scenes like this one can build a shared community, and offer a place of support to those in need. Everybody's contributions matter so much! A particular thank you to @cohen.salnitro, who has once again created some montages of several bands' sets from the evening. FILLLLLL TSHI IS FIX IT FIC IT FITX IT's video <a href="https://www.instagram.com/p/DTuwFyXgapa/">here</a>, Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a> shgfewugfhdwuf ehb 3uhufeuvd iufeufewg yfejgf yg u fh jfjf dji fdhsj fdhiufd hid jif
 </p>
 
 ![lotti](/images/lottigreen.jpg)
