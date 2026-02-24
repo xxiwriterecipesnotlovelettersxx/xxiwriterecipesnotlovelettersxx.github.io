@@ -77,7 +77,7 @@ Just as Keratin began setting up their equipment, my friends told me it was time
 <br><br>
 Although I missed their set, videos taken after we left showed a great skramz performance, high in emotion and energy.
 
-![lotti](/images/lottigreen.jpg)
+![ihop](/images/2202262.jpg)
 
 <div class="gallery">
    <a href="/images/keratin0.JPG">
