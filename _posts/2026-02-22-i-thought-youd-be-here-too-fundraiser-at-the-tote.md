@@ -39,7 +39,7 @@ Singer/songwriter Zara Alice was the first act of this festival dreamy enchantui
 
 ![zaraalice](/images/zaraalice.jpg)
 
-street carp
+Following Zara Alice's opening performance were Street Carp, a band from regional Victoria who played an energetic and up
 
 ![streetcarp](/images/streetcarp1.JPG)
 
@@ -56,14 +56,13 @@ yup
   </a>
 </div>
 
-waxMAN tha band
+Waxman
 
 ![waxman](/images/waxman1.JPG)
 
-Generator solved, chromatin plays
+Chromatin
 <br><br>
-I experienced Chromatin's set very differently to any way that I had before. Looking back, I think I was misinterpreting the reverberation and acoustics of loud music inside the storm drain, but at the time, their songs sounded like overproduced metal (with choir and obnoxious synths) to me. I tried my best to hear them for how they really played, and when I took out my earplugs I was able to experience their actual aggressive, rhythmic, and full sound.
-
+Chromatin
 <div class="gallery">
    <a href="/images/chromatin220226.JPG">
     <img src="/images/chromatin220226.JPG" alt="chromatin">
@@ -73,9 +72,9 @@ I experienced Chromatin's set very differently to any way that I had before. Loo
   </a>
 </div>
 
-Just as Keratin began setting up their equipment, my friends told me it was time for us to leave. While I was guided down the tunnel, I could hear their post-hardcore screamo echoing off the drain walls. Walking at the front, I felt like Orpheus, permitted to lead my lover out of the Underworld but forbidden to turn around and make sure she was following.
+In Her Palms
 <br><br>
-Although I missed their set, videos taken after we left showed a great skramz performance, high in emotion and energy.
+In Her Palms
 
 ![ihop](/images/ihop2202262.jpg)
 
