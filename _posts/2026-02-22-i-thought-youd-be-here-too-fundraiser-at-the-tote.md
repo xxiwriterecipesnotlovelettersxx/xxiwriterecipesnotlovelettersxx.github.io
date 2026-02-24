@@ -58,7 +58,7 @@ yup
 
 waxMAN tha band
 
-![draintime](/images/drainshow.jpg)
+![waxman](/images/wxmn.JPG)
 
 Generator solved, chromatin plays
 <br><br>
