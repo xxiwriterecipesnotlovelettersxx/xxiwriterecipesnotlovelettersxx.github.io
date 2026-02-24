@@ -56,9 +56,7 @@ yup
   </a>
 </div>
 
-Generator struggles, i get high:(
-<br><br>
-drum and vocal covers flood, shed, mycries, weekend at thefrie crowd?
+waxMAN tha band
 
 ![draintime](/images/drainshow.jpg)
 
