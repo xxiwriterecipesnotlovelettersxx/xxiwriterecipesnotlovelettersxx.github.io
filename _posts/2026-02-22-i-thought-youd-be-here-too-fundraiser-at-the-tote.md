@@ -65,8 +65,8 @@ Generator solved, chromatin plays
 I experienced Chromatin's set very differently to any way that I had before. Looking back, I think I was misinterpreting the reverberation and acoustics of loud music inside the storm drain, but at the time, their songs sounded like overproduced metal (with choir and obnoxious synths) to me. I tried my best to hear them for how they really played, and when I took out my earplugs I was able to experience their actual aggressive, rhythmic, and full sound.
 
 <div class="gallery">
-   <a href="/images/images/chromatin220226.JPG">
-    <img src="/images/images/chromatin220226.JPG" alt="chromatin">
+   <a href="/images/chromatin220226.JPG">
+    <img src="/images/chromatin220226.JPG" alt="chromatin">
   </a>
    <a href="/images/chromatin2202262.JPG">
     <img src="/images/chromatin2202262.JPG" alt="chromatin">
