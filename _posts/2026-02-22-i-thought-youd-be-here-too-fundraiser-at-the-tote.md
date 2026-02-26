@@ -18,7 +18,7 @@ thumbnail: /images/patrickblood.JPG
 <br>
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
 <br>
-<a href="https://waxmanband.bandcamp.com/">WXMN</a>
+<a href="https://waxmanband.bandcamp.com/">Waxman</a>
 <br>
 <a href="https://www.instagram.com/wrench_band/">Wrench</a>
 <br>
