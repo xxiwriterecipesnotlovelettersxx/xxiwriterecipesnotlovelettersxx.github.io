@@ -39,7 +39,7 @@ Singer/songwriter Zara Alice was the first act of this festival dreamy enchantui
 
 ![zaraalice](/images/zaraalice.jpg)
 
-Following Zara Alice's opening performance were Street Carp, a band from regional Victoria who played an energetic and upbeat set of indie and slacker rock, with elements of hardcore. Their new guitarist demonstrated some impressive and technical solos, adding a deeper layer to the band's indie sound, while frontman Hunter thrived on crowd engagement. During their set, Street Carp covered The Chats' 'Mum Stole My Darts'.
+Following Zara Alice's opening performance were Street Carp, a band from regional Victoria who played an energetic and upbeat set of indie and slacker rock, with unexpected elements of hardcore in their drumming. Their new guitarist demonstrated some impressive and technical solos, adding a deeper layer to the band's indie sound, while frontman Hunter thrived on crowd engagement. During their set, Street Carp covered The Chats' 'Mum Stole My Darts'.
 
 ![streetcarp](/images/streetcarp1.JPG)
 
