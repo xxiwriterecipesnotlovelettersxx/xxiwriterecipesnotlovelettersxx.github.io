@@ -39,13 +39,13 @@ Singer/songwriter Zara Alice was the first act of this festival dreamy enchantui
 
 ![zaraalice](/images/zaraalice.jpg)
 
-Following Zara Alice's opening performance were Street Carp, a band from regional Victoria who played an energetic and upbeat .......the chats cover, technical guitar playing, drums
+Following Zara Alice's opening performance were Street Carp, a band from regional Victoria who played an energetic and upbeat set of indie and slacker rock, with elements of hardcore. Their new guitarist demonstrated some impressive and technical solos, adding a deeper layer to the band's indie sound, while frontman Hunter thrived on crowd engagement. During their set, Street Carp covered The Chats' 'Mum Stole My Darts'.
 
 ![streetcarp](/images/streetcarp1.JPG)
 
-After this, Djilang screamo band Wrench delivered what was by far their most intense and forceful performance yet. Paddy's dissonant and distorted guitar tones bordered on harsh noise at points, creating an abrasive wall of sound and oscillating feedback. Their set opened with a spoken word section, read by Jovi (Paddy's girlfriend), but quickly devolved into intense and emotional chaos. Early into their set, I was invited on stage to fulfill my promise of covering 'flood' by gatecrash on-stage with the band. During this, Paddy dove into the crowd and was swinging off a beam on the roof at one point??
+After this, Djilang screamo band Wrench delivered what was easily their most forceful performance yet. Paddy's dissonant and distorted guitar tones bordered on harsh noise at points, creating an abrasive wall of sound and oscillating feedback. Their set opened with a spoken word section, read by Jovi (Paddy's girlfriend), before collapsing into intense and emotional chaos. Early into their set, I was invited on stage to fulfill my promise of covering 'flood' by gatecrash on-stage with the band. During this, Paddy dove into the crowd and was swinging off a beam on the roof at one point??
 <br><br>
-A reflection of Wrench's fervent act, Paddy cut his hand while playing, spilling blood onto the pickguard of his guitar. Despite this he continued playing, and gratefully accepted help from somebody with a first-aid kit after their set. Paddy's screaming was also one of the highlights of their performance as he briefly introduced guttural low vocals.
+A reflection of Wrench's fervent act, Paddy cut his hand while playing, spilling blood onto the pickguard of his guitar. He kept playing regardless, only accepting help from someone with a first-aid kit after the set had ended. Paddy's vocals were another standout, as he briefly introduced guttural low screams that added even more weight to their sound.
 
 <div class="gallery">
    <a href="/images/wrenchitybht1.JPG">
