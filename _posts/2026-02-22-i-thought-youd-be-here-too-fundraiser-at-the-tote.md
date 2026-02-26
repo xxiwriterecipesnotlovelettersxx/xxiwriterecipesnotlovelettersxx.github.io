@@ -131,11 +131,11 @@ blank
   <a href="/images/asherelijah1.JPG">
     <img src="/images/asherelijah1.JPG" alt="asherelijah">
   </a>
-  <a href="/images/1-05.jpg">
-  <img src="/images/1-05.jpg" alt="05">
+  <a href="/images/patrickblood.JPG">
+  <img src="/images/patrickblood.JPG" alt="wrench">
   </a>
-  <a href="/images/1-07.jpg">
-    <img src="/images/1-07.jpg" alt="07">
+  <a href="/images/wrenchitybht3.JPG">
+    <img src="/images/wrenchitybht3.JPG" alt="wrench">
   </a>
   <a href="/images/1-16.jpg">
   <img src="/images/1-16.jpg" alt="16">
