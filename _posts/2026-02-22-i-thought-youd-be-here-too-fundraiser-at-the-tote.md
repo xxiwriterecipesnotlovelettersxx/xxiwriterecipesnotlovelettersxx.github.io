@@ -110,8 +110,8 @@ blank
    <a href="/images/totewallitybht.jpg">
     <img src="/images/totewallitybht.jpg" alt="totewall">
   </a>
-   <a href="/images/chrom2.jpg">
-    <img src="/images/chrom2.jpg" alt="chromatin">
+   <a href="/images/zaraalice.jpg">
+    <img src="/images/zaraalice.jpg" alt="zaraalice">
   </a>
   <a href="/images/chrom1.jpg">
     <img src="/images/chrom1.jpg" alt="chromatin">
