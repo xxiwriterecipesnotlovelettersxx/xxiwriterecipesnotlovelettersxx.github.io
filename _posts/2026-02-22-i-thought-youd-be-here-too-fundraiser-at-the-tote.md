@@ -107,8 +107,8 @@ photo credits:
 blank
 
 <div class="gallery">
-   <a href="/images/spit1.jpg">
-    <img src="/images/spit1.jpg" alt="spit">
+   <a href="/images/totewallitybht.jpg">
+    <img src="/images/totewallitybht.jpg" alt="totewall">
   </a>
    <a href="/images/chrom2.jpg">
     <img src="/images/chrom2.jpg" alt="chromatin">
