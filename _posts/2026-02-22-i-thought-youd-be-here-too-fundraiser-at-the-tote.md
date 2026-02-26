@@ -43,7 +43,7 @@ Following Zara Alice's opening performance were Street Carp, a band from regiona
 
 ![streetcarp](/images/streetcarp1.JPG)
 
-wrench , noise, pedals oscillating feedback, gatecrash. crowd surfing and hanging off the roof?
+After this, Djilang screamo band Wrench delivered what was by far their most intense and forceful performance yet. Paddy's dissonant and distorted guitar tones bordered on harsh noise at points, creating an abrasive wall of sound and oscillating feedback. Their set opened with a spoken word section, read by Jovi (Paddy's girlfriend), but quickly devolved into intense and emotional chaos. Early into their set, I was invited on stage to finally fulfill my promise of covering 'flood' by gatecrash on-stage with the band. During this, Paddy dove into the crowd and was swinging off a beam on the roof at one point??
 <br><br>
 paddy's hands bleed! crazy ! and really insane lows
 
