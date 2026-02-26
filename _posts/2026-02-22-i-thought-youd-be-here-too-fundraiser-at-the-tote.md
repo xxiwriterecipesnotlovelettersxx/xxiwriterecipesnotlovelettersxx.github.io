@@ -138,33 +138,36 @@ blank
     <img src="/images/wrenchitybht3.JPG" alt="wrench">
   </a>
   <a href="/images/wrenchitybht4.JPG">
-  <img src="/images/wrenchitybht4.JPG" alt="16">
+  <img src="/images/wrenchitybht4.JPG" alt="wrench">
   </a>
   <a href="/images/wrenchitybht5.JPG">
-    <img src="/images/wrenchitybht5.JPG" alt="24">
+    <img src="/images/wrenchitybht5.JPG" alt="wrench">
   </a>
   <a href="/images/wrenchitybht1.JPG">
-  <img src="/images/wrenchitybht1.JPG" alt="25">
+  <img src="/images/wrenchitybht1.JPG" alt="wrench">
   </a>
   <a href="/images/wrenchitybht6.JPG">
-  <img src="/images/wrenchitybht6.JPG" alt="26">
+  <img src="/images/wrenchitybht6.JPG" alt="wrench">
   </a>
   <a href="/images/wrenchitybht7.JPG">
-  <img src="/images/wrenchitybht7.JPG" alt="27">
+  <img src="/images/wrenchitybht7.JPG" alt="wrench">
   </a>
   <a href="/images/wrenchitybht8.JPG">
-  <img src="/images/wrenchitybht8.JPG" alt="30">
+  <img src="/images/wrenchitybht8.JPG" alt="wrench">
   </a>
-  <a href="/images/1-33.jpg">
-    <img src="/images/1-33.jpg" alt="atloy">
+  <a href="/images/wxmn0.JPG">
+    <img src="/images/wxmn0.JPG" alt="waxman">
   </a>
-  <a href="/images/atloy.jpg">
-    <img src="/images/atloy.jpg" alt="atloy">
+  <a href="/images/wxmn.JPG">
+    <img src="/images/wxmn.JPG" alt="waxman">
   </a>
-  <a href="/images/circle1.JPG">
-  <img src="/images/circle1.JPG" alt="circle">
+  <a href="/images/wxmn1.JPG">
+  <img src="/images/wxmn1.JPG" alt="waxman">
   </a>
-  <a href="/images/tree1.JPG">
-  <img src="/images/tree1.JPG" alt="tree">
+  <a href="/images/wxmn2.JPG">
+  <img src="/images/wxmn2.JPG" alt="waxman">
+  </a>
+  <a href="/images/wxmn3.JPG">
+  <img src="/images/wxmn3.JPG" alt="waxman">
   </a>
 </div>
