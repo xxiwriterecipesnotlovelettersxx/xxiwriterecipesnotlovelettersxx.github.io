@@ -56,7 +56,7 @@ A reflection of Wrench's fervent act, Paddy cut his hand while playing and spilt
   </a>
 </div>
 
-Waxman started playing wuth no guiatrist. 3 piece. their guitaist the came and they played all together. thick and sounded a little bit like CONVERGE
+Waxman, a Naarm experimental post-hardcore 3-piece, started their set with no guitarist to be seen, holding their own with only bass and drums. Arriving late, their guitairist quickly set up and joined them to play as a full band. All three members shared the responisbility of vocals, adding further complexity and detail to the act. Their sound was thick and intricate, reminding me of Converge in some aspects.
 
 ![waxman](/images/waxman1.JPG)
 
