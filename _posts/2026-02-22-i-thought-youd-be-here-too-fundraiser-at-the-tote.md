@@ -128,8 +128,8 @@ blank
   <a href="/images/streetcarp4.JPG">
     <img src="/images/streetcarp4.JPG" alt="streetcarp">
   </a>
-  <a href="/images/1-04.jpg">
-    <img src="/images/1-04.jpg" alt="04">
+  <a href="/images/asherelijah1.JPG">
+    <img src="/images/asherelijah1.JPG" alt="asherelijah">
   </a>
   <a href="/images/1-05.jpg">
   <img src="/images/1-05.jpg" alt="05">
