@@ -56,7 +56,7 @@ A reflection of Wrench's fervent act, Paddy cut his hand while playing and spilt
   </a>
 </div>
 
-Waxman, a Naarm experimental post-hardcore 3-piece, started their set with no guitarist to be seen, holding their own with only bass and drums. Arriving late, their guitairist quickly set up and joined them to play as a full band. All three members shared the responisbility of vocals, adding further complexity and detail to the act. Their sound was thick and intricate, reminding me of Converge in some aspects.
+Waxman, a Naarm experimental post-hardcore 3-piece, started their set with no guitarist to be seen, holding their own with only bass and drums. Arriving late, their guitairist quickly set up and joined them to play as a full band. All three members shared the responisbility of vocals, adding further complexity and detail to the act. Their sound was thick, noisy, and intricate, reminding me of Converge in some ways.
 
 ![waxman](/images/waxman1.JPG)
 
