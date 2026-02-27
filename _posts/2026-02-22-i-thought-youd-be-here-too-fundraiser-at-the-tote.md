@@ -77,7 +77,7 @@ Next I got on stage with my bandmates, and played our second live In Her Palms s
 
 ![ihop](/images/ihop2202262.jpg)
 
-I had to leave right after playing, so I wasn't able to see the other 3 bands that played in person. From what I heard, blackbird's genre-bending emocore/metalcore performance was "AMAZING" and their breakdowns "weresooo heavy" and "crabcore-dance-able". Thank you Zi for your enthusiastic field reporting!
+I had to leave right after playing, so I wasn't able to see the other 3 bands on the lineup perform. From what I heard, blackbird's genre-bending emocore/metalcore performance was "AMAZING" and their breakdowns "weresooo heavy" and "crabcore-dance-able". Thank you Zi for your enthusiastic field reporting!
 <br><br>
 <p class="show-intro">
 I also sadly missed sets from screamo band Balmoral and post-hardcore group Indented. I've had Indented's new EP, <a href="https://indented.bandcamp.com/album/the-day-that-it-broke">The Day That It Broke</a>, on repeat since it came out at the start of the year, so I was particularly disappointed about this. Hopefully I’ll get to see all of these bands live one day.
