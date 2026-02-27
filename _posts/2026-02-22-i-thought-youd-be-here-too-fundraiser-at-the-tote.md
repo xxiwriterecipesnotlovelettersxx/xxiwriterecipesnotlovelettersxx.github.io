@@ -94,6 +94,7 @@ I also sadly missed sets from screamo band Balmoral and post-hardcore group Inde
 
 <p class="show-intro">
 Thanks so much to everyone who was involved in organising, hosting, playing, and coming to support this show and the cause that it represented. Music scenes like this one can build a shared community, and offer a place of support to those in need. Everybody's contributions matter so much! A particular thank you to @cohen.salnitro, who has once again created some montages of several bands' sets from the evening. View the videos here:
+   <br>
 <a href="https://www.instagram.com/p/DVK1Kw0jkiG/">Street Carp</a>
    <br>
 <a href="https://www.instagram.com/p/DVItQgfDikj/">Chromatin</a>
