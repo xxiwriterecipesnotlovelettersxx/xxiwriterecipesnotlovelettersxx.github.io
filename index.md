@@ -22,5 +22,3 @@ vegan recipes for my emo friends. rawr XD lolz:3
 ### my life etc.
 *diary entries, pictures, updates, & everything else i want to blog about*  
 [view my life →](/my-life)
-
-<iframe id="uvindexwidget" src="https://www.sunsmart.com.au/uvalert/widget.aspx?version=australia&locationid=156" width="300" height="300" frameborder="0" scrolling="no" style="padding:0; margin: 0px; overflow:hidden;" allowtransparency="true"></iframe>
