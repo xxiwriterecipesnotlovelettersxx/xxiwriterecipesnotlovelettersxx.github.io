@@ -35,7 +35,7 @@ Suicide, and mental health more broadly, remains an issue that we can't afford t
 
 ![poster](/images/itybhtposter.jpg)
 
-Singer/songwriter Zara Alice was the first act of this festival. Although I was only able to see the very end of the act, her emotional indie-folk acoustic music left an enchanting and dreamy effect. 
+Singer/songwriter Zara Alice was the first act of this festival. Although I was only able to see the very end of the act, her emotional indie-folk acoustic music left an enchanting and dreamy impression. 
 
 ![zaraalice](/images/zaraalice.jpg)
 
