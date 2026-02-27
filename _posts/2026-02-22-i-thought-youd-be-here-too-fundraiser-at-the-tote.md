@@ -31,15 +31,15 @@ thumbnail: /images/patrickblood.JPG
 On Sunday, The Tote hosted a sold-out festival that ran from afternoon into evening, uniting nine different acts to support an important cause. Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, an Australian not-for-profit organisation who (among other things) provide support to people and families impacted by suicide. Through counselling, peer support groups, and community programs, their work focuses not only on prevention but also caring for those navigating grief and trauma in its aftermath.
 </p>
 <br>
-Suicide, and mental health more broadly, remains an issue that we can't afford to ignore. Most people have been affected by suicide throughout their lives, whether directly or through someone they love. Thank you to everyone who donated, played, organised, or simply came along to support this show. Always remember that your actions carry meaning, and could be the difference that saves a life.
+Suicide, and mental health more broadly, remains an issue that we can't afford to ignore. Most people are affected by suicide at some point in their lives, whether directly or through someone they love. Thank you to everyone who donated, played, organised, or simply came along to support this show. Always remember that your actions carry meaning, and can make a genuine difference.
 
 ![poster](/images/itybhtposter.jpg)
 
-Singer/songwriter Zara Alice was the first act of this festival. Although I was only able to see the very end of the act, her emotional indie-folk acoustic music left an enchanting and dreamy impression. 
+Singer/songwriter Zara Alice was the first act of this festival. Although I was only able to see the very end of her performance, her emotional indie-folk acoustic music left an enchanting and dreamy impression. 
 
 ![zaraalice](/images/zaraalice.jpg)
 
-Following Zara Alice's opening performance were Street Carp, a band from regional Victoria who played an energetic and upbeat set of indie and slacker rock, with unexpected elements of hardcore in their drumming. Their new guitarist demonstrated some impressive and technical solos, adding a deeper layer to the band's indie sound, while frontman Hunter thrived on crowd engagement. During their set, Street Carp covered The Chats' 'Mum Stole My Darts'.
+Following Zara Alice were Street Carp, a band from regional Victoria who played an energetic and upbeat set of indie and slacker rock, with unexpected elements of hardcore in their drumming. Their new guitarist demonstrated some impressive and technical solos, adding a deeper layer to the band's indie sound, while frontman Hunter thrived on crowd engagement. During their set, Street Carp covered The Chats' 'Mum Stole My Darts'.
 
 ![streetcarp](/images/streetcarp1.JPG)
 
@@ -56,11 +56,11 @@ A reflection of Wrench's fervent act, Paddy cut his hand while playing and spilt
   </a>
 </div>
 
-Waxman, a Naarm experimental post-hardcore 3-piece, started their set with no guitarist to be seen, holding their own with only bass and drums. Arriving late, their guitairist quickly set up and joined them to play as a full band. All three members shared the responisbility of vocals, adding further complexity and detail to the act. Their sound was thick, noisy, and intricate, reminding me of Converge in some ways.
+Waxman, a Naarm experimental post-hardcore 3-piece, started their set with no guitarist to be seen, holding their own with only bass and drums. Arriving late, their guitarist quickly set up and joined them to play as a full band. All three members shared the responsibility of vocals, adding further complexity and detail to the act. Their sound was thick, noisy, and intricate, reminding me of the chaotic density of Converge in some ways.
 
 ![waxman](/images/waxman1.JPG)
 
-Chromatin’s set further cemented them as one of my favourite emerging skramz bands in the country right now. Partway through their set I had to quickly leave to carry my amp upstairs to the green room, and, as I walked back towards the space upstairs, their dense wall of sound bled through the floorboards and walls. Hearing them from a distance, slightly muffled, only reinforced their expansive and rich, layered sound.
+Chromatin’s set further cemented them as one of my favourite emerging skramz bands in the country right now. Partway through their set I had to quickly leave to carry my amp upstairs to the green room, and, as I made my way back, their dense wall of sound bled through the floorboards and walls. Hearing them from a distance, slightly muffled, only reinforced their expansive and richly layered sound.
 <br><br>
 Liam's performance as vocalist was characteristically engaging. As per usual, he quickly abandoned the stage to bring a physical element to their act, sharing the microphone and joining the mosh.
 
@@ -73,7 +73,7 @@ Liam's performance as vocalist was characteristically engaging. As per usual, he
   </a>
 </div>
 
-Next I got on stage with my bandmates, and played our second live In Her Palms show. We performed a number of our newly-written songs, as well as a cover of 'Icehead' by Alex G. While I can't reallyyy talk about what it was like, Liam said that our performance was emotionally moving! So thank you very much Liam<3 
+Next I got on stage with my bandmates, and played our second live In Her Palms show. We performed a number of our newly-written songs, as well as a cover of 'Icehead' by Alex G. While I won't try to talk about what it was like from on the stage, Liam said that our performance was emotionally moving, which meant a lot <3
 
 ![ihop](/images/ihop2202262.jpg)
 
@@ -86,9 +86,11 @@ Next I got on stage with my bandmates, and played our second live In Her Palms s
   </a>
 </div>
 
-Had to leave after playing, but apparently BLACKBIRD were super aweosme.
-<br><br>
-rip balmoral and indented wish ib could have seeen this also. shoutout the day that it broke
+I had to leave right after our set, so I wasn't able to see the other 3 bands that played in person. From what I heard, blackbird's genre-bending emocore/metalcore performance was "AMAZING" and their breakdowns "weresooo heavy" and "crabcore-dance-able". Thanks Zi for your wonderful field reporting!
+<br>
+<p class="show-intro">
+I also sadly missed sets from screamo band Balmoral and post-hardcore group Indented. I've had Indented's new EP, <a href="https://indented.bandcamp.com/album/the-day-that-it-broke">The Day That It Broke</a>, on repeat since it came out at the start of the year, so I was particularly disappointed about this. Hopefully I’ll get to see all of these bands live one day.
+</p>
 
 ![wrench](/images/drainwrench1.jpg)
 
