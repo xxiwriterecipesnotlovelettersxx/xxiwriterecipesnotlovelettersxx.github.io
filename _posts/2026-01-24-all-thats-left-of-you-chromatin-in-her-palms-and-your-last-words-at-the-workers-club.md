@@ -74,7 +74,7 @@ Once again, my friend Laura (@lauradalezz1e on Instagram) recorded a bootleg of 
 </p>
 <br>
 
-### photos from the night (click to expand)
+### photos from the afternoon (click to expand)
 photo credits:
 <br>
 @mustwegospellitout on instagram
