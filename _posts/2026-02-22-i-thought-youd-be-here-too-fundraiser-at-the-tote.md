@@ -187,9 +187,6 @@ photo credits:
   <a href="/images/chromatin220226.JPG">
   <img src="/images/chromatin220226.JPG" alt="chromatin">
   </a>
-  <a href="/images/chromatin2202261.JPG">
-  <img src="/images/chromatin2202261.JPG" alt="chromatin">
-  </a>
   <a href="/images/chromatin2202262.JPG">
     <img src="/images/chromatin2202262.JPG" alt="chromatin">
   </a>
@@ -210,5 +207,23 @@ photo credits:
   </a>
   <a href="/images/jordanguitarclose1.JPG">
   <img src="/images/jordanguitarclose1.JPG" alt="chromatin">
+  </a>
+  <a href="/images/ihop2202261.jpg">
+  <img src="/images/ihop2202261.jpg" alt="ihop">
+  </a>
+  <a href="/images/ihop2202262.jpg">
+  <img src="/images/ihop2202262.jpg" alt="ihop">
+  </a>
+  <a href="/images/blackbirditybht.png">
+  <img src="/images/blackbirditybht.png" alt="blackbird">
+  </a>
+  <a href="/images/indenteditybht1.png">
+  <img src="/images/indenteditybht1.png" alt="indented">
+  </a>
+  <a href="/images/indenteditybht2.png">
+  <img src="/images/indenteditybht2.png" alt="indented">
+  </a>
+  <a href="/images/lottigreen.jpg">
+  <img src="/images/lottigreen.jpg" alt="lotti">
   </a>
 </div>
