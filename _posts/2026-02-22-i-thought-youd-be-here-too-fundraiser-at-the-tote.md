@@ -77,25 +77,32 @@ Next I got on stage with my bandmates, and played our second live In Her Palms s
 
 ![ihop](/images/ihop2202262.jpg)
 
-<div class="gallery">
-   <a href="/images/keratin0.JPG">
-    <img src="/images/keratin0.JPG" alt="keratin">
-  </a>
-   <a href="/images/keratin1.jpg">
-    <img src="/images/keratin1.jpg" alt="keratin">
-  </a>
-</div>
-
 I had to leave right after our set, so I wasn't able to see the other 3 bands that played in person. From what I heard, blackbird's genre-bending emocore/metalcore performance was "AMAZING" and their breakdowns "weresooo heavy" and "crabcore-dance-able". Thank you Zi for your enthusiastic field reporting!
 <br><br>
 <p class="show-intro">
 I also sadly missed sets from screamo band Balmoral and post-hardcore group Indented. I've had Indented's new EP, <a href="https://indented.bandcamp.com/album/the-day-that-it-broke">The Day That It Broke</a>, on repeat since it came out at the start of the year, so I was particularly disappointed about this. Hopefully I’ll get to see all of these bands live one day.
 </p>
 
-![wrench](/images/drainwrench1.jpg)
+<div class="gallery">
+   <a href="/images/blackbirditybht.png">
+    <img src="/images/blackbirditybht.png" alt="blackbird">
+  </a>
+   <a href="/images/indenteditybht1.png">
+    <img src="/images/indenteditybht1.png" alt="indented">
+  </a>
+</div>
 
 <p class="show-intro">
-Thanks so much to everyone who was involved in organising, hosting, playing, and coming to support this show and the cause that it represented. Music scenes like this one can build a shared community, and offer a place of support to those in need. Everybody's contributions matter so much! A particular thank you to @cohen.salnitro, who has once again created some montages of several bands' sets from the evening. FILLLLLL TSHI IS FIX IT FIC IT FITX IT's video <a href="https://www.instagram.com/p/DTuwFyXgapa/">here</a>, Chromatin's video <a href="https://www.instagram.com/p/DTkVr_8gXzW/">here</a> and Could be Stars' <a href="https://www.instagram.com/p/DTjr2t8AQc1/">here</a> shgfewugfhdwuf ehb 3uhufeuvd iufeufewg yfejgf yg u fh jfjf dji fdhsj fdhiufd hid jif
+Thanks so much to everyone who was involved in organising, hosting, playing, and coming to support this show and the cause that it represented. Music scenes like this one can build a shared community, and offer a place of support to those in need. Everybody's contributions matter so much! A particular thank you to @cohen.salnitro, who has once again created some montages of several bands' sets from the evening. View the videos here:
+<a href="https://www.instagram.com/p/DVK1Kw0jkiG/">Street Carp</a>
+   <br>
+<a href="https://www.instagram.com/p/DVItQgfDikj/">Chromatin</a>
+   <br>
+<a href="https://www.instagram.com/p/DVNvipaDncp/">In Her Palms</a>
+   <br>
+<a href="https://www.instagram.com/p/DVF2paEjkKv/">blackbird</a>
+   <br>
+<a href="https://www.instagram.com/p/DVGIXp0DsxG/">Indented</a>
 </p>
 
 ![lotti](/images/lottigreen.jpg)
@@ -105,9 +112,9 @@ photo credits:
 <br>
 @eryns.photo.diary on instagram
 <br>
-@ lotti whateevrerthis amybbeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+@mart1ncheck
 <br>
-blank
+@cohen.salnitro
 
 <div class="gallery">
    <a href="/images/totewallitybht.jpg">
