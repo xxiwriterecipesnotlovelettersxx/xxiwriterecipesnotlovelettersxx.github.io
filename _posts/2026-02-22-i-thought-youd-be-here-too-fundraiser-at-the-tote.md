@@ -181,4 +181,34 @@ photo credits:
   <a href="/images/wxmn3.JPG">
   <img src="/images/wxmn3.JPG" alt="waxman">
   </a>
+  <a href="/images/screw.JPG">
+  <img src="/images/screw.JPG" alt="screw">
+  </a>
+  <a href="/images/chromatin220226.JPG">
+  <img src="/images/chromatin220226.JPG" alt="chromatin">
+  </a>
+  <a href="/images/chromatin2202261.JPG">
+  <img src="/images/chromatin2202261.JPG" alt="chromatin">
+  </a>
+  <a href="/images/chromatin2202262.JPG">
+    <img src="/images/chromatin2202262.JPG" alt="chromatin">
+  </a>
+  <a href="/images/chromatin2202263.JPG">
+    <img src="/images/chromatin2202263.JPG" alt="chromatin">
+  </a>
+  <a href="/images/chromatin2202264.JPG">
+  <img src="/images/chromatin2202264.JPG" alt="chromatin">
+  </a>
+  <a href="/images/chromatin2202265.JPG">
+  <img src="/images/chromatin2202265.JPG" alt="chromatin">
+  </a>
+  <a href="/images/chromatin2202266.JPG">
+  <img src="/images/chromatin2202266.JPG" alt="chromatin">
+  </a>
+  <a href="/images/chromatin2202267.JPG">
+  <img src="/images/chromatin2202267.JPG" alt="chromatin">
+  </a>
+  <a href="/images/jordanguitarclose1.JPG">
+  <img src="/images/jordanguitarclose1.JPG" alt="chromatin">
+  </a>
 </div>
