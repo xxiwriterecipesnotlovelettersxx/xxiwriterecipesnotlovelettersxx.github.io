@@ -73,7 +73,7 @@ Liam's performance as vocalist was characteristically engaging. As per usual, he
   </a>
 </div>
 
-In Her Palms
+Next I got on stage with my bandmates, and played our second live In Her Palms show. We performed a number of our newly-written songs, as well as a cover of 'Icehead' by Alex G. While I can't reallyyy talk about what it was like, Liam said that our performance was emotionally moving! So thank you very much Liam<3 
 
 ![ihop](/images/ihop2202262.jpg)
 
