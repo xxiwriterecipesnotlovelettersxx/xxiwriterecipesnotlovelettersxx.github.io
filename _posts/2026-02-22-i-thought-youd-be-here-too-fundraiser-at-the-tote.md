@@ -60,9 +60,10 @@ Waxman, a Naarm experimental post-hardcore 3-piece, started their set with no gu
 
 ![waxman](/images/waxman1.JPG)
 
-Chromatin aha x
+Chromatin’s set further cemented them as one of my favourite emerging skramz bands in the country right now. Partway through their set I had to quickly leave to carry my amp upstairs to the green room, and, as I walked back towards the space upstairs, their dense wall of sound bled through the floorboards and walls. Hearing them from a distance, slightly muffled, only reinforced their expansive and rich, layered sound.
 <br><br>
-Chromatin
+Liam's performance as vocalist was characteristically engaging. As per usual, he quickly abandoned the stage to bring a physical element to their act, sharing the microphone and joining the mosh.
+
 <div class="gallery">
    <a href="/images/chromatin220226.JPG">
     <img src="/images/chromatin220226.JPG" alt="chromatin">
