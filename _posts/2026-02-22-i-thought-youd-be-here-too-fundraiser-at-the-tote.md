@@ -43,7 +43,7 @@ Following Zara Alice were Street Carp, a band from regional Victoria who played 
 
 ![streetcarp](/images/streetcarp1.JPG)
 
-After this, Djilang screamo band Wrench delivered what was easily their most forceful performance yet. Paddy's dissonant and distorted guitar tones bordered on harsh noise at points, creating an abrasive wall of sound and oscillating feedback. Their set opened with a spoken word section, read by Jovi (Paddy's girlfriend), before collapsing into intense and emotional chaos. Early into their set, I was invited on stage to fulfill my promise of covering 'flood' by gatecrash with the band. During this tribute, Paddy dove into the crowd and was swinging off a beam on the roof at one point??
+After this, Djilang screamo band Wrench delivered what was easily their most forceful performance yet. Paddy's dissonant and distorted guitar tones bordered on harsh noise at points, creating an abrasive wall of sound and oscillating feedback. Their set opened with a spoken word section, read by Jovi (Paddy's girlfriend), before collapsing into intense and emotional chaos. Early into their set, I was invited on stage to fulfill my promise of covering 'flood' by gatecrash with the band. During this tribute, Paddy dove into the crowd and was swinging off a beam on the ceiling at one point??
 <br><br>
 A reflection of Wrench's fervent act, Paddy cut his hand while playing and spilt blood onto the pickguard of his guitar. He kept playing regardless, only accepting help from someone with a first-aid kit after the set had ended. Paddy's vocals were another standout, as he briefly introduced guttural low screams that added even more weight to their sound.
 
