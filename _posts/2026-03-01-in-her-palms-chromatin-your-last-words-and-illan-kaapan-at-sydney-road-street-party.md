@@ -17,7 +17,8 @@ thumbnail: /images/srspchrom0.JPG
 <a href="https://linktr.ee/inherpalms">In Her Palms</a>
 </p>
 <br>
-Yoooo cuz intro
+"Every year we host a stage at the awesome @brunswickmusicfest Sydney Road Street Party and this year we’re bringing a huge afternoon of hardcore and emo/emo-adjacent music to bless the patrons of Sydney Rd and Weston St. 
+Our stage- called the Tonberang Ngarrga stage (meaning Born to Dance in the Woi Wurrung language!) will run from 12:30-5:10pm on MARCH 1ST. It is free and all ages 🫰"
 
 ![poster](/images/srspposter.jpg)
 
