@@ -48,8 +48,8 @@ your ast words what cool song-writing
    <a href="/images/srspylw1.JPG">
     <img src="/images/srspylw1.JPG" alt="yourlastwords">
   </a>
-   <a href="/images/srspylw2.JPG">
-    <img src="/images/srspylw2.JPG" alt="yourlastwords">
+   <a href="/images/srspylw0.JPG">
+    <img src="/images/srspylw0.JPG" alt="yourlastwords">
   </a>
 </div>
 
