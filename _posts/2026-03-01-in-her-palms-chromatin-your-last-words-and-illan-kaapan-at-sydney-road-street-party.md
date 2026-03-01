@@ -20,7 +20,7 @@ thumbnail: /images/patrickblood.JPG
 <p class="show-intro">
 Yoooo cuz intro
 
-![poster](/images/itybhtposter.jpg)
+![poster](/images/srspposter.jpg)
 
 ihop
 <br>
