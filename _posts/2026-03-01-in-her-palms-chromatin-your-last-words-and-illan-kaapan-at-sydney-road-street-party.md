@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "in her palms, chromatin, your last words, and illan kaapan @ sydney road street party"
-date: 2026-02-29
+date: 2026-03-01
 categories: showx
 thumbnail: /images/patrickblood.JPG
 ---
@@ -18,20 +18,26 @@ thumbnail: /images/patrickblood.JPG
 </p>
 <br>
 <p class="show-intro">
-On Sunday, The Tote hosted a sold-out festival that ran from afternoon into evening, uniting nine different acts to support an important cause. Organised by Declan of @capital.noise and my friend Lotti, all proceeds from this show went towards <a href="https://jss.org.au/">Jesuit Social Services</a>, an Australian not-for-profit organisation who (among other things) provide support to people and families impacted by suicide. Through counselling, peer support groups, and community programs, their work focuses not only on prevention but also caring for those navigating grief and trauma in its aftermath.
-</p>
-<br>
-Suicide, and mental health more broadly, remains an issue that we can't afford to ignore. Most people are affected by suicide at some point in their lives, whether directly or through someone they love. Thank you to everyone who donated, played, organised, or simply came along to support this show. Always remember that your actions carry meaning, and can make a genuine difference.
+Yoooo cuz intro
 
 ![poster](/images/itybhtposter.jpg)
 
-Singer/songwriter Zara Alice was the first act of this festival. Although I was only able to see the very end of her performance, her emotional indie-folk acoustic music left an enchanting and dreamy impression. 
+ihop
+<br>
+ihop wow mixing thx so nice
 
-![zaraalice](/images/zaraalice.jpg)
+![ihop](/images/zaraalice.jpg)
 
 Following Zara Alice were Street Carp, a band from regional Victoria who played an energetic and upbeat set of indie and slacker rock, with unexpected elements of hardcore in their drumming. Their new guitarist demonstrated some impressive and technical solos, adding a deeper layer to the band's indie sound, while frontman Hunter thrived on crowd engagement. During their set, Street Carp covered The Chats' 'Mum Stole My Darts'.
 
-![streetcarp](/images/streetcarp1.JPG)
+<div class="gallery">
+   <a href="/images/wrenchitybht1.JPG">
+    <img src="/images/wrenchitybht1.JPG" alt="wrench">
+  </a>
+   <a href="/images/patrickblood.JPG">
+    <img src="/images/patrickblood.JPG" alt="wrench">
+  </a>
+</div>
 
 After this, Djilang screamo band Wrench delivered what was easily their most forceful performance yet. Paddy's dissonant and distorted guitar tones bordered on harsh noise at points, creating an abrasive wall of sound and oscillating feedback. Their set opened with a spoken word section, read by Jovi (Paddy's girlfriend), before collapsing into intense and emotional chaos. Early into their set, I was invited on stage to fulfill my promise of covering 'flood' by gatecrash with the band. During this tribute, Paddy dove into the crowd and was swinging off a beam on the ceiling at one point??
 <br><br>
