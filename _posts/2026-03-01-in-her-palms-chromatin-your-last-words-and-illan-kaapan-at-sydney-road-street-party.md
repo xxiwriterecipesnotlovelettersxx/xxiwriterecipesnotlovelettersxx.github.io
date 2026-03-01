@@ -1,30 +1,20 @@
 ---
 layout: post
 title: "in her palms, chromatin, your last words, and illan kaapan @ sydney road street party"
-date: 2026-02-22
+date: 2026-03-01
 categories: show
 thumbnail: /images/patrickblood.JPG
 ---
 
 <br>
 <p class="show-intro">
-<a href="https://indented.bandcamp.com/">Indented</a>
+<a href="https://indented.bandcamp.com/">ILLAN KAAPAN</a>
 <br>
-<a href="https://linktr.ee/balmoral.band">Balmoral</a>
-<br>
-<a href="https://www.instagram.com/murderblackbird/">blackbird</a>
-<br>
-<a href="https://linktr.ee/inherpalms">In Her Palms</a>
+<a href="https://www.instagram.com/yourlastwords_band/">your last words</a>
 <br>
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a>
 <br>
-<a href="https://waxmanband.bandcamp.com/">Waxman</a>
-<br>
-<a href="https://www.instagram.com/wrench_band/">Wrench</a>
-<br>
-<a href="https://www.abc.net.au/triplejunearthed/artist/street-carp/">Street Carp</a>
-<br>
-<a href="https://linktr.ee/zaraalice?utm_source=linktree_profile_share&ltsid=b83ae58a-e291-444c-9635-872c29d80cc3">Zara Alice</a>
+<a href="https://linktr.ee/inherpalms">In Her Palms</a>
 </p>
 <br>
 <p class="show-intro">
