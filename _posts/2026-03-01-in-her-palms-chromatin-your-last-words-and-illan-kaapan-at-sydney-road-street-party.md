@@ -45,11 +45,11 @@ your last WORDS
 your ast words what cool song-writing
 
 <div class="gallery">
-   <a href="/images/srspylw1.JPG">
-    <img src="/images/srspylw1.JPG" alt="yourlastwords">
-  </a>
    <a href="/images/srspylw0.JPG">
     <img src="/images/srspylw0.JPG" alt="yourlastwords">
+  </a>
+   <a href="/images/srspylw1.JPG">
+    <img src="/images/srspylw1.JPG" alt="yourlastwords">
   </a>
 </div>
 
