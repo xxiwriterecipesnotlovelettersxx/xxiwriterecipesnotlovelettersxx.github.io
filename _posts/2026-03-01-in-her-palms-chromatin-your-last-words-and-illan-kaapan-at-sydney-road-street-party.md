@@ -58,11 +58,11 @@ illan kaapan cuz
 hardcore two step ahaha x
 
 <div class="gallery">
-   <a href="/images/wrenchitybht1.JPG">
-    <img src="/images/wrenchitybht1.JPG" alt="wrench">
+   <a href="/images/srspik1.JPG">
+    <img src="/images/srspik1.JPG" alt="illankaapan">
   </a>
-   <a href="/images/patrickblood.JPG">
-    <img src="/images/patrickblood.JPG" alt="wrench">
+   <a href="/images/srspik2.JPG">
+    <img src="/images/srspik2.JPG" alt="illankaapan">
   </a>
 </div>
 
