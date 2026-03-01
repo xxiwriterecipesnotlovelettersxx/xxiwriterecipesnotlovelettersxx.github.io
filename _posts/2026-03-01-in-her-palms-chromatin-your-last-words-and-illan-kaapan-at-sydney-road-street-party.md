@@ -3,7 +3,7 @@ layout: post
 title: "in her palms, chromatin, your last words, and illan kaapan @ sydney road street party"
 date: 2026-03-01
 categories: show
-thumbnail: /images/srspthumbnail.JPG
+thumbnail: /images/srspthumbnail2.JPG
 ---
 
 <br>
