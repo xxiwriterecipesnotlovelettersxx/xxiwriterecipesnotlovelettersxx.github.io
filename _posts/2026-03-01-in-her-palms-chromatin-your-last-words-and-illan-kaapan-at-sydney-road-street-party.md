@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "in her palms, chromatin, your last words, and illan kaapan @ sydney road street party"
-date: 2026-03-01
+date: 2026-02-29
 categories: show
 thumbnail: /images/patrickblood.JPG
 ---
