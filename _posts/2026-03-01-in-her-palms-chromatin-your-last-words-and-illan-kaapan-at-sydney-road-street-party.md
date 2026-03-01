@@ -32,11 +32,11 @@ Chromatinnnnn soundesd so nice so excited for them tor record.
 Liam somehow made hisway inro crowd
 
 <div class="gallery">
-   <a href="/images/wrenchitybht1.JPG">
-    <img src="/images/wrenchitybht1.JPG" alt="wrench">
+   <a href="/images/srspchrom0.JPG">
+    <img src="/images/srspchrom0.JPG" alt="chromatin">
   </a>
-   <a href="/images/patrickblood.JPG">
-    <img src="/images/patrickblood.JPG" alt="wrench">
+   <a href="/images/srspchrom3.JPG">
+    <img src="/images/srspchrom3.JPG" alt="chromatin">
   </a>
 </div>
 
