@@ -17,7 +17,6 @@ thumbnail: /images/patrickblood.JPG
 <a href="https://linktr.ee/inherpalms">In Her Palms</a>
 </p>
 <br>
-<p class="show-intro">
 Yoooo cuz intro
 
 ![poster](/images/srspposter.jpg)
