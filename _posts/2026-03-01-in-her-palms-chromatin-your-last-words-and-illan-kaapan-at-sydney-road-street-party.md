@@ -56,7 +56,7 @@ your ast words what cool song-writing
 
 illan kaapan cuz
 <br><br>
-hardcore two step ahaha x
+NAARM SRI LANKAN HARDCORE
 
 <div class="gallery">
    <a href="/images/srspik1.JPG">
