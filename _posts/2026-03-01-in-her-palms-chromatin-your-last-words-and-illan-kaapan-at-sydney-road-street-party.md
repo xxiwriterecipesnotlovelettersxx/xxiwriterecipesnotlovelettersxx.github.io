@@ -17,7 +17,9 @@ thumbnail: /images/srspchrom0.JPG
 <a href="https://linktr.ee/inherpalms">In Her Palms</a>
 </p>
 <br>
-Every year in Brunswick, @ampedupfreeza host a free & all ages youth stage at the Sydney Road Street Party. For the 2026 festival, the Tonberang Ngarrga Stage on Weston Street highlighted a collection of local emo-adjacent and hardcore acts from 12:30-5:30. The full lineup of the event included hardcore bands 'Out Of Spite' and 'Heat', but I had to leave before they played their sets </3
+<p class="show-intro">
+Every year in Brunswick, @ampedupfreeza host a free & all ages youth stage at the Sydney Road Street Party. For the 2026 festival, the Tonberang Ngarrga Stage on Weston Street highlighted a collection of local emo-adjacent and hardcore acts from 12:30-5:30. The full lineup of the event included hardcore bands <a href="https://linktr.ee/outofspitehc?utm_source=linktree_profile_share&ltsid=59052a4c-b712-4818-ae63-8855fae22897">Out Of Spite</a> and <a href="https://linktr.ee/heathardcore?utm_source=linktree_profile_share&ltsid=a2600468-a48c-448a-8220-b17812c95fee">Heat</a>, but I had to leave before they played their sets </3
+</p>
 
 ![poster](/images/srspposter.jpg)
 
