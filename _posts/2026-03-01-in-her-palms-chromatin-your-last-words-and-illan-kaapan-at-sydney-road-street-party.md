@@ -8,7 +8,7 @@ thumbnail: /images/srspchrom0.JPG
 
 <br>
 <p class="show-intro">
-<a href="https://indented.bandcamp.com/">ILLAN KAAPAN</a>
+<a href="https://illankaapan.bandcamp.com/">ILLAN KAAPAN</a>
 <br>
 <a href="https://www.instagram.com/yourlastwords_band/">your last words</a>
 <br>
