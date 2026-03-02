@@ -21,9 +21,9 @@ Every year in Brunswick, @ampedupfreeza host a free & all ages youth stage at th
 
 ![poster](/images/srspposter.jpg)
 
-ihop
+Opening the stage were In Her Palms, a band which I am a part of. It was so cool to play a properly organised event like this on a big stage, and a very different experience to bar or DIY shows.
 <br><br>
-ihop wow mixing thx so nice
+Thanks to the wonderful sound crew, and thorough soundcheck we were allowed, this show was the nicest we have sounded yet! Playing this stage was a really great experience, especially thanks to the friendliness of the Amped Up team.
 
 ![ihop](/images/zaraalice.jpg)
 
