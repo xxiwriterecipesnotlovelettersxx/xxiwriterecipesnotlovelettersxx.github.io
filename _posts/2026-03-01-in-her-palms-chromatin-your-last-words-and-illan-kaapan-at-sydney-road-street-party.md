@@ -25,13 +25,13 @@ Every year in Brunswick, @ampedupfreeza host a free & all ages youth stage at th
 
 Opening the stage were In Her Palms, a band which I am a part of. It was so cool to play a properly organised event like this on a big stage, and a very different experience to bar or DIY shows.
 <br><br>
-Thanks to the wonderful sound crew and thorough soundcheck we were allowed, our mixing at this show was perfect.. the best we've sounded before! Playing this stage was a really great experience, especially thanks to the friendliness of the Amped Up team.
+Thanks to the wonderful sound crew and thorough soundcheck we were allowed, our mixing at this show was perfect.. the best we've sounded! Playing this stage was a really great experience, especially thanks to the friendliness of the Amped Up team.
 
 ![ihop](/images/zaraalice.jpg)
 
-Chromatinnnnn soundesd so nice so excited for them tor record.
+Following our set, southeast screamo five-piece Chromatin took the stage. They sounded clearer than I’ve ever heard them before. Their layered arrangements thrived through the festival’s mixing and speaker setup, each instrument well-defined and cutting through where needed. From in the crowd, it felt like hearing their songs the way they were meant to be heard. This clarity made me realise one thing in particular: Chromatin are more than ready to properly record.
 <br><br>
-Liam somehow made hisway inro crowd
+In keeping with typical Chromatin fashion, Liam ONCE AGAIN took his vocals beyond the stage and into the crowd to dance and perform at ground level. Before we played, Asher and I both agreed that he would have a hard time getting off the elevated stage and doing vocals amidst the mosh.. He proved us wrong once again.
 
 <div class="gallery">
    <a href="/images/srspchrom0.JPG">
