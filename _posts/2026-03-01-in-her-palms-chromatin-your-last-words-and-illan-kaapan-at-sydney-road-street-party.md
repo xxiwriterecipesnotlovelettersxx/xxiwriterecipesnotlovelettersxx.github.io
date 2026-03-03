@@ -29,7 +29,7 @@ Thanks to the wonderful sound crew and thorough soundcheck we were allowed, our 
 
 ![ihop](/images/zaraalice.jpg)
 
-Following our set, southeast screamo five-piece Chromatin took the stage. They sounded clearer than I’ve ever heard them before. Their layered arrangements thrived through the festival’s mixing and speaker setup, each instrument well-defined and cutting through where needed. From in the crowd, it felt like hearing their songs the way they were meant to be heard. This clarity made me realise one thing in particular: Chromatin are more than ready to properly record.
+Following our set, southeast screamo five-piece Chromatin took the stage. They sounded clearer than I’ve ever heard them before. Their layered arrangements thrived through the festival’s mixing and speaker setup, each instrument well-defined and cutting through where needed. From in the crowd, it felt like hearing their songs the way they were meant to be heard. This clarity made me realise one thing in particular: the band are more than ready to properly record.
 <br><br>
 In keeping with typical Chromatin fashion, Liam ONCE AGAIN took his vocals beyond the stage and into the crowd, dancing and performing at ground level. Before we played, Asher and I both agreed that he was going to have a hard time getting down from the elevated stage and doing vocals amidst the mosh.. He proved us wrong once again.
 
