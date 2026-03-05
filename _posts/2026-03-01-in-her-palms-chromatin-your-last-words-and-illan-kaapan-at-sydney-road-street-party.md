@@ -27,7 +27,14 @@ Opening the stage were In Her Palms, a band which I am a part of. It was so cool
 <br><br>
 Thanks to the wonderful sound crew and thorough soundcheck we were allowed, our mixing at this show was perfect.. the best we've sounded! Playing this stage was a really great experience, especially thanks to the friendliness of the Amped Up team.
 
-![ihop](/images/ihopbanner1.png)
+<div class="gallery">
+   <a href="/images/ihopsr0.jpg">
+    <img src="/images/ihopsr0.jpg" alt="ihop">
+  </a>
+   <a href="/images/ihopsr1c.jpg">
+    <img src="/images/ihopsr1c.jpg" alt="ihop">
+  </a>
+</div>
 
 Following our set, southeast screamo five-piece Chromatin took the stage. They sounded clearer than I’ve ever heard them before. Their layered arrangements thrived through the festival’s mixing and speaker setup, each instrument well-defined and cutting through where needed. From in the crowd, it felt like hearing their songs the way they were meant to be heard. This clarity made me realise one thing in particular: the band are more than ready to properly record.
 <br><br>
