@@ -28,8 +28,8 @@ Opening the stage were In Her Palms, a band which I am a part of. It was so cool
 Thanks to the wonderful sound crew and thorough soundcheck we were allowed, our mixing at this show was perfect.. the best we've sounded! Playing this stage was a really great experience, especially thanks to the friendliness of the Amped Up team.
 
 <div class="gallery">
-   <a href="/images/ihopsr0.jpg">
-    <img src="/images/ihopsr0.jpg" alt="ihop">
+   <a href="/images/ihopsr0c.jpg">
+    <img src="/images/ihopsr0c.jpg" alt="ihop">
   </a>
    <a href="/images/ihopsr1c.jpg">
     <img src="/images/ihopsr1c.jpg" alt="ihop">
