@@ -102,20 +102,20 @@ photo credits:
   <a href="/images/ihopsr4c.jpg">
     <img src="/images/ihopsr4c.jpg" alt="ihop">
   </a>
-  <a href="/images/streetcarp3.JPG">
-    <img src="/images/streetcarp3.JPG" alt="streetcarp">
+  <a href="/images/srspchrom0.JPG">
+    <img src="/images/srspchrom0.JPG" alt="chromatin">
   </a>
-  <a href="/images/streetcarp4.JPG">
-    <img src="/images/streetcarp4.JPG" alt="streetcarp">
+  <a href="/images/srspchrom1.JPG">
+    <img src="/images/srspchrom1.JPG" alt="chromatin">
   </a>
-  <a href="/images/asherelijah1.JPG">
-    <img src="/images/asherelijah1.JPG" alt="asherelijah">
+  <a href="/images/srspchrom2.jpg">
+    <img src="/images/srspchrom2.jpg" alt="chromatin">
   </a>
-  <a href="/images/patrickblood.JPG">
-  <img src="/images/patrickblood.JPG" alt="wrench">
+  <a href="/images/srspchrom3.JPG">
+  <img src="/images/srspchrom3.JPG" alt="chromatin">
   </a>
-  <a href="/images/wrenchitybht3.JPG">
-    <img src="/images/wrenchitybht3.JPG" alt="wrench">
+  <a href="/images/wrenchitybht4.JPG">
+    <img src="/images/wrenchitybht4.JPG" alt="wrench">
   </a>
   <a href="/images/wrenchitybht4.JPG">
   <img src="/images/wrenchitybht4.JPG" alt="wrench">
