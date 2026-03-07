@@ -75,7 +75,7 @@ ILLAN KAAPAN commanded a powerful mosh in front of their stage, transforming the
   </a>
 </div>
 
-Although the weather was superrr hot on the afternoon of this show, I really enjoyed seeing emo-adjacent and hardcore bands play in this open, outdoor-stage environment. It was great seeing passers-by stopping to watch parts of these bands' sets, and for these genres to be given a spotlight by the music festival.
+Although the weather was superrr hot on the afternoon of this show, I really enjoyed seeing emo-adjacent and hardcore bands play in this open, outdoor-stage environment. It was great seeing passers-by stopping to watch parts of these bands' sets, and for these genres to be given a spotlight by the music festival. Thanks so much to the bands we played with and the people who showed their support by coming along! I would particularly like to thank the wonderful Amped Up crew, you guys were so so lovely to work with <3
 
 ![ihop](/images/ihop2202262.jpg)
 
