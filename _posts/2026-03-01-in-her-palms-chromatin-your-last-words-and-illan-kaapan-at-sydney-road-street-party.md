@@ -64,7 +64,7 @@ Consistent with their first show, the band covered 'To a Husband at War' by I Ha
 
 After what felt like a long time, metallic hardcore band ILLAN KAAPAN performed next, and were last band of the afternoon that I was able to see :( The group's members are all Sri Lankan immigrants, and their politically charged music intentionally reflected the rage associated with the immigrant experience. Their heavy, full sound was groovy, powerful, and angry above all.
 <br><br>
-ILLAN KAAPAN commanded a powerful mosh in front of their stage, transforming the earlier push-pit into something more distinctly hardcore, with plenty of two-stepping throughout the crowd. Leaving near the end of their set, I enjoyed hearing the sound of hardcore music faintly echoing across the surrounding streets of Brunswick.
+ILLAN KAAPAN commanded a powerful mosh in front of their stage, transforming the earlier push-pit into something more distinctly hardcore, with plenty of two-stepping and some stage dives throughout the crowd. Leaving near the end of their set, I enjoyed hearing the sound of hardcore music faintly echoing across the surrounding streets of Brunswick.
 
 <div class="gallery">
    <a href="/images/srspik1.JPG">
