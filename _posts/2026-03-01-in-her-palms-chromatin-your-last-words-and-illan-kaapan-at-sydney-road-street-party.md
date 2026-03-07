@@ -102,6 +102,18 @@ photo credits:
   <a href="/images/ihopsr4c.jpg">
     <img src="/images/ihopsr4c.jpg" alt="ihop">
   </a>
+  <a href="/images/srspzi.jpg">
+  <img src="/images/srspzi.jpg" alt="zi">
+  </a>
+  <a href="/images/srspcharli.jpg">
+  <img src="/images/srspcharli.jpg" alt="charli">
+  </a>
+    <a href="/images/srspasher.jpg">
+    <img src="/images/srspasher.jpg" alt="asher">
+  </a>
+    <a href="/images/srspgrape.jpg">
+    <img src="/images/srspgrape.jpg" alt="grape">
+  </a>
   <a href="/images/srspchrom0.JPG">
     <img src="/images/srspchrom0.JPG" alt="chromatin">
   </a>
@@ -189,10 +201,10 @@ photo credits:
   <a href="/images/indenteditybht1.png">
   <img src="/images/indenteditybht1.png" alt="indented">
   </a>
-  <a href="/images/indenteditybht2.png">
-  <img src="/images/indenteditybht2.png" alt="indented">
+  <a href="/images/srspzi.jpg">
+  <img src="/images/srspzi.jpg" alt="zi">
   </a>
-  <a href="/images/lottigreen.jpg">
-  <img src="/images/lottigreen.jpg" alt="lotti">
+  <a href="/images/srspcharli.jpg">
+  <img src="/images/srspcharli.jpg" alt="lotti">
   </a>
 </div>
