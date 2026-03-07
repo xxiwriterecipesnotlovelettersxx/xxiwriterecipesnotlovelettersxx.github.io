@@ -127,16 +127,16 @@ photo credits:
   <img src="/images/srspchrom3.JPG" alt="chromatin">
   </a>
   <a href="/images/srspchrom4.JPG">
-    <img src="/images/srspchrom4.JPG" alt="wrench">
+    <img src="/images/srspchrom4.JPG" alt="chromatin">
   </a>
   <a href="/images/srspchrom5.JPG">
-  <img src="/images/srspchrom5.JPG" alt="wrench">
+  <img src="/images/srspchrom5.JPG" alt="chromatin">
   </a>
   <a href="/images/srspchrom6.JPG">
-    <img src="/images/srspchrom6.JPG" alt="wrench">
+    <img src="/images/srspchrom6.JPG" alt="chromatin">
   </a>
   <a href="/images/srspchrom7.JPG">
-  <img src="/images/srspchrom7.JPG" alt="wrench">
+  <img src="/images/srspchrom7.JPG" alt="chromatin">
   </a>
   <a href="/images/wrenchitybht6.JPG">
   <img src="/images/wrenchitybht6.JPG" alt="wrench">
