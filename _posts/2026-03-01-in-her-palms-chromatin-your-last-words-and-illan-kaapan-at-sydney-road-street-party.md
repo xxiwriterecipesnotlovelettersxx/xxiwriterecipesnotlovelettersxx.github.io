@@ -150,8 +150,8 @@ photo credits:
   <a href="/images/goon4.jpg">
     <img src="/images/goon4.jpg" alt="waxman">
   </a>
-  <a href="/images/wxmn.JPG">
-    <img src="/images/wxmn.JPG" alt="waxman">
+  <a href="/images/paddyzi1.JPG">
+    <img src="/images/paddyzi1.JPG" alt="paddyzi">
   </a>
   <a href="/images/wxmn1.JPG">
   <img src="/images/wxmn1.JPG" alt="waxman">
