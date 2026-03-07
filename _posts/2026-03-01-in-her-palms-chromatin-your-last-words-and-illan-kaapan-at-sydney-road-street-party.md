@@ -49,7 +49,7 @@ In keeping with typical Chromatin fashion, Liam ONCE AGAIN took his vocals beyon
   </a>
 </div>
 
-Upcoming Naarm screamo band your last words played what would be their second show ever after Chromatin. As with the other bands, the incredible mixing allowed their intricate songwriting to shine through. Heartfelt and anguished vocals combined with clean and distorted guitars to express deep emotion through their music. The original songs they performed showed great variety in dynamics and sound overall, and reflected an evident love of emo-adjacent music shared by all members.
+Upcoming Naarm screamo band your last words played what would be their second show ever after Chromatin. As with the other bands, the incredible mixing allowed their intricate songwriting to shine through. Heartfelt and anguished vocals combined with clean and distorted guitars to express deep emotion. The original songs they performed showed great variety in dynamics and sound overall, and reflected an evident love of emo-adjacent music shared by all members.
 <br><br>
 Consistent with their first show, the band covered 'To a Husband at War' by I Hate Myself, during which Paddy joined them on stage to scream and dive into the crowd.
 
