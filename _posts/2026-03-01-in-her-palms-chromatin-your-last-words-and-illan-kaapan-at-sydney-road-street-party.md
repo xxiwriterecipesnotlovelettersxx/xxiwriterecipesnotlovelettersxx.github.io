@@ -77,25 +77,9 @@ ILLAN KAAPAN commanded a powerful mosh in front of their stage, transforming the
 
 Although the weather was superrr hot on the afternoon of this show, I really enjoyed seeing emo-adjacent and hardcore bands play in this open, outdoor-stage environment. It was great seeing passers-by stopping to watch parts of these bands' sets, and for these genres to be given a spotlight by the music festival. Thanks so much to the bands we played with and the people who showed their support by coming along! I would particularly like to thank the wonderful Amped Up crew, you guys were so so lovely to work with <3
 
-![ihop](/images/ihop2202262.jpg)
+![lovelycrowd](/images/lovelycrowd.JPG)
 
-<p class="show-intro">
-Thanks so much to everyone who was involved in organising, hosting, playing, and coming to support this show and the cause that it represented. Music scenes like this one can build a shared community, and offer a place of support to those in need. Everybody's contributions matter so much! A particular thank you to @cohen.salnitro, who has once again created some montages of several bands' sets from the evening. Watch his videos here:
-   <br><br>
-<a href="https://www.instagram.com/p/DVK1Kw0jkiG/">Street Carp</a>
-   <br>
-<a href="https://www.instagram.com/p/DVItQgfDikj/">Chromatin</a>
-   <br>
-<a href="https://www.instagram.com/p/DVNvipaDncp/">In Her Palms</a>
-   <br>
-<a href="https://www.instagram.com/p/DVF2paEjkKv/">blackbird</a>
-   <br>
-<a href="https://www.instagram.com/p/DVGIXp0DsxG/">Indented</a>
-</p>
-
-![lotti](/images/lottigreen.jpg)
-
-### photos from the night (click to expand)
+### photos from the afternoon (click to expand)
 photo credits:
 <br>
 @eryns.photo.diary on instagram
