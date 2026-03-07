@@ -82,27 +82,25 @@ Although the weather was superrr hot on the afternoon of this show, I really enj
 ### photos from the afternoon (click to expand)
 photo credits:
 <br>
-@eryns.photo.diary on instagram
-<br>
-@mart1ncheck
+@tennace.photography on instagram
 <br>
 @cohen.salnitro
 
 <div class="gallery">
-   <a href="/images/totewallitybht.jpg">
-    <img src="/images/totewallitybht.jpg" alt="totewall">
+   <a href="/images/ihopsr0c.jpg">
+    <img src="/images/ihopsr0c.jpg" alt="ihop">
   </a>
-   <a href="/images/zaraalice.jpg">
-    <img src="/images/zaraalice.jpg" alt="zaraalice">
+   <a href="/images/ihopsr1c.jpg">
+    <img src="/images/ihopsr1c.jpg" alt="ihop">
   </a>
-  <a href="/images/streetcarp0.JPG">
-    <img src="/images/streetcarp0.JPG" alt="streetcarp">
+  <a href="/images/ihopsr2c.jpg">
+    <img src="/images/ihopsr2c.jpg" alt="ihop">
   </a>
-  <a href="/images/streetcarp1.JPG">
-  <img src="/images/streetcarp1.JPG" alt="streetcarp">
+  <a href="/images/ihopsr3.jpg">
+  <img src="/images/ihopsr3.jpg" alt="ihop">
   </a>
-  <a href="/images/streetcarp2.JPG">
-    <img src="/images/streetcarp2.JPG" alt="streetcarp">
+  <a href="/images/ihopsr4.jpg">
+    <img src="/images/ihopsr4.jpg" alt="ihop">
   </a>
   <a href="/images/streetcarp3.JPG">
     <img src="/images/streetcarp3.JPG" alt="streetcarp">
