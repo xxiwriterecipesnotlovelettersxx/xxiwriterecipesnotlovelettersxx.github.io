@@ -138,17 +138,17 @@ photo credits:
   <a href="/images/srspchrom7.JPG">
   <img src="/images/srspchrom7.JPG" alt="chromatin">
   </a>
-  <a href="/images/wrenchitybht6.JPG">
-  <img src="/images/wrenchitybht6.JPG" alt="wrench">
+  <a href="/images/goon1.JPG">
+  <img src="/images/goon1.JPG" alt="goon">
   </a>
-  <a href="/images/wrenchitybht7.JPG">
-  <img src="/images/wrenchitybht7.JPG" alt="wrench">
+  <a href="/images/goon2.JPG">
+  <img src="/images/goon2.JPG" alt="wrench">
   </a>
-  <a href="/images/wrenchitybht8.JPG">
-  <img src="/images/wrenchitybht8.JPG" alt="wrench">
+  <a href="/images/goon3.JPG">
+  <img src="/images/goon3.JPG" alt="wrench">
   </a>
-  <a href="/images/wxmn0.JPG">
-    <img src="/images/wxmn0.JPG" alt="waxman">
+  <a href="/images/goon4.jpg">
+    <img src="/images/goon4.jpg" alt="waxman">
   </a>
   <a href="/images/wxmn.JPG">
     <img src="/images/wxmn.JPG" alt="waxman">
