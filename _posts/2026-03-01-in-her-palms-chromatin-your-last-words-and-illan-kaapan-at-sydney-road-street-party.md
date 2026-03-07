@@ -62,9 +62,9 @@ Consistent with their first show, the band covered 'To a Husband at War' by I Ha
   </a>
 </div>
 
-After what felt like a long time, hardcore band ILLAN KAAPAN were the next to perform, and the last band of the afternoon that I was able to see. 
+After what felt like a long time, metallic hardcore band ILLAN KAAPAN performed next, and were last band of the afternoon that I was able to see :( The group's members are all Sri Lankan immigrants, and their politically charged music aimed to reflect the rage associated with the immigrant experience. Their thick, full sound was groovy, powerful, and angry above all.
 <br><br>
-NAARM SRI LANKAN HARDCORE
+ILLAN KAAPAN commanded a powerful mosh in front of their stage, transforming the earlier push-pit into something more distinctly hardcore, with plenty of two-stepping throughout the crowd.
 
 <div class="gallery">
    <a href="/images/srspik1.JPG">
