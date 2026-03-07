@@ -62,7 +62,7 @@ Consistent with their first show, the band covered 'To a Husband at War' by I Ha
   </a>
 </div>
 
-illan kaapan cuz
+After what felt like a long time, hardcore band ILLAN KAAPAN were the next to perform, and the last band of the afternoon that I was able to see. 
 <br><br>
 NAARM SRI LANKAN HARDCORE
 
