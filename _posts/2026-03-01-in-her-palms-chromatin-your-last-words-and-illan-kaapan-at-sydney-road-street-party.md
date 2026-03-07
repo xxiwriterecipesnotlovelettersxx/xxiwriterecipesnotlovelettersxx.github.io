@@ -138,11 +138,8 @@ photo credits:
   <a href="/images/srspchrom7.JPG">
   <img src="/images/srspchrom7.JPG" alt="chromatin">
   </a>
-  <a href="/images/goon1.JPG">
-  <img src="/images/goon1.JPG" alt="goon">
-  </a>
-  <a href="/images/goon2.JPG">
-  <img src="/images/goon2.JPG" alt="wrench">
+  <a href="/images/wall1.jpg">
+  <img src="/images/wall1.jpg" alt="wall">
   </a>
   <a href="/images/goon3.JPG">
   <img src="/images/goon3.JPG" alt="wrench">
