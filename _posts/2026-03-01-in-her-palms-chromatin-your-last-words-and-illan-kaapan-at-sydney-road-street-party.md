@@ -93,14 +93,14 @@ photo credits:
    <a href="/images/ihopsr1c.jpg">
     <img src="/images/ihopsr1c.jpg" alt="ihop">
   </a>
-  <a href="/images/ihopsr2c.jpg">
-    <img src="/images/ihopsr2c.jpg" alt="ihop">
+  <a href="/images/ihopsr2c.png">
+    <img src="/images/ihopsr2c.png" alt="ihop">
   </a>
-  <a href="/images/ihopsr3c.jpg">
-  <img src="/images/ihopsr3c.jpg" alt="ihop">
+  <a href="/images/ihopsr3c.png">
+  <img src="/images/ihopsr3c.png" alt="ihop">
   </a>
-  <a href="/images/ihopsr4c.jpg">
-    <img src="/images/ihopsr4c.jpg" alt="ihop">
+  <a href="/images/ihopsr4c.png">
+    <img src="/images/ihopsr4c.png" alt="ihop">
   </a>
   <a href="/images/streetcarp3.JPG">
     <img src="/images/streetcarp3.JPG" alt="streetcarp">
