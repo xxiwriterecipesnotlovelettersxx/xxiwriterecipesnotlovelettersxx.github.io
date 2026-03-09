@@ -8,7 +8,7 @@ thumbnail: /images/gcvs.jpg
 
 <br>
 <p class="show-intro">
-This afternoon, at 3pm, the pilot episode of 'gay chud vegan skramz' aired from <a href="https://www.radiomonash.online/">Radio Monash</a> blah blah
+This afternoon at 3pm, the pilot episode of 'gay chud vegan skramz' aired on <a href="https://www.radiomonash.online/">Radio Monash</a>. Hosted
 </p>
 <br>
 <p class="show-intro">
