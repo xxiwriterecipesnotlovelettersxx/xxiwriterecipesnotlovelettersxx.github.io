@@ -8,7 +8,7 @@ thumbnail: /images/gcvs.jpg
 
 <br>
 <p class="show-intro">
-Blah blah <a href="https://www.radiomonash.online/">Radio Monash</a> blah blah
+This afternoon, at 3pm, the pilot episode of 'gay chud vegan skramz' aired from <a href="https://www.radiomonash.online/">Radio Monash</a> blah blah
 </p>
 <br>
 <p class="show-intro">
