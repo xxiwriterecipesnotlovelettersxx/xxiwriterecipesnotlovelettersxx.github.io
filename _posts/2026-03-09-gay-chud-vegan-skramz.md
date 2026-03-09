@@ -8,7 +8,7 @@ thumbnail: /images/gcvs.jpg
 
 <br>
 <p class="show-intro">
-Blah blah <a href="https://www.radiomonash.online/">www.radiomonash.online</a>
+Blah blah <a href="https://www.radiomonash.online/">radiomonash.online</a> blah blah
 </p>
 <br>
 <p class="show-intro">
