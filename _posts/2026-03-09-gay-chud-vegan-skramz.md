@@ -26,9 +26,9 @@ The band that I play in, In Her Palms, got a mention (yay!) with a live recordin
 <br><br>
 Up next was 'two' by iwillcommitsuicideattheverypeakofourdesperatelove, a great song which I had not heard for a while. The playlist moved between new local releases and slightly older scene favourites, including With One Exception’s 'Thorn Sculpture' and body shirt’s 'knives to my waist'.
 <br><br>
-C'est la vie's 'i never learnt how to fight' provided a change of tone with its bright and mathy sound, followed by Baltimore emo band life's song 'september'.
+C'est la vie's 'i never learnt how to fight' shifted the tone with its bright, mathy sound, before shifting the focus overseas to the song 'september' by Balitmore band life.
 <br><br>
-The show's playlist came to an early finish with 'Pig House', a song from Daisy Chain.. but, with time to spare, Alan talked about the CRAZY announcement made this morning: St Albans Kids, a significant and historic band who haven't been active since 2003, are reuniting to play a show at The Old Bar on May 2nd. To close the episode in celebration, they played the first two songs from the band's iconic 2002 album 'Tales of Late Night Excursions into Urban Wastelands [A Political Economy of Noise]'.
+The show's playlist came to an early finish with 'Pig House', a song from Daisy Chain.. but, with time to spare, Alan talked about a CRAZY announcement made this morning: St Albans Kids, a significant band inactive since 2003, are reuniting for a show at The Old Bar on May 2nd. To close the episode in celebration, they played the first two songs from the band's iconic 2002 album 'Tales of Late Night Excursions into Urban Wastelands [A Political Economy of Noise]'.
 <br><br>
 Here is the playlist from the show:
 <br>
