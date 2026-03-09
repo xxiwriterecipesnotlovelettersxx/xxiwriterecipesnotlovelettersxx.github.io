@@ -192,9 +192,6 @@ photo credits:
   <a href="/images/srspik5.JPG">
   <img src="/images/srspik5.JPG" alt="illankaapan">
   </a>
-  <a href="/images/srspik6.JPG">
-  <img src="/images/srspik6.JPG" alt="illankaapan">
-  </a>
   <a href="/images/srspgb.JPG">
   <img src="/images/srspgb.JPG" alt="srspgb">
   </a>
