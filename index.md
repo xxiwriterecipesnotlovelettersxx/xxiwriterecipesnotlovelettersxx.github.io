@@ -15,9 +15,9 @@ vegan recipes for my emo friends. rawr XD lolz:3
 *photography, posters, & anything related to the shows i go to!*  
 [see show posts →](/shows)
 
-### more skramz journalism
-*all my other journalism articles looking at the diy, emo-adjacent scene here*  
-[read skramz journalism →](/more-skramz-journalism)
+### other articles
+*all my other posts looking at the diy, emo-adjacent scene here*  
+[read skramz journalism →](/other-articles)
 
 ### my life etc.
 *diary entries, pictures, updates, & everything else i want to blog about*  
