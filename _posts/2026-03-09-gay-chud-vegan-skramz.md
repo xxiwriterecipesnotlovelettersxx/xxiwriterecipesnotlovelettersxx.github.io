@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "our new local screamo radio show - gay chud vegan skramz"
+title: "naarm's new local screamo radio show - gay chud vegan skramz"
 date: 2026-03-09
 categories: articlex
 thumbnail: /images/gcvs.jpg
@@ -8,7 +8,7 @@ thumbnail: /images/gcvs.jpg
 
 <br>
 <p class="show-intro">
-This afternoon at 3pm, the pilot episode of 'gay chud vegan skramz' aired on <a href="https://www.radiomonash.online/">Radio Monash</a>. Hosted
+This afternoon at 3pm, the pilot episode of 'gay chud vegan skramz' aired on <a href="https://www.radiomonash.online/">Radio Monash</a>. Hosted by Alan Drome, self-proclaimed "most knowledgable person" of Australian emo music, the show 
 </p>
 
 ![gvcs](/images/gcvs.jpg)
