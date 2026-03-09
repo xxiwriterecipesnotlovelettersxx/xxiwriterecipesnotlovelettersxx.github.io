@@ -64,7 +64,7 @@ Consistent with their first show, the band covered 'To a Husband at War' by I Ha
 
 After what felt like a long time, metallic hardcore band ILLAN KAAPAN performed next, and were the last band of the afternoon that I was able to see :( The group's members were all Sri Lankan immigrants, and their politically charged music intentionally reflected the rage associated with the immigrant experience. Their heavy, full sound was groovy, powerful, and angry above all.
 <br><br>
-ILLAN KAAPAN commanded a powerful mosh in front of their stage, transforming the earlier push-pit into something more distinctly hardcore, with plenty of two-stepping and some stage dives throughout the crowd. Leaving near the end of their set, I enjoyed hearing the sound of hardcore music faintly echoing across the surrounding Brunswick streets.
+ILLAN KAAPAN commanded a powerful mosh in front of their stage, transforming the earlier push-pit into something more distinctly hardcore, with plenty of two-stepping and some stage dives. Leaving near the end of their set, I enjoyed hearing the sound of hardcore music faintly echoing across the surrounding Brunswick streets.
 
 <div class="gallery">
    <a href="/images/srspik1.JPG">
@@ -138,6 +138,9 @@ photo credits:
   <a href="/images/srspchrom7.JPG">
   <img src="/images/srspchrom7.JPG" alt="chromatin">
   </a>
+  <a href="/images/lovelycrowd.JPG">
+  <img src="/images/lovelycrowd.JPG" alt="lovelycrowd">
+  </a>
   <a href="/images/wall1.jpg">
   <img src="/images/wall1.jpg" alt="wall">
   </a>
@@ -149,9 +152,6 @@ photo credits:
   </a>
   <a href="/images/paddyzi1.JPG">
     <img src="/images/paddyzi1.JPG" alt="paddyzi">
-  </a>
-  <a href="/images/wxmn1.JPG">
-  <img src="/images/wxmn1.JPG" alt="waxman">
   </a>
   <a href="/images/wxmn2.JPG">
   <img src="/images/wxmn2.JPG" alt="waxman">
