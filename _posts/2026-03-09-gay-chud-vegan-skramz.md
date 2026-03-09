@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "naarm's new local screamo radio show - gay chud vegan skramz"
+title: "a new local screamo radio show - gay chud vegan skramz"
 date: 2026-03-09
 categories: articlex
 thumbnail: /images/gcvs.jpg
