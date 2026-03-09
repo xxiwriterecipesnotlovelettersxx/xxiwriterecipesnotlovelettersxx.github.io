@@ -15,9 +15,9 @@ vegan recipes for my emo friends. rawr XD lolz:3
 *photography, posters, & anything related to the shows i go to!*  
 [see show posts →](/shows)
 
-### bath poetry
-*poems i write submerged in boiling water*  
-[read poetry →](/bath-poetry)
+### more skramz journalism
+*all my other journalism articles*  
+[read skramz journalism →](/more-skramz-journalism)
 
 ### my life etc.
 *diary entries, pictures, updates, & everything else i want to blog about*  
