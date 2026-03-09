@@ -162,9 +162,6 @@ photo credits:
   <a href="/images/srspylw2.JPG">
   <img src="/images/srspylw2.JPG" alt="yourlastwords">
   </a>
-  <a href="/images/srspylw3.JPG">
-  <img src="/images/srspylw3.JPG" alt="yourlastwords">
-  </a>
   <a href="/images/srspylw4.JPG">
     <img src="/images/srspylw4.JPG" alt="yourlastwords">
   </a>
