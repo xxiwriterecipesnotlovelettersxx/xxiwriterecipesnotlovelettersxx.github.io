@@ -18,7 +18,7 @@ This premiere provided a glimpse into what we can expect over the coming weeks, 
 <p class="show-intro">
 Kicking off with a short introduction, Alan wasted no time in playing the first track of the hour, Our Mutual Friend's new release 'dry my tears'. Following this with a quick shoutout to <a href="https://tickets.oztix.com.au/outlet/event/66ac6eb0-1ec0-4842-b3d3-ca582000273a">Starfest</a>, they then put on goblinviolence's first official single, which came out just two days ago.
 <br><br>
-The next song was a brand new demo from the band wecarvedournames, which I had not heard before. It was x, y z
+The next song was a brand new demo from the band wecarvedournames, who I had not heard of before. It was x, y z
 </p>
 
 ### 'Hands In The Air!' - Told Not To Worry, 12/02/25
