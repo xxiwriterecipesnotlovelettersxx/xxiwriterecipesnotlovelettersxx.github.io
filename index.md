@@ -16,7 +16,7 @@ vegan recipes for my emo friends. rawr XD lolz:3
 [see show posts →](/shows)
 
 ### other articles
-*all my other posts looking at the diy, emo-adjacent scene here*  
+*all my other posts looking at the diy, emo-adjacent scene*  
 [read skramz journalism →](/other-articles)
 
 ### my life etc.
