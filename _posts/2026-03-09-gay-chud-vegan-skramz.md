@@ -8,7 +8,7 @@ thumbnail: /images/gcvs.jpg
 
 <br>
 <p class="show-intro">
-This afternoon at 3pm, the pilot episode of 'gay chud vegan skramz' aired on <a href="https://www.radiomonash.online/">Radio Monash</a>. Hosted by Alan Drome, self-proclaimed "most knowledgable person" of Australian emo music, the show 
+This afternoon at 3pm, the pilot episode of 'gay chud vegan skramz' aired on <a href="https://www.radiomonash.online/">Radio Monash</a>. Hosted by Alan Drome, the self-proclaimed "most knowledgable person" of Australian emo music, the show 
 </p>
 
 ![gvcs](/images/gcvs.jpg)
