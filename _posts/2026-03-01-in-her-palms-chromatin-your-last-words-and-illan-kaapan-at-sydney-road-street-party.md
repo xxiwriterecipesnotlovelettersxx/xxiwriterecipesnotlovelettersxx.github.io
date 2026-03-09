@@ -153,29 +153,29 @@ photo credits:
   <a href="/images/paddyzi1.JPG">
     <img src="/images/paddyzi1.JPG" alt="paddyzi">
   </a>
-  <a href="/images/wxmn2.JPG">
-  <img src="/images/wxmn2.JPG" alt="waxman">
+  <a href="/images/srspylw0.JPG">
+  <img src="/images/srspylw0.JPG" alt="yourlastwords">
   </a>
-  <a href="/images/wxmn3.JPG">
-  <img src="/images/wxmn3.JPG" alt="waxman">
+  <a href="/images/srspylw1.JPG">
+  <img src="/images/srspylw1.JPG" alt="yourlastwords">
   </a>
-  <a href="/images/screw.JPG">
-  <img src="/images/screw.JPG" alt="screw">
+  <a href="/images/srspylw2.JPG">
+  <img src="/images/srspylw2.JPG" alt="yourlastwords">
   </a>
-  <a href="/images/chromatin220226.JPG">
-  <img src="/images/chromatin220226.JPG" alt="chromatin">
+  <a href="/images/srspylw3.JPG">
+  <img src="/images/srspylw3.JPG" alt="yourlastwords">
   </a>
-  <a href="/images/chromatin2202262.JPG">
-    <img src="/images/chromatin2202262.JPG" alt="chromatin">
+  <a href="/images/srspylw4.JPG">
+    <img src="/images/srspylw4.JPG" alt="yourlastwords">
   </a>
-  <a href="/images/chromatin2202263.JPG">
-    <img src="/images/chromatin2202263.JPG" alt="chromatin">
+  <a href="/images/srspylw5.JPG">
+    <img src="/images/srspylw5.JPG" alt="yourlastwords">
   </a>
-  <a href="/images/chromatin2202264.JPG">
-  <img src="/images/chromatin2202264.JPG" alt="chromatin">
+  <a href="/images/srspylw6.JPG">
+  <img src="/images/srspylw6.JPG" alt="yourlastwords">
   </a>
-  <a href="/images/chromatin2202265.JPG">
-  <img src="/images/chromatin2202265.JPG" alt="chromatin">
+  <a href="/images/srspylw7.JPG">
+  <img src="/images/srspylw7.JPG" alt="yourlastwords">
   </a>
   <a href="/images/chromatin2202266.JPG">
   <img src="/images/chromatin2202266.JPG" alt="chromatin">
