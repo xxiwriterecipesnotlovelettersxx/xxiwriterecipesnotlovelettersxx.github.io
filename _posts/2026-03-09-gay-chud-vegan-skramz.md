@@ -24,7 +24,7 @@ Alan mourned the breakup of Eora band The Picture of Dorian Gray, listening to t
 <br><br>
 The band that I play in, In Her Palms, got a mention (yay!) with a live recording of 'Carousel' from our first show. This blog also got a shoutout which is sooo exciting, alongside <a href="https://au.skramz.directory/">the skramz directory</a>, <a href="https://www.suckerpunchrecords.net/">Suckerpunch Records</a>, and <a href="http://martinch3ck.github.io/food-blog/index.html">Lotti's cooking blog</a>.
 <br><br>
-The playlist moved between new local releases and slightly older scene favourites, including'two' by iwillcommitsuicideattheverypeakofourdesperatelove, With One Exception’s 'Thorn Sculpture', and body shirt’s 'knives to my waist'.
+The playlist moved between new local releases and slightly older scene favourites, including 'two' by iwillcommitsuicideattheverypeakofourdesperatelove, With One Exception’s 'Thorn Sculpture', and body shirt’s 'knives to my waist'.
 <br><br>
 C'est la vie's 'i never learnt how to fight' shifted the tone with its bright, mathy sound, before moving the focus overseas to the song 'september' by Balitmore band life.
 <br><br>
