@@ -16,7 +16,7 @@ This premiere provided a glimpse into what we can expect over the coming weeks, 
 ![gvcs](/images/gcvs.jpg)
 
 <p class="show-intro">
-djilang alternative/indie rock/emo band could be stars' <a href="https://couldbestars.bandcamp.com/album/everything-i-love">everything i love</a> is a very well-written album. i may be biased considering the fact that i have since joined the band's lineup (shoutout in her palms) but! big fan of this one regardless. thankyou friends <3 very well done... the lo-fi mixing makes for a calming, well-paced record.
+Kicking off with a short introduction, Alan wasted no time in playing the first track of the hour, Our Mutual Friend's 'dry my tears'.
 </p>
 <br>
 
