@@ -44,15 +44,15 @@ Here is the playlist from the show:
 <br>
 <a href="https://www.youtube.com/watch?v=S8K1dNozy1I">two - iwillcommitsuicideattheverypeakofourdesperatelove</a>
 <br>
-<a href="https://au.skramz.directory/">Thorn Sculpture - With One Exception</a>
+<a href="https://chigakideathmetro.bandcamp.com/track/thorn-sculpture">Thorn Sculpture - With One Exception</a>
 <br>
-<a href="https://au.skramz.directory/">knives to my waist - body shirt</a>
+<a href="https://life9.bandcamp.com/track/knives-to-my-waist">knives to my waist - body shirt</a>
 <br>
-<a href="https://au.skramz.directory/">i never learnt how to fight - C'est la vie</a>
+<a href="https://www.suckerpunchrecords.net/song.php?id=16">i never learnt how to fight - C'est la vie</a>
 <br>
-<a href="https://au.skramz.directory/">september - life</a>
+<a href="https://www.youtube.com/watch?v=k8UZ33_Kv34">september - life</a>
 <br>
-<a href="https://au.skramz.directory/">Pig House - Daisy Chain</a>
+<a href="https://teamglasses.bandcamp.com/track/pig-house">Pig House - Daisy Chain</a>
 <br>
 <a href="https://hometapingkilledmusic.bandcamp.com/track/dance-on-road-dance-on-street-dance-on-face-an-introduction">Dance on Road, Dance on Street, Dance on Face (An Introduction) - St Albans Kids</a>
 <br>
