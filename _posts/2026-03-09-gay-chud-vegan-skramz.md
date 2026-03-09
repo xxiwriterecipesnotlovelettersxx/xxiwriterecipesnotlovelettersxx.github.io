@@ -26,4 +26,5 @@ The band that I play in, In Her Palms, got a mention (yay!) with a live recordin
 <br><br>
 Up next was 'two' by iwillcommitsuicideattheverypeakofourdesperatelove, a great song which I had not heard for a while, and then With One Exception's 'Thorn Sculpture'. Another slightly less recent release, 'knives to my waist' by body shirt was played, which is wow one of my favourite songs!!!
 <br><br>
+C'est la vie's 'i never learnt how to fight' provided a change of tone with its bright and mathy sound, followed by Baltimore emo band life's song 'September'. The show's playlist came to an early finish with 'Pig House', a song from Daisy Chain.. but, with time to spare, Alan talked about the CRAZY announcement made ths morning: St Albans Kids, a significant and historic band who haven't been active since 2003, are reuniting to play a show at The Old Bar on May 2nd. To officially close this first episode of 'gay chud vegan skramz', they played the first two songs from St Albans Kids iconic 2002 album 'Tales of Late Night Excursions into Urban Wastelands [A Political Economy of Noise]'.
 </p>
