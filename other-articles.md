@@ -3,8 +3,8 @@ layout: default
 title: more skramz journalism
 ---
 
-<h1>more skramz journalism</h1>
-<p>these poems are mostly incoherent because that is what steam seems to do to me. if you find meaning in them that is exciting! happy reading xx</p>
+<h1>other articles</h1>
+<p>yoooooooooooooo aha xoxo</p>
 <br>
 <ul class="article-list">
 {% assign article_posts = site.posts | where:"categories","article" | sort:"date" | reverse %}
