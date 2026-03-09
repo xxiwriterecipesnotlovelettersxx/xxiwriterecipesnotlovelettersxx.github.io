@@ -58,3 +58,5 @@ Here is the playlist from the show:
 <br><br>
 If the first episode is any indication, 'gay chud vegan skramz' could very quickly become a great platform for showcasing and promoting new Australian screamo and DIY releases, and shining a light on some smaller acts across the country. Tune into the broadcast at <a href="https://www.radiomonash.online/">radiomonash.online</a> every Monday, at 3pm-4pm Victorian Time.
 </p>
+
+![gvcs](/images/gcvsplaylist.jpg)
