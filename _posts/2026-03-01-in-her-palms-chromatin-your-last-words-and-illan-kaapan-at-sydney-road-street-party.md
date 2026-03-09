@@ -178,30 +178,27 @@ photo credits:
   <img src="/images/srspylw7.JPG" alt="yourlastwords">
   </a>
   <a href="/images/srspik0.JPG">
-  <img src="/images/srspik0.JPG" alt="chromatin">
+  <img src="/images/srspik0.JPG" alt="illankaapan">
   </a>
   <a href="/images/srspik1.JPG">
-  <img src="/images/srspik1.JPG" alt="chromatin">
+  <img src="/images/srspik1.JPG" alt="illankaapan">
   </a>
   <a href="/images/srspik2.JPG">
-  <img src="/images/srspik2.JPG" alt="chromatin">
+  <img src="/images/srspik2.JPG" alt="illankaapan">
   </a>
   <a href="/images/srspik3.JPG">
-  <img src="/images/srspik3.JPG" alt="ihop">
+  <img src="/images/srspik3.JPG" alt="illankaapan">
   </a>
   <a href="/images/srspik4.JPG">
-  <img src="/images/srspik4.JPG" alt="ihop">
+  <img src="/images/srspik4.JPG" alt="illankaapan">
   </a>
   <a href="/images/srspik5.JPG">
-  <img src="/images/srspik5.JPG" alt="blackbird">
+  <img src="/images/srspik5.JPG" alt="illankaapan">
   </a>
   <a href="/images/srspik6.JPG">
-  <img src="/images/srspik6.JPG" alt="indented">
+  <img src="/images/srspik6.JPG" alt="illankaapan">
   </a>
-  <a href="/images/srspzi.jpg">
-  <img src="/images/srspzi.jpg" alt="zi">
-  </a>
-  <a href="/images/srspcharli.jpg">
-  <img src="/images/srspcharli.jpg" alt="lotti">
+  <a href="/images/srspgb.JPG">
+  <img src="/images/srspgb.JPG" alt="srspgb">
   </a>
 </div>
