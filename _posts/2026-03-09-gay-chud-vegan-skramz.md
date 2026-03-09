@@ -22,5 +22,5 @@ The next song was a brand new demo from an artist I hadn't heard of before, weca
 <br><br>
 Alan mourned the breakup of Eora band The Picture of Dorian Gray, listening to their song 'The Wish'. During a digression about about a folk-punk song that they wrote yesterday, the broadcast briefly cut out and was replaced by 'meryl streep' by The Stamps..although this was quickly resolved.
 <br><br>
-The band that I play in, In Her Palms, also got a mention (yay!) with a live recording of 'Carousel' from our first show. This blog also got a shoutout which is sooo exciting, alongside <a href="https://au.skramz.directory/">the skramz directory</a> and <a href="http://martinch3ck.github.io/food-blog/index.html">Lotti's cooking blog</a>.
+The band that I play in, In Her Palms, got a mention (yay!) with a live recording of 'Carousel' from our first show. This blog also got a shoutout which is sooo exciting, alongside <a href="https://au.skramz.directory/">the skramz directory</a> and <a href="http://martinch3ck.github.io/food-blog/index.html">Lotti's cooking blog</a>.
 </p>
