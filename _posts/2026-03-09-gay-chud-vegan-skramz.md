@@ -18,5 +18,5 @@ This premiere provided a glimpse into what we can expect over the coming weeks, 
 <p class="show-intro">
 Kicking off with a short introduction, Alan wasted no time in playing the first track of the hour, Our Mutual Friend's new release 'dry my tears'. Following this with a quick shoutout to <a href="https://tickets.oztix.com.au/outlet/event/66ac6eb0-1ec0-4842-b3d3-ca582000273a">Starfest</a>, they then put on goblinviolence's first official single, which came out just two days ago.
 <br><br>
-The next song was a brand new demo from a band I hadn't heard of before, wecarvedournames. It was
+The next song was a brand new demo from an artist I hadn't heard of before, wecarvedournames. It was a stripped back bedroom-skramz track consisting of only heavily strummed acoustic guitar and soft melancholic vocals.
 </p>
