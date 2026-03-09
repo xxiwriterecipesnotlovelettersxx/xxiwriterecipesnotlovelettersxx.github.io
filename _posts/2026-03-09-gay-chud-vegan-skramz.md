@@ -24,9 +24,9 @@ Alan mourned the breakup of Eora band The Picture of Dorian Gray, listening to t
 <br><br>
 The band that I play in, In Her Palms, got a mention (yay!) with a live recording of 'Carousel' from our first show. This blog also got a shoutout which is sooo exciting, alongside <a href="https://au.skramz.directory/">the skramz directory</a>, <a href="https://www.suckerpunchrecords.net/">Suckerpunch Records</a>, and <a href="http://martinch3ck.github.io/food-blog/index.html">Lotti's cooking blog</a>.
 <br><br>
-Up next was 'two' by iwillcommitsuicideattheverypeakofourdesperatelove, a great song which I had not heard for a while. The playlist moved between new local releases and slightly older scene favourites, including With One Exception’s 'Thorn Sculpture' and body shirt’s 'knives to my waist'.
+The playlist moved between new local releases and slightly older scene favourites, including'two' by iwillcommitsuicideattheverypeakofourdesperatelove, With One Exception’s 'Thorn Sculpture', and body shirt’s 'knives to my waist'.
 <br><br>
-C'est la vie's 'i never learnt how to fight' shifted the tone with its bright, mathy sound, before shifting the focus overseas to the song 'september' by Balitmore band life.
+C'est la vie's 'i never learnt how to fight' shifted the tone with its bright, mathy sound, before moving the focus overseas to the song 'september' by Balitmore band life.
 <br><br>
 The show's playlist came to an early finish with 'Pig House', a song from Daisy Chain.. but, with time to spare, Alan talked about a CRAZY announcement made this morning: St Albans Kids, a significant band inactive since 2003, are reuniting for a show at The Old Bar on May 2nd. To close the episode in celebration, they played the first two songs from the band's iconic 2002 album 'Tales of Late Night Excursions into Urban Wastelands [A Political Economy of Noise]'.
 <br><br>
