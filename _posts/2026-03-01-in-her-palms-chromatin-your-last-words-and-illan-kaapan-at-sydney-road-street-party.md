@@ -82,9 +82,8 @@ Although the weather was superrr hot on the afternoon of this show, I really enj
 ### photos from the afternoon (click to expand)
 photo credits:
 <br>
-@tennace.photography on instagram
-<br>
-@cohen.salnitro
+@tennace.photography on instagram for in her palms photos
+
 
 <div class="gallery">
    <a href="/images/ihopsr0c.jpg">
