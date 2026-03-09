@@ -28,7 +28,7 @@ Up next was 'two' by iwillcommitsuicideattheverypeakofourdesperatelove, a great 
 <br><br>
 C'est la vie's 'i never learnt how to fight' provided a change of tone with its bright and mathy sound, followed by Baltimore emo band life's song 'september'.
 <br><br>
-The show's playlist came to an early finish with 'Pig House', a song from Daisy Chain.. but, with time to spare, Alan talked about the CRAZY announcement made this morning: St Albans Kids, a significant and historic band who haven't been active since 2003, are reuniting to play a show at The Old Bar on May 2nd. To close the episode, they played the first two songs from St Albans Kids' iconic 2002 album 'Tales of Late Night Excursions into Urban Wastelands [A Political Economy of Noise]'.
+The show's playlist came to an early finish with 'Pig House', a song from Daisy Chain.. but, with time to spare, Alan talked about the CRAZY announcement made this morning: St Albans Kids, a significant and historic band who haven't been active since 2003, are reuniting to play a show at The Old Bar on May 2nd. To close the episode in celebration, they played the first two songs from the band's iconic 2002 album 'Tales of Late Night Excursions into Urban Wastelands [A Political Economy of Noise]'.
 <br><br>
 Here is the playlist from the show:
 <br>
