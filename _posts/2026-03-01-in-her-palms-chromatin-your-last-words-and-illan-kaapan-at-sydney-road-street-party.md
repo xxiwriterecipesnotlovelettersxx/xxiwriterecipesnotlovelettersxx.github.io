@@ -177,26 +177,26 @@ photo credits:
   <a href="/images/srspylw7.JPG">
   <img src="/images/srspylw7.JPG" alt="yourlastwords">
   </a>
-  <a href="/images/chromatin2202266.JPG">
-  <img src="/images/chromatin2202266.JPG" alt="chromatin">
+  <a href="/images/srspik0.JPG">
+  <img src="/images/srspik0.JPG" alt="chromatin">
   </a>
-  <a href="/images/chromatin2202267.JPG">
-  <img src="/images/chromatin2202267.JPG" alt="chromatin">
+  <a href="/images/srspik1.JPG">
+  <img src="/images/srspik1.JPG" alt="chromatin">
   </a>
-  <a href="/images/jordanguitarclose1.JPG">
-  <img src="/images/jordanguitarclose1.JPG" alt="chromatin">
+  <a href="/images/srspik2.JPG">
+  <img src="/images/srspik2.JPG" alt="chromatin">
   </a>
-  <a href="/images/ihop2202261.jpg">
-  <img src="/images/ihop2202261.jpg" alt="ihop">
+  <a href="/images/srspik3.JPG">
+  <img src="/images/srspik3.JPG" alt="ihop">
   </a>
-  <a href="/images/ihop2202262.jpg">
-  <img src="/images/ihop2202262.jpg" alt="ihop">
+  <a href="/images/srspik4.JPG">
+  <img src="/images/srspik4.JPG" alt="ihop">
   </a>
-  <a href="/images/blackbirditybht.png">
-  <img src="/images/blackbirditybht.png" alt="blackbird">
+  <a href="/images/srspik5.JPG">
+  <img src="/images/srspik5.JPG" alt="blackbird">
   </a>
-  <a href="/images/indenteditybht1.png">
-  <img src="/images/indenteditybht1.png" alt="indented">
+  <a href="/images/srspik6.JPG">
+  <img src="/images/srspik6.JPG" alt="indented">
   </a>
   <a href="/images/srspzi.jpg">
   <img src="/images/srspzi.jpg" alt="zi">
