@@ -8,17 +8,14 @@ thumbnail: /images/gcvs.jpg
 
 <br>
 <p class="show-intro">
-2025 is now over... wow!
+Blah blah <a href="https://www.radiomonash.online/">www.radiomonash.online</a>
 </p>
 <br>
 <p class="show-intro">
 looking back over the last 12 months i want to highlight some of my favourite albums, eps, and splits from 2025. note that these are not ranked in any particular way, only sorted chronologically in order of release.
 </p>
-<br>
 
-### 'Everything I Love' - could be stars, 01/02/25
-
-![everythingilove](/images/everythingilove.jpg)
+![gvcs](/images/gvcs.jpg)
 
 <p class="show-intro">
 djilang alternative/indie rock/emo band could be stars' <a href="https://couldbestars.bandcamp.com/album/everything-i-love">everything i love</a> is a very well-written album. i may be biased considering the fact that i have since joined the band's lineup (shoutout in her palms) but! big fan of this one regardless. thankyou friends <3 very well done... the lo-fi mixing makes for a calming, well-paced record.
