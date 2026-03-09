@@ -10,10 +10,6 @@ thumbnail: /images/gcvs.jpg
 <p class="show-intro">
 This afternoon at 3pm, the pilot episode of 'gay chud vegan skramz' aired on <a href="https://www.radiomonash.online/">Radio Monash</a>. Hosted
 </p>
-<br>
-<p class="show-intro">
-looking back over the last 12 months i want to highlight some of my favourite albums, eps, and splits from 2025. note that these are not ranked in any particular way, only sorted chronologically in order of release.
-</p>
 
 ![gvcs](/images/gcvs.jpg)
 
