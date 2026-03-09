@@ -58,7 +58,7 @@ Here is the playlist from the show:
 <br>
 <a href="https://hometapingkilledmusic.bandcamp.com/track/i-am-hip-hop">I am Hip Hop - St Albans Kids</a>
 <br><br>
-If the first episode is any indication, 'gay chud vegan skramz' could very quickly become a great platform for showcasing and promoting new Australian screamo and DIY releases, and shining a light on some smaller acts across the country. Tune into the broadcast at <a href="https://www.radiomonash.online/">radiomonash.online</a> every Monday, at 3pm-4pm Victorian Time.
+If the first episode is any indication, 'gay chud vegan skramz' could very quickly become a great platform for showcasing and promoting new Australian screamo and DIY releases, and shining a light on some smaller acts across the country. Tune into the broadcast at <a href="https://www.radiomonash.online/">radiomonash.online</a> every Monday, at 3pm-4pm Victorian Time, and <a href="https://www.instagram.com/gaychudveganskramz/">follow the show on Instagram</a>!
 </p>
 
 ![gvcs](/images/gcvsplaylist.jpg)
