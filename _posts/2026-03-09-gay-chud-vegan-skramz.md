@@ -28,7 +28,7 @@ The playlist moved between new local releases and slightly older scene favourite
 <br><br>
 C'est la vie's 'i never learnt how to fight' shifted the tone with its bright, mathy sound, before moving the focus overseas to Balitmore band, 'life'.
 <br><br>
-The show's playlist came to an early finish with a song from Daisy Chain.. but, with time to spare, Alan talked about a CRAZY announcement made this morning: St Albans Kids, a significant band inactive since 2003, are reuniting for a show at The Old Bar on May 2nd. To close the episode in celebration, they played the first two songs from the band's iconic 2002 album 'Tales of Late Night Excursions into Urban Wastelands [A Political Economy of Noise]'.
+The show's playlist came to an early finish with a song from Daisy Chain.. but, with time to spare, Alan talked about a CRAZY announcement made this morning: St Albans Kids, inactive since 2003, are reuniting for a show at The Old Bar on May 2nd. To close the episode in celebration, they played the first two songs from the band's iconic 2002 album.
 <br><br>
 Here is the playlist from the show:
 <br>
