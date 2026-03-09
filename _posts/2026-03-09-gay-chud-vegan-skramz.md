@@ -8,9 +8,9 @@ thumbnail: /images/gcvs.jpg
 
 <br>
 <p class="show-intro">
-This afternoon from 3-4pm, the pilot episode of 'gay chud vegan skramz' aired on <a href="https://www.radiomonash.online/">Radio Monash</a>. Hosted by Alan Drome, the self-proclaimed "most knowledgable person" when it comes to Australian emo music, the show compiled an hour of mostly new and local releases accompanied by passionate commentary.
+This afternoon from 3-4pm, the pilot episode of 'gay chud vegan skramz' aired on <a href="https://www.radiomonash.online/">Radio Monash</a>. Hosted by Alan Drome, the self-proclaimed "most knowledgeable person" on Australian emo music, the show compiled an hour of mostly new and local releases accompanied by passionate commentary.
 <br><br>
-This premiere provided a glimpse into what we can expect over the coming weeks, as the show continues its consistent Monday broadcast.
+This premiere offered a glimpse into what we can expect over the coming weeks, as the show settles into its consistent Monday broadcast.
 </p>
 
 ![gvcs](/images/gcvs.jpg)
@@ -20,11 +20,34 @@ Kicking off with a short introduction, Alan wasted no time in playing the first 
 <br><br>
 The next song was a brand new demo from an artist I hadn't heard of before, wecarvedournames. It was a stripped back bedroom-recording track consisting of only heavily strummed acoustic guitar and soft melancholic vocals.
 <br><br>
-Alan mourned the breakup of Eora band The Picture of Dorian Gray, listening to their song 'The Wish'. During a digression about about a folk-punk song that they wrote yesterday, the broadcast briefly cut out and was replaced by 'meryl streep' by The Stamps..although this was quickly resolved.
+Alan mourned the breakup of Eora band The Picture of Dorian Gray, listening to their track 'The Wish'. During a digression about a folk-punk song that they wrote yesterday, the broadcast briefly cut out.. although this was quickly resolved.
 <br><br>
 The band that I play in, In Her Palms, got a mention (yay!) with a live recording of 'Carousel' from our first show. This blog also got a shoutout which is sooo exciting, alongside <a href="https://au.skramz.directory/">the skramz directory</a>, <a href="https://www.suckerpunchrecords.net/">Suckerpunch Records</a>, and <a href="http://martinch3ck.github.io/food-blog/index.html">Lotti's cooking blog</a>.
 <br><br>
-Up next was 'two' by iwillcommitsuicideattheverypeakofourdesperatelove, a great song which I had not heard for a while, and then With One Exception's 'Thorn Sculpture'. Another slightly less recent release, 'knives to my waist' by body shirt was played, which is wow one of my favourite songs!!!
+Up next was 'two' by iwillcommitsuicideattheverypeakofourdesperatelove, a great song which I had not heard for a while. The playlist moved between new local releases and slightly older scene favourites, including With One Exception’s 'Thorn Sculpture' and body shirt’s 'knives to my waist'.
 <br><br>
-C'est la vie's 'i never learnt how to fight' provided a change of tone with its bright and mathy sound, followed by Baltimore emo band life's song 'September'. The show's playlist came to an early finish with 'Pig House', a song from Daisy Chain.. but, with time to spare, Alan talked about the CRAZY announcement made ths morning: St Albans Kids, a significant and historic band who haven't been active since 2003, are reuniting to play a show at The Old Bar on May 2nd. To officially close this first episode of 'gay chud vegan skramz', they played the first two songs from St Albans Kids iconic 2002 album 'Tales of Late Night Excursions into Urban Wastelands [A Political Economy of Noise]'.
+C'est la vie's 'i never learnt how to fight' provided a change of tone with its bright and mathy sound, followed by Baltimore emo band life's song 'September'. The show's playlist came to an early finish with 'Pig House', a song from Daisy Chain.. but, with time to spare, Alan talked about the CRAZY announcement made this morning: St Albans Kids, a significant and historic band who haven't been active since 2003, are reuniting to play a show at The Old Bar on May 2nd. To close the episode, they played the first two songs from St Albans Kids' iconic 2002 album 'Tales of Late Night Excursions into Urban Wastelands [A Political Economy of Noise]'.
+<br><br>
+Here is the playlist from the show:
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+<br>
+<a href="https://au.skramz.directory/">the skramz directory</a>
+
 </p>
