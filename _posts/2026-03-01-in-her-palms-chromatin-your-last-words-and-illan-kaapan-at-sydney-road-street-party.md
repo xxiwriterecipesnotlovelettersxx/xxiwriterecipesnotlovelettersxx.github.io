@@ -145,10 +145,10 @@ photo credits:
   <img src="/images/wall1.jpg" alt="wall">
   </a>
   <a href="/images/goon3.JPG">
-  <img src="/images/goon3.JPG" alt="wrench">
+  <img src="/images/goon3.JPG" alt="liam">
   </a>
   <a href="/images/goon4.jpg">
-    <img src="/images/goon4.jpg" alt="waxman">
+    <img src="/images/goon4.jpg" alt="liam">
   </a>
   <a href="/images/paddyzi1.JPG">
     <img src="/images/paddyzi1.JPG" alt="paddyzi">
