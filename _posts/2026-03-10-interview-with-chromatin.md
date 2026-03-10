@@ -19,7 +19,7 @@ looking back over the last 12 months i want to highlight some of my favourite al
 (Left to right: Liam, Jordan, Zen, Lily, Bailey)
 <br><br>
 Here is my interview with them!
-<span style="color:#EB1B71  ;">### Tell us who you are, and what you do in the band.</span>
+### <span style="color:#EB1B71  ;">Tell us who you are, and what you do in the band.</span>
 
 <br>
 **Liam**: My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
