@@ -21,15 +21,15 @@ looking back over the last 12 months i want to highlight some of my favourite al
 ### Tell us who you are, and what you do in the band.
 
 <br>
-_Liam:_ My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
+**Liam**: My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
 <br><br>
-_Bailey:_ I'm Bailey and I play bass.
+**Bailey**: I'm Bailey and I play bass.
 <br><br>
-_Zen:_ Hi! I'm Zen and I play the guitar.
+**Zen**: Hi! I'm Zen and I play the guitar.
 <br><br>
-_Jordan:_ My name's Jordan and I also play guitar.
+**Jordan**: My name's Jordan and I also play guitar.
 <br><br>
-_Lily:_ I am Lily, Chromatin's drummer. 
+**Lily**: I am Lily, Chromatin's drummer. 
 <br><br>
 
 ### Example question, xyz?
