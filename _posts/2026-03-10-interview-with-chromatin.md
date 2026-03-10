@@ -24,8 +24,8 @@ looking back over the last 12 months i want to highlight some of my favourite al
 **Bailey:** it comes from rhode island band told not to worry, one of my favourite bands ever. this album was my introduction to sasscore, and i wouldn't have it any other way. the instrumentals
 <br><br>
 **Zen:**
-
-_Bailey_:
+<br><br>
+_Bailey_: it comes from rhode island band told not to worry, one of my favourite bands ever. this album was my introduction to sasscore, and i wouldn't have it any other way. the instrumentals
 
 ### 'Hands In The Air!' - Told Not To Worry, 12/02/25
 
