@@ -48,7 +48,7 @@ Here is their interview!
 
 ![everythingilove](/images/chrom4.jpg)
 
-### Example question, xyz?
+### Tell us about your rehearsal. What does a typical practice look like for you?
 
 <br>
 <span style="color:#EB1B71  ;">Liam:</span> 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
