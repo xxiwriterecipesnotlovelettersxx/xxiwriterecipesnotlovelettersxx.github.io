@@ -143,4 +143,58 @@ one year ago today, i went on an exchange trip to bavaria, germany. here are som
   <a href="/images/g44.jpg">
     <img src="/images/g44.jpg" alt="germany">
   </a>
+     <a href="/images/g45.JPG">
+    <img src="/images/g45.JPG" alt="germany">
+  </a>
+  <a href="/images/g46.JPG">
+    <img src="/images/g46.JPG" alt="germany">
+  </a>
+  <a href="/images/g47.JPG">
+    <img src="/images/g47.JPG" alt="germany">
+  </a>
+  <a href="/images/g48.JPG">
+    <img src="/images/g48.JPG" alt="germany">
+  </a>
+  <a href="/images/g49.JPG">
+    <img src="/images/g49.JPG" alt="germany">
+  </a>
+  <a href="/images/g50.JPG">
+    <img src="/images/g50.JPG" alt="germany">
+  </a>
+  <a href="/images/g51.JPG">
+    <img src="/images/g51.JPG" alt="germany">
+  </a>
+  <a href="/images/g52.JPG">
+    <img src="/images/g52.JPG" alt="germany">
+  </a>
+  <a href="/images/g53.JPG">
+    <img src="/images/g53.JPG" alt="germany">
+  </a>
+  <a href="/images/g54.JPG">
+    <img src="/images/g54.JPG" alt="germany">
+  </a>
+  <a href="/images/g55.JPG">
+    <img src="/images/g55.JPG" alt="germany">
+  </a>
+  <a href="/images/g56.JPG">
+    <img src="/images/g56.JPG" alt="germany">
+  </a>
+  <a href="/images/g57.JPG">
+    <img src="/images/g57.JPG" alt="germany">
+  </a>
+  <a href="/images/g58.JPG">
+    <img src="/images/g58.JPG" alt="germany">
+  </a>
+  <a href="/images/g59.JPG">
+    <img src="/images/g59.JPG" alt="germany">
+  </a>
+  <a href="/images/g60.JPG">
+    <img src="/images/g60.JPG" alt="germany">
+  </a>
+  <a href="/images/g61.JPG">
+    <img src="/images/g61.JPG" alt="germany">
+  </a>
+  <a href="/images/g62.JPG">
+    <img src="/images/g62.JPG" alt="germany">
+  </a>
 </div>
