@@ -62,12 +62,8 @@ Here is their interview!
 <span style="color:#EB1B71  ;">Lily:</span> I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
 <br><br>
 
-![10songs](/images/itybhtchrom2.JPG)
+![chromatin](/images/chromatin2202267.JPG)
 
-<p class="show-intro">
-a split between kaurna/adelaide bands chigaki death metro and with one exception, <a href="https://chigakideathmetro.bandcamp.com/album/10-songs">10 songs</a> continues the tradition set by i hate myself with their record of the same name, in that both of these releases' tracklists do not feature 10 songs. i was lucky enough to see chigaki death metro the day after this split released, when they played with all that's left of you. their side of the split is violent and very sassy, bordering on mathcore at times. with one exception have a very fresh, energetic screamo sound, with no shortage of blastbeats.
-</p>
-<br>
 <p class="show-intro">
 2025 was such a great year for emo music, especially in australia! if you like these releases make sure to support the bands behind them by purchasing their music on <a href="https://bandcamp.com">bandcamp</a> - this is one of the best ways you can directly contribute to artists (and the scene as a whole), own the music you buy, and have the added benefit of higher audio quality if that's your thing. i can only hope that 2026 is as prosperous a year for music as 2025!
 </p>
