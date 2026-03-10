@@ -29,16 +29,21 @@ _Zen:_ They are overall a sasscore/queer emoviolence release, and there are also
 _Jordan:_ There is so much going on in these recordings, in the best way possible. Jane-Ramona's vocals fit the band's sound on this split perfectly.
 <br><br>
 _Lily:_ I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
+<br><br>
 
-### 'Hands In The Air!' - Told Not To Worry, 12/02/25
+### Example question, xyz?
 
-![handsintheair](/images/handsintheair.jpg)
-
-<p class="show-intro">
-ohhhhhhhh my god. <a href="https://toldnottoworry.bandcamp.com/album/hands-in-the-air">hands in the air</a> comes from rhode island band told not to worry, one of my favourite bands ever. this album was my introduction to sasscore, and i wouldn't have it any other way. the instrumentals, vocals, and mixing on this album are all flawless - queer emoviolence has never sounded better than this. even the album cover is one of my favourites. i can't fault this release in any way. yes i know exactly how i sound.
-</p>
 <br>
-
+**Liam**: 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
+<br><br>
+**Bailey**: It comes from rhode island band 'told not to worry', one of my favourite bands ever. Ihis album was my introduction to sasscore, and i wouldn't have it any other way.
+<br><br>
+**Zen**: They are overall a sasscore/queer emoviolence release, and there are also elements of emogrind and deathcore-style breakdowns. The band ties this all together to create a cohesive (but very chaotic) sound.
+<br><br>
+**Jordan**: There is so much going on in these recordings, in the best way possible. Jane-Ramona's vocals fit the band's sound on this split perfectly.
+<br><br>
+**Lily**: I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
+<br><br>
 ### 'stitching' ep - stitching, 21/03/25
 
 ![stitching](/images/stitching.jpg)
