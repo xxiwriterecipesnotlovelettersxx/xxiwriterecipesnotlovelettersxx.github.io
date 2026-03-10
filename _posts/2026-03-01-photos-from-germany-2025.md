@@ -170,12 +170,6 @@ one year ago today, i went on an exchange trip to bavaria, germany. here are som
   <a href="/images/g53.JPG">
     <img src="/images/g53.JPG" alt="germany">
   </a>
-  <a href="/images/g54.JPG">
-    <img src="/images/g54.JPG" alt="germany">
-  </a>
-  <a href="/images/g55.JPG">
-    <img src="/images/g55.JPG" alt="germany">
-  </a>
   <a href="/images/g56.JPG">
     <img src="/images/g56.JPG" alt="germany">
   </a>
