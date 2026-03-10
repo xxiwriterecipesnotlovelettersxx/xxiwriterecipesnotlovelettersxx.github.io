@@ -28,7 +28,7 @@ _Zen_: They are overall a sasscore/queer emoviolence release, and there are also
 <br><br>
 _Jordan_: There is so much going on in these recordings, in the best way possible. Jane-Ramona's vocals fit the band's sound on this split perfectly.
 <br><br>
-__Lily______: I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
+_Lily_: I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
 
 ### 'Hands In The Air!' - Told Not To Worry, 12/02/25
 
