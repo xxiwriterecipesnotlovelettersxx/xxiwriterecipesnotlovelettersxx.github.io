@@ -16,19 +16,20 @@ looking back over the last 12 months i want to highlight some of my favourite al
 </p>
 
 ![everythingilove](/images/chrom2.jpg)
+##### (Left to right: Liam, Jordan, Zen, Lily, Bailey)
 
-### Example question, xyz?
+### Tell us who you are, and what you do in the band.
 
 <br>
-_Liam:_ 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
+_Liam:_ My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
 <br><br>
-_Bailey:_ It comes from rhode island band 'told not to worry', one of my favourite bands ever. Ihis album was my introduction to sasscore, and i wouldn't have it any other way.
+_Bailey:_ I'm Bailey and I play bass.
 <br><br>
-_Zen:_ They are overall a sasscore/queer emoviolence release, and there are also elements of emogrind and deathcore-style breakdowns. The band ties this all together to create a cohesive (but very chaotic) sound.
+_Zen:_ Hi! I'm Zen and I play the guitar.
 <br><br>
-_Jordan:_ There is so much going on in these recordings, in the best way possible. Jane-Ramona's vocals fit the band's sound on this split perfectly.
+_Jordan:_ My name's Jordan and I also play guitar.
 <br><br>
-_Lily:_ I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
+_Lily:_ I am Lily, Chromatin's drummer. 
 <br><br>
 
 ### Example question, xyz?
