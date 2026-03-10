@@ -16,7 +16,7 @@ looking back over the last 12 months i want to highlight some of my favourite al
 </p>
 
 ![everythingilove](/images/chrom2.jpg)
-##### (Left to right: Liam, Jordan, Zen, Lily, Bailey)
+Left to right: Liam, Jordan, Zen, Lily, Bailey)
 
 ### Tell us who you are, and what you do in the band.
 
