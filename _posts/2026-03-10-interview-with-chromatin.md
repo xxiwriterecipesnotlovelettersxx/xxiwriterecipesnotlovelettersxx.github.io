@@ -19,13 +19,16 @@ looking back over the last 12 months i want to highlight some of my favourite al
 
 ### Example question, xyz?
 
-**Liam:** djilang alternative/indie rock/emo band could be stars'verything i love is a very well-written album. i may be biased considering the fact that i have since joined the band's lineup (shoutout in her palms) but! big fan of this one regardless. thankyou friends <3 very well done... the lo-fi mixing makes for a calming, well-paced record.
-<br><br>
-**Bailey:** it comes from rhode island band told not to worry, one of my favourite bands ever. this album was my introduction to sasscore, and i wouldn't have it any other way. the instrumentals
-<br><br style="line-height: 3px" />
-**Zen:**
+<br>
+_Liam_: djilang alternative/indie rock/emo band could be stars'verything i love is a very well-written album. i may be biased considering the fact that i have since joined the band's lineup (shoutout in her palms) but! big fan of this one regardless. thankyou friends <3 very well done... the lo-fi mixing makes for a calming, well-paced record.
 <br><br>
 _Bailey_: it comes from rhode island band told not to worry, one of my favourite bands ever. this album was my introduction to sasscore, and i wouldn't have it any other way. the instrumentals
+<br><br>
+_Zen_: overall a sasscore/queer emoviolence release, there are also elements of emogrind and deathcore-style breakdowns. the band ties this all together to create a cohesive (but very chaotic) sound
+<br><br>
+_Jordan_: it comes from rhode island band told not to worry, one of my favourite bands ever. this album was my introduction to sasscore, and i wouldn't have it any other way. the instrumentals
+<br><br>
+_Lily_: i was lucky enough to see chigaki death metro the day after this split released, when they played with all that's left of you.
 
 ### 'Hands In The Air!' - Told Not To Worry, 12/02/25
 
