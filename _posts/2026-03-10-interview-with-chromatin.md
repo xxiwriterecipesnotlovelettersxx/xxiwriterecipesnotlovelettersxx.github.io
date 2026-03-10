@@ -15,7 +15,7 @@ thumbnail: /images/mycriesfallondeafears.jpg
 looking back over the last 12 months i want to highlight some of my favourite albums, eps, and splits from 2025. note that these are not ranked in any particular way, only sorted chronologically in order of release.
 </p>
 
-![everythingilove](/images/chrom1.jpg)
+![everythingilove](/images/chrom2.jpg)
 
 ### Example question, xyz?
 
