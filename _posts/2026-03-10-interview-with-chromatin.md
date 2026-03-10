@@ -36,7 +36,7 @@ Here is my interview with them!
 ### Example question, xyz?
 
 <br>
-**Liam**: 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
+**Liam**: 'Could Be Stars' is a very <span style="color:#EB1B71  ;">well-written</span> album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
 <br><br>
 **Bailey**: It comes from rhode island band 'told not to worry', one of my favourite bands ever. Ihis album was my introduction to sasscore, and i wouldn't have it any other way.
 <br><br>
