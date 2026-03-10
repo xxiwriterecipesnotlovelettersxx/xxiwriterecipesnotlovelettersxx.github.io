@@ -3,7 +3,7 @@ layout: post
 title: "photos from germany, 2025"
 date: 2026-03-01
 categories: life
-thumbnail: /images/srspchrom0.JPG
+thumbnail: /images/g35.jpg
 ---
 
 <br>
