@@ -19,18 +19,18 @@ looking back over the last 12 months i want to highlight some of my favourite al
 (Left to right: Liam, Jordan, Zen, Lily, Bailey)
 <br><br>
 Here is my interview with them!
-### <span style="color:#EB1B71  ;">Tell us who you are, and what you do in the band.</span>
+### Tell us who you are, and what you do in the band.
 
 <br>
-**Liam**: My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
+**<span style="color:#EB1B71  ;">Liam:</span>** My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
 <br><br>
-**Bailey**: I'm Bailey and I play bass.
+**<span style="color:#EB1B71  ;">Bailey:</span>**  I'm Bailey and I play bass.
 <br><br>
-**Zen**: Hi! I'm Zen and I play the guitar.
+**<span style="color:#EB1B71  ;">Zen:</span>**  Hi! I'm Zen and I play the guitar.
 <br><br>
-**Jordan**: My name's Jordan and I also play guitar.
+**<span style="color:#EB1B71  ;">Jordan:</span>**  My name's Jordan and I also play guitar.
 <br><br>
-**Lily**: I am Lily, Chromatin's drummer. 
+**<span style="color:#EB1B71  ;">Lily:</span>**  I am Lily, Chromatin's drummer. 
 <br><br>
 
 ### Example question, xyz?
