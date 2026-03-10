@@ -19,7 +19,7 @@ looking back over the last 12 months i want to highlight some of my favourite al
 (Left to right: Liam, Jordan, Zen, Lily, Bailey)
 <br><br>
 Here is my interview with them!
-### Tell us who you are, and what you do in the band.
+<span style="color:#EB1B71  ;">### Tell us who you are, and what you do in the band.</span>
 
 <br>
 **Liam**: My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
@@ -36,7 +36,7 @@ Here is my interview with them!
 ### Example question, xyz?
 
 <br>
-**Liam**: 'Could Be Stars' is a very <span style="color:#EB1B71  ;">well-written</span> album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
+**Liam**: 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
 <br><br>
 **Bailey**: It comes from rhode island band 'told not to worry', one of my favourite bands ever. Ihis album was my introduction to sasscore, and i wouldn't have it any other way.
 <br><br>
