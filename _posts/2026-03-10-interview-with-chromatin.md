@@ -23,51 +23,25 @@ Here is their interview!
 ### Can we go around the table and get your name, your role in the band, and your favourite band of all time?
 
 <p class="interview">
-<span class="speaker">Liam:</span> My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
+<span class="speaker">Name:</span> Response
 <br>
-<span class="speaker">Bailey:</span>  I'm Bailey and I play bass.
-<br>
-<span class="speaker">Zen:</span>  Hi! I'm Zen and I play the guitar.
-<br>
-<span class="speaker">Jordan:</span>  My name's Jordan and I also play guitar.
-<br>
-<span class="speaker">Lily:</span>  I am Lily, Chromatin's drummer. 
+<span class="speaker">Name:</span> Response
 </p>
 
 ### How did Chromatin come to be? Tell us about the formation of the band and how you started out.
 
 <p class="interview">
-<span class="speaker">Liam:</span> We first started out as another group, we were called..
+<span class="speaker">Name:</span> Response
 <br>
-<span class="speaker">Jordan:</span>  'Wet Rat'.
-<br>
-<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
-<br>
-<span class="speaker">Me:</span>  What made you first start making music together?
-<br>
-<span class="speaker">Zen:</span>  I remember being at school, and Liam-
-<br>
-<span class="speaker">Liam:</span>  -Because we were friends at the time-
-<br>
-<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+<span class="speaker">Name:</span> Response
 </p>
 
 ### What is your favourite part about being involved in the scene here?
 
 <p class="interview">
-<span class="speaker">Liam:</span> We first started out as another group, we were called..
+<span class="speaker">Name:</span> Response
 <br>
-<span class="speaker">Jordan:</span>  'Wet Rat'.
-<br>
-<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
-<br>
-<span class="speaker">Me:</span>  What made you first start making music together?
-<br>
-<span class="speaker">Zen:</span>  I remember being at school, and Liam-
-<br>
-<span class="speaker">Liam:</span>  -Because we were friends at the time-
-<br>
-<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+<span class="speaker">Name:</span> Response
 </p>
 
 ![everythingilove](/images/chrom4.jpg)
@@ -75,109 +49,49 @@ Here is their interview!
 ### Chromatin have played 6 shows so far. Which do you think your favourite has been?
 
 <p class="interview">
-<span class="speaker">Liam:</span> We first started out as another group, we were called..
+<span class="speaker">Name:</span> Response
 <br>
-<span class="speaker">Jordan:</span>  'Wet Rat'.
-<br>
-<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
-<br>
-<span class="speaker">Me:</span>  What made you first start making music together?
-<br>
-<span class="speaker">Zen:</span>  I remember being at school, and Liam-
-<br>
-<span class="speaker">Liam:</span>  -Because we were friends at the time-
-<br>
-<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+<span class="speaker">Name:</span> Response
 </p>
 
 ### Which albums or bands have influenced Chromatin the most?
 
 <p class="interview">
-<span class="speaker">Liam:</span> We first started out as another group, we were called..
+<span class="speaker">Name:</span> Response
 <br>
-<span class="speaker">Jordan:</span>  'Wet Rat'.
-<br>
-<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
-<br>
-<span class="speaker">Me:</span>  What made you first start making music together?
-<br>
-<span class="speaker">Zen:</span>  I remember being at school, and Liam-
-<br>
-<span class="speaker">Liam:</span>  -Because we were friends at the time-
-<br>
-<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+<span class="speaker">Name:</span> Response
 </p>
 
 ### You guys are currently between recording sessions of some demos? How is that going?
 
 <p class="interview">
-<span class="speaker">Bailey:</span> We've come down to Torquay, today and tomorrow, and Asher is helping us record some demos at his house.
+<span class="speaker">Name:</span> Response
 <br>
-<span class="speaker">Jordan:</span>  'Wet Rat'.
-<br>
-<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
-<br>
-<span class="speaker">Me:</span>  What made you first start making music together?
-<br>
-<span class="speaker">Zen:</span>  I remember being at school, and Liam-
-<br>
-<span class="speaker">Liam:</span>  -Because we were friends at the time-
-<br>
-<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+<span class="speaker">Name:</span> Response
 </p>
 
 ### Is there a song on your setlist that is your favourite to play?
 
 <p class="interview">
-<span class="speaker">Bailey:</span> We've come down to Torquay, today and tomorrow, and Asher is helping us record some demos at his house.
+<span class="speaker">Name:</span> Response
 <br>
-<span class="speaker">Jordan:</span>  'Wet Rat'.
-<br>
-<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
-<br>
-<span class="speaker">Me:</span>  What made you first start making music together?
-<br>
-<span class="speaker">Zen:</span>  I remember being at school, and Liam-
-<br>
-<span class="speaker">Liam:</span>  -Because we were friends at the time-
-<br>
-<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+<span class="speaker">Name:</span> Response
 </p>
 
 ### What does Chromatin's future look like?
 
 <p class="interview">
-<span class="speaker">Bailey:</span> We've come down to Torquay, today and tomorrow, and Asher is helping us record some demos at his house.
+<span class="speaker">Name:</span> Response
 <br>
-<span class="speaker">Jordan:</span>  'Wet Rat'.
-<br>
-<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
-<br>
-<span class="speaker">Me:</span>  What made you first start making music together?
-<br>
-<span class="speaker">Zen:</span>  I remember being at school, and Liam-
-<br>
-<span class="speaker">Liam:</span>  -Because we were friends at the time-
-<br>
-<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+<span class="speaker">Name:</span> Response
 </p>
 
 ### Lastly, before we wrap this interview up, is there anyone you want to shoutout on the blog?
 
 <p class="interview">
-<span class="speaker">Bailey:</span> We've come down to Torquay, today and tomorrow, and Asher is helping us record some demos at his house.
+<span class="speaker">Name:</span> Response
 <br>
-<span class="speaker">Jordan:</span>  'Wet Rat'.
-<br>
-<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
-<br>
-<span class="speaker">Me:</span>  What made you first start making music together?
-<br>
-<span class="speaker">Zen:</span>  I remember being at school, and Liam-
-<br>
-<span class="speaker">Liam:</span>  -Because we were friends at the time-
-<br>
-<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+<span class="speaker">Name:</span> Response
 </p>
 
 ![chromatin](/images/chromatin2202267.JPG)
