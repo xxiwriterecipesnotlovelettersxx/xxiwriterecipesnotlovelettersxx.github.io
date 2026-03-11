@@ -54,7 +54,7 @@ Here is their interview!
 <span class="speaker">Name:</span> Response
 </p>
 
-### Which albums or bands have influenced Chromatin the most?
+### Which albums or bands have influenced your sound the most?
 
 <p class="interview">
 <span class="speaker">Name:</span> Response
