@@ -10,7 +10,7 @@ thumbnail: /images/mycriesfallondeafears.jpg
 <p class="show-intro">
 Emerging on the Naarm scene in late 2025, <a href="https://www.instagram.com/chromatin_band/">Chromatin</a> are a five-piece skramz band from Cranbourne. They need no introduction on this website, because as of writing this they are the most-covered band on my '<a href="https://xxiwriterecipesnotlovelettersxx.github.io/shows">shows</a>' page (appearing six times).
 <br><br>
-looking back over the last 12 months i want to <a href="https://bandcamp.com">bandcamp</a> some of my favourite albums, eps, and splits from 2025. note that these are not ranked in any particular way, only sorted chronologically in order of release.
+This afternoon, on March 21st, I invited them down to a spot near Buckley Falls in Geelong to talk to them as a band. I caught them between recording sessions, currently
 </p>
 
 ![everythingilove](/images/chrom2.jpg)
