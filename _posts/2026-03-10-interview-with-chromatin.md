@@ -23,15 +23,15 @@ Here is their interview!
 
 <p class="interview">
 <br>
-<span style="color:#EB1B71  ;">Liam:</span> My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
+<span class="speaker">Liam:</span> My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
 <br>
-<span style="color:#EB1B71  ;">Bailey:</span>  I'm Bailey and I play bass.
+<span class="speaker">Bailey:</span>  I'm Bailey and I play bass.
 <br>
-<span style="color:#EB1B71  ;">Zen:</span>  Hi! I'm Zen and I play the guitar.
+<span class="speaker">Zen:</span>  Hi! I'm Zen and I play the guitar.
 <br>
-<span style="color:#EB1B71  ;">Jordan:</span>  My name's Jordan and I also play guitar.
+<span class="speaker">Jordan:</span>  My name's Jordan and I also play guitar.
 <br>
-<span style="color:#EB1B71  ;">Lily:</span>  I am Lily, Chromatin's drummer. 
+<span class="speaker">Lily:</span>  I am Lily, Chromatin's drummer. 
 </p>
 
 ### Example question, xyz?
