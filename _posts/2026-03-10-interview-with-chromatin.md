@@ -8,7 +8,7 @@ thumbnail: /images/mycriesfallondeafears.jpg
 
 <br>
 <p class="show-intro">
-Emerging on the Naarm scene in late 2025, <a href="https://www.instagram.com/chromatin_band/">Chromatin</a> are a five-piece skramz band from Cranbourne. They need no introduction on this website, being the most-covered band on my '<a href="https://xxiwriterecipesnotlovelettersxx.github.io/shows">shows</a>' page (appearing six times) as of writing.
+Emerging on the Naarm scene in late 2025, <a href="https://www.instagram.com/chromatin_band/">Chromatin</a> are a five-piece skramz band from Cranbourne. They need no introduction on this website, being the most-covered band on my <a href="https://xxiwriterecipesnotlovelettersxx.github.io/shows">shows</a> page (appearing six times) as of writing.
 <br><br>
 This afternoon, on March 21st, I invited them down to a spot near Buckley Falls in Geelong to talk to them as a band. I caught them between recording sessions, currently
 </p>
