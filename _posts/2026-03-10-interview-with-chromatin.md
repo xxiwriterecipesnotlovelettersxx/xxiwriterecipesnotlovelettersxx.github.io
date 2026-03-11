@@ -21,21 +21,21 @@ looking back over the last 12 months i want to highlight some of my favourite al
 Here is their interview!
 ### Who are you, and what do you do in the band?
 
+<p class="interview">
 <br>
 <span style="color:#EB1B71  ;">Liam:</span> My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
-<br><br>
+<br>
 <span style="color:#EB1B71  ;">Bailey:</span>  I'm Bailey and I play bass.
-<br><br>
+<br>
 <span style="color:#EB1B71  ;">Zen:</span>  Hi! I'm Zen and I play the guitar.
-<br><br>
+<br>
 <span style="color:#EB1B71  ;">Jordan:</span>  My name's Jordan and I also play guitar.
-<br><br>
+<br>
 <span style="color:#EB1B71  ;">Lily:</span>  I am Lily, Chromatin's drummer. 
-<br><br>
+</p>
 
 ### Example question, xyz?
 
-<p class="interview">
 <br>
 <span style="color:#EB1B71  ;">Liam:</span> 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
 <br><br>
