@@ -277,9 +277,9 @@ main.home hr {
   box-sizing: border-box;
 }
 
-.interview br {
-  display: block;
-  margin-bottom: 0.8em;
+.interview span {
+  display: inline-block;
+  margin-top: 0.8em;
 }
 
 /* debug outlines (uncomment when troubleshooting)
