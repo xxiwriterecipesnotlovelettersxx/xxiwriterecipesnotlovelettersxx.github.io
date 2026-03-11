@@ -278,8 +278,7 @@ main.home hr {
 }
 
 .interview br {
-  content: "";
-  display: block;
+  display: block !important;
   margin-bottom: 0.5em;
 }
 
