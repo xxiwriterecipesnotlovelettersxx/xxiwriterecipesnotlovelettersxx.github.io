@@ -7,18 +7,18 @@ thumbnail: /images/mycriesfallondeafears.jpg
 ---
 
 <br>
-<p class="show-intro">
+<p class="interview">
 2025 is now over... wow!
-</p>
 <br>
-<p class="show-intro">
 looking back over the last 12 months i want to highlight some of my favourite albums, eps, and splits from 2025. note that these are not ranked in any particular way, only sorted chronologically in order of release.
 </p>
 
 ![everythingilove](/images/chrom2.jpg)
-(Left to right: Liam, Jordan, Zen, Lily, Bailey)
-<br><br>
+
+_(Left to right: Member, Member, Member, Member, Member)_
+<p class="interview">
 Here is their interview!
+</p>
 ### Who are you, and what do you do in the band?
 
 <p class="interview">
