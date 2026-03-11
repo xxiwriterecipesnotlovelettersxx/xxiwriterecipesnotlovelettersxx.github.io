@@ -70,7 +70,7 @@ Here is their interview!
 <span class="speaker">Name:</span> Response
 </p>
 
-### Which song on your setlist that is your favourite to play?
+### Which song on your setlist is your favourite to play?
 
 <p class="interview">
 <span class="speaker">Name:</span> Response
