@@ -46,7 +46,7 @@ Here is their interview!
 
 ![everythingilove](/images/chrom4.jpg)
 
-### Chromatin have played 6 shows so far. Which do you think your favourite has been?
+### Chromatin have played 6 shows so far. Which has your favourite been?
 
 <p class="interview">
 <span class="speaker">Name:</span> Response
@@ -54,7 +54,7 @@ Here is their interview!
 <span class="speaker">Name:</span> Response
 </p>
 
-### Which albums or bands have influenced your sound the most?
+### Are there any bands people might not expect to influence your songs?
 
 <p class="interview">
 <span class="speaker">Name:</span> Response
@@ -70,7 +70,7 @@ Here is their interview!
 <span class="speaker">Name:</span> Response
 </p>
 
-### Is there a song on your setlist that is your favourite to play?
+### Which song on your setlist that is your favourite to play?
 
 <p class="interview">
 <span class="speaker">Name:</span> Response
@@ -78,7 +78,7 @@ Here is their interview!
 <span class="speaker">Name:</span> Response
 </p>
 
-### If you could be a dinosaur, which would you be and why?
+### In a horror movie, who would be the first to die and who would survive until the end?
 
 <p class="interview">
 <span class="speaker">Name:</span> Response
@@ -86,7 +86,7 @@ Here is their interview!
 <span class="speaker">Name:</span> Response
 </p>
 
-### Lastly, before we wrap this interview up, is there anyone you want to shoutout on the blog?
+### Lastly, before we wrap this interview up, is there anything or anyone you want to give a shoutout to?
 
 <p class="interview">
 <span class="speaker">Name:</span> Response
