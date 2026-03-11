@@ -19,7 +19,8 @@ _(Left to right: Member, Member, Member, Member, Member)_
 <p class="interview">
 Here is their interview!
 </p>
-### Who are you, and what do you do in the band?
+
+### Who are you, what is your role in the band, and who is your favourite band of all time?
 
 <p class="interview">
 <span class="speaker">Liam:</span> My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
@@ -33,18 +34,18 @@ Here is their interview!
 <span class="speaker">Lily:</span>  I am Lily, Chromatin's drummer. 
 </p>
 
-### Example question, xyz?
+### How did Chromatin come to be? Tell us about the formation of the band and how you started out.
 
 <p class="interview">
-<span style="color:#EB1B71  ;">Liam:</span> 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
+<span class="speaker">Liam:</span> My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
 <br>
-<span style="color:#EB1B71  ;">Bailey:</span> It comes from rhode island band 'told not to worry', one of my favourite bands ever. Ihis album was my introduction to sasscore, and i wouldn't have it any other way.
+<span class="speaker">Bailey:</span>  I'm Bailey and I play bass.
 <br>
-<span style="color:#EB1B71  ;">Zen:</span> They are overall a sasscore/queer emoviolence release, and there are also elements of emogrind and deathcore-style breakdowns. The band ties this all together to create a cohesive (but very chaotic) sound.
+<span class="speaker">Zen:</span>  Hi! I'm Zen and I play the guitar.
 <br>
-<span style="color:#EB1B71  ;">Jordan:</span> There is so much going on in these recordings, in the best way possible. Jane-Ramona's vocals fit the band's sound on this split perfectly.
+<span class="speaker">Jordan:</span>  My name's Jordan and I also play guitar.
 <br>
-<span style="color:#EB1B71  ;">Lily:</span> I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
+<span class="speaker">Lily:</span>  I am Lily, Chromatin's drummer. 
 </p>
 
 ### Example question, xyz?
