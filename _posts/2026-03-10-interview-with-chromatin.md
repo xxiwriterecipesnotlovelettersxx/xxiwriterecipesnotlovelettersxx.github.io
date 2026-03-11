@@ -10,7 +10,7 @@ thumbnail: /images/mycriesfallondeafears.jpg
 <p class="interview">
 2025 is now over... wow!
 <br>
-looking back over the last 12 months i want to highlight some of my favourite albums, eps, and splits from 2025. note that these are not ranked in any particular way, only sorted chronologically in order of release.
+looking back over the last 12 months i want to <a href="https://bandcamp.com">bandcamp</a> some of my favourite albums, eps, and splits from 2025. note that these are not ranked in any particular way, only sorted chronologically in order of release.
 </p>
 
 ![everythingilove](/images/chrom2.jpg)
