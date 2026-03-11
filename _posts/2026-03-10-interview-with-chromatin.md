@@ -37,15 +37,19 @@ Here is their interview!
 ### How did Chromatin come to be? Tell us about the formation of the band and how you started out.
 
 <p class="interview">
-<span class="speaker">Liam:</span> My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
+<span class="speaker">Liam:</span> We first started out as another group, we were called..
 <br>
-<span class="speaker">Bailey:</span>  I'm Bailey and I play bass.
+<span class="speaker">Jordan:</span>  'Wet Rat'.
 <br>
-<span class="speaker">Zen:</span>  Hi! I'm Zen and I play the guitar.
+<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
 <br>
-<span class="speaker">Jordan:</span>  My name's Jordan and I also play guitar.
+<span class="speaker">Me:</span>  What made you first start making music together?
 <br>
-<span class="speaker">Lily:</span>  I am Lily, Chromatin's drummer. 
+<span class="speaker">Zen:</span>  I remember being at school, and Liam-
+<br>
+<span class="speaker">Liam:</span>  -Because we were friends at the time-
+<br>
+<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
 </p>
 
 ### Example question, xyz?
