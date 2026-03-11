@@ -163,7 +163,3 @@ Here is their interview!
 </p>
 
 ![chromatin](/images/chromatin2202267.JPG)
-
-<p class="show-intro">
-2025 was such a great year for emo music, especially in australia! if you like these releases make sure to support the bands behind them by purchasing their music on <a href="https://bandcamp.com">bandcamp</a> - this is one of the best ways you can directly contribute to artists (and the scene as a whole), own the music you buy, and have the added benefit of higher audio quality if that's your thing. i can only hope that 2026 is as prosperous a year for music as 2025!
-</p>
