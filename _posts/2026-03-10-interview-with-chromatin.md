@@ -90,7 +90,7 @@ Here is their interview!
 <span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
 </p>
 
-### Which albums or musicians have influenced Chromatin the most?
+### Which albums or bands have influenced Chromatin the most?
 
 <p class="interview">
 <span class="speaker">Liam:</span> We first started out as another group, we were called..
@@ -127,6 +127,24 @@ Here is their interview!
 </p>
 
 ### Is there a song on your setlist that is your favourite to play?
+
+<p class="interview">
+<span class="speaker">Bailey:</span> We've come down to Torquay, today and tomorrow, and Asher is helping us record some demos at his house.
+<br>
+<span class="speaker">Jordan:</span>  'Wet Rat'.
+<br>
+<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
+<br>
+<span class="speaker">Me:</span>  What made you first start making music together?
+<br>
+<span class="speaker">Zen:</span>  I remember being at school, and Liam-
+<br>
+<span class="speaker">Liam:</span>  -Because we were friends at the time-
+<br>
+<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+</p>
+
+### What does Chromatin's future look like?
 
 <p class="interview">
 <span class="speaker">Bailey:</span> We've come down to Torquay, today and tomorrow, and Asher is helping us record some demos at his house.
