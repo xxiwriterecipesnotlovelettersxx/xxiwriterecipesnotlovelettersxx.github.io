@@ -78,7 +78,7 @@ Here is their interview!
 <span class="speaker">Name:</span> Response
 </p>
 
-### What does Chromatin's future look like?
+### If you could be a dinosaur, which would you be and why?
 
 <p class="interview">
 <span class="speaker">Name:</span> Response
