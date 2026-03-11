@@ -22,7 +22,6 @@ Here is their interview!
 ### Who are you, and what do you do in the band?
 
 <p class="interview">
-<br>
 <span class="speaker">Liam:</span> My name is Liam, and I am the vocalist and primary songwriter of Chromatin.
 <br>
 <span class="speaker">Bailey:</span>  I'm Bailey and I play bass.
