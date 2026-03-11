@@ -280,7 +280,7 @@ main.home hr {
 .interview br {
   display: block;
   content: "";
-  margin-top: 0.5em;
+  margin-top: 0.8em;
 }
 
 /* debug outlines (uncomment when troubleshooting)
