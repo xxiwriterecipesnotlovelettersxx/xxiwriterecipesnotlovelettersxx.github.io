@@ -20,7 +20,7 @@ _(Left to right: Member, Member, Member, Member, Member)_
 Here is their interview!
 </p>
 
-### Can we go around the table and get your name, your role in the band, and your favourite band of all time?
+### Can we go around the table and get your name, your role in Chromatin, and your favourite band of all time?
 
 <p class="interview">
 <span class="speaker">Name:</span> Response
