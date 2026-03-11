@@ -90,6 +90,24 @@ Here is their interview!
 <span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
 </p>
 
+### Which albums or musicians have influenced Chromatin the most?
+
+<p class="interview">
+<span class="speaker">Liam:</span> We first started out as another group, we were called..
+<br>
+<span class="speaker">Jordan:</span>  'Wet Rat'.
+<br>
+<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
+<br>
+<span class="speaker">Me:</span>  What made you first start making music together?
+<br>
+<span class="speaker">Zen:</span>  I remember being at school, and Liam-
+<br>
+<span class="speaker">Liam:</span>  -Because we were friends at the time-
+<br>
+<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+</p>
+
 ### You guys are currently between recording sessions of some demos? How is that going?
 
 <p class="interview">
