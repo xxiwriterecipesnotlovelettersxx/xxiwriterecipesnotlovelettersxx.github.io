@@ -277,8 +277,10 @@ main.home hr {
   box-sizing: border-box;
 }
 
-.interview {
-  line-height: 1.9;
+.interview br {
+  content: "";
+  display: block;
+  margin-bottom: 0.5em;
 }
 
 /* debug outlines (uncomment when troubleshooting)
