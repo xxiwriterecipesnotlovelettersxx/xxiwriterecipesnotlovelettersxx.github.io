@@ -52,35 +52,43 @@ Here is their interview!
 <span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
 </p>
 
-### Example question, xyz?
+### What is your favourite part about being involved in the scene here?
 
 <p class="interview">
-<span style="color:#EB1B71  ;">Liam:</span> 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
-<br><br>
-<span style="color:#EB1B71  ;">Bailey:</span> It comes from rhode island band 'told not to worry', one of my favourite bands ever. Ihis album was my introduction to sasscore, and i wouldn't have it any other way.
-<br><br>
-<span style="color:#EB1B71  ;">Zen:</span> They are overall a sasscore/queer emoviolence release, and there are also elements of emogrind and deathcore-style breakdowns. The band ties this all together to create a cohesive (but very chaotic) sound.
-<br><br>
-<span style="color:#EB1B71  ;">Jordan:</span> There is so much going on in these recordings, in the best way possible. Jane-Ramona's vocals fit the band's sound on this split perfectly.
-<br><br>
-<span style="color:#EB1B71  ;">Lily:</span> I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
+<span class="speaker">Liam:</span> We first started out as another group, we were called..
+<br>
+<span class="speaker">Jordan:</span>  'Wet Rat'.
+<br>
+<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
+<br>
+<span class="speaker">Me:</span>  What made you first start making music together?
+<br>
+<span class="speaker">Zen:</span>  I remember being at school, and Liam-
+<br>
+<span class="speaker">Liam:</span>  -Because we were friends at the time-
+<br>
+<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
 </p>
 
 ![everythingilove](/images/chrom4.jpg)
 
-### Tell us about your rehearsal. What does a typical practice look like for you?
+### You guys are currently between recording sessions of some demos? How is that going?
 
+<p class="interview">
+<span class="speaker">Bailey:</span> We've come down to Torquay, today and tomorrow, and Asher is helping us record some demos at his house.
 <br>
-<span style="color:#EB1B71  ;">Liam:</span> 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
-<br><br>
-<span style="color:#EB1B71  ;">Bailey:</span> It comes from rhode island band 'told not to worry', one of my favourite bands ever. Ihis album was my introduction to sasscore, and i wouldn't have it any other way.
-<br><br>
-<span style="color:#EB1B71  ;">Zen:</span> They are overall a sasscore/queer emoviolence release, and there are also elements of emogrind and deathcore-style breakdowns. The band ties this all together to create a cohesive (but very chaotic) sound.
-<br><br>
-<span style="color:#EB1B71  ;">Jordan:</span> There is so much going on in these recordings, in the best way possible. Jane-Ramona's vocals fit the band's sound on this split perfectly.
-<br><br>
-<span style="color:#EB1B71  ;">Lily:</span> I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
-<br><br>
+<span class="speaker">Jordan:</span>  'Wet Rat'.
+<br>
+<span class="speaker">Liam:</span>  Yeah, 'Wet Rat'.
+<br>
+<span class="speaker">Me:</span>  What made you first start making music together?
+<br>
+<span class="speaker">Zen:</span>  I remember being at school, and Liam-
+<br>
+<span class="speaker">Liam:</span>  -Because we were friends at the time-
+<br>
+<span class="speaker">Zen:</span>  -We were friends, and Liam asked if we wanted to start rehearsing a project together. I was so excited!
+</p>
 
 ![chromatin](/images/chromatin2202267.JPG)
 
