@@ -35,6 +35,7 @@ Here is their interview!
 
 ### Example question, xyz?
 
+<p class="interview">
 <br>
 <span style="color:#EB1B71  ;">Liam:</span> 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
 <br><br>
@@ -45,6 +46,7 @@ Here is their interview!
 <span style="color:#EB1B71  ;">Jordan:</span> There is so much going on in these recordings, in the best way possible. Jane-Ramona's vocals fit the band's sound on this split perfectly.
 <br><br>
 <span style="color:#EB1B71  ;">Lily:</span> I was lucky enough to see chigaki death metro the day after this split released, when they played with 'all that's left of you'.
+</p>
 
 ![everythingilove](/images/chrom4.jpg)
 
