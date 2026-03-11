@@ -40,7 +40,7 @@ Here is their interview!
 <span style="color:#EB1B71  ;">Liam:</span> 'Could Be Stars' is a very well-written album. I may be biased considering the fact that I have since joined the band's lineup, but big fan of this one regardless. The lo-fi mixing makes for a calming, well-paced record.
 <br>
 <span style="color:#EB1B71  ;">Bailey:</span> It comes from rhode island band 'told not to worry', one of my favourite bands ever. Ihis album was my introduction to sasscore, and i wouldn't have it any other way.
-<br><
+<br>
 <span style="color:#EB1B71  ;">Zen:</span> They are overall a sasscore/queer emoviolence release, and there are also elements of emogrind and deathcore-style breakdowns. The band ties this all together to create a cohesive (but very chaotic) sound.
 <br>
 <span style="color:#EB1B71  ;">Jordan:</span> There is so much going on in these recordings, in the best way possible. Jane-Ramona's vocals fit the band's sound on this split perfectly.
