@@ -3,7 +3,8 @@ layout: default
 title: about
 ---
 
-## about me (darcy)
+## about me (lauren)
+##### she/they
 
 djilang/naarm... i love diy emo culture, skramz, and veganism. i hope this blog can show a combination of these things xoxo
 <br><br>
