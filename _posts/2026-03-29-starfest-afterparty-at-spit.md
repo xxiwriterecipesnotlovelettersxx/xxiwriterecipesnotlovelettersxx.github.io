@@ -14,6 +14,6 @@ thumbnail: /images/5goblinviolence2.JPG
 <a href="https://www.instagram.com/wrench_band/">Wrench</a><br>
 </p>
 <br>
-Naarm & Eora's coolest bands will unite for the biggest show in emo/skramz history. Tickets <a href="https://tickets.oztix.com.au/outlet/event/66ac6eb0-1ec0-4842-b3d3-ca582000273a">here</a>.
+Naarm & Eora's coolest bands will unite for the biggest show in emo/skramz histnight two
 
 ![poster](/images/starfest2poster1.jpg)
