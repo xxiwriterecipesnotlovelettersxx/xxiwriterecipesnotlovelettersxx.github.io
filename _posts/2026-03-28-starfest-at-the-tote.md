@@ -2,7 +2,7 @@
 layout: post
 title: "starfest @ the tote"
 date: 2026-03-28
-categories: show
+categories: showx
 thumbnail: /images/starfestposter1.jpg
 ---
 <br>
@@ -10,7 +10,7 @@ thumbnail: /images/starfestposter1.jpg
 <a href="https://mycriesfallondeafears.bandcamp.com/">mycriesfallondeafears</a><br>
 <a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a><br>
 <a href="https://www.instagram.com/ourmutualfriendband/">Our Mutual Friend</a><br>
-<a href="https://linktr.ee/inherpalms">In Her Palms</a>
+<a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
 <a href="https://fearofhorses1.bandcamp.com/">Fear of Horses</a><br>
 <br>
 <a href="https://worldataglance.bandcamp.com/">The World At A Glance</a><br>
