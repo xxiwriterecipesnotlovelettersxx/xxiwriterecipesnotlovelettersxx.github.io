@@ -128,11 +128,11 @@ Juno eclipse
 Juno eclipse
 
 <div class="gallery">
-   <a href="/images/4goblinviolence1.JPG">
-    <img src="/images/4goblinviolence1.JPG" alt="junoeclipse">
+   <a href="/images/9junoeclipse2.JPG">
+    <img src="/images/9junoeclipse2.JPG" alt="junoeclipse">
   </a>
-   <a href="/images/4goblinviolence2.JPG">
-    <img src="/images/4goblinviolence2.JPG" alt="junoeclipse">
+   <a href="/images/9junoeclipse1.JPG">
+    <img src="/images/9junoeclipse1.JPG" alt="junoeclipse">
   </a>
 </div>
 
