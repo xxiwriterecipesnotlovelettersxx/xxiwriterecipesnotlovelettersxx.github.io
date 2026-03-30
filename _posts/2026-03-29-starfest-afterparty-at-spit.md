@@ -3,7 +3,7 @@ layout: post
 title: "starfest afterparty @ spit"
 date: 2026-03-29
 categories: show
-thumbnail: /images/starfestposter1.jpg
+thumbnail: /images/5goblinviolence2.JPG
 ---
 <br>
 <p class="show-intro">
