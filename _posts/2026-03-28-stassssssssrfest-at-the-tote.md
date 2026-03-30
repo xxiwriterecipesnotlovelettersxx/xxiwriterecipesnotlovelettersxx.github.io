@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "starfest @ the tote"
+title: "starsssssssfest @ the tote"
 date: 2026-03-28
-categories: show
+categories: showx
 thumbnail: /images/starfestposter1.jpg
 ---
 <br>
