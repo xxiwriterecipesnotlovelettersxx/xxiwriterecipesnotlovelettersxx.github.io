@@ -2,7 +2,7 @@
 layout: post
 title: "starfest @ the tote"
 date: 2026-03-28
-categories: show
+categories: showx
 thumbnail: /images/9junoeclipse3.JPG
 ---
 <br>
