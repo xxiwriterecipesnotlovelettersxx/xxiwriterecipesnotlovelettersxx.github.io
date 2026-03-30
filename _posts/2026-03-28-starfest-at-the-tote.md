@@ -29,11 +29,11 @@ Chromatin
 Chromatin
 
 <div class="gallery">
-   <a href="/images/ihopsr0c.jpg">
-    <img src="/images/ihopsr0c.jpg" alt="ihop">
+   <a href="/images/1chromatin1.JPG">
+    <img src="/images/1chromatin1.JPG" alt="chromatin">
   </a>
-   <a href="/images/ihopsr1c.jpg">
-    <img src="/images/ihopsr1c.jpg" alt="ihop">
+   <a href="/images/1chromatin2.JPG">
+    <img src="/images/1chromatin2.JPG" alt="chromatin">
   </a>
 </div>
 
@@ -42,11 +42,11 @@ Half request
 Half request
 
 <div class="gallery">
-   <a href="/images/srspchrom0.JPG">
-    <img src="/images/srspchrom0.JPG" alt="chromatin">
+   <a href="/images/2halfrequest1.JPG">
+    <img src="/images/2halfrequest1.JPG" alt="chromatin">
   </a>
-   <a href="/images/srspchrom3.JPG">
-    <img src="/images/srspchrom3.JPG" alt="chromatin">
+   <a href="/images/2halfrequest2.JPG">
+    <img src="/images/2halfrequest2.JPG" alt="chromatin">
   </a>
 </div>
 
@@ -55,11 +55,11 @@ The middle chapter
 The middle chapter
 
 <div class="gallery">
-   <a href="/images/srspchrom0.JPG">
-    <img src="/images/srspchrom0.JPG" alt="chromatin">
+   <a href="/images/3themiddlechapter1.JPG">
+    <img src="/images/3themiddlechapter1.JPG" alt="themiddlechapter">
   </a>
-   <a href="/images/srspchrom3.JPG">
-    <img src="/images/srspchrom3.JPG" alt="chromatin">
+   <a href="/images/3themiddlechapter2.JPG">
+    <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
   </a>
 </div>
 
