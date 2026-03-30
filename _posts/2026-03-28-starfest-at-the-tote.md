@@ -20,7 +20,7 @@ thumbnail: /images/9junoeclipse3.JPG
 <a href="https://www.instagram.com/chromatin_band/">chromatin</a><br>
 </p>
 <br>
-Naarm & Eora's coolest bands will unite for the biggest show in emo/skramz history. Tickets
+A weekend long awaited by many, Starfest finally came to The Tote to bring some of Naarm & Eora's best emo-adjacent bands together. Tickets sold out quickly, filling the band room with an excited crowd from the afternoon into the late evening.
 
 ![poster](/images/starfestposter1.jpg)
 
