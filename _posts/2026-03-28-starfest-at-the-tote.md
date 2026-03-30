@@ -68,11 +68,11 @@ Goblinviolence
 Goblinviolence
 
 <div class="gallery">
-   <a href="/images/srspchrom0.JPG">
-    <img src="/images/srspchrom0.JPG" alt="chromatin">
+   <a href="/images/4goblinviolence1.JPG">
+    <img src="/images/4goblinviolence1.JPG" alt="goblinviolence">
   </a>
-   <a href="/images/srspchrom3.JPG">
-    <img src="/images/srspchrom3.JPG" alt="chromatin">
+   <a href="/images/4goblinviolence2.JPG">
+    <img src="/images/4goblinviolence2.JPG" alt="goblinviolence">
   </a>
 </div>
 
