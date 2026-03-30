@@ -20,6 +20,71 @@ thumbnail: /images/9junoeclipse3.JPG
 <a href="https://www.instagram.com/chromatin_band/">chromatin</a><br>
 </p>
 <br>
-Naarm & Eora's coolest bands will unite for the biggest show in emo/skramz history. Tickets <a href="https://tickets.oztix.com.au/outlet/event/66ac6eb0-1ec0-4842-b3d3-ca582000273a">here</a>.
+Naarm & Eora's coolest bands will unite for the biggest show in emo/skramz history. Tickets
 
 ![poster](/images/starfestposter1.jpg)
+
+Chromatin
+<br><br>
+Chromatin
+
+<div class="gallery">
+   <a href="/images/ihopsr0c.jpg">
+    <img src="/images/ihopsr0c.jpg" alt="ihop">
+  </a>
+   <a href="/images/ihopsr1c.jpg">
+    <img src="/images/ihopsr1c.jpg" alt="ihop">
+  </a>
+</div>
+
+Half request
+<br><br>
+Half request
+
+<div class="gallery">
+   <a href="/images/srspchrom0.JPG">
+    <img src="/images/srspchrom0.JPG" alt="chromatin">
+  </a>
+   <a href="/images/srspchrom3.JPG">
+    <img src="/images/srspchrom3.JPG" alt="chromatin">
+  </a>
+</div>
+
+The middle chapter
+<br><br>
+The middle chapter
+
+<div class="gallery">
+   <a href="/images/srspchrom0.JPG">
+    <img src="/images/srspchrom0.JPG" alt="chromatin">
+  </a>
+   <a href="/images/srspchrom3.JPG">
+    <img src="/images/srspchrom3.JPG" alt="chromatin">
+  </a>
+</div>
+
+Goblinviolence
+<br><br>
+Goblinviolence
+
+<div class="gallery">
+   <a href="/images/srspchrom0.JPG">
+    <img src="/images/srspchrom0.JPG" alt="chromatin">
+  </a>
+   <a href="/images/srspchrom3.JPG">
+    <img src="/images/srspchrom3.JPG" alt="chromatin">
+  </a>
+</div>
+
+Twaag
+<br><br>
+Twaag
+
+<div class="gallery">
+   <a href="/images/srspchrom0.JPG">
+    <img src="/images/srspchrom0.JPG" alt="chromatin">
+  </a>
+   <a href="/images/srspchrom3.JPG">
+    <img src="/images/srspchrom3.JPG" alt="chromatin">
+  </a>
+</div>
