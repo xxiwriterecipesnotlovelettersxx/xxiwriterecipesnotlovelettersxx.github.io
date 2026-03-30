@@ -9,6 +9,7 @@ thumbnail: /images/5goblinviolence2.JPG
 <p class="show-intro">
 <a href="https://mycriesfallondeafears.bandcamp.com/">mycriesfallondeafears</a><br>
 <a href="https://www.instagram.com/goblinviolencediebythesword/">goblinviolence</a><br>
+<a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a><br>
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
 <a href="https://thepictureofdoriangray67.bandcamp.com/album/demo">The Picture of Dorian Gray</a><br>
 <a href="https://www.instagram.com/wrench_band/">Wrench</a><br>
