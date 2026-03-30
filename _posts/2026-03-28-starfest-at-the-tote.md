@@ -2,8 +2,8 @@
 layout: post
 title: "starfest @ the tote"
 date: 2026-03-28
-categories: showx
-thumbnail: /images/starfestposter1.jpg
+categories: show
+thumbnail: /images/9junoeclipse1.JPG
 ---
 <br>
 <p class="show-intro">
