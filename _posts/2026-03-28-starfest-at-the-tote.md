@@ -65,7 +65,7 @@ The middle chapter
 
 Goblinviolence
 <br><br>
-Reading the following passage written by a soldier from New York on the American conquest of the Philippines: 
+From the beginning of their set, goblinviolence made the anti-imperialist undertones of their music explicitly clear. Their vocalist, Bill, read the following passage (found by Thom, their drummer on ) written by a soldier from New York on the American conquest of the Philippines:
 <br>
 _“The town of Titatia was surrendered to us a few days ago, and two companies occupy the same. Last night one of our boys was found shot and his stomach cut open. ImmediatWely orders were received from General heaton to burn the town and kill every native in sight; which was done to a finish. About 1,000 men, women and children were reported killed. I am probably growing hard-hearted, for I am in my glory when I can sight my gun on some dark skin and pull the trigger.”_
 
