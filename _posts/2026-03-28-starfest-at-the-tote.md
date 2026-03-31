@@ -82,7 +82,7 @@ Their following performance was ...
   </a>
 </div>
 
-During the following set from gothic post-metal band The World At A Glance, I resigned to sitting behind the In Her Palms merch table to recover my energy from the goblinviolence crowd.
+During the following set from gothic post-metal band The World At A Glance, I resigned to sitting behind the merch table to recover my energy from the goblinviolence crowd. In this time I wemt through my camera ...... storage something
 <br><br>
 Twaag
 <br>
