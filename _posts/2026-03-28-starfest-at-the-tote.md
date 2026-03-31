@@ -71,7 +71,7 @@ From the beginning of their set, goblinviolence made the anti-imperialist undert
 _“The town of Titatia was surrendered to us a few days ago, and two companies occupy the same. Last night one of our boys was found shot and his stomach cut open. Immediately orders were received from General Wheaton to burn the town and kill every native in sight; which was done to a finish. About 1,000 men, women and children were reported killed. I am probably growing hard-hearted, for I am in my glory when I can sight my gun on some dark skin and pull the trigger.”_
 <br>
 <br>
-Sta
+Their following performance was ...
 
 <div class="gallery">
    <a href="/images/4goblinviolence1.JPG">
@@ -82,7 +82,7 @@ Sta
   </a>
 </div>
 
-Twaag
+During the following set from gothic post-metal band The World At A Glance, I resigned to sitting behind the In Her Palms merch table to recover my energy from the goblinviolence crowd.
 <br><br>
 Twaag
 <br>
