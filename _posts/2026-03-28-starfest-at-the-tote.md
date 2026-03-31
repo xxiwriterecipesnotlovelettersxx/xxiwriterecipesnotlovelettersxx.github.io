@@ -26,7 +26,7 @@ A weekend long awaited by many, Starfest finally came to The Tote to bring some 
 
 Southeast skramz five-piece Chromatin opened the show at around 3pm, immediately setting an intense and animated tone for the afternoon. This was my 8th?? time seeing them play, and they have come so far since their first show. Their energy is consistent, with this set being one of their best yet.
 <br><br>
-As is now a well-established staple of Chromatin's live act, Liam performed his vocals exclusively from the floor, joining the crowd and dancing along with them. To finish, the band ended their set with two songs from their upcoming demo EP, 'Downpour' and 'Sharpshooter'.
+As is now a well-established staple of Chromatin's live act, Liam performed his vocals exclusively from the floor, joining the crowd and dancing along with them. To finish, the band ended their set with two songs from their upcoming demo EP, 'Downpour' and 'Sharpshooter'. These were both highlights that settled their performance on a high note.
 
 <div class="gallery">
    <a href="/images/1chromatin1.JPG">
