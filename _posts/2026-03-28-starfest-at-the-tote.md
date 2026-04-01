@@ -90,7 +90,7 @@ As always, their electric violin added a melancholic and lyrical quality to thei
 At roughly 6:50, there was a 20-minute intermission, breaking up the otherwise eight-ish hour long festival to allow everyone to catch their breath, socialise, and get something to eat. I went with Sam to Falafel Place, a vegeterian and halal spot on Smith Street where we got falafel & chip wraps. I will definitely return next time I am in Collingwood.
 <br>
 <br>
-Checking the time, we walked quickly back to the venue to make sure that we would not miss Fear of Horses playing.
+Checking the time, we walked quickly back to the venue to make sure that we would not miss Fear of Horses. When I walked inside, they were playing 'Yay', 
 <br><br>
 Fear of horses
 
