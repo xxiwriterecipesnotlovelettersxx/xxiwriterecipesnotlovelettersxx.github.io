@@ -26,7 +26,7 @@ A weekend long-awaited by many, Starfest finally came to The Tote, Collingwood, 
 
 Southeast skramz five-piece Chromatin opened the show at around 3pm, immediately setting an intense and animated tone for the afternoon. This was my 8th?? time seeing them play, and they have come so far since their first show. Their energy is consistent, with this set being one of their best yet.
 <br><br>
-As is now a well-established staple of Chromatin's live act, Liam performed his vocals exclusively from the floor, joining the crowd and dancing along with them. To finish, the band ended their set with two songs from their upcoming demo EP, 'Downpour' and 'Sharpshooter'. These were both highlights that concluded their performance on a high note.
+As is now a well-established staple of Chromatin's live act, Liam performed his vocals exclusively from the floor, joining the crowd and dancing alongside them. To finish, the band ended their set with two songs from their upcoming demo EP, 'Downpour' and 'Sharpshooter'. These were both highlights that concluded their performance on a high note.
 
 <div class="gallery">
    <a href="/images/1chromatin1.JPG">
@@ -87,12 +87,12 @@ During the following performance from gothic post-metal band The World At A Glan
 As always, their electric violin added a melancholic and lyrical quality to their music, an addition which contrasted beautifully with Scott's vocals. Within their set, they debuted a song from their upcoming 2027 record, which I am very excited for the release of.
 <br>
 <br>
-At roughly 6:50, there was a 20-minute intermission, breaking up the otherwise eight-ish hour long festival to allow everyone to catch their breath, socialise, and get something to eat. I went with Sam to Falafel Place, a vegeterian and halal spot on Smith Street where we got falafel & chip wraps. I will definitely return next time I am in Collingwood.
+At roughly 6:50, there was a 20-minute intermission, breaking up the otherwise eight-ish hour long festival to allow everyone to catch their breath, socialise, and get something to eat. I went with Sam to Falafel Place, a vegetarian and halal spot on Smith Street where we got falafel & chip wraps. I will definitely return next time I am in Collingwood.
 <br>
 <br>
 Checking the time, we walked quickly back to the venue to make sure that we would not miss Fear of Horses. When I walked inside, they were playing 'Yay', and the atmosphere in the room was enchanting as the crowd watched almost in a trance.
 <br><br>
-It was very surreal to see these songs that I love so much played live, a feeling which I think was felt by much of the audience as they stood in awe during the band's quiet and introspective sections, and moshed and crowdsurfed to heavier more intense parts.
+It was very surreal to see these songs that I love so much played live, something the whole room seemed to feel as they stood in awe during the band's quiet and introspective sections, and moshed and crowdsurfed to heavier, more intense parts.
 
 <div class="gallery">
    <a href="/images/6foh1.JPG">
