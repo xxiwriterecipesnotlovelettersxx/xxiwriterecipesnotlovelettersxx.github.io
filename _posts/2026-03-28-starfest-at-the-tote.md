@@ -84,10 +84,10 @@ In the middle of their act, they played a Converge cover, which fit in seamlessl
 
 During the following performance from gothic post-metal band The World At A Glance, I resigned to sitting behind the merch table to recover my energy. In this time I wemt through my camera and made sure I had more storage space for subsequent sets, but as a result I wasn't able to take any photos of the band.
 <br><br>
-As always, their electric violin added a melancholic and lyrical quality to their music, an addition which contrasted beautifully with Scott's vocals. They also debuted a song from their upcoming 2027 record, which I am very excited for the release of.
+As always, their electric violin added a melancholic and lyrical quality to their music, an addition which contrasted beautifully with Scott's vocals. Within their set, they debuted a song from their upcoming 2027 record, which I am very excited for the release of.
 <br>
 <br>
-Intermission
+At roughly 6:50, there was a 20-minute intermission, breaking up the otherwise eight-ish hour long festival to allow everyone to catch their breath, socialise, and get something to eat. 
 <br>
 <br>
 Fear of horses
