@@ -82,9 +82,9 @@ In the middle of their act, they played a Converge cover, which fit in seamlessl
   </a>
 </div>
 
-During the following set from gothic post-metal band The World At A Glance, I resigned to sitting behind the merch table to recover my energy from the goblinviolence crowd. In this time I wemt through my camera ...... storage something
+During the following performance from gothic post-metal band The World At A Glance, I resigned to sitting behind the merch table to recover my energy. In this time I wemt through my camera and made sure I had more storage space for subsequent sets, but as a result I wasn't able to take any photos of the band.
 <br><br>
-Twaag
+As always, their electric violin added a melancholic and lyrical quality to their music, an addition which contrasted beautifully with Scott's vocals. They also debuted a song from their upcoming 2027 record, which I am very excited for the release of.
 <br>
 <br>
 Intermission
