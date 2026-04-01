@@ -20,7 +20,7 @@ thumbnail: /images/9junoeclipse3.JPG
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a><br>
 </p>
 <br>
-A weekend long awaited by many, Starfest finally came to The Tote to bring some of Naarm & Eora's best emo-adjacent bands together. Tickets sold out quickly, filling the band room with an excited crowd from the afternoon into late evening. It was so incredible to be a part of one of the ten bands who joined forces to put on such an amazing show.. I will definitely look back on this night fondly for a long time to come.
+A weekend long-awaited by many, Starfest finally came to The Tote, Collingwood, to bring some of Naarm & Eora's best emo-adjacent bands together. Tickets sold out quickly, filling the band room with an excited crowd from the afternoon into late evening. It was so incredible to be a part of one of the ten bands who joined forces to put on such an amazing show.. I will definitely look back on this night fondly for a long time to come.
 
 ![poster](/images/starfestposter1.jpg)
 
@@ -87,10 +87,10 @@ During the following performance from gothic post-metal band The World At A Glan
 As always, their electric violin added a melancholic and lyrical quality to their music, an addition which contrasted beautifully with Scott's vocals. Within their set, they debuted a song from their upcoming 2027 record, which I am very excited for the release of.
 <br>
 <br>
-At roughly 6:50, there was a 20-minute intermission, breaking up the otherwise eight-ish hour long festival to allow everyone to catch their breath, socialise, and get something to eat. 
+At roughly 6:50, there was a 20-minute intermission, breaking up the otherwise eight-ish hour long festival to allow everyone to catch their breath, socialise, and get something to eat. I went with Sam to Falafel Place, a vegeterian and halal spot on Smith Street where we got falafel & chip wraps. I will definitely return next time I am in Collingwood.
 <br>
 <br>
-Fear of horses
+Checking the time, we walked quickly back to the venue to make sure that we would not miss Fear of Horses playing.
 <br><br>
 Fear of horses
 
