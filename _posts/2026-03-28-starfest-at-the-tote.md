@@ -90,9 +90,9 @@ As always, their electric violin added a melancholic and lyrical quality to thei
 At roughly 6:50, there was a 20-minute intermission, breaking up the otherwise eight-ish hour long festival to allow everyone to catch their breath, socialise, and get something to eat. I went with Sam to Falafel Place, a vegeterian and halal spot on Smith Street where we got falafel & chip wraps. I will definitely return next time I am in Collingwood.
 <br>
 <br>
-Checking the time, we walked quickly back to the venue to make sure that we would not miss Fear of Horses. When I walked inside, they were playing 'Yay', 
+Checking the time, we walked quickly back to the venue to make sure that we would not miss Fear of Horses. When I walked inside, they were playing 'Yay', and the atmosphere in the room was enchanting as the crowd watched almost in a trance.
 <br><br>
-Fear of horses
+It was very surreal to see these songs that I love so much played live, a feeling which I think was felt by much of the audience as they stood in awe during the band's quiet and introspective sections, and moshed and crowdsurfed to heavier more intense parts.
 
 <div class="gallery">
    <a href="/images/6foh1.JPG">
