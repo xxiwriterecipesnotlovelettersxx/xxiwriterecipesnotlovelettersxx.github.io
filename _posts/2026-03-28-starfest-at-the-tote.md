@@ -71,7 +71,7 @@ From the beginning of their set, goblinviolence made the anti-imperialist undert
 _“The town of Titatia was surrendered to us a few days ago, and two companies occupy the same. Last night one of our boys was found shot and his stomach cut open. Immediately orders were received from General Wheaton to burn the town and kill every native in sight; which was done to a finish. About 1,000 men, women and children were reported killed. I am probably growing hard-hearted, for I am in my glory when I can sight my gun on some dark skin and pull the trigger.”_
 <br>
 <br>
-Their following performance was ...
+In the middle of their act, they played a Converge cover, which fit in seamlessly with the rest of their chaotic, sassy mathgrind sound. My camera ran out of storage on its memory card at this point, so I took this as a sign to join the fast-paced, high-energy mosh, which left me very tired afterwards.
 
 <div class="gallery">
    <a href="/images/4goblinviolence1.JPG">
