@@ -108,11 +108,11 @@ Ihop
 Ihop
 
 <div class="gallery">
-   <a href="/images/2halfrequest1.JPG">
-    <img src="/images/2halfrequest1.JPG" alt="ihop">
+   <a href="/images/7ihop1.png">
+    <img src="/images/7ihop1.png" alt="ihop">
   </a>
-   <a href="/images/2halfrequest2.JPG">
-    <img src="/images/2halfrequest2.JPG" alt="ihop">
+   <a href="/images/7ihop2.png">
+    <img src="/images/7ihop2.png" alt="ihop">
   </a>
 </div>
 
@@ -206,6 +206,12 @@ photo credits:
   </a>
   <a href="/images/6foh2.JPG">
   <img src="/images/6foh2.JPG" alt="fearofhorses">
+  </a>
+   <a href="/images/7ihop1.png">
+    <img src="/images/7ihop1.png" alt="ihop">
+  </a>
+   <a href="/images/7ihop2.png">
+    <img src="/images/7ihop2.png" alt="ihop">
   </a>
   <a href="/images/8omf2.JPG">
     <img src="/images/8omf2.JPG" alt="ourmutualfriend">
