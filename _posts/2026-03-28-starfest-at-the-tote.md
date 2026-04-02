@@ -7,16 +7,16 @@ thumbnail: /images/9junoeclipse3.JPG
 ---
 <br>
 <p class="show-intro">
-<a href="https://mycriesfallondeafears.bandcamp.com/">mycriesfallondeafears</a>(NSW)<br>
-<a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a>(NSW)<br>
-<a href="https://www.instagram.com/ourmutualfriendband/">Our Mutual Friend</a>(NSW)<br>
+<a href="https://mycriesfallondeafears.bandcamp.com/">mycriesfallondeafears</a> (NSW)<br>
+<a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a> (NSW)<br>
+<a href="https://www.instagram.com/ourmutualfriendband/">Our Mutual Friend</a> (NSW)<br>
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
-<a href="https://fearofhorses1.bandcamp.com/">Fear of Horses</a>(NSW)<br>
+<a href="https://fearofhorses1.bandcamp.com/">Fear of Horses</a> (NSW)<br>
 <br>
 <a href="https://worldataglance.bandcamp.com/">The World At A Glance</a><br>
-<a href="https://www.instagram.com/goblinviolencediebythesword/">goblinviolence</a>(NSW)<br>
-<a href="https://www.instagram.com/dontreadthemiddlechapter/">The Middle Chapter</a>(NSW)<br>
-<a href="https://halfrequest.bandcamp.com/">half request</a>(NSW)<br>
+<a href="https://www.instagram.com/goblinviolencediebythesword/">goblinviolence</a> (NSW)<br>
+<a href="https://www.instagram.com/dontreadthemiddlechapter/">The Middle Chapter</a> (NSW)<br>
+<a href="https://halfrequest.bandcamp.com/">half request</a> (NSW)<br>
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a><br>
 </p>
 <br>
