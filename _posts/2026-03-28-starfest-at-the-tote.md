@@ -7,16 +7,16 @@ thumbnail: /images/9junoeclipse3.JPG
 ---
 <br>
 <p class="show-intro">
-<a href="https://mycriesfallondeafears.bandcamp.com/">mycriesfallondeafears</a><br>
-<a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a><br>
-<a href="https://www.instagram.com/ourmutualfriendband/">Our Mutual Friend</a><br>
+<a href="https://mycriesfallondeafears.bandcamp.com/">mycriesfallondeafears</a><br> (NSW)
+<a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a><br> (NSW)
+<a href="https://www.instagram.com/ourmutualfriendband/">Our Mutual Friend</a><br> (NSW)
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
-<a href="https://fearofhorses1.bandcamp.com/">Fear of Horses</a><br>
+<a href="https://fearofhorses1.bandcamp.com/">Fear of Horses</a><br> (NSW)
 <br>
 <a href="https://worldataglance.bandcamp.com/">The World At A Glance</a><br>
-<a href="https://www.instagram.com/goblinviolencediebythesword/">goblinviolence</a><br>
-<a href="https://www.instagram.com/dontreadthemiddlechapter/">The Middle Chapter</a><br>
-<a href="https://halfrequest.bandcamp.com/">half request</a><br>
+<a href="https://www.instagram.com/goblinviolencediebythesword/">goblinviolence</a><br> (NSW)
+<a href="https://www.instagram.com/dontreadthemiddlechapter/">The Middle Chapter</a><br> (NSW)
+<a href="https://halfrequest.bandcamp.com/">half request</a><br> (NSW)
 <a href="https://www.instagram.com/chromatin_band/">Chromatin</a><br>
 </p>
 <br>
@@ -50,9 +50,9 @@ Half request
   </a>
 </div>
 
-The middle chapter
+Before they were added to the Starfest lineup, I had heard very little of The Middle Chapter they did a violenbt soho cover.
 <br><br>
-The middle chapter they did a violenbt soho cover.
+My favourite song from their set
 
 <div class="gallery">
    <a href="/images/3themiddlechapter1.JPG">
