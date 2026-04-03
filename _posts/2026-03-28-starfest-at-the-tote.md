@@ -219,6 +219,12 @@ photo credits:
   <a href="/images/4goblinviolence4.JPG">
   <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
   </a>
+   <a href="/images/5twaag1.jpg">
+    <img src="/images/5twaag1.jpg" alt="twaag">
+  </a>
+   <a href="/images/5twaag2.jpg">
+    <img src="/images/5twaag2.jpg" alt="twaag">
+  </a>
   <a href="/images/6foh1.JPG">
   <img src="/images/6foh1.JPG" alt="fearofhorses">
   </a>
@@ -245,5 +251,11 @@ photo credits:
   </a>
   <a href="/images/9junoeclipse1.JPG">
   <img src="/images/9junoeclipse1.JPG" alt="junoeclipse">
+  </a>
+   <a href="/images/10mycries1.jpg">
+    <img src="/images/10mycries1.jpg" alt="mycriesfallondeafears">
+  </a>
+   <a href="/images/10mycries2.jpg">
+    <img src="/images/10mycries2.jpg" alt="mycriesfallondeafears">
   </a>
 </div>
