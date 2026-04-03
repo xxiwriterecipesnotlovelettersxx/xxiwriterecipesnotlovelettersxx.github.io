@@ -126,7 +126,7 @@ I would like to put a disclaimer here that after we played, I started taking adv
 </div>
 
 <p class="show-intro">
-Eora twinkly emo band 'Our Mutual Friend' played next. It was so nice to see them live, especially so shortly after the release of our <a href="https://music.youtube.com/playlist?list=OLAK5uy_nOySEnIYME8mPSTutDNwFTlZfQaSxW37s">In Her Palms/Our Mutual Friend split</a> just the day before!
+Eora twinkly emo band 'Our Mutual Friend' played next. It was so nice to see them live, especially so shortly after the release of our <a href="https://music.youtube.com/playlist?list=OLAK5uy_nOySEnIYME8mPSTutDNwFTlZfQaSxW37s">'In Her Palms/Our Mutual Friend' split</a> just the day before!
 </p><br>
 Our mutual friend
 
