@@ -112,7 +112,7 @@ It was very surreal to see these songs that I love so much played live, somethin
   </a>
 </div>
 
-While still processing the feeling of watching Fear of Horses, I joined my friends Asher, Charli, and Zi on stage to play our fourth show as In Her Palms. After playing 3 of our new songs, Asher addressed the crowd, thanking them for coming & making the show possible. He then announced that we would, for "the last time ever", play a few Could Be Stars songs in our set, which we did: 'Starfall', 'Snow', 'Bridges', and 'The Winter.' We closed with our highest-intensity song, 'Floodlight', which is always fun to play live.
+While still processing the feeling of watching Fear of Horses, I joined my friends Asher, Charli, and Zi on stage to play our fourth show as In Her Palms. After playing 3 of our new songs, Asher addressed the crowd, thanking them for coming & making the show possible. He then announced that we would, for "the last time ever", play a few Could Be Stars songs in our set. After four of these older songs, we closed with our highest-intensity 'Floodlight', which is always fun to play live.
 <br><br>
 I would like to put a disclaimer here that after we played, I started taking advantage of The Tote's free drink card for performers, so my recollection of events may decline slightly.
 
@@ -126,7 +126,7 @@ I would like to put a disclaimer here that after we played, I started taking adv
 </div>
 
 <p class="show-intro">
-Eora twinkly emo band 'Our Mutual Friend' played next. It was so nice to see them live, especially so shortly after the launch of our <a href="https://music.youtube.com/playlist?list=OLAK5uy_nOySEnIYME8mPSTutDNwFTlZfQaSxW37s">'In Her Palms/Our Mutual Friend' split</a> just the day before! Unfortunately, due to a confusion in the band room, Eva's bass was missing and she had to borrow Charli's, but luckily the instrument was returned eventually.
+Eora twinkly emo band 'Our Mutual Friend' played next. It was so nice to see them live, especially so shortly after the launch of our <a href="https://music.youtube.com/playlist?list=OLAK5uy_nOySEnIYME8mPSTutDNwFTlZfQaSxW37s">'In Her Palms/Our Mutual Friend' split</a> just the day before! Unfortunately, because Eva's bass went missing, she had to borrow Charli's, but luckily the instrument was found and returned to her the following day.
 </p><br>
 A standout of their performance was when they played 'dry my tears', a recently-released single which encouraged lots of singing along from the audience.
 
