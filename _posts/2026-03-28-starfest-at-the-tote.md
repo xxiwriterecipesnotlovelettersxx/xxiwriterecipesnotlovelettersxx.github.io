@@ -37,7 +37,7 @@ As is now a well-established staple of Chromatin's live act, Liam performed his 
   </a>
 </div>
 
-Next, half request came from Eora to deliver a lovely shoegaze/alternative emo rock performance. Their ethereal songs translated perfectly to a live setting, as their deep basslines and bright guitars created a very full sound. Their music provided a more thoughtful, introspective refrain from Chromatin's previous high-energy act.
+Next, half request came from Eora to deliver a lovely shoegaze/alternative emo rock performance. Their ethereal songs translated perfectly to a live setting, as their deep basslines and bright guitars created a very full sound. Their music provided a more thoughtful, introspective change of tone from Chromatin's previous high-energy act.
 <br><br>
 I particularly enjoyed their harmonised and clean vocals, contrasting many other more intense sets that would follow.
 
@@ -83,7 +83,7 @@ In the middle of their act, they played a Converge cover, which fit in seamlessl
   </a>
 </div>
 
-During the following performance from gothic post-metal band The World At A Glance, I resigned to sitting behind the merch table to recover my energy. In this time I wemt through my camera and made sure I had more storage space for subsequent sets, but as a result I wasn't able to take any photos of the band.
+During the following performance from gothic post-metal band The World At A Glance, I resigned to sitting behind the merch table to recover my energy. In this time I went through my camera and made sure I had more storage space for subsequent sets, but as a result I wasn't able to take any photos of the band.
 <br><br>
 As always, their electric violin added a melancholic and lyrical quality to their music, an addition which contrasted beautifully with Scott's vocals. Within their set, they debuted a song from their upcoming 2027 record, which I am very excited for the release of.
 
