@@ -112,9 +112,9 @@ It was very surreal to see these songs that I love so much played live, somethin
   </a>
 </div>
 
-While still processing the feeling of watching Fear of Horses, I joined my friends Asher, Charli, and Zi on stage to play our fourth show as In Her Palms.
+While still processing the feeling of watching Fear of Horses, I joined my friends Asher, Charli, and Zi on stage to play our fourth show as In Her Palms. After playing 3 of our new songs, Asher addressed the crowd, thanking them for coming & making the show possible. He then announced that we would, for "the last time ever", play a few Could Be Stars songs in our set, which we did: 'Starfall', 'Snow', 'Bridges', and 'The Winter.' We closed with our highest-intensity song, 'Floodlight', which is always fun to play live.
 <br><br>
-After playing 3 of our new songs, Asher addressed the crowd and thanked them for coming and making the show possible. He then announced that we would, for "the last time ever", play a few Could Be Stars songs in our set, which we did: 'Starfall', 'Snow', 'Bridges', and 'The Winter.'
+I would like to put a disclaimer here that after we played, I started taking advantage of The Tote's free drink card for performers, so my recollection of events may decline slightly.
 
 <div class="gallery">
    <a href="/images/7ihop1.png">
