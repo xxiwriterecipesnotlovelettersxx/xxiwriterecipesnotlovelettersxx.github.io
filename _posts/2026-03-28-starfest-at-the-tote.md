@@ -156,11 +156,11 @@ mycriesfallondeafears
 mycriesfallondeafears
 
 <div class="gallery">
-   <a href="/images/9junoeclipse2.JPG">
-    <img src="/images/9junoeclipse2.JPG" alt="junoeclipse">
+   <a href="/images/10mycries1.jpg">
+    <img src="/images/10mycries1.jpg" alt="mycriesfallondeafears">
   </a>
-   <a href="/images/9junoeclipse1.JPG">
-    <img src="/images/9junoeclipse1.JPG" alt="junoeclipse">
+   <a href="/images/10mycries2.jpg">
+    <img src="/images/10mycries2.jpg" alt="mycriesfallondeafears">
   </a>
 </div>
 
