@@ -51,9 +51,9 @@ Half request
 </div>
 
 <p class="show-intro">
-Before they were added to the Starfest lineup, I had heard very little of The Middle Chapter, aside from <a href="https://www.instagram.com/p/DVK1Kw0jkiG/">this video of their debut</a> during the Summer Break festival earlier this year. they did a violenbt soho cover.
+Before they were added to the Starfest lineup, I had heard very little of The Middle Chapter, aside from <a href="https://www.youtube.com/watch?v=AOJh8gi5WA8">this video of their debut</a> during the Summer Break festival earlier this year. I ended up really enjoying their often laid-back, wandering emo/indie/alternative rock, which ebbed and flowed in intensity very naturally. The band covered 'Dope Calypso' by Violent Soho, a song which paired well with the more energetic end of their sound. 
 </p><br>
-My favourite song from their set really stood out to me, and later speaking with Aidan I found out that it is called 'cartilage' (although possibly a working title).
+My favourite song from their set really stood out and spoke to me, and later talking with their guitarist and vocalist Aidan I found out that it was called 'cartilage' (although this is possibly a working title). I'm very excited for any potential The Middle Chapter releases in the future!
 
 <div class="gallery">
    <a href="/images/3themiddlechapter1.JPG">
