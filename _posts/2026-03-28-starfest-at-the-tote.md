@@ -112,9 +112,9 @@ It was very surreal to see these songs that I love so much played live, somethin
   </a>
 </div>
 
-Ihop
+Still amazed by Fear of Horses, I joined my friends Asher, Charli, and Zi on stage to play our fourth show as In Her Palms.
 <br><br>
-Ihop
+After playing 3 of our new songs, Asher addressed the crowd and thanked them for coming and making the show possible. He then announced that we would, for "the last time ever", play a few Could Be Stars songs in our set, which we did: 'Starfall', 'Snow', 'Bridges', and 'The Winter.'
 
 <div class="gallery">
    <a href="/images/7ihop1.png">
