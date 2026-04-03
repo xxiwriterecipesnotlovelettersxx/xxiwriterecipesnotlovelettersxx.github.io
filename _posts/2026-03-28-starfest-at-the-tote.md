@@ -51,9 +51,9 @@ Half request
 </div>
 
 <p class="show-intro">
-Before they were added to the Starfest lineup, I had heard very little of The Middle Chapter, aside from <a href="https://www.instagram.com/p/DVK1Kw0jkiG/">this video of their set</a> during the diy Summer Break 2026 festival earlier this year. they did a violenbt soho cover.
+Before they were added to the Starfest lineup, I had heard very little of The Middle Chapter, aside from <a href="https://www.instagram.com/p/DVK1Kw0jkiG/">this video of their debut</a> during the Summer Break festival earlier this year. they did a violenbt soho cover.
 </p><br>
-My favourite song from their set
+My favourite song from their set really stood out to me, and later speaking with Aidan I found out that it is called 'cartilage' (although possibly a working title).
 
 <div class="gallery">
    <a href="/images/3themiddlechapter1.JPG">
