@@ -201,6 +201,9 @@ photo credits:
   <a href="/images/2halfrequest3.JPG">
     <img src="/images/2halfrequest3.JPG" alt="halfrequest">
   </a>
+     <a href="/images/rydershoes.JPG">
+  <img src="/images/rydershoes.JPG" alt="rydershoes">
+  </a>
   <a href="/images/3themiddlechapter1.JPG">
     <img src="/images/3themiddlechapter1.JPG" alt="themiddlechapter">
   </a>
