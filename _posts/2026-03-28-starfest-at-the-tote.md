@@ -37,9 +37,9 @@ As is now a well-established staple of Chromatin's live act, Liam performed his 
   </a>
 </div>
 
-Next, half request came from Eora to deliver an ethereal shoegaze/alternative emo rock performance.
+Next, half request came from Eora to deliver a lovely shoegaze/alternative emo rock performance. Their ethereal songs translated perfectly to a live setting, as their deep basslines and bright guitars created a very full sound. Their music provided a more thoughtful, introspective refrain from Chromatin's previous high-energy act.
 <br><br>
-Half request
+I particularly enjoyed their harmonised and clean vocals, contrasting many other more intense sets that would follow.
 
 <div class="gallery">
    <a href="/images/2halfrequest1.JPG">
