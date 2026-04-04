@@ -168,7 +168,7 @@ From the minute they started playing, the pit burst into chaotic life. The band'
 </div>
 
 <p class="show-intro">
-The festival wrapped up at around 11:15, right on schedule. Thanks so much to <a href="https://youtu.be/ng8-V07cA80?si=SdnzWudj4-_vc1jb">Bambell</a>. Come to carpfest
+The festival wrapped up at around 11:15, right on schedule. Thanks so much to Asher for putting this event on, organising everything, and making such an insane dream lineup a reality. I would also like to thank every band who came and played, especially those who travelled interstate to make it, your dedication and enthusiasm meant and means so much to us <3 I am so so grateful for everyone who came and showed support for Starfest as well, keeping this scene very much alive is so important and without you all none of it would be possible. <a href="https://youtu.be/ng8-V07cA80?si=SdnzWudj4-_vc1jb">Bambell</a>. Come to carpfest
 </p>
 
 ![junoeclipse](/images/9junoeclipse3.JPG)
