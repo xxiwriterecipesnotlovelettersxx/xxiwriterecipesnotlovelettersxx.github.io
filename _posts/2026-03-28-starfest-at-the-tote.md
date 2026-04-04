@@ -154,9 +154,9 @@ juno eclipse were joined onstage by a 'Star Wars' Yoda puppet, pictured (somewha
   </a>
 </div>
 
-mycriesfallondeafears, an emocore band from Eora, closed the festival with a 30-minute set from around 10:40pm. I was excited to watch them play all afternoon and evening, having seen them before once in late 2024 when they played with my band 'gatecrash' at d'shut. Since this day, I have often cited them as the best live band I have ever seen.
+mycriesfallondeafears, an emocore band from Eora, closed the festival with a 30-minute set from around 10:40pm. I was excited to watch them play all afternoon and evening, having seen them once in late 2024 when they played with my band 'gatecrash' at d'shut. Since this day, I have often cited them as the best live band I have ever seen, and their 2025 self-titled album as one of my favourite screamo records. With this in mind, mycries' set at Starfest did not disappoint.
 <br><br>
-mycriesfallondeafears
+From the minute they started playing, the pit burst into chaotic life. The band's stage presence was also so crazy, energy and slight eccentricity that paired well with the guitarist's black Flying V with a glow-in-the-dark lead. As they played perhaps my favourite song of all time, 'Kick His Teeth Thru', I moshed and watched in near disbelief; a near transcendental experience. During this song, Asher got on the stage and sung along for them.
 
 <div class="gallery">
    <a href="/images/10mycries1.jpg">
