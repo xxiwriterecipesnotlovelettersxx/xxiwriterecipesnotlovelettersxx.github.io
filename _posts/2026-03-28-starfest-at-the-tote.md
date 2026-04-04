@@ -168,7 +168,7 @@ From the minute they started playing, the pit burst into chaotic life. The band'
 </div>
 
 <p class="show-intro">
-Thanks so much to everyone who was involved in organising, hosting, playing, and coming to support this show and the cause that it represented. Music scenes like this one can build a shared community, and offer a place of support to those in need. Everybody's contributions matter so much! A particular thank you to @cohen.salnitro, who has once again create <a href="https://www.instagram.com/p/DVK1Kw0jkiG/">Street Carp</a>.
+Thanks so much to <a href="https://youtu.be/ng8-V07cA80?si=SdnzWudj4-_vc1jb">Bambell</a>. Come to carpfest
 </p>
 
 ![junoeclipse](/images/9junoeclipse3.JPG)
@@ -213,6 +213,9 @@ photo credits:
   <a href="/images/3themiddlechapter2.JPG">
   <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
   </a>
+     <a href="/images/3themiddlechapter3.jpg">
+  <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
+  </a>
   <a href="/images/4goblinviolence1.JPG">
     <img src="/images/4goblinviolence1.JPG" alt="goblinviolence">
   </a>
@@ -240,6 +243,9 @@ photo credits:
    <a href="/images/5twaag2.jpg">
     <img src="/images/5twaag2.jpg" alt="twaag">
   </a>
+      <a href="/images/5twaag3.jpg">
+    <img src="/images/5twaag3.jpg" alt="twaag">
+  </a>
   <a href="/images/6foh1.JPG">
   <img src="/images/6foh1.JPG" alt="fearofhorses">
   </a>
@@ -251,6 +257,9 @@ photo credits:
   </a>
    <a href="/images/7ihop2.png">
     <img src="/images/7ihop2.png" alt="ihop">
+  </a>
+      <a href="/images/7ihop3.png">
+    <img src="/images/7ihop3.png" alt="ihop">
   </a>
   <a href="/images/8omf2.JPG">
     <img src="/images/8omf2.JPG" alt="ourmutualfriend">
