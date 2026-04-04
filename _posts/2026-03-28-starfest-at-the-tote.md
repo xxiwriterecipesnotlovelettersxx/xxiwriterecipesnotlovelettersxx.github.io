@@ -141,7 +141,7 @@ A standout of their performance was when they played 'dry my tears', a recently-
 
 The second-last band to play that night were juno eclipse, whose genre-defying sound encompassed punk, modern shoegaze, indie rock, and emocore. Their set was permeated by what many would consider 'hype moments and aura', reflected by the high-energy push pit and copious instances of crowdsurfing.
 <br><br>
-Juno eclipse
+juno eclipse were joined on stage by a Star Wars Yoda puppet, pictured (somewhat visibly) below.
 
 <div class="gallery">
    <a href="/images/9junoeclipse2.JPG">
