@@ -56,8 +56,8 @@ Before Starfest, I had heard very little of The Middle Chapter, aside from <a hr
 My favourite song from their set stood out and spoke to me immediately. Talking with their guitarist and vocalist Aidan, I later found out that it was called 'cartilage' (although this is possibly a working title). I'm very excited for any potential The Middle Chapter releases in the future!
 
 <div class="gallery">
-   <a href="/images/3themiddlechapter1.JPG">
-    <img src="/images/3themiddlechapter1.JPG" alt="themiddlechapter">
+   <a href="/images/3themiddlechapter3.jpg">
+    <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
   </a>
    <a href="/images/3themiddlechapter2.JPG">
     <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
