@@ -78,8 +78,8 @@ In the middle of their act, they played a Converge cover, which fit in seamlessl
    <a href="/images/4goblinviolence1.JPG">
     <img src="/images/4goblinviolence1.JPG" alt="goblinviolence">
   </a>
-   <a href="/images/4goblinviolence2.JPG">
-    <img src="/images/4goblinviolence2.JPG" alt="goblinviolence">
+   <a href="/images/4goblinviolence5.jpg">
+    <img src="/images/4goblinviolence2.jpg" alt="goblinviolence">
   </a>
 </div>
 
