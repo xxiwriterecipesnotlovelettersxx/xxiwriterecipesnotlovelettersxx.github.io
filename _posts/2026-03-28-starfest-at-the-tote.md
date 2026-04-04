@@ -275,6 +275,9 @@ photo credits:
   <a href="/images/8omf1.JPG">
     <img src="/images/8omf1.JPG" alt="ourmutualfriend">
   </a>
+  <a href="/images/8omf3.JPG">
+    <img src="/images/8omf3.JPG" alt="ourmutualfriend">
+  </a>
   <a href="/images/9junoeclipse3.JPG">
   <img src="/images/9junoeclipse3.JPG" alt="junoeclipse">
   </a>
@@ -283,6 +286,12 @@ photo credits:
   </a>
   <a href="/images/9junoeclipse1.JPG">
   <img src="/images/9junoeclipse1.JPG" alt="junoeclipse">
+  </a>
+  <a href="/images/9junoeclipse4.JPG">
+  <img src="/images/9junoeclipse4.JPG" alt="junoeclipse">
+  </a>
+  <a href="/images/9junoeclipse5.JPG">
+  <img src="/images/9junoeclipse5.JPG" alt="junoeclipse">
   </a>
    <a href="/images/10mycries1.jpg">
     <img src="/images/10mycries1.jpg" alt="mycriesfallondeafears">
