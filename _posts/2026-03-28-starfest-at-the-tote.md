@@ -51,7 +51,7 @@ I particularly enjoyed their harmonised and clean vocals, contrasting many other
 </div>
 
 <p class="show-intro">
-Before Starfest, I had heard very little of The Middle Chapter, aside from <a href="https://www.youtube.com/watch?v=AOJh8gi5WA8">a video of their debut</a> during the Summer Break festival earlier this year. I ended up really enjoying their often laid-back, wandering emo/indie performance, which ebbed and flowed naturally in intensity between softer passages and crescendos. The band covered 'Dope Calypso' (maybe?? please tell me otherwise if this is wrong) by Violent Soho, a song which paired well with the more energetic end of their sound. 
+Before Starfest, I had heard very little of The Middle Chapter, aside from <a href="https://www.youtube.com/watch?v=AOJh8gi5WA8">a video of their debut</a> during the Summer Break festival earlier this year. I ended up really enjoying their often laid-back, slacker emo/indie rock performance, which ebbed and flowed naturally in intensity between softer passages and crescendos. The band covered 'Dope Calypso' (maybe?? please tell me otherwise if this is wrong) by Violent Soho, a song which paired well with the more energetic end of their sound. 
 </p><br>
 My favourite song from their set stood out and spoke to me immediately. Talking with their guitarist and vocalist Aidan, I later found out that it was called 'cartilage' (although this is possibly a working title). I'm very excited for any potential The Middle Chapter releases in the future!
 
