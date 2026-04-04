@@ -28,11 +28,11 @@ Spit. Wrench
 Wrench wrench wrench
 
 <div class="gallery">
-   <a href="/images/2halfrequest1.JPG">
-    <img src="/images/2halfrequest1.JPG" alt="chromatin">
+   <a href="/images/1wrench1.JPG">
+    <img src="/images/1wrench1.JPG" alt="wrench">
   </a>
-   <a href="/images/2halfrequest2.JPG">
-    <img src="/images/2halfrequest2.JPG" alt="chromatin">
+   <a href="/images/1wrench4.jpg">
+    <img src="/images/1wrench4.jpg" alt="wrench">
   </a>
 </div>
 
