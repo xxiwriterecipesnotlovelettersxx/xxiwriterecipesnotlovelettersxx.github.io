@@ -172,7 +172,7 @@ The festival wrapped up at around 11:15, right on schedule.
 Thanks so much to Asher for putting this event on, organising everything, and making such an insane dream lineup a reality. I would also like to thank every band who played, especially those who travelled interstate to make it, your dedication and enthusiasm means so much to us <3
 <br><br>
 And of course, thank you to everyone who came to support Starfest as well, keeping this scene alive is so important and without you guys none of it would be possible.
-<br>
+<br><br>
 <p class="show-intro">
 Shoutout @cohen.salnitro on Instagram for recording and putting together compilation videos of <a href="https://www.instagram.com/reel/DWfoCfhgSd6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">goblinviolence</a>'s and <a href="https://www.instagram.com/reel/DWjGD0jDmQx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Fear of Horses</a>' sets from this show, and to Bambell, who put <a href="https://youtu.be/ng8-V07cA80?si=SdnzWudj4-_vc1jb">this video</a> of 6 of the bands from the night playing on their YouTube page. If you're looking for more footage from Starfest, @joyful.8.8.8 on Instagram has uploaded so many videos to their page. Show some support for one of Eora's coolest videographers.
 </p>
