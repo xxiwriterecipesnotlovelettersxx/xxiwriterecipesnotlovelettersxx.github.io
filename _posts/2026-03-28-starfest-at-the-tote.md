@@ -168,7 +168,7 @@ From the minute they started playing, the pit burst into chaotic life. The band'
 </div>
 
 <p class="show-intro">
-Thanks so much to <a href="https://youtu.be/ng8-V07cA80?si=SdnzWudj4-_vc1jb">Bambell</a>. Come to carpfest
+The festival wrapped up at around 11:15, right on schedule. Thanks so much to <a href="https://youtu.be/ng8-V07cA80?si=SdnzWudj4-_vc1jb">Bambell</a>. Come to carpfest
 </p>
 
 ![junoeclipse](/images/9junoeclipse3.JPG)
@@ -181,6 +181,8 @@ photo credits:
 @joyful.8.8.8 on instagram
 <br>
 @milk_luvsu on instagram
+<br>
+@googiboogi on youtube (bambell)
 
 <div class="gallery">
    <a href="/images/1chromatin1.JPG">
