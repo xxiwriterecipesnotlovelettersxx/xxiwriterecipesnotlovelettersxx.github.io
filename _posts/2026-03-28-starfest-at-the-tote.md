@@ -141,7 +141,7 @@ A standout of their performance was when they played 'dry my tears', a recently-
 
 The second-last band to play that night were juno eclipse, whose genre-defying sound encompassed punk, modern shoegaze, indie rock, and emocore. Their set was permeated by what many would consider 'hype moments and aura', reflected by the high-energy push pit and copious instances of crowdsurfing.
 <br><br>
-juno eclipse were joined on stage by a Star Wars Yoda puppet, pictured (somewhat visibly) below.
+juno eclipse were joined onstage by a 'Star Wars' Yoda puppet, pictured (somewhat visibly) below. The Jedi master was not the only company that they had while performing, however, as many other members of the Eora bands also climbed on to the stage to share the spotlight. 
 
 <div class="gallery">
    <a href="/images/9junoeclipse2.JPG">
