@@ -85,7 +85,7 @@ In the middle of their act, they played a Converge cover, which fit in seamlessl
 
 During the following performance from gothic post-metal band The World At A Glance, I resigned to sitting behind the merch table to recover my energy. In this time I went through my camera and made sure I had more storage space for subsequent sets, but as a result I wasn't able to take any photos of the band.
 <br><br>
-As always, their electric violin added a melancholic and lyrical quality to their music, an addition which contrasted beautifully with Scott's vocals. Within their set, they debuted a song from their upcoming 2027 record, which I am very excited for the release of.
+As always, their electric violin added a melancholic and lyrical quality to their music, an addition which contrasted beautifully with Scott's vocals. Within their set, they debuted a song from their upcoming 2027 record, which I am really looking forward to.
 
 <div class="gallery">
    <a href="/images/5twaag3.jpg">
@@ -142,7 +142,7 @@ A standout of their performance was when they played 'dry my tears', a recently-
 <p class="show-intro">
 The second-last band of the night were juno eclipse, whose genre-defying sound drew influence from punk, modern shoegaze, indie rock, and emocore. Their set was full of what many would consider 'hype moments and aura', reflected by the high-energy push pit and frequent waves of crowdsurfing.
 <br><br>
-juno eclipse were joined onstage by a 'Star Wars' Yoda puppet, pictured (somewhat visibly) below. The Jedi master wasn't the only company they had either, as other members of the Eora bands cilmbed on to the stage to share the spotlight. As this was happening, the band played their cover of The xx's 'VCR', a song that they have made their own through their <a href="https://www.youtube.com/watch?v=jd4E6-CVtD0">shared release</a> with Our Mutual Friend.
+juno eclipse were joined onstage by a 'Star Wars' Yoda puppet, pictured (somewhat visibly) below. The Jedi master wasn't the only company they had either, as other members of the Eora bands climbed on to the stage to share the spotlight. As this was happening, the band played their cover of The xx's 'VCR', a song that they have made their own through their <a href="https://www.youtube.com/watch?v=jd4E6-CVtD0">shared release</a> with Our Mutual Friend.
 </p>
 
 <div class="gallery">
@@ -156,7 +156,7 @@ juno eclipse were joined onstage by a 'Star Wars' Yoda puppet, pictured (somewha
 
 mycriesfallondeafears, an emocore band from Eora, closed the festival with a 30-minute set from around 10:40pm. I was excited to watch them play all afternoon and evening, having seen them once in late 2024 when they played with my band 'gatecrash' at d'shut. Since this day, I have often cited them as the best live band I have ever seen, and their 2025 self-titled album as one of my favourite screamo records. With this in mind, mycries' set at Starfest did not disappoint.
 <br><br>
-From the minute they started playing, the pit burst into chaotic life. The band's stage presence was also so crazy, energy and slight eccentricity that paired well with the guitarist's black Flying V with a glow-in-the-dark lead. As they played perhaps my favourite song of all time, 'Kick His Teeth Thru', I moshed and watched in near disbelief; a near transcendental experience. During this song, Asher got on the stage and sung along for them. No I did not take ANY photos of mycries at Starfest, I was way too busy fangirling.
+From the minute they started playing, the pit burst into chaotic life. The band's stage presence was also so crazy, with an energy and slight eccentricity that paired well with the guitarist's black Flying V with glow-in-the-dark lead. As they played perhaps my favourite song of all time, 'Kick His Teeth Thru', I moshed and watched in near disbelief; a near transcendental experience. During this song, Asher got on the stage and sung along for them. No I did not take ANY photos of mycries at Starfest, I was way too busy fangirling.
 
 <div class="gallery">
    <a href="/images/10mycries1.jpg">
@@ -167,8 +167,14 @@ From the minute they started playing, the pit burst into chaotic life. The band'
   </a>
 </div>
 
+The festival wrapped up at around 11:15, right on schedule.
+<br><br>
+Thanks so much to Asher for putting this event on, organising everything, and making such an insane dream lineup a reality. I would also like to thank every band who played, especially those who travelled interstate to make it, your dedication and enthusiasm means so much to us <3
+<br><br>
+And of course, thank you to everyone who came to support Starfest as well, keeping this scene alive is so important and without you guys none of it would be possible.
+<br>
 <p class="show-intro">
-The festival wrapped up at around 11:15, right on schedule. Thanks so much to Asher for putting this event on, organising everything, and making such an insane dream lineup a reality. I would also like to thank every band who came and played, especially those who travelled interstate to make it, your dedication and enthusiasm meant and means so much to us <3 I am so so grateful for everyone who came and showed support for Starfest as well, keeping this scene very much alive is so important and without you guys none of it would be possible. Shoutout @cohen.salnitro on Instagram for recording and putting together compilation videos of <a href="https://www.instagram.com/reel/DWfoCfhgSd6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">goblinviolence</a>'s and <a href="https://www.instagram.com/reel/DWjGD0jDmQx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Fear of Horses</a>' sets from this show, and Bambell, who put <a href="https://youtu.be/ng8-V07cA80?si=SdnzWudj4-_vc1jb">this video</a> of 6 of the bands from the night playing on their YouTube page.
+Shoutout @cohen.salnitro on Instagram for recording and putting together compilation videos of <a href="https://www.instagram.com/reel/DWfoCfhgSd6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">goblinviolence</a>'s and <a href="https://www.instagram.com/reel/DWjGD0jDmQx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Fear of Horses</a>' sets from this show, and to Bambell, who put <a href="https://youtu.be/ng8-V07cA80?si=SdnzWudj4-_vc1jb">this video</a> of 6 of the bands from the night playing on their YouTube page. If you're looking for more footage from Starfest, @joyful.8.8.8 on Instagram has uploaded so many videos to their page. Show some support for one of Eora's coolest videographers.
 </p>
 
 ![junoeclipse](/images/9junoeclipse3.JPG)
