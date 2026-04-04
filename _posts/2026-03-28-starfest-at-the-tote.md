@@ -139,9 +139,9 @@ A standout of their performance was when they played 'dry my tears', a recently-
   </a>
 </div>
 
-The second-last band to play that night were juno eclipse, whose genre-defying sound encompassed punk, modern shoegaze, indie rock, and emocore. Their set was permeated by what many would consider 'hype moments and aura', reflected by the high-energy push pit and copious instances of crowdsurfing.
+The second-last band of the night were juno eclipse, whose genre-defying sound drew influence from punk, modern shoegaze, indie rock, and emocore. Their set was full of what many would consider 'hype moments and aura', reflected by the high-energy push pit and frequent waves of crowdsurfing.
 <br><br>
-juno eclipse were joined onstage by a 'Star Wars' Yoda puppet, pictured (somewhat visibly) below. The Jedi master was not the only company that they had while performing, however, as many other members of the Eora bands also climbed on to the stage to share the spotlight. 
+juno eclipse were joined onstage by a 'Star Wars' Yoda puppet, pictured (somewhat visibly) below. The Jedi master wasn't the only company they had either, as other members of the Eora bands cilmbed on to the stage to share the spotlight. As this was happening, the band played their cover of The xx's 'VCR', which they have put their own trademark on through their shared release with Our Mutual Friend
 
 <div class="gallery">
    <a href="/images/9junoeclipse2.JPG">
