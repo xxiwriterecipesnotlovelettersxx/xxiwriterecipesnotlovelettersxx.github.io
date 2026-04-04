@@ -75,8 +75,8 @@ _“The town of Titatia was surrendered to us a few days ago, and two companies 
 In the middle of their act, they played a Converge cover, which fit in seamlessly with the rest of their chaotic, sassy mathgrind sound. My camera ran out of storage on its memory card at this point, so I took this as a sign to join the fast-paced, high-energy mosh, which left me feeling exhausted.
 
 <div class="gallery">
-   <a href="/images/4goblinviolence1.JPG">
-    <img src="/images/4goblinviolence1.JPG" alt="goblinviolence">
+   <a href="/images/4goblinviolence4.JPG">
+    <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
   </a>
    <a href="/images/4goblinviolence5.jpg">
     <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
@@ -216,20 +216,20 @@ photo credits:
   <a href="/images/4goblinviolence1.JPG">
     <img src="/images/4goblinviolence1.JPG" alt="goblinviolence">
   </a>
-  <a href="/images/4goblinviolence7.JPG">
-  <img src="/images/4goblinviolence7.JPG" alt="goblinviolence">
+  <a href="/images/4goblinviolence7.jpg">
+  <img src="/images/4goblinviolence7.jpg" alt="goblinviolence">
   </a>
   <a href="/images/4goblinviolence3.JPG">
     <img src="/images/4goblinviolence3.JPG" alt="goblinviolence">
   </a>
-  <a href="/images/4goblinviolence6.JPG">
-    <img src="/images/4goblinviolence6.JPG" alt="goblinviolence">
+  <a href="/images/4goblinviolence6.jpg">
+    <img src="/images/4goblinviolence6.jpg" alt="goblinviolence">
   </a>
   <a href="/images/4goblinviolence4.JPG">
   <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
   </a>
-     <a href="/images/4goblinviolence5.JPG">
-  <img src="/images/4goblinviolence5.JPG" alt="goblinviolence">
+     <a href="/images/4goblinviolence5.jpg">
+  <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
   </a>
   <a href="/images/4goblinviolence2.JPG">
   <img src="/images/4goblinviolence2.JPG" alt="goblinviolence">
