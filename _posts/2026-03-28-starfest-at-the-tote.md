@@ -8,7 +8,7 @@ thumbnail: /images/9junoeclipse3.JPG
 <br>
 <p class="show-intro">
 <a href="https://mycriesfallondeafears.bandcamp.com/">mycriesfallondeafears</a> (NSW)<br>
-<a href="https://junoeclipse.bandcamp.com/">Juno Eclipse</a> (NSW)<br>
+<a href="https://junoeclipse.bandcamp.com/">juno eclipse</a> (NSW)<br>
 <a href="https://www.instagram.com/ourmutualfriendband/">Our Mutual Friend</a> (NSW)<br>
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
 <a href="https://fearofhorses1.bandcamp.com/">Fear of Horses</a> (NSW)<br>
@@ -126,7 +126,7 @@ I would like to put a disclaimer here that after we played, I started taking adv
 </div>
 
 <p class="show-intro">
-Eora twinkly emo band 'Our Mutual Friend' played next. It was so nice to see them live, especially so shortly after the launch of our <a href="https://music.youtube.com/playlist?list=OLAK5uy_nOySEnIYME8mPSTutDNwFTlZfQaSxW37s">'In Her Palms/Our Mutual Friend' split</a> just the day before! Unfortunately, because Eva's bass went missing, she had to borrow Charli's, but luckily the instrument was found and returned to her the day after.
+Eora twinkly post-hardcore emo band Our Mutual Friend played next. It was so nice to see them live, especially so shortly after the launch of our <a href="https://music.youtube.com/playlist?list=OLAK5uy_nOySEnIYME8mPSTutDNwFTlZfQaSxW37s">'In Her Palms/Our Mutual Friend' split</a> just the day before! Unfortunately, because Eva's bass went missing, she had to borrow Charli's, but luckily the instrument was found and returned to her the day after.
 </p><br>
 A standout of their performance was when they played 'dry my tears', a recently-released single which encouraged lots of singing along from the audience.
 
@@ -139,7 +139,7 @@ A standout of their performance was when they played 'dry my tears', a recently-
   </a>
 </div>
 
-Juno eclipse
+The second-last band to play that night were juno eclipse, whose genre-defying sound encompassed punk, modern shoegaze, indie rock, and emocore. 
 <br><br>
 Juno eclipse
 
