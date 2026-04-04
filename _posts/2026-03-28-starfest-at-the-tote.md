@@ -88,8 +88,8 @@ During the following performance from gothic post-metal band The World At A Glan
 As always, their electric violin added a melancholic and lyrical quality to their music, an addition which contrasted beautifully with Scott's vocals. Within their set, they debuted a song from their upcoming 2027 record, which I am very excited for the release of.
 
 <div class="gallery">
-   <a href="/images/5twaag1.jpg">
-    <img src="/images/5twaag1.jpg" alt="twaag">
+   <a href="/images/5twaag3.jpg">
+    <img src="/images/5twaag3.jpg" alt="twaag">
   </a>
    <a href="/images/5twaag2.jpg">
     <img src="/images/5twaag2.jpg" alt="twaag">
