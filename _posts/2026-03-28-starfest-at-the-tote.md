@@ -154,7 +154,7 @@ juno eclipse were joined onstage by a 'Star Wars' Yoda puppet, pictured (somewha
   </a>
 </div>
 
-mycriesfallondeafears, an emocore band from Eora, closed the festival with a 30-minute set from around 10:40pm. I was so excited for their set, having seen them once before in late 2024 when they played with my band 'gatecrash' at d'shut.
+mycriesfallondeafears, an emocore band from Eora, closed the festival with a 30-minute set from around 10:40pm. I was excited to watch them play all afternoon and evening, having seen them before once in late 2024 when they played with my band 'gatecrash' at d'shut. Since this day, I have often cited them as the best live band I have ever seen.
 <br><br>
 mycriesfallondeafears
 
