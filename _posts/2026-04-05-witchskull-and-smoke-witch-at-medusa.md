@@ -46,117 +46,33 @@ after show spoke to band members, such lovely people of witchskull. importance o
 <br>
 it was fun thanks zi! for coming w me
 
-![junoeclipse](/images/9junoeclipse3.JPG)
+![witchskull](/images/witchskull8.png)
 
 ### photos from the night (click to expand)
 
 <div class="gallery">
-  <a href="/images/1wrench1.JPG">
-    <img src="/images/1wrench1.JPG" alt="wrench">
+  <a href="/images/witchskull1.JPG">
+    <img src="/images/witchskull1.JPG" alt="witchskull">
   </a>
-  <a href="/images/1wrench2.JPG">
-    <img src="/images/1wrench2.JPG" alt="wrench">
+  <a href="/images/witchskull2.JPG">
+    <img src="/images/witchskull2.JPG" alt="witchskull">
   </a>
-  <a href="/images/1wrench3.jpg">
-    <img src="/images/1wrench3.jpg" alt="wrench">
+  <a href="/images/witchskull3.JPG">
+    <img src="/images/witchskull3.JPG" alt="witchskull">
   </a>
-  <a href="/images/1wrench4.jpg">
-    <img src="/images/1wrench4.jpg" alt="wrench">
+  <a href="/images/witchskull4.JPG">
+    <img src="/images/witchskull4.JPG" alt="witchskull">
   </a>
-  <a href="/images/1wrench5.JPG">
-    <img src="/images/1wrench5.JPG" alt="wrench">
+  <a href="/images/witchskull5.JPG">
+    <img src="/images/witchskull5.JPG" alt="witchskull">
   </a>
-  <a href="/images/2halfrequest2.JPG">
-    <img src="/images/2halfrequest2.JPG" alt="halfrequest">
+  <a href="/images/witchskull6.JPG">
+    <img src="/images/witchskull6.JPG" alt="witchskull">
   </a>
-  <a href="/images/2halfrequest3.JPG">
-    <img src="/images/2halfrequest3.JPG" alt="halfrequest">
+  <a href="/images/witchskull7.JPG">
+    <img src="/images/witchskull7.JPG" alt="witchskull">
   </a>
-     <a href="/images/rydershoes.JPG">
-  <img src="/images/rydershoes.JPG" alt="rydershoes">
-  </a>
-  <a href="/images/3themiddlechapter1.JPG">
-    <img src="/images/3themiddlechapter1.JPG" alt="themiddlechapter">
-  </a>
-  <a href="/images/3themiddlechapter2.JPG">
-  <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
-  </a>
-     <a href="/images/3themiddlechapter3.jpg">
-  <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
-  </a>
-  <a href="/images/4goblinviolence1.JPG">
-    <img src="/images/4goblinviolence1.JPG" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence7.jpg">
-  <img src="/images/4goblinviolence7.jpg" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence3.JPG">
-    <img src="/images/4goblinviolence3.JPG" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence6.jpg">
-    <img src="/images/4goblinviolence6.jpg" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence4.JPG">
-  <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
-  </a>
-     <a href="/images/4goblinviolence5.jpg">
-  <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence2.JPG">
-  <img src="/images/4goblinviolence2.JPG" alt="goblinviolence">
-  </a>
-   <a href="/images/5twaag1.jpg">
-    <img src="/images/5twaag1.jpg" alt="twaag">
-  </a>
-   <a href="/images/5twaag2.jpg">
-    <img src="/images/5twaag2.jpg" alt="twaag">
-  </a>
-      <a href="/images/5twaag3.jpg">
-    <img src="/images/5twaag3.jpg" alt="twaag">
-  </a>
-  <a href="/images/6foh1.JPG">
-  <img src="/images/6foh1.JPG" alt="fearofhorses">
-  </a>
-  <a href="/images/6foh2.JPG">
-  <img src="/images/6foh2.JPG" alt="fearofhorses">
-  </a>
-   <a href="/images/7ihop1.png">
-    <img src="/images/7ihop1.png" alt="ihop">
-  </a>
-   <a href="/images/7ihop2.png">
-    <img src="/images/7ihop2.png" alt="ihop">
-  </a>
-      <a href="/images/7ihop3.png">
-    <img src="/images/7ihop3.png" alt="ihop">
-  </a>
-  <a href="/images/8omf2.JPG">
-    <img src="/images/8omf2.JPG" alt="ourmutualfriend">
-  </a>
-  <a href="/images/8omf1.JPG">
-    <img src="/images/8omf1.JPG" alt="ourmutualfriend">
-  </a>
-  <a href="/images/8omf3.JPG">
-    <img src="/images/8omf3.JPG" alt="ourmutualfriend">
-  </a>
-  <a href="/images/9junoeclipse3.JPG">
-  <img src="/images/9junoeclipse3.JPG" alt="junoeclipse">
-  </a>
-  <a href="/images/9junoeclipse2.JPG">
-  <img src="/images/9junoeclipse2.JPG" alt="junoeclipse">
-  </a>
-  <a href="/images/9junoeclipse1.JPG">
-  <img src="/images/9junoeclipse1.JPG" alt="junoeclipse">
-  </a>
-  <a href="/images/9junoeclipse4.JPG">
-  <img src="/images/9junoeclipse4.JPG" alt="junoeclipse">
-  </a>
-  <a href="/images/9junoeclipse5.JPG">
-  <img src="/images/9junoeclipse5.JPG" alt="junoeclipse">
-  </a>
-   <a href="/images/10mycries1.jpg">
-    <img src="/images/10mycries1.jpg" alt="mycriesfallondeafears">
-  </a>
-   <a href="/images/10mycries2.jpg">
-    <img src="/images/10mycries2.jpg" alt="mycriesfallondeafears">
+     <a href="/images/witchskull8.png">
+  <img src="/images/witchskull8.png" alt="witchskull">
   </a>
 </div>
