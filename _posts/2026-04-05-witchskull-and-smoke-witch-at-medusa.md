@@ -2,7 +2,7 @@
 layout: post
 title: "witchskull and smoke witch @ medusa"
 date: 2026-04-05
-categories: show
+categories: showx
 thumbnail: /images/witchskull9.JPG
 ---
 <br>
