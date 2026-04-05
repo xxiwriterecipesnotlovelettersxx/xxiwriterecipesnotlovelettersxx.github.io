@@ -63,6 +63,18 @@ it was fun thanks zi! for coming w me
   <a href="/images/smokewitch4.JPG">
     <img src="/images/smokewitch4.JPG" alt="witchskull">
   </a>
+     <a href="/images/smokewitch5.JPG">
+    <img src="/images/smokewitch5.JPG" alt="witchskull">
+  </a>
+  <a href="/images/smokewitch6.JPG">
+    <img src="/images/smokewitch6.JPG" alt="witchskull">
+  </a>
+  <a href="/images/smokewitch7.JPG">
+    <img src="/images/smokewitch7.JPG" alt="witchskull">
+  </a>
+  <a href="/images/smokewitch8.JPG">
+    <img src="/images/smokewitch8.JPG" alt="witchskull">
+  </a>
   <a href="/images/witchskull1.JPG">
     <img src="/images/witchskull1.JPG" alt="witchskull">
   </a>
