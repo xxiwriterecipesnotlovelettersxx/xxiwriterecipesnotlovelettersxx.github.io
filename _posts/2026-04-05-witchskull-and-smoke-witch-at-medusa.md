@@ -30,7 +30,7 @@ smoke withc
 
 witchskull
 <br><br>
-witschskil
+witschskil. they were GOOD fat heavy riffs and that downtuning thing to finishe their set, WOW
 
 <div class="gallery">
    <a href="/images/3themiddlechapter3.jpg">
