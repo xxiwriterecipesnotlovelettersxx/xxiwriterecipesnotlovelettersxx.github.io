@@ -36,7 +36,8 @@ Wrench wrench wrench
   </a>
 </div>
 
-The picture of dorian gray fucked insane comeback. sassy vocals tbh
+After releasing their demo and playing their 'last show' earlier that month, Eora screamo band The Picture of Dorian Gray made a return to the stage for one final (?) show, filling in for Fear of Horses.
+fucked insane comeback. sassy vocals tbh
 <br><br>
 sassy voxals tbh. love em. evem better live
 
