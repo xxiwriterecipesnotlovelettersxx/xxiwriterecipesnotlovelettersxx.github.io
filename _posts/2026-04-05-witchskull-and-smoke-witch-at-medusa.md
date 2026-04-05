@@ -13,7 +13,7 @@ thumbnail: /images/5goblinviolence2.JPG
 <br>
 The introduction part. happy easter hang w friends in town
 
-![poster](/images/starfest2poster1.jpg)
+![poster](/images/witchskullmedusaposter2.jpg)
 
 go to bar, smoke witch play first
 <br><br>
