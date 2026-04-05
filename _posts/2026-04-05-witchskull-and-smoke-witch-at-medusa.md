@@ -11,7 +11,7 @@ thumbnail: /images/witchskull9.JPG
 <a href="https://smokewitch1.bandcamp.com/">Smoke Witch</a><br>
 </p>
 <br>
-At 7pm on Easter Sunday, Geelong's Medusa bar opened its doors to a crowd The introduction part. happy easter hang w friends in town
+At 7pm on Easter Sunday, Geelong's Medusa bar opened its doors to a crowd..... I spent some time with my friends in town before leaving with Zi to go to this show.
 
 ![poster](/images/witchskullmedusaposter2.jpg)
 
@@ -28,16 +28,16 @@ smoke withc. guitar tone awesome thin and crushing and like uhh soundscape sound
   </a>
 </div>
 
-The second and final band of the night, Witchskull, played next at 9:00. Their set went for nearly an hour, delivering a thick, heavy, and distorted occult doom sound. The three-piece band came from Canberra, although "none of them ever saw any politicians (fuck 'em)". they played at 9:00, for nearly an hour. really good set
+The second and final band of the night, Witchskull, played next at 9:00. Their set went for nearly an hour, delivering a thick, heavy, and distorted occult doom sound. The three-piece band came from Canberra,. they played at 9:00, for nearly an hour. really good set
 <br><br>
-witschskil. they were GOOD fat heavy riffs and that downtuning thing to finishe their set, WOW
+witschskil. they were GOOD fat heavy riffs and at the end of their set they had this drone thing where each drum hitthey kept downtuning guitars and bass to finishe their set, WOW
 
 <div class="gallery">
    <a href="/images/witchskull1.JPG">
     <img src="/images/witchskull1.JPG" alt="witchskull">
   </a>
-   <a href="/images/witchskull2.JPG">
-    <img src="/images/witchskull2.JPG" alt="witchskull">
+   <a href="/images/witchskull7.JPG">
+    <img src="/images/witchskull7.JPG" alt="witchskull">
   </a>
 </div>
 
