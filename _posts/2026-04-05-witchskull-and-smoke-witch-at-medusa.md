@@ -28,7 +28,7 @@ smoke withc. guitar tone awesome thin and crushing and like uhh soundscape sound
   </a>
 </div>
 
-The second and final band of the night, Witchskull, played next at 9:00. Their set went for nearly an hour, delivering a deep, thick, and heavy occult doom sound. they played at 9:00, for nearly an hour. really good set
+The second and final band of the night, Witchskull, played next at 9:00. Their set went for nearly an hour, delivering a thick, heavy, and distorted occult doom sound. The three-piece band came from Canberra, although "none of them ever saw any politicians (fuck 'em)". they played at 9:00, for nearly an hour. really good set
 <br><br>
 witschskil. they were GOOD fat heavy riffs and that downtuning thing to finishe their set, WOW
 
