@@ -3,7 +3,7 @@ layout: post
 title: "witchskull and smoke witch @ medusa"
 date: 2026-04-05
 categories: show
-thumbnail: /images/5goblinviolence2.JPG
+thumbnail: /images/witchskull9.JPG
 ---
 <br>
 <p class="show-intro">
@@ -86,5 +86,8 @@ it was fun thanks zi! for coming w me
   </a>
      <a href="/images/witchskull8.png">
   <img src="/images/witchskull8.png" alt="witchskull">
+  </a>
+  <a href="/images/witchskull9.JPG">
+    <img src="/images/witchskull9.JPG" alt="witchskull">
   </a>
 </div>
