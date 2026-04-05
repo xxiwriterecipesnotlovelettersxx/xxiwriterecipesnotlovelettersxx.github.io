@@ -2,7 +2,7 @@
 layout: post
 title: "witchskull and smoke witch @ medusa"
 date: 2026-04-05
-categories: showx
+categories: show
 thumbnail: /images/5goblinviolence2.JPG
 ---
 <br>
@@ -28,7 +28,7 @@ smoke withc. guitar tone awesome thin and crushing and like uhh soundscape sound
   </a>
 </div>
 
-witchskull
+witchskull. they played at 9:00, for nearly an hour. really good set
 <br><br>
 witschskil. they were GOOD fat heavy riffs and that downtuning thing to finishe their set, WOW
 
