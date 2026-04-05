@@ -15,7 +15,7 @@ At 7pm on Easter Sunday, Geelong's Medusa bar opened its doors to a crowd The in
 
 ![poster](/images/witchskullmedusaposter2.jpg)
 
-go to bar, smoke witch play first
+Zi and I made it to the bar in the later half of the hour, but in time to catch both bands. Starting at 8:00, local Geelong four-piece Smoke Witch played their set first, a doomy, groovy stoner rock performance. go to bar, smoke witch play first
 <br><br>
 smoke withc. guitar tone awesome thin and crushing and like uhh soundscape sounded like wind howling
 
