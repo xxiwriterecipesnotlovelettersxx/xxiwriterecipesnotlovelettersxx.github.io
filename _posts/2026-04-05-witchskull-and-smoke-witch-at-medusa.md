@@ -7,8 +7,8 @@ thumbnail: /images/5goblinviolence2.JPG
 ---
 <br>
 <p class="show-intro">
-<a href="https://mycriesfallondeafears.bandcamp.com/">Witchskull</a> (CBR)<br>
-<a href="https://www.instagram.com/goblinviolencediebythesword/">Smoke Witch</a><br>
+<a href="https://www.witchskull.com/">Witchskull</a> (CBR)<br>
+<a href="https://smokewitch1.bandcamp.com/">Smoke Witch</a><br>
 </p>
 <br>
 The introduction part. happy easter hang w friends in town
@@ -33,11 +33,11 @@ witchskull
 witschskil. they were GOOD fat heavy riffs and that downtuning thing to finishe their set, WOW
 
 <div class="gallery">
-   <a href="/images/3themiddlechapter3.jpg">
-    <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
+   <a href="/images/witchskull1.JPG">
+    <img src="/images/witchskull1.JPG" alt="witchskull">
   </a>
-   <a href="/images/3themiddlechapter2.JPG">
-    <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
+   <a href="/images/witchskull2.JPG">
+    <img src="/images/witchskull2.JPG" alt="witchskull">
   </a>
 </div>
 
