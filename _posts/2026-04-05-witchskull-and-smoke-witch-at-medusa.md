@@ -20,11 +20,11 @@ go to bar, smoke witch play first
 smoke withc. guitar tone awesome thin and crushing and like uhh soundscape sounded like wind howling
 
 <div class="gallery">
-   <a href="/images/1wrench1.JPG">
-    <img src="/images/1wrench1.JPG" alt="wrench">
+   <a href="/images/smokewitch1.JPG">
+    <img src="/images/smokewitch1.JPG" alt="smokewitch">
   </a>
-   <a href="/images/1wrench4.jpg">
-    <img src="/images/1wrench4.jpg" alt="wrench">
+   <a href="/images/smokewitch2.JPG">
+    <img src="/images/smokewitch2.JPG" alt="smokewitch">
   </a>
 </div>
 
@@ -51,6 +51,18 @@ it was fun thanks zi! for coming w me
 ### photos from the night (click to expand)
 
 <div class="gallery">
+     <a href="/images/smokewitch1.JPG">
+    <img src="/images/smokewitch1.JPG" alt="witchskull">
+  </a>
+  <a href="/images/smokewitch2.JPG">
+    <img src="/images/smokewitch2.JPG" alt="witchskull">
+  </a>
+  <a href="/images/smokewitch3.JPG">
+    <img src="/images/smokewitch3.JPG" alt="witchskull">
+  </a>
+  <a href="/images/smokewitch4.JPG">
+    <img src="/images/smokewitch4.JPG" alt="witchskull">
+  </a>
   <a href="/images/witchskull1.JPG">
     <img src="/images/witchskull1.JPG" alt="witchskull">
   </a>
