@@ -7,11 +7,11 @@ thumbnail: /images/witchskull9.JPG
 ---
 <br>
 <p class="show-intro">
-<a href="https://www.witchskull.com/">Witchskull</a> (CBR)<br>
+<a href="https://www.witchskull.com/">Witchskull</a> (ACT)<br>
 <a href="https://smokewitch1.bandcamp.com/">Smoke Witch</a><br>
 </p>
 <br>
-The introduction part. happy easter hang w friends in town
+At 7pm on Easter Sunday, Geelong's Medusa bar opened its doors to a crowd The introduction part. happy easter hang w friends in town
 
 ![poster](/images/witchskullmedusaposter2.jpg)
 
