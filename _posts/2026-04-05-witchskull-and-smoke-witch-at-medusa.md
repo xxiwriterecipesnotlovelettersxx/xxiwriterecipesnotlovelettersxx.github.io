@@ -17,7 +17,7 @@ The introduction part. happy easter hang w friends in town
 
 go to bar, smoke witch play first
 <br><br>
-smoke withc
+smoke withc. guitar tone awesome thin and crushing and like uhh soundscape sounded like wind howling
 
 <div class="gallery">
    <a href="/images/1wrench1.JPG">
