@@ -33,8 +33,8 @@ The second and final band of the night, Canberra trio Witchskull, played next at
 Guitarist and vocalist Marcus De Pasquale's singing was also very cool, vibrato-heavy wailing with occasional screams of anguish, which combined with their occult lyricism to add a ritualistic atmosphere to their act. As their set finished, they leaned heavier into experimentation, with a droning finale that saw both the bass and guitar downtuning in a rhythmic pulse along to the drums, to near-crushing low static.
 
 <div class="gallery">
-   <a href="/images/witchskull1.JPG">
-    <img src="/images/witchskull1.JPG" alt="witchskull">
+   <a href="/images/witchskull5.JPG">
+    <img src="/images/witchskull5.JPG" alt="witchskull">
   </a>
    <a href="/images/witchskull7.JPG">
     <img src="/images/witchskull7.JPG" alt="witchskull">
