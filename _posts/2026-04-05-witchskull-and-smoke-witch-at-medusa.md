@@ -28,9 +28,9 @@ smoke withc. guitar tone awesome thin and crushing and like uhh soundscape sound
   </a>
 </div>
 
-The second and final band of the night, Witchskull, played next at 9:00. Their set went for nearly an hour, delivering a thick, heavy, and distorted occult doom sound. The three-piece band came from Canberra,. they played at 9:00, for nearly an hour. really good set
+The second and final band of the night, Canberra trio Witchskull, played next at 9:00. Their set went for nearly an hour, delivering a thick, heavy, and distorted occult doom sound. The three-piece band came from Canberra,. they played at 9:00, for nearly an hour. really good set
 <br><br>
-witschskil. they were GOOD fat heavy riffs and at the end of their set they had this drone thing where each drum hitthey kept downtuning guitars and bass to finishe their set, WOW
+witschskil. they were GOOD fat heavy riffs and at the end of their set they had this drone thing where each drum hitthey kept downtuning guitars and bass to finishe their set, WOW. Guitarist and vocalist Marcus De Pasquale's singing was also very cool, vibrato-heavy wailing with occasional screams of anguish, which, combined with their occult lyricism, added a ritualistic atmosphere to their act.
 
 <div class="gallery">
    <a href="/images/witchskull1.JPG">
