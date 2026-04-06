@@ -23,8 +23,8 @@ smoke withc. guitar tone awesome thin and crushing and like uhh soundscape sound
    <a href="/images/smokewitch1.JPG">
     <img src="/images/smokewitch1.JPG" alt="smokewitch">
   </a>
-   <a href="/images/smokewitch2.JPG">
-    <img src="/images/smokewitch2.JPG" alt="smokewitch">
+   <a href="/images/smokewitch5.JPG">
+    <img src="/images/smokewitch5.JPG" alt="smokewitch">
   </a>
 </div>
 
