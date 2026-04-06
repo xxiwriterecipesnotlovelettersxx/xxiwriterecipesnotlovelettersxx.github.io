@@ -20,8 +20,8 @@ Zi and I made it to the bar in the later half of the hour, but in time to catch 
 smoke withc. guitar tone awesome thin and crushing and like uhh soundscape sounded like wind howling
 
 <div class="gallery">
-   <a href="/images/smokewitch1.JPG">
-    <img src="/images/smokewitch1.JPG" alt="smokewitch">
+   <a href="/images/smokewitch4.JPG">
+    <img src="/images/smokewitch4.JPG" alt="smokewitch">
   </a>
    <a href="/images/smokewitch5.JPG">
     <img src="/images/smokewitch5.JPG" alt="smokewitch">
