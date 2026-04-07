@@ -15,7 +15,7 @@ thumbnail: /images/5goblinviolence2.JPG
 <a href="https://www.instagram.com/wrench_band/">Wrench</a><br>
 </p>
 <br>
-The introduction part
+Scheduled only the next day after Starfest at the Tote, the Starfest 
 
 ![poster](/images/starfest2poster1.jpg)
 
