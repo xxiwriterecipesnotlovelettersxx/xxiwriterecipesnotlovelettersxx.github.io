@@ -2,7 +2,7 @@
 layout: post
 title: "witchskull and smoke witch @ medusa"
 date: 2026-04-05
-categories: showx
+categories: show
 thumbnail: /images/witchskull9.JPG
 ---
 <br>
@@ -11,11 +11,11 @@ thumbnail: /images/witchskull9.JPG
 <a href="https://smokewitch1.bandcamp.com/">Smoke Witch</a><br>
 </p>
 <br>
-At 7pm on Easter Sunday, Geelong's Medusa bar opened its doors to a crowd..... I spent some time with my friends in town before leaving with Zi to go to this show.
+At 7pm on Easter Sunday, Geelong's Medusa bar opened its doors to a crowd ready for a night of stoner doom following the public holiday. I spent some time hanging out in town with my friends, before leaving the group with Zi to go to the venue.
 
 ![poster](/images/witchskullmedusaposter2.jpg)
 
-Zi and I made it to the bar in the later half of the hour, but in time to catch both bands. Starting at 8:00, local Geelong band Smoke Witch played their set first, a doomy, groove-heavy stoner rock performance. Originally formed as a two-piece with just drums and guitar, the band's lineup now features four members.
+We made it to the bar in the later half of the hour, but in time to catch both bands. Starting at 8:00, local Geelong band Smoke Witch played their set first, a doomy, groove-heavy stoner rock performance. Originally formed as a two-piece with just drums and guitar, the band's lineup now features four members.
 <br><br>
 Their immersive and textural sound featured a deep and gritty bass which covered most of the songs' melody, while the thin yet crushing guitar tone cut through the mix to contribute to a thick soundscape, almost reminiscent of howling wind.
 
@@ -41,10 +41,10 @@ Guitarist and vocalist Marcus De Pasquale's singing was also very cool, vibrato-
   </a>
 </div>
 
-after show spoke to band members, such lovely people of witchskull. importance of young people in music, keeping things alie. dudes brooklyn accent caught me off guard
+After the show had ended at around 10:00, Zi and I spoke to Witchskull members Marcus, Joel (drums) and Tony (bass). They were all so lovely and kind, although Tony's thick Brooklyn accent was not what I expected. We talked anout the importance of young people in music and keepinh music scenes alive.
 <br>
 <br>
-it was fun thanks zi! for coming w me
+Overall this was a really fun night. Thanks for coming with me Zi! Also shoutout to the guy who I met in an alley in Geelong who told me I should come to this.
 
 ![witchskull](/images/witchskull5.JPG)
 
