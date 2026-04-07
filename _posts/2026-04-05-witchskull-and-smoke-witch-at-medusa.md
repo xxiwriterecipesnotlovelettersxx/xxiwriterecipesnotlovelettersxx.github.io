@@ -102,4 +102,7 @@ Overall this was a really fun night. Thanks for coming with me Zi! Also shoutout
   <a href="/images/witchskull9.JPG">
     <img src="/images/witchskull9.JPG" alt="witchskull">
   </a>
+  <a href="/images/ffpicecream.JPG">
+    <img src="/images/ffpicecream.JPG" alt="icecream">
+  </a>
 </div>
