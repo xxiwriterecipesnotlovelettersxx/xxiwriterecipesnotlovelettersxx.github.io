@@ -41,7 +41,7 @@ Guitarist and vocalist Marcus De Pasquale's singing was also very cool, vibrato-
   </a>
 </div>
 
-After the show had ended, Zi and I spoke to Witchskull members Marcus, Joel (drums) and Tony (bass) outside the bar. They were all so lovely and kind, although Tony's thick Brooklyn accent caught me a little off guard. We talked about the importance of young people in music and keeping music scenes alive.
+After the show had ended, Zi and I spoke to Witchskull members Marcus, Joel (drums) and Tony (bass) outside the bar. They were all so lovely and kind, although Tony's thick Brooklyn accent caught me a little off guard. We talked about the importance of young people in music and keeping smaller scenes alive.
 <br>
 <br>
 Overall this was a really fun night. Thanks for coming with me Zi! Also shoutout to the guy who I met in an alley in Geelong who told me I should come to this.
