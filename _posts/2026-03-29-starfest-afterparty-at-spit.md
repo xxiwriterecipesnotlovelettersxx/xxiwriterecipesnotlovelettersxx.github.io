@@ -25,7 +25,7 @@ Leading up to the 5:00 show, most of the day was spent trekking around the city 
 
 ![liambreakfast](/images/liambreakfast.JPG)
 
-Spit. Wrench
+Kicking things off immediately were Wrench, a Geelong skramz three-piece who had not played the night before.
 <br><br>
 Wrench wrench wrench
 
