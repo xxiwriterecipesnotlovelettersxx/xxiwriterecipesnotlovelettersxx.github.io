@@ -19,7 +19,9 @@ Scheduled only the next day after Starfest at the Tote, a Starfest 'afterparty' 
 
 ![poster](/images/starfest2poster1.jpg)
 
-Breakfast and the day spent, photo of liam...... fear of horses poisoned
+The afterparty actually went through a few last-minute changes to the lineup, because between Saturday night and Sunday afternoon, Ringo from Fear of Horses (who were originally meant to play) got food poisoning and had to pull out of the show. Taking their place, The Picture of Dorian Gray returned from their inactive status to fill the gap.
+<br><br>
+Leading up to the 5:00 show, most of the day was spent trekking around the city getting various pieces of equipment and figuring out logistics - including an arduous journey to borrow a guitar amp head from The World At A Glance's very own Scott Mclatchie. Despite this, we still managed to enjoy our time in the morning, including a lovely group breakfast at Innerbloom, a cafe in Spotswood.
 
 ![liambreakfast](/images/liambreakfast.JPG)
 
