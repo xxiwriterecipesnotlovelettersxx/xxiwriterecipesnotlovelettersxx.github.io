@@ -15,7 +15,7 @@ thumbnail: /images/5goblinviolence2.JPG
 <a href="https://www.instagram.com/wrench_band/">Wrench</a><br>
 </p>
 <br>
-Scheduled only the next day after Starfest at the Tote, the Starfest 
+Scheduled only the next day after Starfest at the Tote, a Starfest 'afterparty' took place at Footscray's beloved DIY venue Spit. The reasoning behind this show was to hold an event that could be attended by all ages, in case anyone under 18 missed out on going to the Tote.
 
 ![poster](/images/starfest2poster1.jpg)
 
