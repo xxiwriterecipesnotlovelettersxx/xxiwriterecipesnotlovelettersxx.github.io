@@ -71,11 +71,11 @@ Juno eclipse started to play..
 a few songs in their bass player had to quickly leave stage, performanced stopped. theyw ere anotehr victim of food poisoning. kebab
 
 <div class="gallery">
-   <a href="/images/5twaag3.jpg">
-    <img src="/images/5twaag3.jpg" alt="twaag">
+   <a href="/images/4junoeclipse1.JPG">
+    <img src="/images/4junoeclipse1.JPG" alt="junoeclipse">
   </a>
-   <a href="/images/5twaag2.jpg">
-    <img src="/images/5twaag2.jpg" alt="twaag">
+   <a href="/images/4junoeclipse2.JPG">
+    <img src="/images/4junoeclipse2.JPG" alt="junoeclipse">
   </a>
 </div>
 
