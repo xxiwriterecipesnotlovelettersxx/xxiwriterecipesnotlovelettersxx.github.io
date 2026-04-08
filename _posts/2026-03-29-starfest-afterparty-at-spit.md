@@ -58,11 +58,11 @@ We now in her palms set. i LIVED this one
 Crowd.... must chill out
 
 <div class="gallery">
-   <a href="/images/4goblinviolence4.JPG">
-    <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
+   <a href="/images/3ihop1.jpg">
+    <img src="/images/3ihop1.jpg" alt="ihop">
   </a>
-   <a href="/images/4goblinviolence5.jpg">
-    <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
+   <a href="/images/3ihop2.jpg">
+    <img src="/images/3ihop2.jpg" alt="ihop">
   </a>
 </div>
 
