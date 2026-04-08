@@ -25,9 +25,9 @@ Leading up to the 5:00 show, most of the day was spent trekking around the city 
 
 ![liambreakfast](/images/liambreakfast.JPG)
 
-Kicking things off immediately were Wrench, a Geelong skramz three-piece who had not played the night before.
+Kicking things off immediately were Wrench, a Geelong skramz three-piece who were not on Sunday's lineup.
 <br><br>
-Wrench wrench wrench
+Just as Zi said, Wrench are getting better and better each show that they play. I am looking forward to seeing what their future looks like, as Paddy seems to have some pretty ambitious goals in mind.
 
 <div class="gallery">
    <a href="/images/1wrench1.JPG">
@@ -38,10 +38,10 @@ Wrench wrench wrench
   </a>
 </div>
 
-After releasing their demo and playing their 'last show' earlier that month, Eora screamo band The Picture of Dorian Gray made a return to the stage for one final (?) show, filling in for Fear of Horses.
-fucked insane comeback. sassy vocals tbh
-<br><br>
-sassy voxals tbh. love em. evem better live
+<p class="show-intro">
+After releasing their demo and playing their 'last show' earlier that month, Eora screamo band The Picture of Dorian Gray made a return to the stage for one final (?) show, filling in for Fear of Horses. As a big fan of <a href="https://thepictureofdoriangray67.bandcamp.com/album/demo">their demo release</a>, I was excited to see them play.
+</p><br>
+Aidan's vocal delivery took me by surprise, being much sassier than I expected. This, combined with their two-vocalist setup, led to me finding them somewhat reminiscent of Told Not To Worry, a sound I really enjoyed. Although it is something of a cliché, The Picture of Dorian Gray were even better live.
 
 <div class="gallery">
    <a href="/images/3themiddlechapter3.jpg">
