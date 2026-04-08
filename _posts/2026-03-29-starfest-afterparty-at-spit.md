@@ -44,11 +44,11 @@ After releasing their demo and playing their 'last show' earlier that month, Eor
 Aidan's vocal delivery took me by surprise, being much sassier than I expected. This, combined with their two-vocalist setup, led to me finding them somewhat reminiscent of Told Not To Worry, a sound I really enjoyed. Although it is something of a cliché, The Picture of Dorian Gray were even better live.
 
 <div class="gallery">
-   <a href="/images/3themiddlechapter3.jpg">
-    <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
+   <a href="/images/2doriangray4.jpg">
+    <img src="/images/2doriangray4.jpg" alt="doriangray">
   </a>
-   <a href="/images/3themiddlechapter2.JPG">
-    <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
+   <a href="/images/2doriangray1.JPG">
+    <img src="/images/2doriangray1.JPG" alt="doriangray">
   </a>
 </div>
 
