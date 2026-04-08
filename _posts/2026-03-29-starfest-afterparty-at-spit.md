@@ -47,8 +47,8 @@ Aidan's vocal delivery took me by surprise, being much sassier than I expected. 
    <a href="/images/2doriangray4.jpg">
     <img src="/images/2doriangray4.jpg" alt="doriangray">
   </a>
-   <a href="/images/2doriangray1.JPG">
-    <img src="/images/2doriangray1.JPG" alt="doriangray">
+   <a href="/images/2doriangray5.jpg">
+    <img src="/images/2doriangray5.jpg" alt="doriangray">
   </a>
 </div>
 
