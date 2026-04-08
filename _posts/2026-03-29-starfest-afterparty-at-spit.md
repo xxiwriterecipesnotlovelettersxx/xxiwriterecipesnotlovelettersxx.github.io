@@ -80,8 +80,16 @@ a few songs in their bass player had to quickly leave stage, performanced stoppe
 </div>
 
 Battle SET GOBBY V AND MYCRIES
-<br>
-<br>
+
+<div class="gallery">
+   <a href="/images/5battleset5.jpg">
+    <img src="/images/5battleset5.jpg" alt="battleset">
+  </a>
+   <a href="/images/5goblinviolence2.JPG">
+    <img src="/images/5goblinviolence2.JPG" alt="battleset">
+  </a>
+</div>
+
 They took turns aww!
 <br><br>
 mycries sometimes when im in the city im like holy shit im in the city casey jones village they played it.
