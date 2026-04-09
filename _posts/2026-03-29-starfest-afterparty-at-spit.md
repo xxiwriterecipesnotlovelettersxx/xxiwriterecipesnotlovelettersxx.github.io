@@ -103,7 +103,7 @@ They took turns aww!
 
 mycries sometimes when im in the city im like holy shit im in the city casey jones village they played it.
 
-![mycriesfallondeafears](/images/6mycries1.JPG)
+![battleset](/images/5goblinviolence4.JPG)
 
 Thanks guys. youth event important
 <br><br>
