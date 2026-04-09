@@ -91,17 +91,19 @@ Battle SET GOBBY V AND MYCRIES
 </div>
 
 They took turns aww!
-<br><br>
-mycries sometimes when im in the city im like holy shit im in the city casey jones village they played it.
 
 <div class="gallery">
-   <a href="/images/6foh1.JPG">
-    <img src="/images/6foh1.JPG" alt="fearofhorses">
+   <a href="/images/5goblinviolence3.JPG">
+    <img src="/images/5goblinviolence3.JPG" alt="battleset">
   </a>
-   <a href="/images/6foh2.JPG">
-    <img src="/images/6foh2.JPG" alt="fearofhorses">
+   <a href="/images/5battleset4.jpg">
+    <img src="/images/5battleset4.jpg" alt="battleset">
   </a>
 </div>
+
+mycries sometimes when im in the city im like holy shit im in the city casey jones village they played it.
+
+![mycriesfallondeafears](/images/6mycries1.JPG)
 
 Thanks guys. youth event important
 <br><br>
