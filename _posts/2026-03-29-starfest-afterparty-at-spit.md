@@ -96,8 +96,8 @@ They took turns aww!
    <a href="/images/5goblinviolence3.JPG">
     <img src="/images/5goblinviolence3.JPG" alt="battleset">
   </a>
-   <a href="/images/5battleset4.jpg">
-    <img src="/images/5battleset4.jpg" alt="battleset">
+   <a href="/images/5goblinviolence1.JPG">
+    <img src="/images/5goblinviolence1.JPG" alt="battleset">
   </a>
 </div>
 
