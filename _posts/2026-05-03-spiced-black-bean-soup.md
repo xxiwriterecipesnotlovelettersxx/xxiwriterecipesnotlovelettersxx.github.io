@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "spiced moroccan pumpkin gay vegan woke soup"
+title: "spiced black bean soup"
 date: 2026-05-03
 categories: recipex
 thumbnail: /images/IMG_3196.jpg
@@ -10,12 +10,12 @@ bomb
 
 ### Ingredients
 - olive oil
-- 1 onion diced
+- 1 onion, diced
 - 2 cloves garlic
-- 1 red capsicum
-- 2 ribs celery 
-- 3 potatoes
-- 2x 400g can black beans
+- 1 red capsicum, cut into small pieces
+- 2 ribs celery, also cut into small pieces
+- 3 potatoes, cubed
+- 2x 400g can black beans, drained
 - salt
 - black pepper
 - smoked paprika
@@ -24,15 +24,14 @@ bomb
 - garlic powder
 - cayenne pepper
 - ~4 cups vegetable stock
+- some fresh parsley
 
 ### Instructions
-1. in a large pot with oil (medium heat), cook onion, garlic, ginger, until onion becomes transparent.
-2. add spices and stir through.
-3. add large pieces of pumpkin, sweet potato, and carrots to sit in the pot. pour in vegetable stock.
-4. drain then add chickpeas, then tomato, ensuring the soup is stirred.
-5. cover, bring to a boil, and reduce to simmer for 45 minutes.
-6. blend roughly with a stick blender, making sure no whole pieces of pumpkin, sweet potato, and carrot remain.
-7. if you are feeling crazy top it with FRESH not dry mint leaves. this soup is soooooo good with seedy sourdough toast & vegan butter !
+1. in a large pot with oil (medium heat), cook onion, garlic, capsicum, celery, and potatoes for 5-7 minutes. stir frequently to avoid burning.
+2. add the black beans to the pot, and season these generously with each of the spices (do not be afraid of adding too much smoked paprika there is no such thing). stir the beans into the vegetables.
+3. add around 4 cups of vegetable stock, adjusting depending on how much liquid you appreciate.
+4. bring the soup to a boil, then allow to simmer, covered, for 20-30 minutes. adjust spices according to taste.
+5. once the potatoes are soft it is ready to serve. once the soup is not too hot, stir the fresh parsley through the liquid.
 
 > serve it forth <3
 
