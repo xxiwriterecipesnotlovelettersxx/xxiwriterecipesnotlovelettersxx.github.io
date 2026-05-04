@@ -22,3 +22,5 @@ vegan recipes for my emo friends. rawr XD lolz:3
 ### my life etc.
 *diary entries, pictures, updates, & everything else i want to blog about*  
 [view my life →](/my-life)
+
+<iframe width="1920" height="1080" frameborder="0" loading="lazy" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; web-share" allowfullscreen src="https://commons.wikimedia.org/wiki/File:Pill_woodlouse_(Armadillidium_vulgare).webm?embedplayer=true" />
