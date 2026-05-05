@@ -55,13 +55,13 @@ here is the ground floor interior:
 i put my bed on a raised platform off the ground to use some of the interior height:
 </p>
 
-![interior](/images/int3.png)
+![interior](/images/6int3.png)
 
 <p class="show-intro">
-i killed the dragon while it was perching, without struggling very much?? i wonder if it is more difficult on java (which i was playing last time). instead of going home through the portal, i used an end gateway to set off in search for end cities.
+HOWEVER! the biggest part of my house is actually an underground storage room, accessible through a water elevator in the ground.
 </p>
 
-![dragonexplode](/images/dragonexplode.png)
+![storage](/images/6storage1.png)
 
 <p class="show-intro">
 within a few hundred blocks after coming out the other side of the gateway, i found 3 end cities next to each other, ALL with ships! i lost track of where i had and hadn't already cleared, so i don't think i killed 100% of the shulkers? but anyways
