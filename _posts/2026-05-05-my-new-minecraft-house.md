@@ -30,11 +30,11 @@ the exterior of the hosue is inspired by some of the 16th-17th century farmhouse
 </p>
 
 <div class="gallery">
-   <a href="/images/6house.jpg">
-    <img src="/images/6house.jpg" alt="house">
+   <a href="/images/6house.png">
+    <img src="/images/6house.png" alt="house">
   </a>
-   <a href="/images/6campfire.jpg">
-    <img src="/images/6campfire.jpg" alt="campfire">
+   <a href="/images/6campfire.png">
+    <img src="/images/6campfire.png" alt="campfire">
   </a>
 </div>
 
