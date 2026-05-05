@@ -26,15 +26,15 @@ i chose a location somewhat nearby my old base, and in between two big villages:
 </div>
 
 <p class="show-intro">
-once i left the fortress, i returned home and crafted my eyes of ender. following them the first time took me to a stronghold with no portal room (which i think happens often on education edition?), so i built a nether portal and travelled a long way. this time i was able to find an end portal!
+the exterior of the hosue is inspired by some of the 16th-17th century farmhouses that i saw in the black forest, in germany. it has a big chimney and a campfire area out the back.
 </p>
 
 <div class="gallery">
-   <a href="/images/travel1.png">
-    <img src="/images/travel1.png" alt="travel">
+   <a href="/images/6house.jpg">
+    <img src="/images/6house.jpg" alt="house">
   </a>
-   <a href="/images/farfromhome.png">
-    <img src="/images/farfromhome.png" alt="farfromhome">
+   <a href="/images/6campfire.jpg">
+    <img src="/images/6campfire.jpg" alt="campfire">
   </a>
 </div>
 
