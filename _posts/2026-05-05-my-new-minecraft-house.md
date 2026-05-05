@@ -26,7 +26,7 @@ i chose a location somewhat nearby my old base, and in between two big villages:
 </div>
 
 <p class="show-intro">
-the exterior of the hosue is inspired by some of the 16th-17th century farmhouses that i saw in the black forest, in germany. it has a big chimney and a campfire area out the back.
+the exterior of the house is inspired by some of the 16th-17th century farmhouses that i saw in the black forest, in germany. it has a big chimney and a campfire area out the back.
 </p>
 
 <div class="gallery">
