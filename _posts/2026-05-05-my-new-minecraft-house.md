@@ -52,17 +52,10 @@ here is the ground floor interior:
 </div>
 
 <p class="show-intro">
-my fight with the dragon was wayy easier than i remembered last time being. this time i didn't forget to make slow falling potions which saved me a few times! highly recommend doing this<3
+i put my bed on a raised platform off the ground to use some of the interior height:
 </p>
 
-<div class="gallery">
-   <a href="/images/endcrystal.png">
-    <img src="/images/endcrystal.png" alt="endcrystal">
-  </a>
-   <a href="/images/dragonfight.png">
-    <img src="/images/dragonfight.png" alt="dragonfight">
-  </a>
-</div>
+![interior](/images/int3.png)
 
 <p class="show-intro">
 i killed the dragon while it was perching, without struggling very much?? i wonder if it is more difficult on java (which i was playing last time). instead of going home through the portal, i used an end gateway to set off in search for end cities.
