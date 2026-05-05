@@ -39,10 +39,17 @@ the exterior of the house is inspired by some of the 16th-17th century farmhouse
 </div>
 
 <p class="show-intro">
-i made sure i was ready, then activated the portal and jumped in..eek! 
+here is the ground floor interior:
 </p>
 
-![endportal](/images/endportal2.png)
+<div class="gallery">
+   <a href="/images/6int1.png">
+    <img src="/images/6int1.png" alt="interior">
+  </a>
+   <a href="/images/6int2.png">
+    <img src="/images/6int2.png" alt="interior">
+  </a>
+</div>
 
 <p class="show-intro">
 my fight with the dragon was wayy easier than i remembered last time being. this time i didn't forget to make slow falling potions which saved me a few times! highly recommend doing this<3
