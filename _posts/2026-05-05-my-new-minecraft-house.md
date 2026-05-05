@@ -8,7 +8,7 @@ thumbnail: /images/6sunset.png
 
 ![myhouse](/images/6sunset.png)
 
-a few weeks ago now, while recovering from getting my wisdom teeth removed, i decided it was time to move house in minecraft. here is my new house tour!
+a few weeks ago now, while recovering from getting my wisdom teeth removed, i decided it was time to move house in minecraft. here is the tour!
 
 ![blaze](/images/blaze.png)
 
