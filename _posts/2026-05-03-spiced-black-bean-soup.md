@@ -2,8 +2,8 @@
 layout: post
 title: "spiced black bean soup"
 date: 2026-05-03
-categories: recipex
-thumbnail: /images/IMG_3196.jpg
+categories: recipe
+thumbnail: /images/beanspicysoup.jpg
 ---
 
 bomb
@@ -35,6 +35,5 @@ bomb
 
 > serve it forth <3
 
-![soup1](/images/IMG_3196.jpg)
-![soup1](/images/IMG_3154.jpg)
-![soup1](/images/IMG_3166.jpg)
+![soup1](/images/beanspicysoup.jpg)
+
