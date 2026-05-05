@@ -8,9 +8,22 @@ thumbnail: /images/6sunset.png
 
 ![myhouse](/images/6sunset.png)
 
+<p class="show-intro">
 a few weeks ago now, while recovering from getting my wisdom teeth removed, i decided it was time to move house in minecraft. here is the tour!
+</p>
+<br>
+<p class="show-intro">
+i chose a location somewhat nearby my old base, and in between two big villages:
+</p>
 
-![blaze](/images/blaze.png)
+<div class="gallery">
+   <a href="/images/6village.png">
+    <img src="/images/6village.png" alt="village">
+  </a>
+   <a href="/images/6village2.png">
+    <img src="/images/6village2.png" alt="village">
+  </a>
+</div>
 
 <p class="show-intro">
 once i left the fortress, i returned home and crafted my eyes of ender. following them the first time took me to a stronghold with no portal room (which i think happens often on education edition?), so i built a nether portal and travelled a long way. this time i was able to find an end portal!
