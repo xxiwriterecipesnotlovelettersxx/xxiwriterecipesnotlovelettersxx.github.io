@@ -2,7 +2,7 @@
 layout: post
 title: "my new minecraft house"
 date: 2026-05-05
-categories: lifex
+categories: life
 thumbnail: /images/6sunset.png
 ---
 
