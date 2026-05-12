@@ -15,19 +15,19 @@ thumbnail: /images/5goblinviolence2.JPG
 <a href="https://www.instagram.com/wrench_band/">Wrench</a><br>
 </p>
 <br>
-Scheduled only the next day after Starfest at the Tote, a Starfest 'afterparty' took place at Footscray's beloved DIY venue Spit. The reasoning behind this show was to hold an event that could be attended by all ages, in case anyone under 18 missed out on going to the Tote. A few bands from the festival lineup were joined by two new additions, putting on another very memorable night.
+Scheduled only the next day after Starfest at the Tote, a Starfest 'afterparty' took place at Footscray's beloved DIY venue Spit. The reasoning behind this show was to hold an event that could be attended by fans of all ages, in case anyone under the age of 18 missed out on going to the Tote. A few bands from the festival lineup were joined by two new additions, putting on another very memorable night.
 
 ![poster](/images/starfest2poster1.jpg)
 
-The afterparty actually went through a few last-minute changes to the lineup, because between Saturday night and Sunday afternoon, Ringo from Fear of Horses (who were originally meant to play) got food poisoning and had to pull out of the show. Taking their place, The Picture of Dorian Gray returned from their inactive status to fill the gap.
+The afterparty actually went through a few last-minute changes to the lineup, because between Saturday night and Sunday afternoon, Ringo from Eora band Fear of Horses (who were originally meant to play) got food poisoning and had to pull out of the show. Taking their place, The Picture of Dorian Gray returned from their inactive status to fill the gap.
 <br><br>
 Leading up to the 5:00 show, most of the day was spent trekking around the city getting various pieces of equipment and figuring out logistics - including an arduous journey to borrow a guitar amp head from The World At A Glance's very own Scott Mclatchie. Despite this, we still managed to enjoy our time in the morning, including a lovely group breakfast at Innerbloom, a cafe in Spotswood.
 
 ![liambreakfast](/images/liambreakfast.JPG)
 
-Kicking things off immediately were Wrench, a Geelong skramz three-piece who were not on Sunday's lineup.
+Kicking things off immediately were Wrench, a Geelong skramz three-piece who were not on Sunday's lineup. Their set comprised of equal parts abrasive, chaotic, and melodic skramz, accompanied by plenty of commentary by Paddy, including news of recordings released in the near future.
 <br><br>
-Just as Zi said, Wrench are getting better and better each show that they play. I am looking forward to seeing what their future looks like, as Paddy seems to have some pretty ambitious goals in mind.
+Just as Zi said, Wrench are getting better and better each show that they play. I am really looking forward to seeing where they will go as a band, as Paddy seems to have some ambitious goals in mind. Their set concluded, leaving the audience warmed up and ready for more performances.
 
 <div class="gallery">
    <a href="/images/1wrench1.JPG">
@@ -39,9 +39,9 @@ Just as Zi said, Wrench are getting better and better each show that they play. 
 </div>
 
 <p class="show-intro">
-After releasing their demo and playing their 'last show' earlier that month, Eora screamo band The Picture of Dorian Gray made a return to the stage for one final (?) show, filling in for Fear of Horses. As a big fan of <a href="https://thepictureofdoriangray67.bandcamp.com/album/demo">their demo release</a>, I was excited to see them play.
+After releasing their demo and playing their 'last show' earlier that month, Eora screamo band The Picture of Dorian Gray made a return to the stage for one final (?) show, filling in for Fear of Horses. As a big fan of <a href="https://thepictureofdoriangray67.bandcamp.com/album/demo">their demo release</a>, I was particularly excited to see them play.
 </p><br>
-Aidan's vocal delivery took me by surprise, being much sassier than I expected. This, combined with their two-vocalist setup, led to me finding them somewhat reminiscent of Told Not To Worry, a sound I really enjoyed. Although it is something of a cliché, The Picture of Dorian Gray were even better live.
+Aidan's vocal delivery in this project took me by surprise, being much sassier than I expected. This, combined with their two-vocalist setup, led to me finding them somewhat reminiscent of Told Not To Worry, a sound I really enjoyed. As much as I loved their Bandcamp demo, The Picture of Dorian Gray were even better live.
 
 <div class="gallery">
    <a href="/images/2doriangray4.jpg">
