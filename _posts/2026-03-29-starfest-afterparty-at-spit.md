@@ -77,7 +77,7 @@ Juno Eclipse began their performance after we had played, and things seemed to b
   </a>
 </div>
 
-Next came the long-awaited conclusion to the Starfest weekend: a final battle set between Eora bands goblinviolence and mycriesfallondeafears.
+Next came the long-awaited conclusion to the Starfest weekend: a final battle set between Eora bands goblinviolence and mycriesfallondeafears. I'm not sure how much there is to say about this, except that it was just as uncontrollable as it sounds. goblinviolenced began, flying a Che 
 
 <div class="gallery">
    <a href="/images/5battleset5.jpg">
