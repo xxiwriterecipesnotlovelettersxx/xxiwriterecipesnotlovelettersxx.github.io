@@ -52,10 +52,10 @@ Aidan's vocal delivery in this project took me by surprise, being much sassier t
   </a>
 </div>
 
-We now in her palms set. i LIVED this one
+Shortly after The Picture of Dorian Gray, I joined my bandmates on stage to play our second Starfest set as In Her Palms. This performance was one of my favourites, and, although I was worn out from a long weekend, I couldn't stop myself from smiling through most of our act.
 <br>
 <br>
-Crowd.... must chill out
+The crowd's energy during our performance was very high, especially when we played some older Could be Stars songs (even after playing them for "the last time ever" the night before). There were several instances of people from the audience getting on stage and causing perhaps a little too much chaos, considering I was knocked over and my guitar signal lost halfway through playing 'Snow'. Although playing and attending this show was a lot of fun, it is important to remember to respect the space and other people around you.
 
 <div class="gallery">
    <a href="/images/3ihop1.jpg">
