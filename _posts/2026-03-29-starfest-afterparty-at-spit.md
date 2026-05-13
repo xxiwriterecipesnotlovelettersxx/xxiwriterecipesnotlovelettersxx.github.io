@@ -55,7 +55,7 @@ Aidan's vocal delivery in this project took me by surprise, being much sassier t
 Shortly after The Picture of Dorian Gray, I joined my bandmates on stage to play our second Starfest set as In Her Palms. This performance was one of my favourites, and, although I was worn out from a long weekend, I couldn't stop myself from smiling through most of our act.
 <br>
 <br>
-The crowd's energy during our performance was very high, especially when we played some older Could be Stars songs (even after playing them for "the last time ever" the night before). There were several instances of people from the audience getting on stage and causing perhaps a little too much chaos, considering I was knocked over and my guitar signal lost halfway through playing 'Snow'. Although playing and attending this show was a lot of fun, it is important to remember to respect the space and other people around you.
+The crowd's energy during our performance was very high, especially when we played some older Could be Stars songs (even after playing them for "the last time ever" the night before). There were several instances of people from the audience getting on stage and causing perhaps a little too much chaos, considering I was knocked over and my guitar signal lost halfway through playing 'Snow'. Although playing and attending this show was a lot of fun, it is important to remember to respect the space and other people around!
 
 <div class="gallery">
    <a href="/images/3ihop1.jpg">
@@ -66,9 +66,7 @@ The crowd's energy during our performance was very high, especially when we play
   </a>
 </div>
 
-Juno eclipse started to play..
-<br><br>
-a few songs in their bass player had to quickly leave stage, performanced stopped. theyw ere anotehr victim of food poisoning. kebab
+Juno Eclipse began their performance after we had played, and things seemed to be going smoothly. However, a few songs in their bass player had to quickly leave the stage, and their music stopped. It turns out that they were another victim of the kebab food poisoning, which had now claimed Juno Eclipse alongside Fear of Horses. Unfortunately, their set had to end here.. I hope everyone affected is okay </3
 
 <div class="gallery">
    <a href="/images/4junoeclipse1.JPG">
@@ -79,7 +77,7 @@ a few songs in their bass player had to quickly leave stage, performanced stoppe
   </a>
 </div>
 
-Battle SET GOBBY V AND MYCRIES
+Next came the long-awaited conclusion to the Starfest weekend: a final battle set between Eora bands goblinviolence and mycriesfallondeafears.
 
 <div class="gallery">
    <a href="/images/5battleset5.jpg">
