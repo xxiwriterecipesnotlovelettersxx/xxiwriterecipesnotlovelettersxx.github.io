@@ -99,7 +99,7 @@ The bands took it in turns to deliver a relentless, uncontrollable, and passiona
   </a>
 </div>
 
-During this battle set, one of the bands (I completely lost track of who was playing by this point) played 'Sometimes When I'm In The City (I'm Like Holy Shit I'm In The City)' by the Eora project Casey Jones Village.
+During this battle set, mycriesfallondeafears played 'Sometimes When I'm In The City (I'm Like Holy Shit I'm In The City)' by the Eora project Casey Jones Village.
 
 ![battleset](/images/5goblinviolence4.JPG)
 
