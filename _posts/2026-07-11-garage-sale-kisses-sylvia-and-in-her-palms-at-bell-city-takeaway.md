@@ -13,11 +13,11 @@ thumbnail: /images/bellcityihop2.png
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
 </p>
 <br>
-A weekend long-awaited by many, Starfest finally came to The Tote, Collingwood, to bring some of Naarm & Eora's best emo-adjacent bands together. Tickets sold out quickly, filling the band room with an excited crowd from the afternoon into late evening. It was so incredible to be a part of one of the ten bands who joined forces to put on such an amazing show.. I will definitely look back on this night fondly for a long time to come.
+and here, i write an introduction. who played? when?. where?
 
 ![poster](/images/gsaleprestonposter.jpg)
 
-Arriving at the venue. yay meeting people venue is cool michael sound! first gig since starefest
+Arriving at the venue. yay meeting people venue is cool michael sound! first gig since starfest. the weather (wet).
 <br><br>
 in her palms we played, debuting two new live songs fashion school electric and a new, as of right now unnamed.
 
