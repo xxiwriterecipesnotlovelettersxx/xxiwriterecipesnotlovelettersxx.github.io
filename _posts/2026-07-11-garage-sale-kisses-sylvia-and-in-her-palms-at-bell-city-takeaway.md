@@ -17,16 +17,16 @@ A weekend long-awaited by many, Starfest finally came to The Tote, Collingwood, 
 
 ![poster](/images/gsaleprestonposter.jpg)
 
-Southeast skramz five-piece Chromatin opened the show at around 3pm, immediately setting an intense and animated tone for the afternoon. This was my 8th?? time seeing them play, and they have come so far since their first show. Their energy is consistent, with this set being one of their best yet.
+Arriving at the venue. yay meeting people venue is cool michael sound! first gig since starefest
 <br><br>
-As is now a well-established staple of Chromatin's live act, Liam performed his vocals exclusively from the floor, joining the crowd and dancing alongside them. To finish, the band ended their set with two songs from their upcoming demo EP, 'Downpour' and 'Sharpshooter'. These were both highlights that concluded their performance on a high note.
+in her palms we played, debuting two new live songs fashion school electric and a new, as of right now unnamed.
 
 <div class="gallery">
-   <a href="/images/1chromatin1.JPG">
-    <img src="/images/1chromatin1.JPG" alt="chromatin">
+   <a href="/images/bellcityihop2.png">
+    <img src="/images/bellcityihop2.png" alt="ihop">
   </a>
-   <a href="/images/1chromatin2.JPG">
-    <img src="/images/1chromatin2.JPG" alt="chromatin">
+   <a href="/images/bellcityihop4.jpg">
+    <img src="/images/bellcityihop4.jpg" alt="ihop">
   </a>
 </div>
 
