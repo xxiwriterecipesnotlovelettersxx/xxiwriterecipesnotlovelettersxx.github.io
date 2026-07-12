@@ -3,7 +3,7 @@ layout: post
 title: "garage sale, sylvia, kisses, & in her palms @ bell city takeaway"
 date: 2026-07-11
 categories: showx
-thumbnail: /images/9junoeclipse3.JPG
+thumbnail: /images/gsaleprestonposter.jpg
 ---
 <br>
 <p class="show-intro">
@@ -15,7 +15,7 @@ thumbnail: /images/9junoeclipse3.JPG
 <br>
 A weekend long-awaited by many, Starfest finally came to The Tote, Collingwood, to bring some of Naarm & Eora's best emo-adjacent bands together. Tickets sold out quickly, filling the band room with an excited crowd from the afternoon into late evening. It was so incredible to be a part of one of the ten bands who joined forces to put on such an amazing show.. I will definitely look back on this night fondly for a long time to come.
 
-![poster](/images/starfestposter1.jpg)
+![poster](/images/gsaleprestonposter.jpg)
 
 Southeast skramz five-piece Chromatin opened the show at around 3pm, immediately setting an intense and animated tone for the afternoon. This was my 8th?? time seeing them play, and they have come so far since their first show. Their energy is consistent, with this set being one of their best yet.
 <br><br>
