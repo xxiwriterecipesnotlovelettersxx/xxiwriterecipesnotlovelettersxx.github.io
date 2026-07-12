@@ -2,7 +2,7 @@
 layout: post
 title: "garage sale, sylvia, kisses, & in her palms @ bell city takeaway"
 date: 2026-07-11
-categories: show
+categories: showx
 thumbnail: /images/gsaleprestonposter.jpg
 ---
 <br>
