@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "garage sale, kisses, sylvia, & in her palms @ bell city takeaway"
+title: "garage sale, sylvia, kisses, & in her palms @ bell city takeaway"
 date: 2026-07-11
 categories: showx
 thumbnail: /images/9junoeclipse3.JPG
 ---
 <br>
 <p class="show-intro">
-<a href="https://mycriesfallondeafears.bandcamp.com/">Garage Sale</a> <br>
-<a href="https://junoeclipse.bandcamp.com/">Kisses</a> <br>
-<a href="https://www.instagram.com/ourmutualfriendband/">Sylvia</a> <br>
+<a href="https://www.garagesaleband.net/">Garage Sale</a> <br>
+<a href="https://linktr.ee/sylviatheband?utm_source=linktree_profile_share&ltsid=72ecb929-7f8c-4e57-a655-2c33e86ba41c">Sylvia</a> <br>
+<a href="https://kisses5eva.bandcamp.com/">kisses</a> <br>
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
 </p>
 <br>
