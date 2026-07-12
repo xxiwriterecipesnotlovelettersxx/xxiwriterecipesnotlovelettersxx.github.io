@@ -13,7 +13,7 @@ thumbnail: /images/bellcityihop2.png
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
 </p>
 <br>
-and here, i write an introduction. who played? when?. where?
+and here, i write an introduction. who played? when?. where? Sore Horse Showcase
 
 ![poster](/images/gsaleprestonposter.jpg)
 
