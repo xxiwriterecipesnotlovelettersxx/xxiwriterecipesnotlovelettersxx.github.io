@@ -7,13 +7,14 @@ thumbnail: /images/bellcityihop2.png
 ---
 <br>
 <p class="show-intro">
-<a href="https://www.garagesaleband.net/">Garage Sale</a> <br>
-<a href="https://linktr.ee/sylviatheband?utm_source=linktree_profile_share&ltsid=72ecb929-7f8c-4e57-a655-2c33e86ba41c">Sylvia</a> <br>
-<a href="https://kisses5eva.bandcamp.com/">kisses</a> <br>
-<a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
+<a href="https://www.instagram.com/bodyshirt______/">body shirt</a> <br>
+<a href="https://gilcerrone.bandcamp.com/">Gil Cerrone</a> <br>
+<a href="https://junoeclipse.bandcamp.com/">juno eclipse</a> <br>
+<a href="https://linktr.ee/inherpalms">In Her Palms</a> <br>
+<a href="https://fearofhorses1.bandcamp.com/">Fear of Horses</a> <br>
 </p>
 <br>
-and here, i write an introduction. who played? when?. where? Sore Horse Showcase
+friyay
 
 ![poster](/images/gsaleprestonposter.jpg)
 
