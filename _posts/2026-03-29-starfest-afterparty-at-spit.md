@@ -111,7 +111,7 @@ I cannot thank Spit enough for allowing this show to happen! This night of the f
 Any videos? s <a href="https://www.instagram.com/reel/DWjGD0jDmQx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Fear of Horses</a>
 </p>
 
-![junoeclipse](/images/9junoeclipse3.JPG)
+![wrench](/images/1wrench3.jpg)
 
 ### photos from the night (click to expand)
 photo credits:
