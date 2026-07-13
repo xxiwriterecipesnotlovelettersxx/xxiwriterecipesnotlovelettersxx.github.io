@@ -106,10 +106,7 @@ During this battle set, mycriesfallondeafears played 'Sometimes When I'm In The 
 The night ended on a high note, miraculously managing to extend the energy from the first night of Starfest a further 24 hours. As one of the many band members involved, I would like to thank everyone else who came to watch the show, organise, host, document, or in any other way support this amazing night of our lives.
 <br><br>
 I cannot thank Spit enough for allowing this show to happen! This night of the festival was particularly high in its crowd energy.. it is super important to remember to respect others around you and the venue when going to gigs like these. Much love guys I hope everyone is okay<3
-<br><br>
-<p class="show-intro">
-Any videos? s <a href="https://www.instagram.com/reel/DWjGD0jDmQx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Fear of Horses</a>
-</p>
+<br>
 
 ![wrench](/images/1wrench3.jpg)
 
