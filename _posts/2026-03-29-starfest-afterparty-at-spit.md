@@ -155,82 +155,10 @@ photo credits:
   <a href="/images/2doriangray5.jpg">
   <img src="/images/2doriangray5.jpg" alt="doriangray">
   </a>
-     <a href="/images/3themiddlechapter3.jpg">
-  <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
+     <a href="/images/4junoeclipse1.JPG">
+  <img src="/images/4junoeclipse1.JPG" alt="junoeclipse">
   </a>
-  <a href="/images/4goblinviolence1.JPG">
-    <img src="/images/4goblinviolence1.JPG" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence7.jpg">
-  <img src="/images/4goblinviolence7.jpg" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence3.JPG">
-    <img src="/images/4goblinviolence3.JPG" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence6.jpg">
-    <img src="/images/4goblinviolence6.jpg" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence4.JPG">
-  <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
-  </a>
-     <a href="/images/4goblinviolence5.jpg">
-  <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
-  </a>
-  <a href="/images/4goblinviolence2.JPG">
-  <img src="/images/4goblinviolence2.JPG" alt="goblinviolence">
-  </a>
-   <a href="/images/5twaag1.jpg">
-    <img src="/images/5twaag1.jpg" alt="twaag">
-  </a>
-   <a href="/images/5twaag2.jpg">
-    <img src="/images/5twaag2.jpg" alt="twaag">
-  </a>
-      <a href="/images/5twaag3.jpg">
-    <img src="/images/5twaag3.jpg" alt="twaag">
-  </a>
-  <a href="/images/6foh1.JPG">
-  <img src="/images/6foh1.JPG" alt="fearofhorses">
-  </a>
-  <a href="/images/6foh2.JPG">
-  <img src="/images/6foh2.JPG" alt="fearofhorses">
-  </a>
-   <a href="/images/7ihop1.png">
-    <img src="/images/7ihop1.png" alt="ihop">
-  </a>
-   <a href="/images/7ihop2.png">
-    <img src="/images/7ihop2.png" alt="ihop">
-  </a>
-      <a href="/images/7ihop3.png">
-    <img src="/images/7ihop3.png" alt="ihop">
-  </a>
-  <a href="/images/8omf2.JPG">
-    <img src="/images/8omf2.JPG" alt="ourmutualfriend">
-  </a>
-  <a href="/images/8omf1.JPG">
-    <img src="/images/8omf1.JPG" alt="ourmutualfriend">
-  </a>
-  <a href="/images/8omf3.JPG">
-    <img src="/images/8omf3.JPG" alt="ourmutualfriend">
-  </a>
-  <a href="/images/9junoeclipse3.JPG">
-  <img src="/images/9junoeclipse3.JPG" alt="junoeclipse">
-  </a>
-  <a href="/images/9junoeclipse2.JPG">
-  <img src="/images/9junoeclipse2.JPG" alt="junoeclipse">
-  </a>
-  <a href="/images/9junoeclipse1.JPG">
-  <img src="/images/9junoeclipse1.JPG" alt="junoeclipse">
-  </a>
-  <a href="/images/9junoeclipse4.JPG">
-  <img src="/images/9junoeclipse4.JPG" alt="junoeclipse">
-  </a>
-  <a href="/images/9junoeclipse5.JPG">
-  <img src="/images/9junoeclipse5.JPG" alt="junoeclipse">
-  </a>
-   <a href="/images/10mycries1.jpg">
-    <img src="/images/10mycries1.jpg" alt="mycriesfallondeafears">
-  </a>
-   <a href="/images/10mycries2.jpg">
-    <img src="/images/10mycries2.jpg" alt="mycriesfallondeafears">
+  <a href="/images/4junoeclipse2.JPG">
+    <img src="/images/4junoeclipse2.JPG" alt="junoeclipse">
   </a>
 </div>
