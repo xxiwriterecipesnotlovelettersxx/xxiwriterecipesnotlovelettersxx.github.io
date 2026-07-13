@@ -2,7 +2,7 @@
 layout: post
 title: "starfest afterparty @ spit"
 date: 2026-03-29
-categories: show
+categories: showx
 thumbnail: /images/5goblinviolence2.JPG
 ---
 <br>
