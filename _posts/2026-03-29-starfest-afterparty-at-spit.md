@@ -151,6 +151,21 @@ photo credits:
   <a href="/images/2doriangray5.jpg">
   <img src="/images/2doriangray5.jpg" alt="doriangray">
   </a>
+     <a href="/images/3ihop2.jpg">
+  <img src="/images/3ihop2.jpg" alt="ihop">
+  </a>
+  <a href="/images/3ihop3.jpg">
+  <img src="/images/3ihop3.jpg" alt="ihop">
+  </a>
+     <a href="/images/3ihop1.jpg">
+  <img src="/images/3ihop1.jpg" alt="ihop">
+  </a>
+  <a href="/images/3ihop4.jpg">
+  <img src="/images/3ihop4.jpg" alt="ihop">
+  </a>
+     <a href="/images/3ihop5.jpg">
+  <img src="/images/3ihop5.jpg" alt="ihop">
+  </a>
      <a href="/images/4junoeclipse1.JPG">
   <img src="/images/4junoeclipse1.JPG" alt="junoeclipse">
   </a>
