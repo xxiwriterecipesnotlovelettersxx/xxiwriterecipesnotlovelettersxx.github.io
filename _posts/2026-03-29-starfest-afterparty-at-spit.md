@@ -143,11 +143,11 @@ photo credits:
   <a href="/images/2doriangray1.JPG">
     <img src="/images/2doriangray1.JPG" alt="doriangray">
   </a>
-  <a href="/images/2doriangray4.jpg">
-    <img src="/images/2doriangray4.jpg" alt="doriangray">
-  </a>
   <a href="/images/2doriangray2.JPG">
     <img src="/images/2doriangray2.JPG" alt="doriangray">
+  </a>
+  <a href="/images/2doriangray4.jpg">
+    <img src="/images/2doriangray4.jpg" alt="doriangray">
   </a>
      <a href="/images/2doriangray3.JPG">
   <img src="/images/2doriangray3.JPG" alt="doriangray">
