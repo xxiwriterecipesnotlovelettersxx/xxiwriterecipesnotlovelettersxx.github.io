@@ -88,7 +88,7 @@ Next came the long-awaited conclusion to the Starfest weekend: a final battle se
   </a>
 </div>
 
-The bands took it in turns to deliver a relentless, uncontrollable, and passionate alternating performance. This final set lasted over an hour, switching fluently between goblinviolence's chaotic and sassy mathcore and mycries' emotional and equally energetic sounds.
+The bands took it in turns to deliver a relentless, uncontrollable, and passionate alternating performance. This final set lasted over an hour, switching fluently between goblinviolence's chaotic, politically charged, and sassy mathcore and mycries' emotional and equally energetic sounds.
 
 <div class="gallery">
    <a href="/images/5goblinviolence3.JPG">
@@ -99,16 +99,16 @@ The bands took it in turns to deliver a relentless, uncontrollable, and passiona
   </a>
 </div>
 
-During this battle set, mycriesfallondeafears played 'Sometimes When I'm In The City (I'm Like Holy Shit I'm In The City)' by the Eora project Casey Jones Village.
+During this battle set, mycriesfallondeafears played 'Sometimes When I'm In The City (I'm Like Holy Shit I'm In The City)' by Casey Jones Village.
 
 ![battleset](/images/5goblinviolence4.JPG)
 
-Thanks guys. youth event important
+The night ended on a high note, miraculously managing to extend the energy from the first night of Starfest a further 24 hours. As one of the many band members involved, I would like to thank everyone else who came to watch the show, organise, host, document, or in any other way support this amazing night of our lives.
 <br><br>
-people gotta chill respect spit resspect others
+I cannot thank Spit enough for allowing this show to happen! This night of the festival was particularly high in its crowd energy.. it is super important to remember to respect others around you and the venue when going to gigs like these. Much love guys I hope everyone is okay<3
 <br><br>
 <p class="show-intro">
-Shoutouts s <a href="https://www.instagram.com/reel/DWjGD0jDmQx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Fear of Horses</a>
+Any videos? s <a href="https://www.instagram.com/reel/DWjGD0jDmQx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Fear of Horses</a>
 </p>
 
 ![junoeclipse](/images/9junoeclipse3.JPG)
