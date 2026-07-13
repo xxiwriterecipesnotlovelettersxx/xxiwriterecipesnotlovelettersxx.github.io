@@ -27,7 +27,7 @@ Leading up to the 5:00 show, most of the day was spent trekking around the city 
 
 Kicking things off immediately were Wrench, a Geelong skramz three-piece who were not on Sunday's lineup. Their set comprised of equal parts abrasive, chaotic, and melodic skramz, accompanied by plenty of commentary by Paddy, including news of recordings released in the near future.
 <br><br>
-Just as Zi said, Wrench are getting better and better each show that they play. I am really looking forward to seeing where they will go as a band, as Paddy seems to have some ambitious goals in mind. Their set concluded, leaving the audience warmed up and ready for more performances.
+Just as Zi said, Wrench are getting better and better each show that they play. I am really looking forward to seeing where they will go as a band, as they seem to have plenty of collective ambition. Their set concluded, leaving the audience warmed up and ready for more performances.
 
 <div class="gallery">
    <a href="/images/1wrench1.JPG">
