@@ -140,20 +140,20 @@ photo credits:
   <a href="/images/1wrench5.JPG">
     <img src="/images/1wrench5.JPG" alt="wrench">
   </a>
-  <a href="/images/2halfrequest2.JPG">
-    <img src="/images/2halfrequest2.JPG" alt="halfrequest">
+  <a href="/images/2doriangray1.JPG">
+    <img src="/images/2doriangray1.JPG" alt="doriangray">
   </a>
-  <a href="/images/2halfrequest3.JPG">
-    <img src="/images/2halfrequest3.JPG" alt="halfrequest">
+  <a href="/images/2doriangray2.JPG">
+    <img src="/images/2doriangray2.JPG" alt="doriangray">
   </a>
-     <a href="/images/rydershoes.JPG">
-  <img src="/images/rydershoes.JPG" alt="rydershoes">
+     <a href="/images/2doriangray3.JPG">
+  <img src="/images/2doriangray3.JPG" alt="doriangray">
   </a>
-  <a href="/images/3themiddlechapter1.JPG">
-    <img src="/images/3themiddlechapter1.JPG" alt="themiddlechapter">
+  <a href="/images/2doriangray4.JPG">
+    <img src="/images/2doriangray4.JPG" alt="doriangray">
   </a>
-  <a href="/images/3themiddlechapter2.JPG">
-  <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
+  <a href="/images/2doriangray5.JPG">
+  <img src="/images/2doriangray5.JPG" alt="doriangray">
   </a>
      <a href="/images/3themiddlechapter3.jpg">
   <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
