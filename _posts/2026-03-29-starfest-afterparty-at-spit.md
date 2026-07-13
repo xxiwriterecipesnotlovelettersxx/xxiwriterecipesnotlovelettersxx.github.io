@@ -172,4 +172,19 @@ photo credits:
   <a href="/images/4junoeclipse2.JPG">
     <img src="/images/4junoeclipse2.JPG" alt="junoeclipse">
   </a>
+     <a href="/images/5battleset1.jpg">
+  <img src="/images/5battleset1.jpg" alt="battleset">
+  </a>
+  <a href="/images/5battleset2.jpg">
+  <img src="/images/5battleset2.jpg" alt="battleset">
+  </a>
+     <a href="/images/5battleset3.jpg">
+  <img src="/images/5battleset3.jpg" alt="battleset">
+  </a>
+     <a href="/images/5battleset4.jpg">
+  <img src="/images/5battleset4.jpg" alt="battleset">
+  </a>
+  <a href="/images/5battleset5.jpg">
+    <img src="/images/5battleset5.jpg" alt="battleset">
+  </a>
 </div>
