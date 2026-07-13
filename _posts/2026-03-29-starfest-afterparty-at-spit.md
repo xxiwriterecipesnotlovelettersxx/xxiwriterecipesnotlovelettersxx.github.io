@@ -118,11 +118,7 @@ photo credits:
 <br>
 @tennace.photography on instagram
 <br>
-@joyful.8.8.8 on instagram
-<br>
-@milk_luvsu on instagram
-<br>
-@googiboogi on youtube (bambell)
+@someoneenenneneen on instagram i dmd them
 
 <div class="gallery">
   <a href="/images/1wrench1.JPG">
