@@ -199,4 +199,13 @@ photo credits:
   <a href="/images/6mycries1.JPG">
     <img src="/images/6mycries1.JPG" alt="battleset">
   </a>
+  <a href="/images/liambreakfast.JPG">
+    <img src="/images/liambreakfast.JPG" alt="liambreakfast">
+  </a>
+  <a href="/images/starfesthuongvietfull.JPG">
+    <img src="/images/starfesthuongvietfull.JPG" alt="huongviet">
+  </a>
+  <a href="/images/starfesthuongvietempty.JPG">
+    <img src="/images/starfesthuongvietempty.JPG" alt="huongviet">
+  </a>
 </div>
