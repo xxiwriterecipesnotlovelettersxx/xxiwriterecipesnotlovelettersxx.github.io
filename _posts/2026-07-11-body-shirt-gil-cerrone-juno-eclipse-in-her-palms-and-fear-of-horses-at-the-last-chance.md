@@ -2,7 +2,7 @@
 layout: post
 title: "body shirt, gil cerrone, juno eclipse, in her palms, & fear of horses @ the last chance"
 date: 2026-07-11
-categories: show
+categories: showx
 thumbnail: /images/bellcityihop2.png
 ---
 <br>
