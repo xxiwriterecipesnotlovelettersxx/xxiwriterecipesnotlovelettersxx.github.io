@@ -175,16 +175,31 @@ photo credits:
      <a href="/images/5battleset1.jpg">
   <img src="/images/5battleset1.jpg" alt="battleset">
   </a>
+  <a href="/images/5goblinviolence1.JPG">
+    <img src="/images/5goblinviolence1.JPG" alt="battleset">
+  </a>
   <a href="/images/5battleset2.jpg">
   <img src="/images/5battleset2.jpg" alt="battleset">
+  </a>
+  <a href="/images/5goblinviolence2.JPG">
+    <img src="/images/5goblinviolence2.JPG" alt="battleset">
   </a>
      <a href="/images/5battleset3.jpg">
   <img src="/images/5battleset3.jpg" alt="battleset">
   </a>
+  <a href="/images/5goblinviolence3.JPG">
+    <img src="/images/5goblinviolence3.JPG" alt="battleset">
+  </a>
      <a href="/images/5battleset4.jpg">
   <img src="/images/5battleset4.jpg" alt="battleset">
   </a>
+  <a href="/images/5goblinviolence4.JPG">
+    <img src="/images/5goblinviolence4.JPG" alt="battleset">
+  </a>
   <a href="/images/5battleset5.jpg">
     <img src="/images/5battleset5.jpg" alt="battleset">
+  </a>
+  <a href="/images/6mycries1.JPG">
+    <img src="/images/6mycries1.JPG" alt="battleset">
   </a>
 </div>
