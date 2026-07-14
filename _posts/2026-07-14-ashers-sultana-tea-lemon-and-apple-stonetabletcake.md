@@ -36,7 +36,8 @@ Hi guys this one was written by Asher back in... march?? of last year. this was 
 10. Spread on a baking tray lined with paper to desired thickness, I usually hit like ½cm but it’s whatever you want.
 11. Bake in 180c oven for like 25 minutes, checking with a skewer every now and then because I really don’t know how long it should take.
 <br><br>
-**I think these are suggestions, but I’ve forgotten**
+##I think these are suggestions, but I’ve forgotten##
+<br>
 So this time you should:
 <br>
 Add half a cup more flour
