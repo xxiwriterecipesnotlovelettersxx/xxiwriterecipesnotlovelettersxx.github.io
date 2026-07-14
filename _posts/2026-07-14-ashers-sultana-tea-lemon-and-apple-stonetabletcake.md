@@ -3,7 +3,7 @@ layout: post
 title: "asher's sultana tea lemon And apple stonetabletcake"
 date: 2026-07-14
 categories: recipe
-thumbnail: /images/IMG_3196.jpg
+thumbnail: /images/cake0.jpg
 ---
 
 Hi guys this one was written by Asher back in... march?? of last year. this was originally a baking item he decided to invent, made vegan so that i could eat it !! awww omg. everyrything written beyond this point was written by asher and all responsibility for accidents, poisoning etc that occur while you are baking falls upon his shoulders.
@@ -58,6 +58,6 @@ For a smooth and invigorating swallow, add 3 tablespoons of chemicals.
 <br>
 No LOL that’s why we omit baking powder silly.
 
-![soup1](/images/IMG_3196.jpg)
-![soup1](/images/IMG_3154.jpg)
-![soup1](/images/IMG_3166.jpg)
+![cake](/images/cake0.jpg)
+![cake](/images/cake1.png)
+![cake](/images/cake2.jpg)
