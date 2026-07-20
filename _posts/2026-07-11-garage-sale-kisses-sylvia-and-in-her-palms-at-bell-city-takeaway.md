@@ -86,7 +86,7 @@ photo credits:
 <br>
 @thnksfrthmmrs.07 on instagram
 <br>
-@THAT OTHER PERSON INSTA GRAM on instagram
+@jayy_sirii
 
 <div class="gallery">
    <a href="/images/bellcityihop1.PNG">
