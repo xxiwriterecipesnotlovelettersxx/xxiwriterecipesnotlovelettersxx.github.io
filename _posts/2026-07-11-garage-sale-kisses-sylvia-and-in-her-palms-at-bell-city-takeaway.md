@@ -35,11 +35,11 @@ kisses next. i offered up my guitar lead. slowcore/folk. lyricak delivery. quiet
 sad/happy music oh i missed may (emotion in crowd). violin sweeping, enchanting, music evocative of australian landscape idk why. song that they ended on was 'I Wanna See You Smile' bittersweet.
 
 <div class="gallery">
-   <a href="/images/2halfrequest1.JPG">
-    <img src="/images/2halfrequest1.JPG" alt="chromatin">
+   <a href="/images/kisses3.jpg">
+    <img src="/images/kisses3.jpg" alt="kisses">
   </a>
-   <a href="/images/2halfrequest2.JPG">
-    <img src="/images/2halfrequest2.JPG" alt="chromatin">
+   <a href="/images/kisses2.jpg">
+    <img src="/images/kisses2.jpg" alt="kisses">
   </a>
 </div>
 
