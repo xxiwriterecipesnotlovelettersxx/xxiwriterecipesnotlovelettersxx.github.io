@@ -13,7 +13,7 @@ thumbnail: /images/bellcityihop2.png
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
 </p>
 <br>
-and here, i write an introduction. who played? when?. where? Sore Horse Showcase
+Saturday night on the 11th of July, Bell City Takeaway, a bar and music venue on Preston's High Street came alive to host a showcase put on by Sore Horse Records, featuring four independent Naarm bands. The show saw Garage Sale headlining, their first live performance since January!
 
 ![poster](/images/gsaleprestonposter.jpg)
 
