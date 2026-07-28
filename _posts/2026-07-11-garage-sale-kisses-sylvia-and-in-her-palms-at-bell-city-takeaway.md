@@ -19,7 +19,7 @@ Saturday night on the 11th of July, Bell City Takeaway, a bar and music venue on
 
 After an hour-long tram journey from Docklands, I arrived at the venue. Going inside, all of my friends and I agreed that it was a really cool space with a GREAT layout for DIY shows. Alongside meeting other band members, we were introduced to Bell City Takeaway's lovely audio engineer Michael. As the show's first opening band, In Her Palms then played for the first time since our Starfest shows.
 <br><br>
-Due to the heavy downpour outside, Asher came on to stage dripping wet to begin our opening set. We played six songs in total, debuting two new live numbers - one of which was an electric version of 'Fashion School' from our acoustic split with Our Mutual Friend.
+Due to the heavy downpour outside, Asher came on to stage dripping wet to begin our opening set. We played six songs in total, debuting two new live numbers - one of which was an electric version of 'Fashion School' from our acoustic split with Our Mutual Friend. It was really nice to perform again :0
 
 <div class="gallery">
    <a href="/images/bellcityihop2.png">
