@@ -30,7 +30,7 @@ Due to the heavy downpour outside, Asher came on to stage dripping wet to begin 
   </a>
 </div>
 
-kisses next. i offered up my guitar lead. slowcore/folk. lyricak delivery. quiet, sparse arrangement to begin had crowd hanging onto every word/lyric. some intricate finegrpicked guitar work.
+Playing shortly after we did were the band kisses. i offered up my guitar lead. slowcore/folk. lyricak delivery. quiet, sparse arrangement to begin had crowd hanging onto every word/lyric. some intricate finegrpicked guitar work.
 <br><br>
 sad/happy music oh i missed may (emotion in crowd). violin sweeping, enchanting, music evocative of australian landscape idk why. song that they ended on was 'I Wanna See You Smile' bittersweet.
 
