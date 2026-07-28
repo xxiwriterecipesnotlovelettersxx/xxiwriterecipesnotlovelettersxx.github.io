@@ -13,13 +13,13 @@ thumbnail: /images/bellcityihop2.png
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
 </p>
 <br>
-Saturday night on the 11th of July, Bell City Takeaway, a bar and music venue on Preston's High Street came alive to host a showcase put on by Sore Horse Records, featuring four independent Naarm bands. The show saw Garage Sale headlining, their first live performance since January!
+Saturday night on the 11th of July, Bell City Takeaway, a bar and music venue on Preston's High Street came alive to host a showcase put on by Sore Horse Records, featuring four independent Naarm bands. The show saw Garage Sale headlining and playing their first live performance since January!
 
 ![poster](/images/gsaleprestonposter.jpg)
 
-Arriving at the venue. yay meeting people venue is cool michael sound! first gig since starfest. the weather (wet).
+After an hour-long tram journey from Docklands, I arrived at the venue. Going inside, all of my friends and I agreed that it was a really cool space with a GREAT layout for DIY shows. Alongside meeting other band members, we were introduced to Bell City Takeaway's lovely audio engineer Michael. As the show's first opening band, In Her Palms then played for the first time since our Starfest shows.
 <br><br>
-in her palms we played, debuting two new live songs fashion school electric and a new, as of right now unnamed.
+Due to the heavy downpour outside, Asher came on to stage dripping wet to begin our opening set. We played six songs in total, debuting two new live numbers - one of which was an electric version of 'Fashion School' from our acoustic split with Our Mutual Friend.
 
 <div class="gallery">
    <a href="/images/bellcityihop2.png">
