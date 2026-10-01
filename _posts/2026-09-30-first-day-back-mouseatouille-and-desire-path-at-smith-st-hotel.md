@@ -33,7 +33,7 @@ I got let into the venue just in time to catch the final minutes of desire path'
 
 ![poster](/images/desirepathfdb1.png)
 
-mouseatouille
+mouseatouille. nine-piece
 <br><br>
 mouseatouille
 
@@ -51,11 +51,11 @@ and then first day back!
 first day back.
 
 <div class="gallery">
-   <a href="/images/3themiddlechapter3.jpg">
-    <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
+   <a href="/images/fdb1.JPG">
+    <img src="/images/fdb1.JPG" alt="firstdayback">
   </a>
-   <a href="/images/3themiddlechapter2.JPG">
-    <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
+   <a href="/images/fdb3.JPG">
+    <img src="/images/fdb3.JPG" alt="firstdayback">
   </a>
 </div>
 
