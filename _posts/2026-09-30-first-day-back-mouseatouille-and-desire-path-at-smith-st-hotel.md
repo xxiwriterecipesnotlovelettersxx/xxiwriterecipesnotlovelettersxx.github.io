@@ -16,9 +16,9 @@ On a Wednesday night in Collingwood, Californian second-wave emo revival band Fi
 
 ![poster](/images/fdbposter1.jpg)
 
-Before the show
+My friends and I left for the city following a morning band practice, our party slowly growing larger as we travelled to Southern Cross, then Footscray, then eventually to Smith Street in Collingwood. It was a warm and humid afternoon, but the setting sun saw spirits rise.
 <br><br>
-And the venue.
+Reaching the venue just before 7:30pm, we were greeted with a long queue also waiting to be admitted inside. We made conversation while shuffling forward gradually towards the doors, discussing many topics (notably Asher's penchant for promiscuity).
 
 <div class="gallery">
    <a href="/images/sunsetfdb1.JPG">
