@@ -29,7 +29,7 @@ r
   </a>
 </div>
 
-Desire path?
+I got let into the venue just in time to catch the final minutes of desire path's opening set. This was my second time watching them play, having seen them once before at Spit last year. .....................................................
 
 ![poster](/images/fdbposter1.jpg)
 
