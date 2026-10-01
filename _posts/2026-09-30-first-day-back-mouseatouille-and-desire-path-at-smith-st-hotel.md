@@ -77,8 +77,8 @@ Late ahh journeyt hjome, jd, footsxray, vline
 
 
 <div class="gallery">
-   <a href="/images/ashervline1.JPG">
-    <img src="/images/ashervline1.JPG" alt="ashervline">
+   <a href="/images/vlineasher1.JPG">
+    <img src="/images/vlineasher1.JPG" alt="ashervline">
   </a>
    <a href="/images/pb100000.JPG">
     <img src="/images/pb100000.JPG" alt="peanutbuttertoast">
