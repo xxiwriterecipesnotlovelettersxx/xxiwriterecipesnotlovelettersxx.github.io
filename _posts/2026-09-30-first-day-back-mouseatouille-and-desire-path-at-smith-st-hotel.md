@@ -41,8 +41,8 @@ mouseatouille
    <a href="/images/mouseatouillefdb1.JPG">
     <img src="/images/mouseatouillefdb1.JPG" alt="mouseatouille">
   </a>
-   <a href="/images/mouseatouillefdb2.jpg">
-    <img src="/images/mouseatouillefdb2.jpg" alt="mouseatouille">
+   <a href="/images/mouseatouillefdb3.JPG">
+    <img src="/images/mouseatouillefdb3.JPG" alt="mouseatouille">
   </a>
 </div>
 
