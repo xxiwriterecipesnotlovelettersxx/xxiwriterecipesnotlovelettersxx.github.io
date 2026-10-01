@@ -3,7 +3,7 @@ layout: post
 title: "first day back, mouseatouille, and desire path @ smith st hotel"
 date: 2026-09-30
 categories: showx
-thumbnail: /images/9junoeclipse3.JPG
+thumbnail: /images/fdb3.JPG
 ---
 <br>
 <p class="show-intro">
