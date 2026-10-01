@@ -61,14 +61,7 @@ first day back.
 
 First day back. Show wrapped up
 
-<div class="gallery">
-   <a href="/images/5twaag3.jpg">
-    <img src="/images/5twaag3.jpg" alt="twaag">
-  </a>
-   <a href="/images/5twaag2.jpg">
-    <img src="/images/5twaag2.jpg" alt="twaag">
-  </a>
-</div>
+![firstdayback](/images/fdb2.JPG)
 
 Late ahh journeyt hjome, jd, footsxray, vline
 <br>
