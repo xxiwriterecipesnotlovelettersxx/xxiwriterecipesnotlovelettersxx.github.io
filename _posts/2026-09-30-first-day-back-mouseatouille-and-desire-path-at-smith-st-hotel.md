@@ -12,7 +12,7 @@ thumbnail: /images/9junoeclipse3.JPG
 <a href="https://linktr.ee/pesiredath?utm_source=linktree_profile_share&ltsid=c22eee37-7f8b-45ce-98d9-e71670587ed2/">desire path</a><br>
 </p>
 <br>
-Firsty day back introduction
+On a Wednesday night in Collingwood, Californian second-wave emo revival band First Day Back joined Naarm's Mouseatouille and desire path to play a sold-out show at Smith St Hotel, marking the third performance of their Australian tour. It was an eventful and exciting night, which did not fall short of everyone's collectively high expectations.
 
 ![poster](/images/fdbposter1.jpg)
 
