@@ -38,8 +38,8 @@ mouseatouille
 mouseatouille
 
 <div class="gallery">
-   <a href="/images/3themiddlechapter3.jpg">
-    <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
+   <a href="/images/mouseatouillefdb1.JPG">
+    <img src="/images/mouseatouillefdb1.JPG" alt="mouseatouille">
   </a>
    <a href="/images/3themiddlechapter2.JPG">
     <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
