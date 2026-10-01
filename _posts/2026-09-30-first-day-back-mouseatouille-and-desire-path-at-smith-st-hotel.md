@@ -2,7 +2,7 @@
 layout: post
 title: "first day back, mouseatouille, and desire path @ smith st hotel"
 date: 2026-03-28
-categories: show
+categories: showx
 thumbnail: /images/9junoeclipse3.JPG
 ---
 <br>
