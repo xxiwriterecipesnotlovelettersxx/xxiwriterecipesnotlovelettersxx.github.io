@@ -21,11 +21,11 @@ Before the show
 And the venue.
 
 <div class="gallery">
-   <a href="/images/1chromatin1.JPG">
-    <img src="/images/1chromatin1.JPG" alt="chromatin">
+   <a href="/images/sunsetfdb1.JPG">
+    <img src="/images/sunsetfdb1.JPG" alt="sunset">
   </a>
-   <a href="/images/1chromatin2.JPG">
-    <img src="/images/1chromatin2.JPG" alt="chromatin">
+   <a href="/images/queuefdb1.JPG">
+    <img src="/images/queuefdb1.JPG" alt="queue">
   </a>
 </div>
 
