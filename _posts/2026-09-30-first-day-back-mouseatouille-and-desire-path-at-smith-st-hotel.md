@@ -59,11 +59,11 @@ first day back.
   </a>
 </div>
 
-First day back. Show wrapped up
+The final song that they performed was 'Twelve Mile Train Tracks', a fitting conclusion to an incredible performance. The tempo and texture gradually reduced in a slow 'goodbye' to the crowd, and a fond sense of tangible, bittersweet enjoyment filled the room. The set's end was met with unanimous cries for an encore, but these were sadly shut down by Maggie announcing that they "didn't have any more songs left to play".
 
 ![firstdayback](/images/fdb2.JPG)
 
-Late ahh journeyt hjome, jd, footsxray, vline
+Although the show itself finished quite early, just before 10:30pm
 <br>
 <br>
 Late ahh journeyt hjome, jd, footsxray, vline
