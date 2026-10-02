@@ -91,13 +91,9 @@ Shoutout @cohen.salnitro on Instagram for recording and putting together compila
 ### photos from the night (click to expand)
 photo credits:
 <br>
-@tennace.photography on instagram
+@r.elium on instagram
 <br>
-@joyful.8.8.8 on instagram
-<br>
-@milk_luvsu on instagram
-<br>
-@googiboogi on youtube (bambell)
+@luvdonnie_ on instagram
 
 <div class="gallery">
    <a href="/images/1chromatin1.JPG">
