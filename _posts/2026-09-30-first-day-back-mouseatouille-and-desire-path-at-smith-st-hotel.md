@@ -63,10 +63,10 @@ The final song that they performed was 'Twelve Mile Train Tracks', a fitting con
 
 ![firstdayback](/images/fdb2.JPG)
 
-Although the show itself finished quite early, just before 10:30pm
+Although the show itself finished quite early, just before 10:30pm, the journey back to Geelong took us well into the early hours of October. It was a bizarre trip, which included an encounter with Jordan Daniels (Gil Cerrone's drummer), a missed train at Town Hall Station, a very late V/Line out of Footscray, and sighting a group of deer next to a road in Armstrong Creek.
 <br>
 <br>
-Late ahh journeyt hjome, jd, footsxray, vline
+Thank you soooo so much to Zi for giving me a place to sleep for the night and driving me around, and the hospitality of her family :) After many hours without food, the peanut butter, cinnamon, bread crust, and 100s & 1000s monstrosity I created hit BEAUTIFULLY.
 
 
 <div class="gallery">
