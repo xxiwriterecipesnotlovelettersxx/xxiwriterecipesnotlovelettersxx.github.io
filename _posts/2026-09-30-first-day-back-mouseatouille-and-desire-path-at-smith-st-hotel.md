@@ -29,7 +29,7 @@ r
   </a>
 </div>
 
-I got let into the venue just in time to catch the final minutes of desire path's opening set. This was my second time watching them play, having seen them once before at Spit last year. .....................................................
+I got let into the venue just in time to catch the final minutes of desire path's opening set. This was my second time watching them play, having seen them once before at Spit last year. Though I only caught the end of their performance, their fluid dynamic transitions amd natural, emotive blend of slowcore, shoegaze, and noise rovk carried moments of surprising intensity and left me wanting more.
 
 ![poster](/images/desirepathfdb1.png)
 
