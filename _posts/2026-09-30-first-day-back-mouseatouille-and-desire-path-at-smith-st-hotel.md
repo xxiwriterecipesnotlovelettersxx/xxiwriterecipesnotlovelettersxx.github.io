@@ -128,49 +128,31 @@ photo credits:
   <a href="/images/mouseatouillefdb5.JPG">
   <img src="/images/mouseatouillefdb5.JPG" alt="mouseatouille">
   </a>
-     <a href="/images/3themiddlechapter3.jpg">
-  <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
+     <a href="/images/fdb1.JPG">
+  <img src="/images/fdb1.JPG" alt="firstdayback">
   </a>
-  <a href="/images/4goblinviolence1.JPG">
-    <img src="/images/4goblinviolence1.JPG" alt="goblinviolence">
+     <a href="/images/fdb3.JPG">
+  <img src="/images/fdb3.JPG" alt="firstdayback">
   </a>
-  <a href="/images/4goblinviolence7.jpg">
-  <img src="/images/4goblinviolence7.jpg" alt="goblinviolence">
+     <a href="/images/fdb2.JPG">
+  <img src="/images/fdb2.JPG" alt="firstdayback">
   </a>
-  <a href="/images/4goblinviolence3.JPG">
-    <img src="/images/4goblinviolence3.JPG" alt="goblinviolence">
+     <a href="/images/fdb4.JPG">
+  <img src="/images/fdb4.JPG" alt="firstdayback">
   </a>
-  <a href="/images/4goblinviolence6.jpg">
-    <img src="/images/4goblinviolence6.jpg" alt="goblinviolence">
+  <a href="/images/cuteashell.JPG">
+    <img src="/images/cuteashell.JPG" alt="wholegangcuteashell">
   </a>
-  <a href="/images/4goblinviolence4.JPG">
-  <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
+  <a href="/images/ashertram1.JPG">
+  <img src="/images/ashertram1.JPG" alt="tran">
   </a>
-     <a href="/images/4goblinviolence5.jpg">
-  <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
+     <a href="/images/zipattram.JPG">
+  <img src="/images/zipattram.JPG" alt="tram">
   </a>
-  <a href="/images/4goblinviolence2.JPG">
-  <img src="/images/4goblinviolence2.JPG" alt="goblinviolence">
+  <a href="/images/zipatsign.JPG">
+  <img src="/images/zipatsign.JPG" alt="sign">
   </a>
-   <a href="/images/5twaag1.jpg">
-    <img src="/images/5twaag1.jpg" alt="twaag">
-  </a>
-   <a href="/images/5twaag2.jpg">
-    <img src="/images/5twaag2.jpg" alt="twaag">
-  </a>
-      <a href="/images/5twaag3.jpg">
-    <img src="/images/5twaag3.jpg" alt="twaag">
-  </a>
-  <a href="/images/6foh1.JPG">
-  <img src="/images/6foh1.JPG" alt="fearofhorses">
-  </a>
-  <a href="/images/6foh2.JPG">
-  <img src="/images/6foh2.JPG" alt="fearofhorses">
-  </a>
-   <a href="/images/7ihop1.png">
-    <img src="/images/7ihop1.png" alt="ihop">
-  </a>
-   <a href="/images/7ihop2.png">
-    <img src="/images/7ihop2.png" alt="ihop">
+   <a href="/images/patjovi1.JPG">
+    <img src="/images/patjovi1.JPG" alt="patjovi">
   </a>
 </div>
