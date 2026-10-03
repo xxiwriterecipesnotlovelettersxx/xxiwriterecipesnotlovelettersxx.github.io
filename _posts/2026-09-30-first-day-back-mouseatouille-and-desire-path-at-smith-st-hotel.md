@@ -19,7 +19,7 @@ On a Wednesday night in Collingwood, Californian second-wave emo revival band Fi
 My friends and I left for the city following a morning band practice, our party slowly growing larger as we travelled to Southern Cross, then Footscray, then eventually to Smith Street in Collingwood. It was a warm and humid afternoon, but the setting sun saw our spirits rise.
 <br><br>
 Reaching the venue just before 7:30pm, we were greeted with a long queue also waiting to be admitted inside. We made conversation while shuffling forward gradually towards the doors, discussing many topics (notably Asher's penchant for promiscuity) and greeting people we knew as they came past to join the line.
-r
+
 <div class="gallery">
    <a href="/images/sunsetfdb1.JPG">
     <img src="/images/sunsetfdb1.JPG" alt="sunset">
@@ -46,9 +46,9 @@ Mouseatouille's act was intimate and often vulnerably tender, with warm keys and
   </a>
 </div>
 
-and then first day back!
+As soon as they left the stage, Zi and I resolutely made our way downstairs to secure a spot somewhere near the front of the crowd to see First Day Back. We waited for a while, putting up with strange drips coming from the balcony above as the mass of people grew bigger and bigger. It was a very tight fit, but we managed to make space for the band's five members as they pushed through on to the stage. In no time, they were playing, beginning with their album-opening 'Sure, Ok'. The band room was densely packed, and as the audience pushed and jumped along to the music, people were going in every direction trying to stay upright.
 <br><br>
-first day back.
+Their front-man, Maggie, noticed this chaotic activity on the floor, and with safety in mind requested (several times throughout the night) that the crowd take "one", "two", even "five big steps back".
 
 <div class="gallery">
    <a href="/images/fdb1.JPG">
