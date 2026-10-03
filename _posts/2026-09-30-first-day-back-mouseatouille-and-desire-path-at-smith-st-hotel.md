@@ -61,7 +61,7 @@ Alongside many beloved songs off their 2025 debut 'Forward', the band played sev
   </a>
 </div>
 
-Partway through the band's set, the rest of the band informed the crowd that it was actually Maggie's birthday, and invited everyone to join them in performing 'Happy Birthday' to wish her well.
+Partway through the band's set, the rest of the band informed the crowd that it was actually Maggie's birthday, and invited everyone to join them in singing/playing 'Happy Birthday' to wish her well. Very cute!
 <br><br>
 The final song that they performed was 'Twelve Mile Train Tracks', a fitting conclusion to an incredible performance. The tempo and texture gradually reduced in a slow 'goodbye' to the crowd, and a fond sense of tangible, bittersweet enjoyment filled the room. The set's end was met with unanimous cries for an encore, but these were sadly shut down by Maggie announcing that they "didn't have any more songs left to play".
 
@@ -82,7 +82,7 @@ Thank you soooo so much to Zi for giving me a place to sleep for the night and d
   </a>
 </div>
 
-show impressions. thaks! Thanks so much
+This was SUCH an amazing show. Thankyouuu to all of these amazing bands for performing this evening, and to everyone who came along and created such a nice atmosphere! First Day Back, please come here again soon :)
 <br><br>
 <p class="show-intro">
 Also thankyou to the ever-reliable @cohen.salnitro, who recorded <a href="https://www.instagram.com/p/Dd7pAdeB5DB/">this video montage</a> of First Day Back’s set from the evening!
