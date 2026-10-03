@@ -12,7 +12,7 @@ thumbnail: /images/fdb3.JPG
 <a href="https://linktr.ee/pesiredath?utm_source=linktree_profile_share&ltsid=c22eee37-7f8b-45ce-98d9-e71670587ed2/">desire path</a><br>
 </p>
 <br>
-On a Wednesday night in Collingwood, Californian second-wave emo revival band First Day Back joined Naarm's Mouseatouille and desire path to play a sold-out show at Smith St Hotel, marking the third performance of their Australian tour. It was an eventful and exciting night, which did not fall short of everyone's collectively high expectations.
+On a Wednesday night in Collingwood, Californian second-wave emo revival five-piece First Day Back joined Naarm's Mouseatouille and desire path to play a sold-out show at Smith St Hotel, marking the third performance of their Australian tour. It was an eventful and exciting night, which did not fall short of everyone's collectively high expectations.
 
 ![poster](/images/fdbposter1.jpg)
 
@@ -48,7 +48,9 @@ Mouseatouille's act was intimate and often vulnerably tender, with warm keys and
 
 As soon as they left the stage, Zi and I resolutely made our way downstairs to secure a spot somewhere near the front of the crowd to see First Day Back. We waited for a while, putting up with strange drips coming from the balcony above as the mass of people grew bigger and bigger. It was a very tight fit, but we managed to make space for the band's five members as they pushed through on to the stage. In no time, they were playing, beginning with their album-opening 'Sure, Ok'. The band room was densely packed, and as the audience pushed and jumped along to the music, people were going in every direction trying to stay upright.
 <br><br>
-Their front-man, Maggie, noticed this chaotic activity on the floor, and with safety in mind requested (several times throughout the night) that the crowd take "one", "two", even "five big steps back".
+Their front-man, Maggie, noticed this chaotic activity on the floor, and with safety in mind requested (several times throughout the night) that the crowd take "one", "two", even "five big steps back". The audience's energy meant that I didn't last the whole time at the very front, moving further and further back to avoid being pulled in each direction as often.
+<br><br>
+Alongside many beloved songs off their 2025 debut 'Forward', the band played several new pieces which Maggie announced would feature on their upcoming album! These songs sounded GREAT, very fun, upbeat, and rhythmically interesting - and carried the same nostalgic second-wave warmth which First Day Back captured with their first record. Hearing these new tunes, as well as other old and familiar ones (my favourite being 'Us'!), was very surreal. I love First Day Back's sound, and Maggie's vocal delivery, as well as sporadic violin and harmonica performances, was amazing to see in front of me.
 
 <div class="gallery">
    <a href="/images/fdb1.JPG">
@@ -59,6 +61,8 @@ Their front-man, Maggie, noticed this chaotic activity on the floor, and with sa
   </a>
 </div>
 
+Partway through the band's set, the rest of the band informed the crowd that it was actually Maggie's birthday, and invited everyone to join them in performing 'Happy Birthday' to wish her well.
+<br><br>
 The final song that they performed was 'Twelve Mile Train Tracks', a fitting conclusion to an incredible performance. The tempo and texture gradually reduced in a slow 'goodbye' to the crowd, and a fond sense of tangible, bittersweet enjoyment filled the room. The set's end was met with unanimous cries for an encore, but these were sadly shut down by Maggie announcing that they "didn't have any more songs left to play".
 
 ![firstdayback](/images/fdb2.JPG)
