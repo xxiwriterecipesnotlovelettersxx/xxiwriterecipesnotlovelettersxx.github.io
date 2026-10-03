@@ -155,4 +155,10 @@ photo credits:
    <a href="/images/patjovi1.JPG">
     <img src="/images/patjovi1.JPG" alt="patjovi">
   </a>
+  <a href="/images/vlineasher1.JPG">
+  <img src="/images/vlineasher1.JPG" alt="vlineasher">
+  </a>
+   <a href="/images/patskramzface.JPG">
+    <img src="/images/patskramzface.JPG" alt="patskramzface">
+  </a>
 </div>
