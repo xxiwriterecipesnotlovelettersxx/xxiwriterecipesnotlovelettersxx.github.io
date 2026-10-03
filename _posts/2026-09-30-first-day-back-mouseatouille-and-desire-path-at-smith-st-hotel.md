@@ -98,35 +98,35 @@ photo credits:
 @luvdonnie_ on instagram
 
 <div class="gallery">
-   <a href="/images/1chromatin1.JPG">
-    <img src="/images/1chromatin1.JPG" alt="chromatin">
+   <a href="/images/smithst1.JPG">
+    <img src="/images/smithst1.JPG" alt="smithsthotel">
   </a>
-   <a href="/images/1chromatin2.JPG">
-    <img src="/images/1chromatin2.JPG" alt="chromatin">
+   <a href="/images/queuefdb1.JPG">
+    <img src="/images/queuefdb1.JPG" alt="queue">
   </a>
-  <a href="/images/1chromatin3.JPG">
-    <img src="/images/1chromatin3.JPG" alt="chromatin">
+  <a href="/images/desirepathfdb1.png">
+    <img src="/images/desirepathfdb1.png" alt="desirepath">
   </a>
-  <a href="/images/1chromatin4.JPG">
-  <img src="/images/1chromatin4.JPG" alt="chromatin">
+  <a href="/images/smithstfdb1.JPG">
+  <img src="/images/smithstfdb1.JPG" alt="smitsthotel">
   </a>
-  <a href="/images/2halfrequest1.JPG">
-    <img src="/images/2halfrequest1.JPG" alt="halfrequest">
+  <a href="/images/mouseatouillefdb3.JPG">
+    <img src="/images/mouseatouillefdb3.JPG" alt="mouseatouille">
   </a>
-  <a href="/images/2halfrequest2.JPG">
-    <img src="/images/2halfrequest2.JPG" alt="halfrequest">
+  <a href="/images/smithstfdb2.JPG">
+    <img src="/images/smithstfdb2.JPG" alt="smithsthotel">
   </a>
-  <a href="/images/2halfrequest3.JPG">
-    <img src="/images/2halfrequest3.JPG" alt="halfrequest">
+  <a href="/images/mouseatouillefdb2.jpg">
+    <img src="/images/mouseatouillefdb2.jpg" alt="mouseatouille">
   </a>
-     <a href="/images/rydershoes.JPG">
-  <img src="/images/rydershoes.JPG" alt="rydershoes">
+     <a href="/images/mouseatouillefdb4.JPG">
+  <img src="/images/mouseatouillefdb4.JPG" alt="mouseatouille">
   </a>
-  <a href="/images/3themiddlechapter1.JPG">
-    <img src="/images/3themiddlechapter1.JPG" alt="themiddlechapter">
+  <a href="/images/mouseatouillefdb1.JPG">
+    <img src="/images/mouseatouillefdb1.JPG" alt="mouseatouille">
   </a>
-  <a href="/images/3themiddlechapter2.JPG">
-  <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
+  <a href="/images/mouseatouillefdb5.JPG">
+  <img src="/images/mouseatouillefdb5.JPG" alt="mouseatouille">
   </a>
      <a href="/images/3themiddlechapter3.jpg">
   <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
