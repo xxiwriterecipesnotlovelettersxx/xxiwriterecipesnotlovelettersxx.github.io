@@ -8,10 +8,15 @@ thumbnail: /images/bellcityihop2.png
 <br>
 <p class="show-intro">
 <a href="https://blindgirls.bandcamp.com/music">Blind Girls</a> <br>
+<a href="https://linktr.ee/inherpalms">Craning</a><br>
+<a href="https://blindgirls.bandcamp.com/music">Ritual Disorder</a> (QLD) <br>
+<a href="https://linktr.ee/inherpalms">Gush</a><br>
+<a href="https://blindgirls.bandcamp.com/music">Gil Cerrone</a> <br>
+<a href="https://linktr.ee/inherpalms">Wriding</a><br>
 <a href="https://linktr.ee/inherpalms">In Her Palms</a><br>
 </p>
 <br>
-echo bravo show at the bery bandroom.. secret band??
+echo bravo show at the bery bandroom.. 
 
 ![poster](/images/gsaleprestonposter.jpg)
 
