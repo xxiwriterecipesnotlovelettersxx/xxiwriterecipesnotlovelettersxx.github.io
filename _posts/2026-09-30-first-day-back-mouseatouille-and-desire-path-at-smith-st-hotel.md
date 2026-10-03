@@ -33,9 +33,9 @@ I got let into the venue just in time to catch the final minutes of desire path'
 
 ![poster](/images/desirepathfdb1.png)
 
-mouseatouille. nine-piece
+After desire path's set ended and I got a chance to navigate Smith St Hotel's very disorienting bathrooms, Mouseatouille filled the stage with their impressive nine member lineup. Though I had not seen them play in person before, I was very excited to hear them perform. Their sound blended gentle indie-folk and slacker rock with elements of abrasiveness and strong articulation, married together with the inclusion of orchestral brass and string instrumentation.
 <br><br>
-mouseatouille
+Tender. intimate. warm piano, hamonies. 'My DJ Set'
 
 <div class="gallery">
    <a href="/images/mouseatouillefdb1.JPG">
@@ -80,10 +80,8 @@ Thank you soooo so much to Zi for giving me a place to sleep for the night and d
 
 show impressions. thaks! Thanks so much
 <br><br>
-Thanks! cont'. fuck smith st hotel?
-<br><br>
 <p class="show-intro">
-Also thankyou to the ever-reliable @cohen.salnitro, who recorded <a href="https://www.instagram.com/reel/DWfoCfhgSd6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">this video montage</a> of First Day Back’s set from the evening!
+Also thankyou to the ever-reliable @cohen.salnitro, who recorded <a href="https://www.instagram.com/p/Dd7pAdeB5DB/">this video montage</a> of First Day Back’s set from the evening!
 </p>
 
 ![crowdsurf](/images/crowdsurffdb1.JPG)
