@@ -3,7 +3,7 @@ layout: post
 date: 2026-10-01
 categories: recipe
 title: "may's mum's black bean brownies"
-thumbnail: /images/blackbeanbrownies1.JPG
+thumbnail: /images/blackbeanbrownies2.JPG
 ---
 
 my partner may's mum cooked these brownies for us when i was staying over, and typed the recipe out for me on a piece of paper awww! they were delightful. shoutout eva and shoutout may<3
