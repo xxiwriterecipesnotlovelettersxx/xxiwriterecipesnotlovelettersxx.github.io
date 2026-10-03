@@ -19,7 +19,7 @@ thumbnail: /images/bellcityihop2.png
 
 echo bravo show at the bery bandroom.. intro. doors 3:30, finished after 10:30
 
-![poster](/images/gsaleprestonposter.jpg)
+![poster](/images/echobravo26poster1.jpg)
 
 ihop set, liam not let in
 <br><br>
