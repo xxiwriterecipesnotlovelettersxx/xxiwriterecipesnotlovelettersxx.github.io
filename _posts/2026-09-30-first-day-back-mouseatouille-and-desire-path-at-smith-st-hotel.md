@@ -2,7 +2,7 @@
 layout: post
 title: "first day back, mouseatouille, and desire path @ smith st hotel"
 date: 2026-09-30
-categories: showx
+categories: show
 thumbnail: /images/fdb3.JPG
 ---
 <br>
@@ -46,11 +46,11 @@ Mouseatouille's act was intimate and often vulnerably tender, with warm keys and
   </a>
 </div>
 
-As soon as they left the stage, Zi and I resolutely made our way downstairs to secure a spot somewhere near the front of the crowd to see First Day Back. We waited for a while, putting up with strange drips coming from the balcony above as the mass of people grew bigger and bigger. It was a very tight fit, but we managed to make space for the band's five members as they pushed through on to the stage. In no time, they were playing, beginning with their album-opening 'Sure, Ok'. The band room was densely packed, and as the audience pushed and jumped along to the music, people were going in every direction trying to stay upright.
+As soon as they left the stage, Zi and I resolutely made our way downstairs to secure a spot somewhere near the front of the crowd to see First Day Back. We waited for a while, putting up with strange drips coming from the balcony above as the mass of people grew bigger and bigger. It was a very tight fit, but we managed to make space for the band's five members as they pushed through onto the stage. In no time, they were playing, beginning with their album-opening 'Sure, Ok'. The band room was densely packed, and as the audience pushed and jumped along to the music, people were going in every direction trying to stay upright.
 <br><br>
 Their front-man, Maggie, noticed this chaotic activity on the floor, and with safety in mind requested (several times throughout the night) that the crowd take "one", "two", even "five big steps back". The audience's energy meant that I didn't last the whole time at the very front, moving further and further back to avoid being pulled in each direction as often.
 <br><br>
-Alongside many beloved songs off their 2025 debut 'Forward', the band played several new pieces which Maggie announced would feature on their upcoming album! These songs sounded GREAT, very fun, upbeat, and rhythmically interesting - and carried the same nostalgic second-wave warmth which First Day Back captured with their first record. Hearing these new tunes, as well as other old and familiar ones (my favourite being 'Us'!), was very surreal. I love First Day Back's sound, and Maggie's vocal delivery, as well as sporadic violin and harmonica performances, was amazing to see in front of me.
+Alongside many beloved songs off their 2025 debut 'Forward', the band played several new pieces which Maggie announced would feature on their upcoming album! These songs sounded GREAT, very fun, upbeat, and rhythmically interesting - and carried the same nostalgic second-wave warmth which First Day Back captured in their first record. Hearing these new tunes, as well as other old and familiar ones (my favourite being 'Us'!), was very surreal. I love First Day Back's sound, and Maggie's vocal delivery, as well as sporadic violin and harmonica performances, was amazing to see in front of me.
 
 <div class="gallery">
    <a href="/images/fdb1.JPG">
