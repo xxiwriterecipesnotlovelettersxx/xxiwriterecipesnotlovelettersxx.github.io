@@ -33,9 +33,9 @@ I got let into the venue just in time to catch the final minutes of desire path'
 
 ![poster](/images/desirepathfdb1.png)
 
-After desire path's set ended and I got a chance to navigate Smith St Hotel's very disorienting bathrooms, Mouseatouille filled the stage with their impressive nine member lineup. Though I had not seen them play in person before, I was very excited to hear them perform. Their sound blended gentle indie-folk and slacker rock with elements of abrasiveness and strong articulation, married together with the inclusion of orchestral brass and string instrumentation.
+After desire path's set ended and I got a chance to navigate Smith St Hotel's very disorienting bathrooms, I watched from the balcony as Mouseatouille filled the stage with their impressive nine-member lineup. Though I had not seen them play in person before, I was very excited to hear them perform. Their sound blended gentle indie-folk and abrasive slacker rock with a great variety of articulation and texture, married together with the inclusion of orchestral brass and string instrumentation.
 <br><br>
-Tender. intimate. warm piano, hamonies. 'My DJ Set'
+Mouseatouille's act was intimate and often vulnerably tender, with warm keys and vocal harmonies evoking memories of childhood and inviting reflection. I found one of their gentlest, sweetest-sounding songs, 'My DJ Set', to be a particularly moving standout from their setlist, with its sparse sound and storytelling lyrics building towards a very abrupt cut-off ending. This band was incredible in every single way, the type of music that makes you want to create so much more.
 
 <div class="gallery">
    <a href="/images/mouseatouillefdb1.JPG">
