@@ -3,7 +3,7 @@ layout: post
 title: "echo bravo festival @ the bergy bandroom"
 date: 2026-08-22
 categories: showx
-thumbnail: /images/bellcityihop2.png
+thumbnail: /images/ebgilcerrone2.jpg
 ---
 <br>
 <p class="show-intro">
@@ -21,9 +21,9 @@ Situated along Brunswick's Sydney Road, The Bergy Bandroom hosted the 2026 Echo 
 
 ![poster](/images/echobravo26poster1.jpg)
 
-ihop set, liam not let in
+Joining the rest of my In Her Palms friends, I got on stage first to perform our opening act. This set was lots of fun, with a decent crowd coming into the bandroom for our 4:00 start. One person notably absent from this audience was Liam, who was banned by the security from entering the venue because he didn't have a driver's license. Fuck this.. poor guy
 <br><br>
-ihop set first yay thanks for openning!
+Despite this, we were very happy to open for this excellent night, and felt honoured to feature on such a talented lineup of bands. Thankyou sooo so much for the opportunity to play at this festival!
 
 <div class="gallery">
    <a href="/images/ebihop1.jpg">
