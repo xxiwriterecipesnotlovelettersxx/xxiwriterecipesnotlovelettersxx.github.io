@@ -21,7 +21,7 @@ Situated along Brunswick's Sydney Road, The Bergy Bandroom hosted the 2026 Echo 
 
 ![poster](/images/echobravo26poster1.jpg)
 
-Joining the rest of my In Her Palms friends, I got on stage first to perform our opening act. This set was lots of fun, with a decent crowd coming into the bandroom for our 4:00 start. One person notably absent from this audience was Liam, who was banned by the security from entering the venue because he didn't have a driver's license. Fuck this.. poor guy
+Joining the rest of my In Her Palms friends, I got on stage first to perform our opening act. This set was lots of fun, with a decent crowd coming into the bandroom for our 4:00 start. One person notably absent from this audience was Liam, who was banned by the security from entering the venue because he didn't have a driver's license. Fuck this unfair treatment.. poor guy
 <br><br>
 Despite this, we were very happy to open for this excellent night, and felt honoured to feature on such a talented lineup of bands. Thankyou sooo so much for the opportunity to play at this festival!
 
