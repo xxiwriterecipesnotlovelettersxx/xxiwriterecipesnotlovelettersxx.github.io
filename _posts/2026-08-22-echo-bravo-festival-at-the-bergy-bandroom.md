@@ -7,7 +7,7 @@ thumbnail: /images/bellcityihop2.png
 ---
 <br>
 <p class="show-intro">
-<a href="https://blindgirls.bandcamp.com/music">Blind Girls</a> <br>
+<a href="https://blindgirls.bandcamp.com/music">Blind Girls</a> (QLD) <br>
 <a href="https://craning.bandcamp.com/">Craning</a><br>
 <a href="https://ritualdisorder.bandcamp.com/">Ritual Disorder</a> (QLD) <br>
 <a href="https://gush-melb.bandcamp.com/music">Gush</a><br>
