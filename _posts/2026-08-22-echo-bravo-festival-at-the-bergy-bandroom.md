@@ -34,9 +34,9 @@ Despite this, we were very happy to open for this excellent night, and felt hono
   </a>
 </div>
 
-The next band to play after as was Wriding, an atmospheric slowcore something !!!!!!!! piece from Naarm. atmospheric, drawn-out, oceanic quality almost, soundscape
+The next band to play after us was Wriding, an atmospheric, ambient slowcore four-piece from Naarm. atmospheric, Through their echoing guitars and repetitive melodies, the group shaped a drawn-out soundscape with qualities ranging from the oceanic to the dry and windswept.
 <br><br>
-it was awesome, these band members were lovely
+Their performance captivated the room, their slow tempos marking the passage of time as everything else seemed to stand still. Their set was so cool, I love seeing slowcore bands live so much. The members of this band were so lovely as well, exchanging kind words our sets.
 
 <div class="gallery">
    <a href="/images/ebwriding1.jpg">
