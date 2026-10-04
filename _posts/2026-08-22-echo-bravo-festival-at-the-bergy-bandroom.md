@@ -26,11 +26,11 @@ ihop set, liam not let in
 ihop set first yay thanks for openning!
 
 <div class="gallery">
-   <a href="/images/bellcityihop2.png">
-    <img src="/images/bellcityihop2.png" alt="ihop">
+   <a href="/images/ebihop1.jpg">
+    <img src="/images/ebihop1.jpg" alt="ihop">
   </a>
-   <a href="/images/bellcityihop4.jpg">
-    <img src="/images/bellcityihop4.jpg" alt="ihop">
+   <a href="/images/ebihop2.jpg">
+    <img src="/images/ebihop2.jpg" alt="ihop">
   </a>
 </div>
 
@@ -39,11 +39,11 @@ wriding. slowcore, atmospheric, drawn-out
 it was awesome, these band members were lovely
 
 <div class="gallery">
-   <a href="/images/2halfrequest1.JPG">
-    <img src="/images/2halfrequest1.JPG" alt="chromatin">
+   <a href="/images/ebwriding1.jpg">
+    <img src="/images/ebwriding1.jpg" alt="wriding">
   </a>
-   <a href="/images/2halfrequest2.JPG">
-    <img src="/images/2halfrequest2.JPG" alt="chromatin">
+   <a href="/images/ebwriding2.jpg">
+    <img src="/images/ebwriding2.jpg" alt="wriding">
   </a>
 </div>
 
@@ -52,11 +52,11 @@ gil cerrone fuck yeah!
 the mosh was awesome vocalist on floor he is so scary
 
 <div class="gallery">
-   <a href="/images/3themiddlechapter3.jpg">
-    <img src="/images/3themiddlechapter3.jpg" alt="themiddlechapter">
+   <a href="/images/ebgilcerrone1.jpg">
+    <img src="/images/ebgilcerrone1.jpg" alt="gilcerrone">
   </a>
-   <a href="/images/3themiddlechapter2.JPG">
-    <img src="/images/3themiddlechapter2.JPG" alt="themiddlechapter">
+   <a href="/images/ebgilcerrone2.jpg">
+    <img src="/images/ebgilcerrone2.jpg" alt="gilcerrone">
   </a>
 </div>
 
@@ -65,11 +65,11 @@ i missed most of gush's set, to eat falafel. oh fuck wow it was good and with as
 saw a little of gush!
 
 <div class="gallery">
-   <a href="/images/4goblinviolence4.JPG">
-    <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
+   <a href="/images/ebgush1.jpg">
+    <img src="/images/ebgush1.jpg" alt="gush">
   </a>
-   <a href="/images/4goblinviolence5.jpg">
-    <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
+   <a href="/images/ebgush2.jpg">
+    <img src="/images/ebgush2.jpg" alt="gush">
   </a>
 </div>
 
@@ -78,11 +78,11 @@ ritual disorder fucking YEs. enouyed this impressive vocals AQESOME bass
 blind girls vocalist gave me a t shirt! oh yes.
 
 <div class="gallery">
-   <a href="/images/4goblinviolence4.JPG">
-    <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
+   <a href="/images/ebritualdisorder1.jpg">
+    <img src="/images/ebritualdisorder1.jpg" alt="ritualdisorder">
   </a>
-   <a href="/images/4goblinviolence5.jpg">
-    <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
+   <a href="/images/ebritualdisorder2.jpg">
+    <img src="/images/ebritualdisorder2.jpg" alt="ritualdisorder">
   </a>
 </div>
 
@@ -91,11 +91,11 @@ in the intermission, go across the road to gyg. esh in the bathrroom, DROP SHIRT
 WOW oh my wow fucking yes craning were AAZING. i fucking adore this band they were awdseme, atmospheric and cool mechianicl/industrial/construction stage decoration.
 
 <div class="gallery">
-   <a href="/images/4goblinviolence4.JPG">
-    <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
+   <a href="/images/ebcraning1.jpg">
+    <img src="/images/ebcraning1.jpg" alt="craning">
   </a>
-   <a href="/images/4goblinviolence5.jpg">
-    <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
+   <a href="/images/ebcraning2.jpg">
+    <img src="/images/ebcraning2.jpg" alt="craning">
   </a>
 </div>
 
