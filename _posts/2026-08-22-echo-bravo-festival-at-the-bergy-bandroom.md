@@ -17,7 +17,7 @@ thumbnail: /images/ebgilcerrone2.jpg
 </p>
 <br>
 
-Situated along Brunswick's Sydney Road, The Bergy Bandroom hosted the 2026 Echo Bravo Festival on a Saturday evening, from the mid-afternoon to late into the evening. This year's lineup featured a list of bands just as impressive as the 2025 show, offering local and interstate acts alike spanning (and often blurring) genres of skramz, indie and alternative rock, slowcore, and noise rock. This was such a great night, full of amazing music and lovely socialising as well :)
+Situated along Brunswick's Sydney Road, The Bergy Bandroom hosted the 2026 Echo Bravo Festival on a Saturday evening, from the mid-afternoon to late into the evening. This year's lineup featured a list of bands just as impressive as the 2025 one, offering local and interstate acts alike spanning (and often blurring) genres of skramz, indie and alternative rock, slowcore, and noise punk. This was such a great night, full of amazing music and lovely socialising as well :)
 
 ![poster](/images/echobravo26poster1.jpg)
 
