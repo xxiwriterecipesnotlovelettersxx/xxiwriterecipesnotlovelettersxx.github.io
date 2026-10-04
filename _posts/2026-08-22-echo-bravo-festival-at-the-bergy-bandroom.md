@@ -34,7 +34,7 @@ Despite this, we were very happy to open for this excellent night, and felt hono
   </a>
 </div>
 
-wriding. slowcore, atmospheric, drawn-out
+The next band to play after as was Wriding, an atmospheric slowcore something !!!!!!!! piece from Naarm. atmospheric, drawn-out, oceanic quality almost, soundscape
 <br><br>
 it was awesome, these band members were lovely
 
