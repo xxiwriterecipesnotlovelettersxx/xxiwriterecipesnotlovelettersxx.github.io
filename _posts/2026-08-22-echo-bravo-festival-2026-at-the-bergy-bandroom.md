@@ -114,7 +114,7 @@ wOWWWWW their drumemer so tight they are the coolest band fucking ever. watched 
 
 nice!!! thanks show thankyou awseome i loved thi AMAZING night, first time seeing heavier bands in a hwile and i loved iy, perfect blend of music everyone was so nice.
 
-![junoeclipse](/images/9junoeclipse3.JPG)
+![gilcerrone](/images/ebgilcerrone5.jpg)
 
 ### photos from the night (click to expand)
 photo credits:
