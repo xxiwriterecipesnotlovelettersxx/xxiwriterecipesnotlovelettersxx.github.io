@@ -34,7 +34,7 @@ Despite this, we were very happy to open for this excellent night, and felt hono
   </a>
 </div>
 
-The next band to play after us was Wriding, an atmospheric, ambient slowcore four-piece from Naarm. atmospheric, Through their echoing guitars and repetitive melodies, the group shaped a drawn-out soundscape with qualities ranging from the oceanic to the dry and windswept.
+The next band to play after us was Wriding, an atmospheric, ambient slowcore four-piece from Naarm. Through their echoing guitars and repetitive melodies, the group shaped a drawn-out soundscape with qualities ranging from the oceanic to the dry and windswept.
 <br><br>
 Their performance captivated the room, their slow tempos marking the passage of time as everything else seemed to stand still. Their set was so cool, I love seeing slowcore bands live so much. The members of this band were so lovely as well, exchanging kind words our sets.
 
@@ -47,7 +47,7 @@ Their performance captivated the room, their slow tempos marking the passage of 
   </a>
 </div>
 
-gil cerrone fuck yeah!
+Gil Cerrone Fuck Yeah!
 <br><br>
 the mosh was awesome vocalist on floor he is so scary
 
