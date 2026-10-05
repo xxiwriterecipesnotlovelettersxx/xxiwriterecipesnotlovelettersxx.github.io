@@ -86,9 +86,9 @@ This was another really fun performance, which further lifted my spirits. Also a
   </a>
 </div>
 
-In the intermission between Ritual Disorder and Craning's sets, tragedy struck. I ventured across the road next to The Bergy to meet some of my friends in a Guzman y Gomez building. Trying our new shirts on for size in the bathroom, I looked down to see the t-shirt I had been wearing (which had been tucked in the crease of my elbow) in a heap on the floor, in a puddle of a liquid which I am doubtful was water. my joruney to resolve this, woolwrths, bag, tape, put back a venue (dw and it is now laundry sanitised). get back to venue for secind half of craning!
+In the intermission between Ritual Disorder and Craning's sets, tragedy struck. I ventured across the road next to The Bergy to meet some of my friends in a Guzman y Gomez building. Trying our new shirts on for size in the bathroom, I looked down to see the t-shirt I had been wearing (which had been tucked in the crease of my elbow) in a heap on the floor, in a puddle of a liquid which I am doubtful was water. To resolve this, I asked for a paper bag at the restaurant counter, then journeyed to Woolworths, where I managed to secure the container with tape. As a side note, this shirt has now been washed thoroughly with laundry sanitiser, please no judgement if you see me wearing it again..
 <br><br>
-WOW oh my wow fucking yes craning were AAZING. i fucking adore this band they were awdseme, atmospheric and cool mechianicl/industrial/construction stage decoration.
+I returned from this adventure in time to see the second half of Craning's act, which I had been very excited for. Hearing and seeing their dark, industrialWOW oh my wow fucking yes craning were AAZING. i fucking adore this band they were awdseme, atmospheric and cool mechianicl/industrial/construction stage decoration. Migrated south from Meanjin to Naarm earlier in the year, we are so lucky
 
 <div class="gallery">
    <a href="/images/ebcraning1.jpg">
