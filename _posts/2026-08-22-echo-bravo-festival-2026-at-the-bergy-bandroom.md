@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "echo bravo festival @ the bergy bandroom"
+title: "echo bravo festival 2026 @ the bergy bandroom"
 date: 2026-08-22
-categories: show
+categories: showx
 thumbnail: /images/ebgilcerrone2.jpg
 ---
 <br>
