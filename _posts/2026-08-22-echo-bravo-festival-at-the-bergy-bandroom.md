@@ -49,7 +49,7 @@ Their performance captivated the room, their slow tempos marking the passage of 
 
 Emoviolence rockers Gil Cerrone, who require no introduction from me, were next at 6:00. Naarm's beloved five-piece delivered a set blending post-hardcore, skramz, and metal-adjacent genres, permeated with blast-beats, tremolo guitar picking, and plenty of dissonance.
 <br><br>
-The energy that filled the bandroom was high as a space opened in front of the stage, allowing Michael, their vocalist, an unnerving sense of domain over the floor. The crowd writhed and thrashed along to Gil's unrelenting performance, following the erratic time signatures laid out by the band in an unreliable fashion.
+The energy that filled the bandroom was high as a space opened in front of the stage, allowing Michael, their vocalist, an unnerving sense of domain over the floor as he wailed with powerful, harsh expression. The crowd writhed and thrashed along to Gil's unrelenting performance, following the erratic time signatures laid out by Jordan's drumming to sway, rock, and surge an unreliable fashion.
 
 <div class="gallery">
    <a href="/images/ebgilcerrone1.jpg">
