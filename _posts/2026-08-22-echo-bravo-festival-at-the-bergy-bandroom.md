@@ -104,11 +104,11 @@ then blind girls. onlt saw some of their set bwecause i had to leave But WOWW.
 wOWWWWW their drumemer so tight they are the coolest band fucking ever. watched them from the side of the stage.
 
 <div class="gallery">
-   <a href="/images/4goblinviolence4.JPG">
-    <img src="/images/4goblinviolence4.JPG" alt="goblinviolence">
+   <a href="/images/ebblindgirls1.jpg">
+    <img src="/images/ebblindgirls1.jpg" alt="blindgirls">
   </a>
-   <a href="/images/4goblinviolence5.jpg">
-    <img src="/images/4goblinviolence5.jpg" alt="goblinviolence">
+   <a href="/images/ebblindgirls2.jpg">
+    <img src="/images/ebblindgirls2.jpg" alt="blindgirls">
   </a>
 </div>
 
@@ -210,5 +210,20 @@ photo credits:
   </a>
    <a href="/images/ebcraning8.jpg">
     <img src="/images/ebcraning8.jpg" alt="craning">
+  </a>
+   <a href="/images/ebblindgirls1.jpg">
+    <img src="/images/ebblindgirls1.jpg" alt="blindgirls">
+  </a>
+   <a href="/images/ebblindgirls2.jpg">
+    <img src="/images/ebblindgirls2.jpg" alt="blindgirls">
+  </a>
+   <a href="/images/ebblindgirls3.jpg">
+    <img src="/images/ebblindgirls3.jpg" alt="blindgirls">
+  </a>
+   <a href="/images/ebblindgirls4.jpg">
+    <img src="/images/ebblindgirls4.jpg" alt="blindgirls">
+  </a>
+   <a href="/images/ebblindgirls5.jpg">
+    <img src="/images/ebblindgirls5.jpg" alt="blindgirls">
   </a>
 </div>
