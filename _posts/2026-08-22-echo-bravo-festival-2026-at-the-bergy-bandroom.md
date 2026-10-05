@@ -36,7 +36,7 @@ Despite this, we were very happy to open for this excellent night, and felt hono
 
 The next band to play after us was Wriding, an atmospheric, ambient slowcore four-piece from Naarm. Through their echoing guitars and repetitive melodies, the group shaped a drawn-out soundscape with qualities ranging from the oceanic to the dry and windswept.
 <br><br>
-Their performance captivated the room, their slow tempos marking the passage of time as everything else seemed to stand still. Their set was so cool, I love seeing slowcore bands live so much. The members of this band were so lovely as well, exchanging kind words our sets.
+Their performance captivated the room, their slow tempos marking the passage of time as everything else seemed to stand still. Their set was so cool, I love seeing slowcore bands live so much. The members of this band were so lovely as well, exchanging kind words after our sets.
 
 <div class="gallery">
    <a href="/images/ebwriding1.jpg">
@@ -49,7 +49,7 @@ Their performance captivated the room, their slow tempos marking the passage of 
 
 Emoviolence rockers Gil Cerrone, who require no introduction from me, were next at 6:00. Naarm's beloved five-piece delivered a set blending post-hardcore, skramz, and metal-adjacent genres, permeated with blast-beats, tremolo guitar picking, and plenty of dissonance.
 <br><br>
-The energy that filled the bandroom was high as a space opened in front of the stage, allowing Michael, their vocalist, an unnerving sense of domain over the floor as he wailed with powerful, harsh expression. The crowd writhed and thrashed along to Gil's unrelenting performance, following the erratic time signatures laid out by Jordan's drumming to sway, rock, and surge an unreliable fashion.
+The energy that filled the bandroom was high as a space opened in front of the stage, allowing Michael, their vocalist, an unnerving sense of domain over the floor as he wailed with powerful, harsh expression. The crowd writhed and thrashed along to Gil's unrelenting performance, following the erratic time signatures laid out by Jordan's drumming to sway, rock, and surge in an unreliable fashion.
 
 <div class="gallery">
    <a href="/images/ebgilcerrone1.jpg">
@@ -62,7 +62,7 @@ The energy that filled the bandroom was high as a space opened in front of the s
 
 Completely worn out after Gil Cerrone's set, I departed to find something to eat. I met with my friends briefly at a table outside, then left to go to Kevabs, an entirely-vegan kebab shop also along Sydney Road, only a minute's walk from the venue. This food was AMAZING wow, upon taking a bite Asher immediately asked me to take him there as well. Yummm!
 <br><br>
-Unfortunately, this outing to regain some of my energy meant that I missed a lot of Gush's set :( From the few songs that I did see from the noisy-alternative-rock-shoegaze group, I was left wanting more of their uniquely layered, heavy-but-dreamy ambient sound. These guys have been a bucket-list band of mine for a while, so I hope I get another chance to see them play or perform alongside them again soon!
+Unfortunately, pursuing this outing to regain some of my energy meant that I missed a lot of Gush's set :( From the few songs that I did see from the noisy-alternative-rock-shoegaze group, I was left wanting more of their uniquely layered, heavy-but-dreamy ambient sound. These guys have been a bucket-list band of mine for a while, so I hope I get another chance to see them play or perform alongside them again soon!
 
 <div class="gallery">
    <a href="/images/ebgush1.jpg">
@@ -112,7 +112,7 @@ Sadly, I had to exit only a few songs in, avoiding the crowd through the green r
   </a>
 </div>
 
-The night concluded a little after 10:30pm, though I was not there to see the very end :( This was a great festival with so many talented bands, I can't believe we got the opportunity to play on this kind of lineup. I had so much fun, and my friends all shared the same sentiment. Many many thanks to the other bands for all being such friendly, sweet people and to everyone else who came along to show support and watch! Thankyou especially to promoter/booker On Second Thought for curating and arranging such a perfect show. It was my first time in a while seeing some heavier bands, and I found that the variety of sounds the musicians playing this year each brought to the table ensured the entire afternoon/evening was enjoyable and engaging. Sorry Liam for the unfair security treatment though:<
+The night concluded a little after 10:30pm, though I was not there to see the very end :( This was a great festival with so many talented bands, I can't believe we got the opportunity to play on this kind of lineup. I had so much fun, and my friends all shared the same sentiment. Many many thanks to the other bands for all being such friendly, sweet people and to everyone else who came along to show support and watch! Thankyou especially to promoter/booker On Second Thought for curating and arranging such a perfect show. It was my first time in a while seeing some heavier bands, and I found that the variety of sounds the musicians playing this year each brought to the table ensured the entire afternoon/evening was enjoyable and engaging. Sorry Liam for the unfair security treatment though</3
 
 ![gilcerrone](/images/ebgilcerrone5.jpg)
 
