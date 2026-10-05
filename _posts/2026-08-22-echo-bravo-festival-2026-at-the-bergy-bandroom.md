@@ -62,7 +62,7 @@ The energy that filled the bandroom was high as a space opened in front of the s
 
 Completely worn out after Gil Cerrone's set, I departed to find something to eat. I met with my friends briefly at a table outside, then left to go to Kevabs, an entirely-vegan kebab shop also along Sydney Road, only a minute's walk from the venue. This food was AMAZING wow, upon taking a bite Asher immediately asked me to take him there as well. Yummm!
 <br><br>
-Unfortunately, this outing to regain some of my energy meant that I missed a lot of Gush's set :( From the few songs that I did see from the noisy-alternative-rock-shoegaze group, I was left wanting more of their unique, heavy-but-dreamy, ambient sound. These guys have been a bucket-list band of mine for a while, so I hope I get another chance to see them play or play alongside them again soon!
+Unfortunately, this outing to regain some of my energy meant that I missed a lot of Gush's set :( From the few songs that I did see from the noisy-alternative-rock-shoegaze group, I was left wanting more of their uniquely layered, heavy-but-dreamy ambient sound. These guys have been a bucket-list band of mine for a while, so I hope I get another chance to see them play or perform alongside them again soon!
 
 <div class="gallery">
    <a href="/images/ebgush1.jpg">
@@ -73,9 +73,9 @@ Unfortunately, this outing to regain some of my energy meant that I missed a lot
   </a>
 </div>
 
-ritual disorder fucking YEs. enouyed this impressive vocals AQESOME bass
+Following more talking with friends, I headed back into the bandroom to watch the next act, an indie post-punk band from Meanjin called Ritual Disorder. Prior to the release of the Echo Bravo 2026 lineup, I had not heard of them, but I really enjoyed their set! They shaped a swirling, near-ambient soundscape which was tied down by incredibly tight, catchy (see their song 'The Fade The Pull'!!) bass playing. Their vocalist's voice was also lovely, with clean vocals which soared above the deep melodies of the bassline.
 <br><br>
-blind girls vocalist gave me a t shirt! oh yes.
+This was another really fun performance, which further lifted my spirits. Also after this set, Blind Girls' vocalist, Sharni, gave both Asher and me a free t-shirt! Aww:>
 
 <div class="gallery">
    <a href="/images/ebritualdisorder1.jpg">
