@@ -60,9 +60,9 @@ The energy that filled the bandroom was high as a space opened in front of the s
   </a>
 </div>
 
-i missed most of gush's set, to eat falafel. oh fuck wow it was good and with ashrr. kevabs brunswick.
+Completely worn out after Gil Cerrone's set, I departed to find something to eat. I met with my friends briefly at a table outside, then left to go to Kevabs, an entirely-vegan kebab shop also along Sydney Road, only a minute's walk from the venue. This food was AMAZING wow, upon taking a bite Asher immediately asked me to take him there as well. Yummm!
 <br><br>
-saw a little of gush!
+Unfortunately, this outing to regain some of my energy meant that I missed a lot of Gush's set :( From the few songs that I did see from the noisy-alternative-rock-shoegaze group, I was left wanting more of their unique, heavy-but-dreamy, ambient sound. These guys have been a bucket-list band of mine for a while, so I hope I get another chance to see them play or play alongside them again soon!
 
 <div class="gallery">
    <a href="/images/ebgush1.jpg">
