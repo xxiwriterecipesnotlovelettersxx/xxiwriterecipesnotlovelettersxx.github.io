@@ -226,4 +226,10 @@ photo credits:
    <a href="/images/ebblindgirls5.jpg">
     <img src="/images/ebblindgirls5.jpg" alt="blindgirls">
   </a>
+   <a href="/images/ebasherfalafel1.jpg">
+    <img src="/images/ebasherfalafel1.jpg" alt="asherfalafel">
+  </a>
+   <a href="/images/ebasherfalafel2.jpg">
+    <img src="/images/ebasherfalafel2.jpg" alt="asherfalafel">
+  </a>
 </div>
