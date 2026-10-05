@@ -2,12 +2,12 @@
 layout: post
 title: "echo bravo festival 2026 @ the bergy bandroom"
 date: 2026-08-22
-categories: showx
+categories: show
 thumbnail: /images/ebgilcerrone2.jpg
 ---
 <br>
 <p class="show-intro">
-<a href="https://blindgirls.bandcamp.com/music">Blind Girls</a> (QLD) <br>
+<a href="https://linktr.ee/blindgirls?utm_source=linktree_profile_share&ltsid=eec7f1f7-6f40-408b-ab08-2208b5632d6c">Blind Girls</a> (QLD) <br>
 <a href="https://craning.bandcamp.com/">Craning</a><br>
 <a href="https://ritualdisorder.bandcamp.com/">Ritual Disorder</a> (QLD) <br>
 <a href="https://gush-melb.bandcamp.com/music">Gush</a><br>
@@ -99,9 +99,9 @@ I returned from this adventure in time to see the second half of Craning's act, 
   </a>
 </div>
 
-then blind girls. onlt saw some of their set bwecause i had to leave But WOWW.
+After Craning's departure from the boards, it was time for Blind Girls, a chaotic hardcore/screamo band from Queensland's Gold Coast, to play the night's final act. The energy in the room was buzzing as the festival's conclusion began, with the band's hard-hitting and unbridled aggression taking immediate control of the stage. I watched from the passage into the green room as they delivered a performance indicative of instrumental mastery, with each band member's talent evident in their playing. Their drummer, Ben, was particularly crazy to watch. I hadn't seen anything like that, as high-tempoed and precise, before. Wow!!
 <br><br>
-wOWWWWW their drumemer so tight they are the coolest band fucking ever. watched them from the side of the stage.
+Sadly, I had to exit only a few songs in, avoiding the crowd through the green room's street-adjacent door. As I collected my equipment and departed, I continued to listen in amazement to the energetic, dissonant catharsis of Blind Girls playing on the stage behind me, not wanting to leave.
 
 <div class="gallery">
    <a href="/images/ebblindgirls1.jpg">
@@ -112,7 +112,7 @@ wOWWWWW their drumemer so tight they are the coolest band fucking ever. watched 
   </a>
 </div>
 
-nice!!! thanks show thankyou awseome i loved thi AMAZING night, first time seeing heavier bands in a hwile and i loved iy, perfect blend of music everyone was so nice.
+The night concluded a little after 10:30pm, though I was not there to see the very end :( This was a great festival with so many talented bands, I can't believe we got the opportunity to play on this kind of lineup. I had so much fun, and my friends all shared the same sentiment. Many many thanks to the other bands for all being such friendly, sweet people and to everyone else who came along to show support and watch! Thankyou especially to promoter/booker On Second Thought for curating and arranging such a perfect show. It was my first time in a while seeing some heavier bands, and I found that the variety of sounds the musicians playing this year each brought to the table ensured the entire afternoon/evening was enjoyable and engaging. Sorry Liam for the unfair security treatment though:<
 
 ![gilcerrone](/images/ebgilcerrone5.jpg)
 
