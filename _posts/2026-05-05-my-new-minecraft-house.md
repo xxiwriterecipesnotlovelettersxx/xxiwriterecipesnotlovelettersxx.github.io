@@ -2,7 +2,7 @@
 layout: post
 title: "my new minecraft house"
 date: 2026-05-05
-categories: life
+categories: lifex
 thumbnail: /images/6sunset.png
 ---
 
@@ -62,19 +62,3 @@ HOWEVER! the biggest part of my house is actually an underground storage room, a
 </p>
 
 ![storage](/images/6storage1.png)
-
-<p class="show-intro">
-within a few hundred blocks after coming out the other side of the gateway, i found 3 end cities next to each other, ALL with ships! i lost track of where i had and hadn't already cleared, so i don't think i killed 100% of the shulkers? but anyways
-</p>
-
-![endcities](/images/endcities.png)
-
-<p class="show-intro">
-i got THREE pairs of elytra, then flew all the way back to the portal to the overworld, and back from the stronghold (where i set my spawn) to my house. it was nice to be home:) 
-</p>
-<br>
-<p class="show-intro">
-who knows what lies ahead for my minecraft world... if you have any ideas pleaseee let me know thanks everyone<3
-</p>
-
-![backhome](/images/backhome.png)
