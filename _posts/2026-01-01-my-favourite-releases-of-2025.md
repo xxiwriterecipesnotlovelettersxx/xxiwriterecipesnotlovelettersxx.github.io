@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "goodbye 2005, hello 2006 (my favourite releases of 2025)"
+title: "my favourite releases of 2025"
 date: 2026-01-01
 categories: article
 thumbnail: /images/mycriesfallondeafears.jpg
