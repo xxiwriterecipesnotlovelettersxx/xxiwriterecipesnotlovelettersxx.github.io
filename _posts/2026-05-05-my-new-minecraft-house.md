@@ -2,7 +2,7 @@
 layout: post
 title: "my new minecraft house"
 date: 2026-05-05
-categories: lifex
+categories: life
 thumbnail: /images/6sunset.png
 ---
 
@@ -74,7 +74,7 @@ i got THREE pairs of elytra, then flew all the way back to the portal to the ove
 </p>
 <br>
 <p class="show-intro">
-who knows what lies ahead for my minecraft world... i am hoping i get inspired and do not lose interest now? if you have any ideas pleaseee let me know thanks everyonee<3
+who knows what lies ahead for my minecraft world... if you have any ideas pleaseee let me know thanks everyone<3
 </p>
 
 ![backhome](/images/backhome.png)
