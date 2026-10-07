@@ -52,9 +52,9 @@ arizona band stitching's <a href="https://stitchingband.bandcamp.com/album/stitc
 </p>
 <br>
 
-### 'Split' - doris & es muss sein, 28/03/25
+### 'Count Your Blessings: Repented' - Bring Me the Horizon, 10/07/25
 
-![split](/images/dorisesmusssein.jpg)
+![cybrepented](/images/cybrepentedcover.jpg)
 
 <p class="show-intro">
 this <a href="https://open.spotify.com/album/2xKTyQyvfq41BxYnmaNALn?si=N8gvUFIPQn-H8FTXpjXY2A">split</a> made by doris (eora/sydney) and es muss sein (melbourne/naarm) was notable as es muss sein's debut release, as well as doris' last. i really like this split for its varying sound, with smooth transitions between slower, relaxed sections and heavier, louder parts. both of my favourite songs from each band can be found on this record - 'every bird' by doris and 'parting shot' by es muss sein.
