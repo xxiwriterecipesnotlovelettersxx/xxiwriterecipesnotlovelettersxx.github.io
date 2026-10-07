@@ -25,6 +25,15 @@ djilang alternative/indie rock/emo band could be stars' <a href="https://couldbe
 </p>
 <br>
 
+### 'something worth fighting for' - sover, 12/02/26
+
+![somethingworthfightingfor](/images/somethingworthfightingforalbumcover.jpg)
+
+<p class="show-intro">
+djilang alternative/indie rock/emo band could be stars' <a href="https://couldbestars.bandcamp.com/album/everything-i-love">everything i love</a> is a very well-written album. i may be biased considering the fact that i have since joined the band's lineup (shoutout in her palms) but! big fan of this one regardless. thankyou friends <3 very well done... the lo-fi mixing makes for a calming, well-paced record.
+</p>
+<br>
+
 ### 'DISTRESS TOLERANCE' - Craning, 20/02/26
 
 ![distresstolerancea](/images/distresstolerancealbumcover.jpg)
