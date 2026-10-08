@@ -30,7 +30,7 @@ I discovered this album after opening for Garage Sale alongside kisses in July, 
 ![somethingworthfightingfor](/images/somethingworthfightingforalbumcover.jpg)
 
 <p class="show-intro">
-djilang alternative/indie rock/emo band could be stars' <a href="https://couldbestars.bandcamp.com/album/everything-i-love">everything i love</a> is a very well-written album. i may be biased considering the fact that i have since joined the band's lineup (shoutout in her palms) but! big fan of this one regardless. thankyou friends <3 very well done... the lo-fi mixing makes for a calming, well-paced record.
+X <a href="https://soverrr.bandcamp.com/album/something-worth-fighting-for">something worth fighting for</a> X 'acoustic melancholia, slowcore folk, chamber folk, from Wollongong on Dharawal country'
 </p>
 <br>
 
@@ -45,10 +45,10 @@ ohhhhhhhh my god. <a href="https://toldnottoworry.bandcamp.com/album/hands-in-th
 
 ### 'tomorrow' - Our Mutual Friend, 08/05/26
 
-![tomorrow](/images/distresstolerancealbumcover.jpg)
+![tomorrow](/images/tomorrowcover.jpg)
 
 <p class="show-intro">
-ohhhhhhhh my god. <a href="https://toldnottoworry.bandcamp.com/album/hands-in-the-air">hands in the air</a> comes from rhode island band told not to worry, one of my favourite bands ever. this album was my introduction to sasscore, and i wouldn't have it any other way. the instrumentals, vocals, and mixing on this album are all flawless - queer emoviolence has never sounded better than this. even the album cover is one of my favourites. i can't fault this release in any way. yes i know exactly how i sound.
+X <a href="https://ourmutualfriend.bandcamp.com/album/tomorrow">tomorrow</a> X
 </p>
 <br>
 
@@ -57,7 +57,7 @@ ohhhhhhhh my god. <a href="https://toldnottoworry.bandcamp.com/album/hands-in-th
 ![cybrepented](/images/cybrepentedcover.jpg)
 
 <p class="show-intro">
-Revisiting their deathcore roots, Bring Me the Horizon released  <a href="https://www.youtube.com/watch?v=2V9Q_ExBHHs&list=PLS9EmsRyQYSo">Count Your Blessings: Repented</a> in July, a greatly-anticipated rerecording of their debut album to mark its 20-year anniversary.
+Revisiting their roots in deathcore, Bring Me the Horizon released  <a href="https://www.youtube.com/watch?v=2V9Q_ExBHHs&list=PLS9EmsRyQYSo">Count Your Blessings: Repented</a> in July, a greatly-anticipated rerecording of their debut album in celebration of its 20-year anniversary.
 </p>
 <br>
 
@@ -66,6 +66,6 @@ Revisiting their deathcore roots, Bring Me the Horizon released  <a href="https:
 ![houndlife](/images/houndlifealbumcover.jpg)
 
 <p class="show-intro">
-arizona band stitching's <a href="https://stitchingband.bandcamp.com/album/stitching">self-titled ep</a> really stood out to me because of its natural blend of indie emo and screamo with a very diy sound. i love the way the screaming and clean vocals are layered together, and how dynamic the jumps from dissonant, basement-skramz sections into softer, lo-fi, and melodic parts feel.
+X <a href="https://houndslowcore.bandcamp.com/album/hound-life">hound Life</a> X
 </p>
 <br>
