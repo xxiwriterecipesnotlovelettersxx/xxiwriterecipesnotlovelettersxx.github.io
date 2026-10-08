@@ -57,7 +57,7 @@ X <a href="https://ourmutualfriend.bandcamp.com/album/tomorrow">tomorrow</a> X
 ![cybrepented](/images/cybrepentedcover.jpg)
 
 <p class="show-intro">
-Revisiting their roots in deathcore, Bring Me the Horizon released  <a href="https://www.youtube.com/watch?v=2V9Q_ExBHHs&list=PLS9EmsRyQYSo">Count Your Blessings: Repented</a> in July, a greatly-anticipated rerecording of their debut album in celebration of its 20-year anniversary.
+Revisiting their roots in deathcore, Bring Me the Horizon released  <a href="https://www.youtube.com/watch?v=2V9Q_ExBHHs&list=PLS9EmsRyQYSo">Count Your Blessings: Repented</a> in July, a greatly-anticipated rerecording of their debut album in celebration of its 20-year anniversary. This new record offered fresh recordings of
 </p>
 <br>
 
