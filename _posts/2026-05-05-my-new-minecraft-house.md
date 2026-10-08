@@ -62,3 +62,7 @@ HOWEVER! the biggest part of my house is actually an underground storage room, a
 </p>
 
 ![storage](/images/6storage1.png)
+
+![storage](/images/6storage2.png)
+
+![storage](/images/6storage3.png)
