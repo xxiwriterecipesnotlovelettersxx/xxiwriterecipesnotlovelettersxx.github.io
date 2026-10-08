@@ -23,7 +23,7 @@ Much like I did at the start of last year, I am taking the opportunity to reflec
 <p class="show-intro">
 I discovered this album after opening for Garage Sale alongside kisses in July, finding myself captivated by their gentle, slow, and tender warmth. Released in early February, the Naarm alternative folk five-piece's <a href="https://kisses5eva.bandcamp.com/album/you-are-in-my-dreams">You Are In My Dreams</a> captures . 'dreamy, i wanna see you smile, butterfly eyes, intimate, loving, delicate'
 </p>
-<p class="show-intro">
+<p class="show-intro"><br>
 <i>Favourite track: ‘I Wanna See You Smile’</i>
 </p>
 <br>
