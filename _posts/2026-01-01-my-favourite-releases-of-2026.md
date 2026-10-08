@@ -2,8 +2,8 @@
 layout: post
 title: "my favourite releases of 2026"
 date: 2026-01-01
-categories: articlex
-thumbnail: /images/mycriesfallondeafears.jpg
+categories: article
+thumbnail: /images/cybrepentedcover.jpg
 ---
 
 <br>
