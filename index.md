@@ -13,11 +13,11 @@ vegan recipes for my emo friends. rawr XD :p
 
 ### shows
 *photography, posters, & anything related to the shows i go to!*  
-[see show posts →](/shows)
+[see show posts ->](/shows)
 
 ### other articles
 *all my other posts looking at the diy, local music scene (among other things)*  
-[read journalism →](/other-articles)
+[read journalism ->](/other-articles)
 
 ### my life etc.
 *diary entries, pictures, updates, & everything else i want to blog about*  
