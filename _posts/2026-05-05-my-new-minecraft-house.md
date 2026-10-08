@@ -63,6 +63,10 @@ HOWEVER! the biggest part of my house is actually an underground storage room, a
 
 ![storage](/images/6storage1.png)
 
+<p class="show-intro">
+there is a tunnel attached in which i grow many a crop, though majority potatoes
+</p>
+
 ![storage](/images/6storage2.png)
 
 ![storage](/images/6storage3.png)
