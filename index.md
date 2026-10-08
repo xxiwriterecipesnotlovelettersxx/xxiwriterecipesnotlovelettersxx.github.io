@@ -3,12 +3,12 @@ layout: default
 title: home
 ---
 
-vegan recipes for my emo friends. rawr XD lolz:3
+vegan recipes for my emo friends. rawr XD :p
 
 ---
 
 ### recipes
-*my reason for starting this blog... sharing my vegan cooking with you guys*  
+*my reason for starting this blog... sharing my vegan cooking with others*  
 [see all recipes →](/recipes)
 
 ### shows
@@ -16,8 +16,8 @@ vegan recipes for my emo friends. rawr XD lolz:3
 [see show posts →](/shows)
 
 ### other articles
-*all my other posts looking at the diy, emo-adjacent scene*  
-[read skramz journalism →](/other-articles)
+*all my other posts looking at the diy, local music scene (among other things)*  
+[read journalism →](/other-articles)
 
 ### my life etc.
 *diary entries, pictures, updates, & everything else i want to blog about*  
