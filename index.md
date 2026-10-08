@@ -20,5 +20,5 @@ vegan recipes for my emo friends. rawr XD :p
 [read journalism ->](/other-articles)
 
 ### my life etc.
-*diary entries, pictures, updates, & everything else i want to blog about*  
-[view my life →](/my-life)
+*diary entries, pictures, updates, & everything else i want to write about*  
+[view my life ->](/my-life)
