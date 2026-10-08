@@ -9,7 +9,7 @@ vegan recipes for my emo friends. rawr XD :p
 
 ### recipes
 *my reason for starting this blog... sharing my vegan cooking with others*  
-[see all recipes →](/recipes)
+[see all recipes ->](/recipes)
 
 ### shows
 *photography, posters, & anything related to the shows i go to!*  
