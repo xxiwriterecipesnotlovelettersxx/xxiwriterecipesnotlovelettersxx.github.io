@@ -42,6 +42,7 @@ X <a href="https://soverrr.bandcamp.com/album/something-worth-fighting-for">some
 <p class="show-intro">
 X <a href="https://craning.bandcamp.com/album/distress-tolerance">DISTRESS TOLERANCE</a> X
 </p>
+<i>Favourite track: ‘Clings’</i>
 <br>
 
 ### 'tomorrow' - Our Mutual Friend, 08/05/26
