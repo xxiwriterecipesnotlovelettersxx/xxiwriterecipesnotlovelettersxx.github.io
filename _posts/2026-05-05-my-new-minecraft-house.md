@@ -9,7 +9,7 @@ thumbnail: /images/6sunset.png
 ![myhouse](/images/6sunset.png)
 
 <p class="show-intro">
-a few weeks ago now, while recovering from getting my wisdom teeth removed, i decided it was time to move house in minecraft. here is the tour!
+a few weeks ago now, while recovering from getting my wisdom teeth removed, i decided it was time to move house in minecraft. here is a tour!
 </p>
 <br>
 <p class="show-intro">
