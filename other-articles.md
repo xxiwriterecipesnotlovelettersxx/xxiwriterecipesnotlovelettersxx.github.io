@@ -4,7 +4,7 @@ title: other articles
 ---
 
 <h1>other articles</h1>
-<p class="recipe-intro">yooo aha xoxo</p>
+<p class="recipe-intro">here are all the other articles that i might write.</p>
 
 <br>
 <ul class="post-list">
