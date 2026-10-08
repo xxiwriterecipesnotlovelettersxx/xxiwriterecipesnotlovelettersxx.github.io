@@ -39,7 +39,7 @@ X <a href="https://soverrr.bandcamp.com/album/something-worth-fighting-for">some
 ![distresstolerance](/images/distresstolerancealbumcover.jpg)
 
 <p class="show-intro">
-ohhhhhhhh my god. <a href="https://toldnottoworry.bandcamp.com/album/hands-in-the-air">hands in the air</a> comes from rhode island band told not to worry, one of my favourite bands ever. this album was my introduction to sasscore, and i wouldn't have it any other way. the instrumentals, vocals, and mixing on this album are all flawless - queer emoviolence has never sounded better than this. even the album cover is one of my favourites. i can't fault this release in any way. yes i know exactly how i sound.
+X <a href="https://craning.bandcamp.com/album/distress-tolerance">DISTRESS TOLERANCE</a> X
 </p>
 <br>
 
