@@ -4,6 +4,5 @@ title: contact
 ---
 
 ## contact
-
-uhm . most of you will know me irl anyways but you can contact me [here](mailto:iwriterecipesnotloveletters@gmail.com?subject=YOUR%20BLOG%20RUINED%20MY%20LIFE!)!  
-thankyewww
+<br>
+i think it is likely that most of you will know me irl anyways, but you can contact me [here](mailto:iwriterecipesnotloveletters@gmail.com?subject=this%is%the%best%blog%ever!)!  
