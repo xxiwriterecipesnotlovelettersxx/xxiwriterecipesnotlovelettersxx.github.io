@@ -2,7 +2,7 @@
 layout: post
 title: "my new minecraft house"
 date: 2026-05-05
-categories: lifex
+categories: life
 thumbnail: /images/6sunset.png
 ---
 
@@ -64,9 +64,24 @@ HOWEVER! the biggest part of my house is actually an underground storage room, a
 ![storage](/images/6storage1.png)
 
 <p class="show-intro">
-there is a tunnel attached in which i grow many a crop, though majority potatoes
+there is a tunnel attached in which i grow many a crop, though majority potatoes and carrots as pictured below.
 </p>
 
-![storage](/images/6storage2.png)
+<div class="gallery">
+   <a href="/images/6storage2.png">
+    <img src="/images/6storage2.png" alt="storageplant">
+  </a>
+   <a href="/images/6plant.png">
+    <img src="/images/6plant.png" alt="plant">
+  </a>
+</div>
+
+<p class="show-intro">
+there is also a cave system connected, with its entrance to/from my base barriered with another nether portal.
+</p>
 
 ![storage](/images/6storage3.png)
+
+<p class="show-intro">
+thanks! this was the end of my house tour i hope you liked it :)
+</p>
