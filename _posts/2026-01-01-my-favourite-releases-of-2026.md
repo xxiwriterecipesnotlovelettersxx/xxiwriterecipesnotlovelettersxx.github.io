@@ -35,6 +35,9 @@ I discovered this album after opening for Garage Sale alongside kisses in July, 
 <p class="show-intro">
 X <a href="https://soverrr.bandcamp.com/album/something-worth-fighting-for">something worth fighting for</a> X 'acoustic melancholia, slowcore folk, chamber folk, from Wollongong on Dharawal country'
 </p>
+<p class="show-intro"><br>
+<i>Favourite track: ‘My favourite song’</i>
+</p>
 <br>
 
 ### 'DISTRESS TOLERANCE' - Craning, 20/02/26
@@ -44,7 +47,9 @@ X <a href="https://soverrr.bandcamp.com/album/something-worth-fighting-for">some
 <p class="show-intro">
 X <a href="https://craning.bandcamp.com/album/distress-tolerance">DISTRESS TOLERANCE</a> X
 </p>
+<p class="show-intro"><br>
 <i>Favourite track: ‘Clings’</i>
+</p>
 <br>
 
 ### 'tomorrow' - Our Mutual Friend, 08/05/26
@@ -53,6 +58,9 @@ X <a href="https://craning.bandcamp.com/album/distress-tolerance">DISTRESS TOLER
 
 <p class="show-intro">
 X <a href="https://ourmutualfriend.bandcamp.com/album/tomorrow">tomorrow</a> X
+</p>
+<p class="show-intro"><br>
+<i>Favourite track: ‘My favourite song’</i>
 </p>
 <br>
 
@@ -63,6 +71,9 @@ X <a href="https://ourmutualfriend.bandcamp.com/album/tomorrow">tomorrow</a> X
 <p class="show-intro">
 Revisiting their roots in deathcore, Bring Me the Horizon released  <a href="https://www.youtube.com/watch?v=2V9Q_ExBHHs&list=PLS9EmsRyQYSo">Count Your Blessings: Repented</a> in July, a greatly-anticipated rerecording of their debut album in celebration of its 20-year anniversary. This new record offered fresh recordings of
 </p>
+<p class="show-intro"><br>
+<i>Favourite track: ‘(I Used to Make Out With) Medusa - 2026 Repented’</i>
+</p>
 <br>
 
 ### 'hound Life' - hound, 17/09/26
@@ -71,5 +82,8 @@ Revisiting their roots in deathcore, Bring Me the Horizon released  <a href="htt
 
 <p class="show-intro">
 X <a href="https://houndslowcore.bandcamp.com/album/hound-life">hound Life</a> X
+</p>
+<p class="show-intro"><br>
+<i>Favourite track: ‘My favourite song’</i>
 </p>
 <br>
