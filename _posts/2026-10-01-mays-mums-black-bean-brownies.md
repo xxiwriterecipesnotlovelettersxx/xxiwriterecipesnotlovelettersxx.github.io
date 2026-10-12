@@ -7,6 +7,8 @@ thumbnail: /images/blackbeanbrownies2.JPG
 ---
 
 my partner may's mum cooked these brownies for us when i was staying over, and typed the recipe out for me on a piece of paper awww! they were delightful. shoutout eva and shoutout may<3
+<br><br>
+THIS RECIPE REQUIRES A BLENDER/FOOD PROCESSOR
 
 ### Ingredients
 - 1.5 cups black beans
@@ -21,7 +23,7 @@ my partner may's mum cooked these brownies for us when i was staying over, and t
 
 ### Instructions
 1. preheat oven to 180 degrees.
-2. combine all ingredients except choc chips and blend really well until smooth.
+2. combine all ingredients except choc chips and blend IN A BLENDER/FOOD PROCESSOR really well until smooth.
 3. stir in choc chips, then put in 8x8 inch pan and bake until cooked through.
 4. Enjoy :)
 
